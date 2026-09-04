@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1125,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29790,
+        "text": "Let as many bondmen as are under yoke count their own masters worthy of all honour, that the name of God and the teaching be not blasphemed.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29791,
+        "text": "And they that have believing masters, let them not despise [them] because they are brethren; but let them the rather serve them with subjection, because they are faithful and beloved, who profit by the good and ready service [rendered]. These things teach and exhort.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29792,
+        "text": "If any one teach differently, and do not accede to sound words, those of our Lord Jesus Christ, and the teaching which [is] according to piety,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29793,
+        "text": "he is puffed up, knowing nothing, but sick about questions and disputes of words, out of which arise envy, strife, injurious words, evil suspicions,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29794,
+        "text": "constant quarrellings of men corrupted in mind and destitute of the truth, holding gain to be [the end of] piety.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29795,
+        "text": "But piety with contentment is great gain.",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29796,
+        "text": "For we have brought nothing into the world: [it is] [manifest] that neither can we carry anything out.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29797,
+        "text": "But having sustenance and covering, we will be content with these.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29798,
+        "text": "But those who desire to be rich fall into temptation and a snare, and many unwise and hurtful lusts, which plunge men into destruction and ruin.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29799,
+        "text": "For the love of money is [the] root of every evil; which some having aspired after, have wandered from the faith, and pierced themselves with many sorrows.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29800,
+        "text": "But thou, O man of God, flee these things, and pursue righteousness, piety, faith, love, endurance, meekness of spirit.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29801,
+        "text": "Strive earnestly [in] the good conflict of faith. Lay hold of eternal life, to which thou hast been called, and hast confessed the good confession before many witnesses.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29802,
+        "text": "I enjoin thee before God who preserves all things in life, and Christ Jesus who witnessed before Pontius Pilate the good confession,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29803,
+        "text": "that thou keep the commandment spotless, irreproachable, until the appearing of our Lord Jesus Christ;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29804,
+        "text": "which in its own time the blessed and only Ruler shall shew, the King of those that reign, and Lord of those that exercise lordship;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29805,
+        "text": "who only has immortality, dwelling in unapproachable light; whom no man has seen, nor is able to see; to whom [be] honour and eternal might. Amen.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29806,
+        "text": "Enjoin on those rich in the present age not to be high-minded, nor to trust on the uncertainty of riches; but in the God who affords us all things richly for [our] enjoyment;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29807,
+        "text": "to do good, to be rich in good works, to be liberal in distributing, disposed to communicate [of their substance],",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29808,
+        "text": "laying by for themselves a good foundation for the future, that they may lay hold of [what is] really life.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29809,
+        "text": "O Timotheus, keep the entrusted deposit, avoiding profane, vain babblings, and oppositions of false-named knowledge,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29810,
+        "text": "of which some having made profession, have missed the faith. Grace [be] with thee.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

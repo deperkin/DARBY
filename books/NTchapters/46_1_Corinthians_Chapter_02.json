@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1064,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28396,
+        "text": "And I, when I came to you, brethren, came not in excellency of word, or wisdom, announcing to you the testimony of God.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28397,
+        "text": "For I did not judge [it well] to know anything among you save Jesus Christ, and him crucified.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28398,
+        "text": "And I was with you in weakness and in fear and in much trembling;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28399,
+        "text": "and my word and my preaching, not in persuasive words of wisdom, but in demonstration of [the] Spirit and of power;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28400,
+        "text": "that your faith might not stand in men’s wisdom, but in God’s power.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28401,
+        "text": "But we speak wisdom among the perfect; but wisdom not of this world, nor of the rulers of this world, who come to nought.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 28402,
+        "text": "But we speak God’s wisdom in [a] mystery, that hidden [wisdom] which God had predetermined before the ages for our glory:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28403,
+        "text": "which none of the princes of this age knew, (for had they known, they would not have crucified the Lord of glory;)",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28404,
+        "text": "but according as it is written, Things which eye has not seen, and ear not heard, and which have not come into man’s heart, which God has prepared for them that love him,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28405,
+        "text": "but God has revealed to us by [his] Spirit; for the Spirit searches all things, even the depths of God.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28406,
+        "text": "For who of men hath known the things of a man except the spirit of the man which is in him? thus also the things of God knows no one except the Spirit of God.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28407,
+        "text": "But we have received, not the spirit of the world, but the Spirit which [is] of God, that we may know the things which have been freely given to us of God:",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28408,
+        "text": "which also we speak, not in words taught by human wisdom, but in those taught by the Spirit, communicating spiritual [things] by spiritual [means].",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28409,
+        "text": "But [the] natural man does not receive the things of the Spirit of God, for they are folly to him; and he cannot know [them] because they are spiritually discerned;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28410,
+        "text": "but the spiritual discerns all things, and he is discerned of no one.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28411,
+        "text": "For who has known the mind of [the] Lord, who shall instruct him? But we have the mind of Christ.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

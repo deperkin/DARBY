@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 60,"name": "1 Peter","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1154,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30426,
+        "text": "Likewise, wives, [be] subject to your own husbands, that, even if any are disobedient to the word, they may be gained without [the] word by the conversation of the wives,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30427,
+        "text": "having witnessed your pure conversation [carried out] in fear;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30428,
+        "text": "whose adorning let it not be that outward one of tressing of hair, and wearing gold, or putting on apparel;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30429,
+        "text": "but the hidden man of the heart, in the incorruptible [ornament] of a meek and quiet spirit, which in the sight of God is of great price.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30430,
+        "text": "For thus also the holy women who have hoped in God heretofore adorned themselves, being subject to their own husbands;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30431,
+        "text": "as Sarah obeyed Abraham, calling him lord; whose children ye have become, doing good, and not fearing with any kind of consternation.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30432,
+        "text": "[Ye] husbands likewise, dwell with [them] according to knowledge, as with a weaker, [even] the female, vessel, giving [them] honour, as also fellow-heirs of [the] grace of life, that your prayers be not hindered.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30433,
+        "text": "Finally, [be] all of one mind, sympathising, full of brotherly love, tender hearted, humble minded;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 30434,
+        "text": "not rendering evil for evil, or railing for railing; but on the contrary, blessing [others], because ye have been called to this, that ye should inherit blessing.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30435,
+        "text": "For he that will love life and see good days, let him cause his tongue to cease from evil and his lips that they speak no guile.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30436,
+        "text": "And let him avoid evil, and do good; let him seek peace and pursue it;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30437,
+        "text": "because [the] eyes of [the] Lord [are] on [the] righteous, and his ears towards their supplications; but [the] face of [the] Lord [is] against them that do evil.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30438,
+        "text": "And who shall injure you if ye have become imitators of that which [is] good?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30439,
+        "text": "But if also ye should suffer for righteousness’ sake, blessed [are ye]; but be not afraid of their fear, neither be troubled;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30440,
+        "text": "but sanctify [the] Lord the Christ in your hearts, and [be] always prepared to [give] an answer [to] every one that asks you to give an account of the hope that [is] in you, but with meekness and fear;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30441,
+        "text": "having a good conscience, that [as to that] in which they speak against you as evildoers, they may be ashamed who calumniate your good conversation in Christ.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 30442,
+        "text": "For [it is] better, if the will of God should will it, to suffer [as] well-doers than [as] evildoers;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30443,
+        "text": "for Christ indeed has once suffered for sins, [the] just for [the] unjust, that he might bring us to God; being put to death in flesh, but made alive in [the] Spirit,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 30444,
+        "text": "in which also going he preached to the spirits [which are] in prison,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30445,
+        "text": "heretofore disobedient, when the longsuffering of God waited in [the] days of Noah while the ark was preparing, into which few, that is, eight souls, were saved through water:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30446,
+        "text": "which figure also now saves you, [even] baptism, not a putting away of [the] filth of flesh, but [the] demand as before God of a good conscience, by [the] resurrection of Jesus Christ,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 30447,
+        "text": "who is at [the] right hand of God, gone into heaven, angels and authorities and powers being subjected to him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 1057,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28211,
+        "text": "I say then, Has God cast away his people? Far be the thought. For I also am an Israelite, of [the] seed of Abraham, of [the] tribe of Benjamin.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28212,
+        "text": "God has not cast away his people whom he foreknew. Know ye not what the scripture says in [the history of] Elias, how he pleads with God against Israel?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28213,
+        "text": "Lord, they have killed thy prophets, they have dug down thine altars; and I have been left alone, and they seek my life.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28214,
+        "text": "But what says the divine answer to him? I have left to myself seven thousand men, who have not bowed knee to Baal.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28215,
+        "text": "Thus, then, in the present time also there has been a remnant according to election of grace.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28216,
+        "text": "But if by grace, no longer of works: since [otherwise] grace is no more grace.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28217,
+        "text": "What [is it] then? What Israel seeks for, that he has not obtained; but the election has obtained, and the rest have been blinded,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28218,
+        "text": "according as it is written, God has given to them a spirit of slumber, eyes not to see, and ears not to hear, unto this day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28219,
+        "text": "And David says, Let their table be for a snare, and for a gin, and for a fall-trap, and for a recompense to them:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28220,
+        "text": "let their eyes be darkened not to see, and bow down their back alway.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28221,
+        "text": "I say then, Have they stumbled in order that they might fall? Far be the thought: but by their fall [there is] salvation to the nations to provoke them to jealousy.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28222,
+        "text": "But if their fall [be the] world’s wealth, and their loss [the] wealth of [the] nations, how much rather their fulness?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28223,
+        "text": "For I speak to you, the nations, inasmuch as I am apostle of nations, I glorify my ministry;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28224,
+        "text": "if by any means I shall provoke to jealousy [them which are] my flesh, and shall save some from among them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28225,
+        "text": "For if their casting away [be the] world’s reconciliation, what [their] reception but life from among [the] dead?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28226,
+        "text": "Now if the first-fruit [be] holy, the lump also; and if the root [be] holy, the branches also.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28227,
+        "text": "Now if some of the branches have been broken out, and thou, being a wild olive tree, hast been grafted in amongst them, and hast become a fellow-partaker of the root and of the fatness of the olive tree,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28228,
+        "text": "boast not against the branches; but if thou boast, [it is] not thou bearest the root, but the root thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28229,
+        "text": "Thou wilt say then, The branches have been broken out in order that I might be grafted in.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28230,
+        "text": "Right: they have been broken out through unbelief, and thou standest through faith. Be not high-minded, but fear:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28231,
+        "text": "if God indeed has not spared the natural branches; lest it might be he spare not thee either.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28232,
+        "text": "Behold then [the] goodness and severity of God: upon them who have fallen, severity; upon thee goodness of God, if thou shalt abide in goodness, since [otherwise] thou also wilt be cut away.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28233,
+        "text": "And they too, if they abide not in unbelief, shall be grafted in; for God is able again to graft them in.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28234,
+        "text": "For if thou hast been cut out of the olive tree wild by nature, and, contrary to nature, hast been grafted into the good olive tree, how much rather shall they, who are according to nature be grafted into their own olive tree?",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28235,
+        "text": "For I do not wish you to be ignorant, brethren, of this mystery, that ye may not be wise in your own conceits, that blindness in part is happened to Israel, until the fulness of the nations be come in;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28236,
+        "text": "and so all Israel shall be saved. According as it is written, The deliverer shall come out of Zion; he shall turn away ungodliness from Jacob.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28237,
+        "text": "And this is the covenant from me to them, when I shall have taken away their sins.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28238,
+        "text": "As regards the glad tidings, [they are] enemies on your account; but as regards election, beloved on account of the fathers.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28239,
+        "text": "For the gifts and the calling of God [are] not subject to repentance.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28240,
+        "text": "For as indeed ye [also] once have not believed in God, but now have been objects of mercy through the unbelief of these;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28241,
+        "text": "so these also have now not believed in your mercy, in order that they also may be objects of mercy.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 28242,
+        "text": "For God hath shut up together all in unbelief, in order that he might shew mercy to all.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28243,
+        "text": "O depth of riches both of [the] wisdom and knowledge of God! how unsearchable his judgments, and untraceable his ways!",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 28244,
+        "text": "For who has known [the] mind of [the] Lord, or who has been his counsellor?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 28245,
+        "text": "or who has first given to him, and it shall be rendered to him?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 28246,
+        "text": "For of him, and through him, and for him [are] all things: to him be glory for ever. Amen.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

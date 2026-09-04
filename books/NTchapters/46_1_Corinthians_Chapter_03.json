@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1065,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28412,
+        "text": "And I, brethren, have not been able to speak to you as to spiritual, but as to fleshly; as to babes in Christ.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28413,
+        "text": "I have given you milk to drink, not meat, for ye have not yet been able, nor indeed are ye yet able;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28414,
+        "text": "for ye are yet carnal. For whereas [there are] among you emulation and strife, are ye not carnal, and walk according to man?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28415,
+        "text": "For when one says, I am of Paul, and another, I of Apollos, are ye not men?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28416,
+        "text": "Who then is Apollos, and who Paul? Ministering servants, through whom ye have believed, and as the Lord has given to each.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 28417,
+        "text": "I have planted; Apollos watered; but God has given the increase.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28418,
+        "text": "So that neither the planter is anything, nor the waterer; but God the giver of the increase.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28419,
+        "text": "But the planter and the waterer are one; but each shall receive his own reward according to his own labour.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28420,
+        "text": "For we are God’s fellow-workmen; ye are God’s husbandry, God’s building.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28421,
+        "text": "According to the grace of God which has been given to me, as a wise architect, I have laid the foundation, but another builds upon it. But let each see how he builds upon it.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28422,
+        "text": "For other foundation can no man lay besides that which [is] laid, which is Jesus Christ.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 28423,
+        "text": "Now if any one build upon [this] foundation, gold, silver, precious stones, wood, grass, straw,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28424,
+        "text": "the work of each shall be made manifest; for the day shall declare [it], because it is revealed in fire; and the fire shall try the work of each what it is.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28425,
+        "text": "If the work of any one which he has built upon [the foundation] shall abide, he shall receive a reward.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28426,
+        "text": "If the work of any one shall be consumed, he shall suffer loss, but he shall be saved, but so as through [the] fire.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28427,
+        "text": "Do ye not know that ye are [the] temple of God, and [that] the Spirit of God dwells in you?",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 28428,
+        "text": "If any one corrupt the temple of God, him shall God destroy; for the temple of God is holy, and such are ye.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28429,
+        "text": "Let no one deceive himself: if any one thinks himself to be wise among you in this world, let him become foolish, that he may be wise.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 28430,
+        "text": "For the wisdom of this world is foolishness with God; for it is written, He who takes the wise in their craftiness.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28431,
+        "text": "And again, [The] Lord knows the reasonings of the wise that they are vain.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28432,
+        "text": "So that let no one boast in men; for all things are yours.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 28433,
+        "text": "Whether Paul, or Apollos, or Cephas, or [the] world, or life, or death, or things present, or things coming, all are yours;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28434,
+        "text": "and ye [are] Christ’s, and Christ [is] God’s.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

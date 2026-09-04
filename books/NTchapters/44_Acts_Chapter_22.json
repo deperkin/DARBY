@@ -1,0 +1,222 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 1040,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27706,
+        "text": "Brethren and fathers, hear my defence which I now make to you.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27707,
+        "text": "And hearing that he addressed them in the Hebrew tongue, they kept the more quiet; and he says,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27708,
+        "text": "I am a Jew, born in Tarsus of Cilicia, but brought up in this city, at the feet of Gamaliel, educated according to [the] exactness of the law of [our] fathers, being zealous for God, as ye are all this day;",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 27709,
+        "text": "who have persecuted this way unto death, binding and delivering up to prisons both men and women;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27710,
+        "text": "as also the high priest bears me witness, and all the elderhood: from whom also, having received letters to the brethren, I went to Damascus to bring those also who were there, bound, to Jerusalem, to be punished.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27711,
+        "text": "And it came to pass, as I was journeying and drawing near to Damascus, that, about mid-day, there suddenly shone out of heaven a great light round about me.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27712,
+        "text": "And I fell to the ground, and heard a voice saying to me, Saul, Saul, why persecutest thou me?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27713,
+        "text": "And I answered, Who art thou, Lord? And he said to me, I am Jesus the Nazaraean, whom thou persecutest.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27714,
+        "text": "But they that were with me beheld the light, [and were filled with fear], but heard not the voice of him that was speaking to me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27715,
+        "text": "And I said, What shall I do, Lord? And the Lord said to me, Rise up, and go to Damascus, and there it shall be told thee of all things which it is appointed thee to do.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27716,
+        "text": "And as I could not see, through the glory of that light, being led by the hand of those who were with me, I came to Damascus.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27717,
+        "text": "And a certain Ananias, a pious man according to the law, borne witness to by all the Jews who dwelt [there],",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27718,
+        "text": "coming to me and standing by me, said to me, Brother Saul, receive thy sight. And I, in the same hour, received my sight and saw him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27719,
+        "text": "And he said, The God of our fathers has chosen thee beforehand to know his will, and to see the just one, and to hear a voice out of his mouth;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27720,
+        "text": "for thou shalt be a witness for him to all men of what thou hast seen and heard.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27721,
+        "text": "And now why lingerest thou? Arise and get baptised, and have thy sins washed away, calling on his name.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27722,
+        "text": "And it came to pass when I had returned to Jerusalem, and as I was praying in the temple, that I became in ecstasy,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27723,
+        "text": "and saw him saying to me, Make haste and go quickly out of Jerusalem, for they will not receive thy testimony concerning me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27724,
+        "text": "And I said, Lord, they themselves know that I was imprisoning and beating in every synagogue those that believe on thee;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27725,
+        "text": "and when the blood of thy witness Stephen was shed, I also myself was standing by and consenting, and kept the clothes of them who killed him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27726,
+        "text": "And he said to me, Go, for I will send thee to the nations afar off.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27727,
+        "text": "And they heard him until this word, and lifted up their voice, saying, Away with such a one as that from the earth, for it was not fit he should live.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 27728,
+        "text": "And as they were crying, and throwing away their clothes, and casting dust into the air,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27729,
+        "text": "the chiliarch commanded him to be brought into the fortress, saying that he should be examined by scourging, that he might ascertain for what cause they cried thus against him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27730,
+        "text": "But as they stretched him forward with the thongs, Paul said to the centurion who stood [by], Is it lawful for you to scourge a man [who is] a Roman and uncondemned?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27731,
+        "text": "And the centurion, having heard it, went and reported it to the chiliarch, saying, What art thou going to do? for this man is a Roman.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27732,
+        "text": "And the chiliarch coming up said to him, Tell me, Art thou a Roman? And he said, Yes.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27733,
+        "text": "And the chiliarch answered, I, for a great sum, bought this citizenship. And Paul said, But I was also [free] born.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27734,
+        "text": "Immediately therefore those who were going to examine him left him, and the chiliarch also was afraid when he ascertained that he was a Roman, and because he had bound him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27735,
+        "text": "And on the morrow, desirous to know the certainty [of the matter] why he was accused of the Jews, he loosed him, and commanded the chief priests and all the council to meet, and having brought Paul down set him before them.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 62,"name": "1 John","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1164,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30626,
+        "text": "Every one that believes that Jesus is the Christ is begotten of God; and every one that loves him that has begotten loves also him that is begotten of him.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30627,
+        "text": "Hereby know we that we love the children of God, when we love God and keep his commandments.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30628,
+        "text": "For this is the love of God, that we keep his commandments; and his commandments are not grievous.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30629,
+        "text": "For all that has been begotten of God gets the victory over the world; and this is the victory which has gotten the victory over the world, our faith.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30630,
+        "text": "Who is he that gets the victory over the world, but he that believes that Jesus is the Son of God?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30631,
+        "text": "This is he that came by water and blood, Jesus [the] Christ; not by water only, but by water and blood. And it is the Spirit that bears witness, for the Spirit is the truth.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 30632,
+        "text": "For they that bear witness are three:",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30633,
+        "text": "the Spirit, and the water, and the blood; and the three agree in one.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30634,
+        "text": "If we receive the witness of men, the witness of God is greater. For this is the witness of God [which] he has witnessed concerning his Son.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30635,
+        "text": "He that believes on the Son of God has the witness in himself; he that does not believe God has made him a liar, because he has not believed in the witness which God has witnessed concerning his Son.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 30636,
+        "text": "And this is the witness, that God has given to us eternal life; and this life is in his Son.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30637,
+        "text": "He that has the Son has life: he that has not the Son of God has not life.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30638,
+        "text": "These things have I written to you that ye may know that ye have eternal life who believe on the name of the Son of God.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30639,
+        "text": "And this is the boldness which we have towards him, that if we ask him anything according to his will he hears us.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 30640,
+        "text": "And if we know that he hears us, whatsoever we ask, we know that we have the petitions which we have asked of him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30641,
+        "text": "If any one see his brother sinning a sin not unto death, he shall ask, and he shall give him life, for those that do not sin unto death. There is a sin to death: I do not say of that that he should make a request.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30642,
+        "text": "Every unrighteousness is sin; and there is a sin not to death.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30643,
+        "text": "We know that every one begotten of God does not sin, but he that has been begotten of God keeps himself, and the wicked [one] does not touch him.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 30644,
+        "text": "We know that we are of God, and the whole world lies in the wicked [one].",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30645,
+        "text": "And we know that the Son of God has come, and has given us an understanding that we should know him that [is] true; and we are in him that [is] true, in his Son Jesus Christ. He is the true God and eternal life.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30646,
+        "text": "Children, keep yourselves from idols.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

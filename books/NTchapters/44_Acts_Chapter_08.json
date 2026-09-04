@@ -1,0 +1,292 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 1026,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27178,
+        "text": "And Saul was consenting to his being killed. And on that day there arose a great persecution against the assembly which was in Jerusalem, and all were scattered into the countries of Judaea and Samaria except the apostles.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27179,
+        "text": "And pious men buried Stephen and made great lamentation over him.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27180,
+        "text": "But Saul ravaged the assembly, entering into the houses one after another, and dragging off both men and women delivered them up to prison.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27181,
+        "text": "Those then that had been scattered went through [the countries] announcing the glad tidings of the word.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 27182,
+        "text": "And Philip, going down to a city of Samaria, preached the Christ to them;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27183,
+        "text": "and the crowds with one accord gave heed to the things spoken by Philip, when they heard [him] and saw the signs which he wrought.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27184,
+        "text": "For from many who had unclean spirits they went out, crying with a loud voice; and many that were paralysed and lame were healed.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27185,
+        "text": "And there was great joy in that city.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27186,
+        "text": "But a certain man, by name Simon, had been before in the city, using magic arts, and astonishing the nation of Samaria, saying that himself was some great one.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27187,
+        "text": "To whom they had all given heed, from small to great, saying, This is the power of God which is called great.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27188,
+        "text": "And they gave heed to him, because that for a long time he had astonished them by his magic arts.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27189,
+        "text": "But when they believed Philip announcing the glad tidings concerning the kingdom of God and the name of Jesus Christ, they were baptised, both men and women.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27190,
+        "text": "And Simon also himself believed; and, having been baptised, continued constantly with Philip; and, beholding the signs and great works of power which took place, was astonished.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27191,
+        "text": "And the apostles who were in Jerusalem, having heard that Samaria had received the word of God, sent to them Peter and John;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 27192,
+        "text": "who, having come down, prayed for them that they might receive [the] Holy Spirit;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27193,
+        "text": "for he was not yet fallen upon any of them, only they were baptised to the name of the Lord Jesus.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27194,
+        "text": "Then they laid their hands upon them, and they received [the] Holy Spirit.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27195,
+        "text": "But Simon, having seen that by the laying on of the hands of the apostles the [Holy] Spirit was given, offered them money,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27196,
+        "text": "saying, Give to me also this power, in order that on whomsoever I may lay hands he may receive [the] Holy Spirit.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27197,
+        "text": "And Peter said to him, Thy money go with thee to destruction, because thou hast thought that the gift of God can be obtained by money.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27198,
+        "text": "Thou hast neither part nor lot in this matter, for thy heart is not upright before God.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27199,
+        "text": "Repent therefore of this thy wickedness, and supplicate the Lord, if indeed the thought of thy heart may be forgiven thee;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27200,
+        "text": "for I see thee to be in the gall of bitterness, and bond of unrighteousness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27201,
+        "text": "And Simon answering said, Supplicate ye for me to the Lord, so that nothing may come upon me of the things of which ye have spoken.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27202,
+        "text": "They therefore, having testified and spoken the word of the Lord, returned to Jerusalem, and announced the glad tidings to many villages of the Samaritans.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27203,
+        "text": "But [the] angel of [the] Lord spoke to Philip, saying, Rise up and go southward on the way which goes down from Jerusalem to Gaza: the same is desert.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 27204,
+        "text": "And he rose up and went. And lo, an Ethiopian, a eunuch, a man in power under Candace queen of the Ethiopians, who was over all her treasure, who had come to worship at Jerusalem,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27205,
+        "text": "was returning and sitting in his chariot: and he was reading the prophet Esaias.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27206,
+        "text": "And the Spirit said to Philip, Approach and join this chariot.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27207,
+        "text": "And Philip, running up, heard him reading the prophet Esaias, and said, Dost thou then know what thou art reading of?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27208,
+        "text": "And he said, How should I then be able unless some one guide me? And he begged Philip to come up and sit with him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27209,
+        "text": "And the passage of the scripture which he read was this: He was led as a sheep to slaughter, and as a lamb is dumb in presence of him that shears him, thus he opens not his mouth.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27210,
+        "text": "In his humiliation his judgment has been taken away, and who shall declare his generation? for his life is taken from the earth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27211,
+        "text": "And the eunuch answering Philip said, I pray thee, concerning whom does the prophet say this? of himself or of some other?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27212,
+        "text": "And Philip, opening his mouth and beginning from that scripture, announced the glad tidings of Jesus to him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 27213,
+        "text": "And as they went along the way, they came upon a certain water, and the eunuch says, Behold water; what hinders my being baptised?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 27214,
+        "text": "",
+        "WordCount": 0,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27215,
+        "text": "And he commanded the chariot to stop. And they went down both to the water, both Philip and the eunuch, and he baptised him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 27216,
+        "text": "But when they came up out of the water [the] Spirit of [the] Lord caught away Philip, and the eunuch saw him no longer, for he went on his way rejoicing.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 27217,
+        "text": "And Philip was found at Azotus, and passing through he announced the glad tidings to all the cities till he came to Caesarea.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 1078,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28778,
+        "text": "Now concerning the collection for the saints, as I directed the assemblies of Galatia, so do ye do also.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28779,
+        "text": "On [the] first of [the] week let each of you put by at home, laying up [in] whatever [degree] he may have prospered, that there may be no collections when I come.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28780,
+        "text": "And when I am arrived, whomsoever ye shall approve, these I will send with letters to carry your bounty to Jerusalem:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28781,
+        "text": "and if it be suitable that I also should go, they shall go with me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28782,
+        "text": "But I will come to you when I shall have gone through Macedonia; for I do go through Macedonia.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 28783,
+        "text": "But perhaps I will stay with you, or even winter with you, that ye may set me forward wheresoever I may go.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28784,
+        "text": "For I will not see you now in passing, for I hope to remain a certain time with you, if the Lord permit.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28785,
+        "text": "But I remain in Ephesus until Pentecost.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28786,
+        "text": "For a great door is opened to me and an effectual [one], and [the] adversaries many.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28787,
+        "text": "Now if Timotheus come, see that he may be with you without fear; for he works the work of the Lord, even as I.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 28788,
+        "text": "Let not therefore any one despise him; but set him forward in peace, that he may come to me; for I expect him with the brethren.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28789,
+        "text": "Now concerning the brother Apollos, I begged him much that he would go to you with the brethren; but it was not at all [his] will to go now; but he will come when he shall have good opportunity.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28790,
+        "text": "Be vigilant; stand fast in the faith; quit yourselves like men; be strong.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 28791,
+        "text": "Let all things ye do be done in love.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28792,
+        "text": "But I beseech you, brethren, (ye know the house of Stephanas, that it is the first-fruits of Achaia, and they have devoted themselves to the saints for service,)",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28793,
+        "text": "that ye should also be subject to such, and to every one joined in the work and labouring.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28794,
+        "text": "But I rejoice in the coming of Stephanas and Fortunatus and Achaicus; because they have supplied what was lacking on your part.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28795,
+        "text": "For they have refreshed my spirit and yours: own therefore such.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28796,
+        "text": "The assemblies of Asia salute you. Aquila and Priscilla, with the assembly in their house, salute you much in [the] Lord.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 28797,
+        "text": "All the brethren salute you. Salute one another with a holy kiss.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28798,
+        "text": "The salutation of [me] Paul with my own hand.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28799,
+        "text": "If any one love not the Lord [Jesus Christ] let him be Anathema Maranatha.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28800,
+        "text": "The grace of the Lord Jesus Christ [be] with you.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28801,
+        "text": "My love [be] with you all in Christ Jesus. Amen.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

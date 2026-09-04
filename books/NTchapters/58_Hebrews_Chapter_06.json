@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1139,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30046,
+        "text": "Wherefore, leaving the word of the beginning of the Christ, let us go on [to what belongs] to full growth, not laying again a foundation of repentance from dead works and faith in God,",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30047,
+        "text": "of [the] doctrine of washings, and of imposition of hands, and of resurrection of [the] dead, and of eternal judgment;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30048,
+        "text": "and this will we do if God permit.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30049,
+        "text": "For it is impossible to renew again to repentance those once enlightened, and who have tasted of the heavenly gift, and have been made partakers of [the] Holy Spirit,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30050,
+        "text": "and have tasted the good word of God, and [the] works of power of [the] age to come,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30051,
+        "text": "and have fallen away, crucifying for themselves [as they do] the Son of God, and making a show of [him].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30052,
+        "text": "For ground which drinks the rain which comes often upon it, and produces useful herbs for those for whose sakes also it is tilled, partakes of blessing from God;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30053,
+        "text": "but bringing forth thorns and briars, it is found worthless and nigh to a curse, whose end [is] to be burned.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30054,
+        "text": "But we are persuaded concerning you, beloved, better things, and connected with salvation, even if we speak thus.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 30055,
+        "text": "For God [is] not unrighteous to forget your work, and the love which ye have shewn to his name, having ministered to the saints, and [still] ministering.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30056,
+        "text": "But we desire earnestly that each one of you shew the same diligence to the full assurance of hope unto the end;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30057,
+        "text": "that ye be not sluggish, but imitators of those who through faith and patience have been inheritors of the promises.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30058,
+        "text": "For God, having promised to Abraham, since he had no greater to swear by, swore by himself,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30059,
+        "text": "saying, Surely blessing I will bless thee, and multiplying I will multiply thee;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30060,
+        "text": "and thus, having had long patience, he got the promise.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30061,
+        "text": "For men indeed swear by a greater, and with them the oath is a term to all dispute, as making matters sure.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30062,
+        "text": "Wherein God, willing to shew more abundantly to the heirs of the promise the unchangeableness of his purpose, intervened by an oath,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30063,
+        "text": "that by two unchangeable things, in which [it was] impossible that God should lie, we might have a strong encouragement, who have fled for refuge to lay hold on the hope set before us,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30064,
+        "text": "which we have as anchor of the soul, both secure and firm, and entering into that within the veil,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30065,
+        "text": "where Jesus is entered as forerunner for us, become for ever a high priest according to the order of Melchisedec.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

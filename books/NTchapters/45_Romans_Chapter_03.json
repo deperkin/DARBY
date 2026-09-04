@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1049,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27993,
+        "text": "What then [is] the superiority of the Jew? or what the profit of circumcision?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27994,
+        "text": "Much every way: and first, indeed, that to them were entrusted the oracles of God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27995,
+        "text": "For what? if some have not believed, shall their unbelief make the faith of God of none effect?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27996,
+        "text": "Far be the thought: but let God be true, and every man false; according as it is written, So that thou shouldest be justified in thy words, and shouldest overcome when thou art in judgment.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27997,
+        "text": "But if our unrighteousness commend God’s righteousness, what shall we say? Is God unrighteous who inflicts wrath? I speak according to man.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27998,
+        "text": "Far be the thought: since how shall God judge the world?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27999,
+        "text": "For if the truth of God, in my lie, has more abounded to his glory, why yet am I also judged as a sinner?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28000,
+        "text": "and not, according as we are injuriously charged, and according as some affirm that we say, Let us practise evil things, that good ones may come? whose judgment is just.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28001,
+        "text": "What then? are we better? No, in no wise: for we have before charged both Jews and Greeks with being all under sin:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28002,
+        "text": "according as it is written, There is not a righteous [man], not even one;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28003,
+        "text": "there is not the [man] that understands, there is not one that seeks after God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28004,
+        "text": "All have gone out of the way, they have together become unprofitable; there is not one that practises goodness, there is not so much as one:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28005,
+        "text": "their throat is an open sepulchre; with their tongues they have used deceit; asps’ poison [is] under their lips:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28006,
+        "text": "whose mouth is full of cursing and bitterness;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28007,
+        "text": "swift their feet to shed blood;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28008,
+        "text": "ruin and misery [are] in their ways,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28009,
+        "text": "and way of peace they have not known:",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28010,
+        "text": "there is no fear of God before their eyes.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28011,
+        "text": "Now we know that whatever the things the law says, it speaks to those under the law, that every mouth may be stopped, and all the world be under judgment to God.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 28012,
+        "text": "Wherefore by works of law no flesh shall be justified before him; for by law [is] knowledge of sin.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28013,
+        "text": "But now without law righteousness of God is manifested, borne witness to by the law and the prophets;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28014,
+        "text": "righteousness of God by faith of Jesus Christ towards all, and upon all those who believe: for there is no difference;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28015,
+        "text": "for all have sinned, and come short of the glory of God;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28016,
+        "text": "being justified freely by his grace through the redemption which [is] in Christ Jesus;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28017,
+        "text": "whom God has set forth a mercy-seat, through faith in his blood, for [the] shewing forth of his righteousness, in respect of the passing by the sins that had taken place before, through the forbearance of God;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28018,
+        "text": "for [the] shewing forth of his righteousness in the present time, so that he should be just, and justify him that is of [the] faith of Jesus.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28019,
+        "text": "Where then [is] boasting? It has been excluded. By what law? of works? Nay, but by law of faith;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28020,
+        "text": "for we reckon that a man is justified by faith, without works of law.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28021,
+        "text": "Is [God] the God of Jews only? is he not of [the] nations also? Yea, of nations also:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28022,
+        "text": "since indeed [it is] one God who shall justify [the] circumcision on the principle of faith, and uncircumcision by faith.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28023,
+        "text": "Do we then make void law by faith? Far be the thought: [no,] but we establish law.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

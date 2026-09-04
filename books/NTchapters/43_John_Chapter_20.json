@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 1017,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26869,
+        "text": "And on the first [day] of the week Mary of Magdala comes in early morn to the tomb, while it was still dark, and sees the stone taken away from the tomb.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26870,
+        "text": "She runs therefore and comes to Simon Peter, and to the other disciple, to whom Jesus was attached, and says to them, They have taken away the Lord out of the tomb, and we know not where they have laid him.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26871,
+        "text": "Peter therefore went forth, and the other disciple, and came to the tomb.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26872,
+        "text": "And the two ran together, and the other disciple ran forward faster than Peter, and came first to the tomb,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26873,
+        "text": "and stooping down he sees the linen cloths lying; he did not however go in.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26874,
+        "text": "Simon Peter therefore comes, following him, and entered into the tomb, and sees the linen cloths lying,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26875,
+        "text": "and the handkerchief which was upon his head, not lying with the linen cloths, but folded up in a distinct place by itself.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26876,
+        "text": "Then entered in therefore the other disciple also who came first to the tomb, and he saw and believed;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26877,
+        "text": "for they had not yet known the scripture, that he must rise from among [the] dead.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26878,
+        "text": "The disciples therefore went away again to their own home.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26879,
+        "text": "But Mary stood at the tomb weeping without. As therefore she wept, she stooped down into the tomb,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 26880,
+        "text": "and beholds two angels sitting in white [garments], one at the head and one at the feet, where the body of Jesus had lain.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26881,
+        "text": "And they say to her, Woman, why dost thou weep? She says to them, Because they have taken away my Lord, and I know not where they have laid him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26882,
+        "text": "Having said these things she turned backward and beholds Jesus standing [there], and knew not that it was Jesus.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26883,
+        "text": "Jesus says to her, Woman, why dost thou weep? Whom seekest thou? She, supposing that it was the gardener, says to him, Sir, if thou hast borne him hence, tell me where thou hast laid him, and I will take him away.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26884,
+        "text": "Jesus says to her, Mary. She, turning round, says to him in Hebrew, Rabboni, which means Teacher.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26885,
+        "text": "Jesus says to her, Touch me not, for I have not yet ascended to my Father; but go to my brethren and say to them, I ascend to my Father and your Father, and [to] my God and your God.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26886,
+        "text": "Mary of Magdala comes bringing word to the disciples that she had seen the Lord, and [that] he had said these things to her.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26887,
+        "text": "When therefore it was evening on that day, which was the first [day] of the week, and the doors shut where the disciples were, through fear of the Jews, Jesus came and stood in the midst, and says to them, Peace [be] to you.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 26888,
+        "text": "And having said this, he shewed to them his hands and his side. The disciples rejoiced therefore, having seen the Lord.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26889,
+        "text": "[Jesus] said therefore again to them, Peace [be] to you: as the Father sent me forth, I also send you.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26890,
+        "text": "And having said this, he breathed into [them], and says to them, Receive [the] Holy Spirit:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26891,
+        "text": "whose soever sins ye remit, they are remitted to them; whose soever [sins] ye retain, they are retained.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26892,
+        "text": "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26893,
+        "text": "The other disciples therefore said to him, We have seen the Lord. But he said to them, Unless I see in his hands the mark of the nails, and put my finger into the mark of the nails, and put my hand into his side, I will not believe.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26894,
+        "text": "And eight days after, his disciples were again within, and Thomas with them. Jesus comes, the doors being shut, and stood in the midst and said, Peace [be] to you.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 26895,
+        "text": "Then he says to Thomas, Bring thy finger here and see my hands; and bring thy hand and put it into my side; and be not unbelieving, but believing.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26896,
+        "text": "Thomas answered and said to him, My Lord and my God.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26897,
+        "text": "Jesus says to him, Because thou hast seen me thou hast believed: blessed they who have not seen and have believed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26898,
+        "text": "Many other signs therefore also Jesus did before his disciples, which are not written in this book;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26899,
+        "text": "but these are written that ye may believe that Jesus is the Christ, the Son of God, and that believing ye might have life in his name.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

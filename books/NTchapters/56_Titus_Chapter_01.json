@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 56,"name": "Titus","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1130,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29894,
+        "text": "Paul, bondman of God, and apostle of Jesus Christ according to [the] faith of God’s elect, and knowledge of [the] truth which [is] according to piety;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29895,
+        "text": "in [the] hope of eternal life, which God, who cannot lie, promised before the ages of time,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29896,
+        "text": "but has manifested in its own due season his word, in [the] proclamation with which I have been entrusted, according to [the] commandment of our Saviour God;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29897,
+        "text": "to Titus, my own child according to [the] faith common [to us]: Grace and peace from God [the] Father, and Christ Jesus our Saviour.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29898,
+        "text": "For this cause I left thee in Crete, that thou mightest go on to set right what remained [unordered], and establish elders in each city, as I had ordered thee:",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29899,
+        "text": "if any one be free from all charge [against him], husband of one wife, having believing children not accused of excess or unruly.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29900,
+        "text": "For the overseer must be free from all charge [against him] as God’s steward; not headstrong, not passionate, not disorderly through wine, not a striker, not seeking gain by base means;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29901,
+        "text": "but hospitable, a lover of goodness, discreet, just, pious, temperate,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29902,
+        "text": "clinging to the faithful word according to the doctrine taught, that he may be able both to encourage with sound teaching and refute gainsayers.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29903,
+        "text": "For there are many and disorderly vain speakers and deceivers of people’s minds, specially those of [the] circumcision,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29904,
+        "text": "who must have their mouths stopped, who subvert whole houses, teaching things which ought not [to be taught] for the sake of base gain.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29905,
+        "text": "One of themselves, a prophet of their own, has said, Cretans are always liars, evil wild beasts, lazy gluttons.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29906,
+        "text": "This testimony is true; for which cause rebuke them severely, that they may be sound in the faith,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29907,
+        "text": "not turning [their] minds to Jewish fables and commandments of men turning away from the truth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29908,
+        "text": "All things [are] pure to the pure; but to the defiled and unbelieving nothing [is] pure; but both their mind and their conscience are defiled.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29909,
+        "text": "They profess to know God, but in works deny [him], being abominable, and disobedient, and found worthless as to every good work.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

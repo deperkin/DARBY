@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 1088,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28973,
+        "text": "But I myself, Paul, entreat you by the meekness and gentleness of the Christ, who, as to appearance, [when present] [am] mean among you, but absent am bold towards you;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28974,
+        "text": "but I beseech that present I may not be bold with the confidence with which I think to be daring towards some who think of us as walking according to flesh.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28975,
+        "text": "For walking in flesh, we do not war according to flesh.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28976,
+        "text": "For the arms of our warfare [are] not fleshly, but powerful according to God to [the] overthrow of strongholds;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28977,
+        "text": "overthrowing reasonings and every high thing that lifts itself up against the knowledge of God, and leading captive every thought into the obedience of the Christ;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28978,
+        "text": "and having in readiness to avenge all disobedience when your obedience shall have been fulfilled.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28979,
+        "text": "Do ye look at what concerns appearance? If any one has confidence in himself that he is of Christ, let him think this again in himself, that even as he [is] of Christ, so also [are] we.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28980,
+        "text": "For and if I should boast even somewhat more abundantly of our authority, which the Lord has given [to us] for building up and not for your overthrowing, I shall not be put to shame;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28981,
+        "text": "that I may not seem as if I was frightening you by letters:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28982,
+        "text": "because his letters, he says, [are] weighty and strong, but his presence in the body weak, and his speech naught.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28983,
+        "text": "Let such a one think this, that such as we are in word by letters [when] absent, such also present in deed.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28984,
+        "text": "For we dare not class ourselves or compare ourselves with some who commend themselves; but these, measuring themselves by themselves, and comparing themselves with themselves, are not intelligent.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28985,
+        "text": "Now we will not boast out of measure, but according to the measure of the rule which the God of measure has apportioned to us, to reach to you also.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28986,
+        "text": "For we do not, as not reaching to you, overstretch ourselves, (for we have come to you also in the glad tidings of the Christ;)",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28987,
+        "text": "not boasting out of measure in other people’s labours, but having hope, your faith increasing, to be enlarged amongst you, according to our rule, yet more abundantly",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28988,
+        "text": "to announce the glad tidings to that [which is] beyond you, not to be boasting in another’s rule of things made ready to hand.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28989,
+        "text": "But he that boasts, let him boast in the Lord.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28990,
+        "text": "For not he that commends himself is approved, but whom the Lord commends.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 934,
+    "MaxVerses": 48,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23236,
+        "text": "But seeing the crowds, he went up into the mountain, and having sat down, his disciples came to him;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23237,
+        "text": "and, having opened his mouth, he taught them, saying,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23238,
+        "text": "Blessed [are] the poor in spirit, for theirs is the kingdom of the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 23239,
+        "text": "Blessed they that mourn, for they shall be comforted.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23240,
+        "text": "Blessed the meek, for they shall inherit the earth.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23241,
+        "text": "Blessed they who hunger and thirst after righteousness, for they shall be filled.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23242,
+        "text": "Blessed the merciful, for they shall find mercy.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23243,
+        "text": "Blessed the pure in heart, for they shall see God.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23244,
+        "text": "Blessed the peace-makers, for they shall be called sons of God.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23245,
+        "text": "Blessed they who are persecuted on account of righteousness, for theirs is the kingdom of the heavens.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23246,
+        "text": "Blessed are ye when they may reproach and persecute you, and say every wicked thing against you, lying, for my sake.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23247,
+        "text": "Rejoice and exult, for your reward is great in the heavens; for thus have they persecuted the prophets who were before you.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23248,
+        "text": "Ye are the salt of the earth; but if the salt have become insipid, wherewith shall it be salted? It is no longer fit for anything but to be cast out and to be trodden under foot by men.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23249,
+        "text": "Ye are the light of the world: a city situated on the top of a mountain cannot be hid.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23250,
+        "text": "Nor do [men] light a lamp and put it under the bushel, but upon the lamp-stand, and it shines for all who are in the house.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23251,
+        "text": "Let your light thus shine before men, so that they may see your upright works, and glorify your Father who is in the heavens.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23252,
+        "text": "Think not that I am come to make void the law or the prophets; I am not come to make void, but to fulfil.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 23253,
+        "text": "For verily I say unto you, Until the heaven and the earth pass away, one iota or one tittle shall in no wise pass from the law till all come to pass.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23254,
+        "text": "Whosoever then shall do away with one of these least commandments, and shall teach men so, shall be called least in the kingdom of the heavens; but whosoever shall practise and teach [them], he shall be called great in the kingdom of the heavens.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23255,
+        "text": "For I say unto you, that unless your righteousness surpass [that] of the scribes and Pharisees, ye shall in no wise enter into the kingdom of the heavens.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23256,
+        "text": "Ye have heard that it was said to the ancients, Thou shalt not kill; but whosoever shall kill shall be subject to the judgment.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 23257,
+        "text": "But I say unto you, that every one that is lightly angry with his brother shall be subject to the judgment; but whosoever shall say to his brother, Raca, shall be subject to [be called before] the sanhedrim; but whosoever shall say, Fool, shall be subject to the penalty of the hell of fire.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23258,
+        "text": "If therefore thou shouldest offer thy gift at the altar, and there shouldest remember that thy brother has something against thee,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23259,
+        "text": "leave there thy gift before the altar, and first go, be reconciled to thy brother, and then come and offer thy gift.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23260,
+        "text": "Make friends with thine adverse party quickly, whilst thou art in the way with him; lest some time the adverse party deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23261,
+        "text": "Verily I say to thee, Thou shalt in no wise come out thence till thou hast paid the last farthing.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23262,
+        "text": "Ye have heard that it has been said, Thou shalt not commit adultery.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 23263,
+        "text": "But I say unto you, that every one who looks upon a woman to lust after her has already committed adultery with her in his heart.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23264,
+        "text": "But if thy right eye be a snare to thee, pluck it out and cast it from thee: for it is profitable for thee that one of thy members perish, and not thy whole body be cast into hell.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23265,
+        "text": "And if thy right hand be a snare to thee, cut it off and cast it from thee: for it is profitable for thee that one of thy members perish, and not thy whole body be cast into hell.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23266,
+        "text": "It has been said too, Whosoever shall put away his wife, let him give her a letter of divorce.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23267,
+        "text": "But I say unto you, that whosoever shall put away his wife, except for cause of fornication, makes her commit adultery, and whosoever marries one that is put away commits adultery.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23268,
+        "text": "Again, ye have heard that it has been said to the ancients, Thou shalt not forswear thyself, but shalt render to the Lord what thou hast sworn.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 23269,
+        "text": "But I say unto you, Do not swear at all; neither by the heaven, because it is [the] throne of God;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 23270,
+        "text": "nor by the earth, because it is [the] footstool of his feet; nor by Jerusalem, because it is [the] city of the great King.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 23271,
+        "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 23272,
+        "text": "But let your word be Yea, yea; Nay, nay; but what is more than these is from evil.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 23273,
+        "text": "Ye have heard that it has been said, Eye for eye and tooth for tooth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 23274,
+        "text": "But I say unto you, not to resist evil; but whoever shall strike thee on thy right cheek, turn to him also the other;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 23275,
+        "text": "and to him that would go to law with thee and take thy body coat, leave him thy cloak also.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 23276,
+        "text": "And whoever will compel thee to go one mile, go with him two.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 23277,
+        "text": "To him that asks of thee give, and from him that desires to borrow of thee turn not away.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 23278,
+        "text": "Ye have heard that it has been said, Thou shalt love thy neighbour and hate thine enemy.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 23279,
+        "text": "But I say unto you, Love your enemies, [bless those who curse you,] do good to those who hate you, and pray for those who [insult you and] persecute you,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 23280,
+        "text": "that ye may be [the] sons of your Father who is in [the] heavens; for he makes his sun rise on evil and good, and sends rain on just and unjust.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 23281,
+        "text": "For if ye should love those who love you, what reward have ye? Do not also the tax-gatherers the same?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 23282,
+        "text": "And if ye should salute your brethren only, what do ye extraordinary? Do not also the Gentiles the same?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 23283,
+        "text": "Be ye therefore perfect as your heavenly Father is perfect.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

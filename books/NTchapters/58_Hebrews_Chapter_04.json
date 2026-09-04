@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1137,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30016,
+        "text": "Let us therefore fear, lest, a promise being left of entering into his rest, any one of you might seem to have failed [of it].",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30017,
+        "text": "For indeed we have had glad tidings presented to us, even as they also; but the word of the report did not profit them, not being mixed with faith in those who heard.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30018,
+        "text": "For we enter into the rest who have believed; as he said, As I have sworn in my wrath, If they shall enter into my rest; although the works had been completed from [the] foundation of [the] world.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30019,
+        "text": "For he has said somewhere of the seventh [day] thus, And God rested on the seventh day from all his works:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30020,
+        "text": "and in this again, If they shall enter into my rest.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30021,
+        "text": "Seeing therefore it remains that some enter into it, and those who first received the glad tidings did not enter in on account of not hearkening to the word,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30022,
+        "text": "again he determines a certain day, saying, in David, ‘To-day,’ after so long a time; (according as it has been said before), To-day, if ye will hear his voice, harden not your hearts.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30023,
+        "text": "For if Jesus had brought them into rest, he would not have spoken afterwards about another day.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30024,
+        "text": "There remains then a sabbatism to the people of God.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30025,
+        "text": "For he that has entered into his rest, he also has rested from his works, as God did from his own.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30026,
+        "text": "Let us therefore use diligence to enter into that rest, that no one may fall after the same example of not hearkening to the word.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 30027,
+        "text": "For the word of God [is] living and operative, and sharper than any two-edged sword, and penetrating to [the] division of soul and spirit, both of joints and marrow, and a discerner of the thoughts and intents of [the] heart.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30028,
+        "text": "And there is not a creature unapparent before him; but all things [are] naked and laid bare to his eyes, with whom we have to do.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30029,
+        "text": "Having therefore a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast the confession.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30030,
+        "text": "For we have not a high priest not able to sympathise with our infirmities, but tempted in all things in like manner, sin apart.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30031,
+        "text": "Let us approach therefore with boldness to the throne of grace, that we may receive mercy, and find grace for seasonable help.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

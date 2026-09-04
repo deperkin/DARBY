@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 66,"name": "The Revelation","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 1179,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30893,
+        "text": "And a great sign was seen in the heaven: a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30894,
+        "text": "and being with child she cried, [being] in travail, and in pain to bring forth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30895,
+        "text": "And another sign was seen in the heaven: and behold, a great red dragon, having seven heads and ten horns, and on his heads seven diadems;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30896,
+        "text": "and his tail draws the third part of the stars of the heaven; and he cast them to the earth. And the dragon stood before the woman who was about to bring forth, in order that when she brought forth he might devour her child.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30897,
+        "text": "And she brought forth a male son, who shall shepherd all the nations with an iron rod; and her child was caught up to God and to his throne.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30898,
+        "text": "And the woman fled into the wilderness, where she has there a place prepared of God, that they should nourish her there a thousand two hundred [and] sixty days.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30899,
+        "text": "And there was war in the heaven: Michael and his angels went to war with the dragon. And the dragon fought, and his angels;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30900,
+        "text": "and he prevailed not, nor was their place found any more in the heaven.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30901,
+        "text": "And the great dragon was cast out, the ancient serpent, he who is called Devil and Satan, he who deceives the whole habitable world, he was cast out into the earth, and his angels were cast out with him.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30902,
+        "text": "And I heard a great voice in the heaven saying, Now is come the salvation and the power and the kingdom of our God, and the authority of his Christ; for the accuser of our brethren has been cast out, who accused them before our God day and night:",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30903,
+        "text": "and they have overcome him by reason of the blood of the Lamb, and by reason of the word of their testimony, and have not loved their life even unto death.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30904,
+        "text": "Therefore be full of delight, ye heavens, and ye that dwell in them. Woe to the earth and to the sea, because the devil has come down to you, having great rage, knowing he has a short time.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30905,
+        "text": "And when the dragon saw that he had been cast out into the earth, he persecuted the woman which bore the male [child].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30906,
+        "text": "And there were given to the woman the two wings of the great eagle, that she might fly into the desert into her place, where she is nourished there a time, and times, and half a time, from [the] face of the serpent.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30907,
+        "text": "And the serpent cast out of his mouth behind the woman water as a river, that he might make her be [as] one carried away by a river.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30908,
+        "text": "And the earth helped the woman, and the earth opened its mouth and swallowed the river which the dragon cast out of his mouth.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30909,
+        "text": "And the dragon was angry with the woman, and went to make war with the remnant of her seed, who keep the commandments of God, and have the testimony of Jesus.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

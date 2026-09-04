@@ -1,0 +1,236 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 1044,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27825,
+        "text": "And Agrippa said to Paul, It is permitted thee to speak for thyself. Then Paul stretching out his hand answered in his defence:",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27826,
+        "text": "I count myself happy, king Agrippa, in having to answer to-day before thee concerning all of which I am accused by the Jews,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27827,
+        "text": "especially because thou art acquainted with all the customs and questions which are among the Jews; wherefore I beseech thee to hear me patiently.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27828,
+        "text": "My manner of life then from my youth, which from its commencement was passed among my nation in Jerusalem, know all the Jews,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27829,
+        "text": "who knew me before from the outset [of my life], if they would bear witness, that according to the strictest sect of our religion I lived a Pharisee.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27830,
+        "text": "And now I stand to be judged because of the hope of the promise made by God to our fathers,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27831,
+        "text": "to which our whole twelve tribes serving incessantly day and night hope to arrive; about which hope, O king, I am accused of [the] Jews.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27832,
+        "text": "Why should it be judged a thing incredible in your sight if God raises the dead?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27833,
+        "text": "I indeed myself thought that I ought to do much against the name of Jesus the Nazaraean.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27834,
+        "text": "Which also I did in Jerusalem, and myself shut up in prisons many of the saints, having received the authority from the chief priests; and when they were put to death I gave my vote.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27835,
+        "text": "And often punishing them in all the synagogues, I compelled them to blaspheme. And, being exceedingly furious against them, I persecuted them even to cities out [of our own land].",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27836,
+        "text": "And when, [engaged] in this, I was journeying to Damascus, with authority and power from the chief priests,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 27837,
+        "text": "at mid-day, on the way, I saw, O king, a light above the brightness of the sun, shining from heaven round about me and those who were journeying with me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27838,
+        "text": "And, when we were all fallen to the ground, I heard a voice saying to me in the Hebrew tongue, Saul, Saul, why persecutest thou me? [it is] hard for thee to kick against goads.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27839,
+        "text": "And I said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27840,
+        "text": "but rise up and stand on thy feet; for, for this purpose have I appeared to thee, to appoint thee to be a servant and a witness both of what thou hast seen, and of what I shall appear to thee in,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27841,
+        "text": "taking thee out from among the people, and the nations, to whom I send thee,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27842,
+        "text": "to open their eyes, that they may turn from darkness to light, and from the power of Satan to God, that they may receive remission of sins and inheritance among them that are sanctified by faith in me.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27843,
+        "text": "Whereupon, king Agrippa, I was not disobedient to the heavenly vision;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27844,
+        "text": "but have, first to those both in Damascus and Jerusalem, and to all the region of Judaea, and to the nations, announced that they should repent and turn to God, doing works worthy of repentance.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27845,
+        "text": "On account of these things the Jews, having seized me in the temple, attempted to lay hands on and destroy me.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27846,
+        "text": "Having therefore met with [the] help which is from God, I have stood firm unto this day, witnessing both to small and great, saying nothing else than those things which both the prophets and Moses have said should happen,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27847,
+        "text": "[namely,] whether Christ should suffer; whether he first, through resurrection of [the] dead, should announce light both to the people and to the nations.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27848,
+        "text": "And as he answered for his defence with these things, Festus says with a loud voice, Thou art mad, Paul; much learning turns thee to madness.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 27849,
+        "text": "But Paul said, I am not mad, most excellent Festus, but utter words of truth and soberness;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27850,
+        "text": "for the king is informed about these things, to whom also I speak with all freedom. For I am persuaded that of these things nothing is hidden from him; for this was not done in a corner.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27851,
+        "text": "King Agrippa, believest thou the prophets? I know that thou believest.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27852,
+        "text": "And Agrippa [said] to Paul, In a little thou persuadest me to become a Christian.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27853,
+        "text": "And Paul [said], I would to God, both in little and in much, that not only thou, but all who have heard me this day, should become such as I also am, except these bonds.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27854,
+        "text": "And the king stood up, and the governor and Bernice, and those who sat with them,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27855,
+        "text": "and having gone apart, they spoke to one another saying, This man does nothing worthy of death or of bonds.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27856,
+        "text": "And Agrippa said to Festus, This man might have been let go if he had not appealed to Caesar.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

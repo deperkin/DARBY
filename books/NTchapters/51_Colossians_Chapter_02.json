@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 51,"name": "Colossians","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1109,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29496,
+        "text": "For I would have you know what combat I have for you, and those in Laodicea, and as many as have not seen my face in flesh;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29497,
+        "text": "to the end that their hearts may be encouraged, being united together in love, and unto all riches of the full assurance of understanding, to [the] full knowledge of the mystery of God;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29498,
+        "text": "in which are hid all the treasures of wisdom and of knowledge.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29499,
+        "text": "And I say this to the end that no one may delude you by persuasive speech.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 29500,
+        "text": "For if indeed in the flesh I am absent, yet I am with you in spirit, rejoicing and seeing your order, and the firmness of your faith in Christ.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29501,
+        "text": "As therefore ye have received the Christ, Jesus the Lord, walk in him,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29502,
+        "text": "rooted and built up in him, and assured in the faith, even as ye have been taught, abounding in it with thanksgiving.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29503,
+        "text": "See that there be no one who shall lead you away as a prey through philosophy and vain deceit, according to the teaching of men, according to the elements of the world, and not according to Christ.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29504,
+        "text": "For in him dwells all the fulness of the Godhead bodily;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29505,
+        "text": "and ye are complete in him, who is the head of all principality and authority,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29506,
+        "text": "in whom also ye have been circumcised with circumcision not done by hand, in the putting off of the body of the flesh, in the circumcision of the Christ;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29507,
+        "text": "buried with him in baptism, in which ye have been also raised with [him] through faith of the working of God who raised him from among the dead.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29508,
+        "text": "And you, being dead in offences and in the uncircumcision of your flesh, he has quickened together with him, having forgiven us all the offences;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29509,
+        "text": "having effaced the handwriting in ordinances which [stood out] against us, which was contrary to us, he has taken it also out of the way, having nailed it to the cross;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29510,
+        "text": "having spoiled principalities and authorities, he made a show of them publicly, leading them in triumph by it.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29511,
+        "text": "Let none therefore judge you in meat or in drink, or in matter of feast, or new moon, or sabbaths,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29512,
+        "text": "which are a shadow of things to come; but the body [is] of Christ.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29513,
+        "text": "Let no one fraudulently deprive you of your prize, doing his own will in humility and worship of angels, entering into things which he has not seen, vainly puffed up by the mind of his flesh,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29514,
+        "text": "and not holding fast the head, from whom all the body, ministered to and united together by the joints and bands, increases with the increase of God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29515,
+        "text": "If ye have died with Christ from the elements of the world, why as [if] alive in [the] world do ye subject yourselves to ordinances?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29516,
+        "text": "Do not handle, do not taste, do not touch,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29517,
+        "text": "(things which are all for destruction in the using [of them]:) according to the injunctions and teachings of men,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29518,
+        "text": "(which have indeed an appearance of wisdom in voluntary worship, and humility, and harsh treatment of the body, not in a certain honour,) to [the] satisfaction of the flesh.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

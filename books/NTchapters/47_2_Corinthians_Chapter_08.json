@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 1086,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28934,
+        "text": "But we make known to you, brethren, the grace of God bestowed in the assemblies of Macedonia;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28935,
+        "text": "that in a great trial of affliction the abundance of their joy and their deep poverty has abounded to the riches of their [free-hearted] liberality.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28936,
+        "text": "For according to [their] power, I bear witness, and beyond [their] power, [they were] willing of their own accord,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28937,
+        "text": "begging of us with much entreaty [to give effect to] the grace and fellowship of the service which [was to be rendered] to the saints.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28938,
+        "text": "And not according as we hoped, but they gave themselves first to the Lord, and to us by God’s will.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28939,
+        "text": "So that we begged Titus that, according as he had before begun, so he would also complete as to you this grace also;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28940,
+        "text": "but even as ye abound in every way, in faith, and word, and knowledge, and all diligence, and in love from you to us, that ye may abound in this grace also.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28941,
+        "text": "I do not speak as commanding [it], but through the zeal of others, and proving the genuineness of your love.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28942,
+        "text": "For ye know the grace of our Lord Jesus Christ, that for your sakes he, being rich, became poor, in order that ye by his poverty might be enriched.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28943,
+        "text": "And I give [my] opinion in this, for this is profitable for you who began before, not only to do, but also to be willing, a year ago.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28944,
+        "text": "But now also complete the doing of it; so that as [there was] the readiness to be willing, so also to complete out of what ye have.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28945,
+        "text": "For if the readiness be there, [a man is] accepted according to what he may have, not according to what he has not.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28946,
+        "text": "For [it is] not in order that there may be ease for others, and for you distress,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28947,
+        "text": "but [on the principle] of equality; in the present time your abundance for their lack, that their abundance may be for your lack, so that there should be equality.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28948,
+        "text": "According as it is written, He who [gathered] much had no excess, and he who [gathered] little was nothing short.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28949,
+        "text": "But thanks [be] to God, who gives the same diligent zeal for you in the heart of Titus.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 28950,
+        "text": "For he received indeed the entreaty, but, being full of zeal, he went of his own accord to you;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28951,
+        "text": "but we have sent with him the brother whose praise [is] in the glad tidings through all the assemblies;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28952,
+        "text": "and not only [so], but [is] also chosen by the assemblies as our fellow-traveller with this grace, ministered by us to the glory of the Lord himself, and [a witness of] our readiness;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28953,
+        "text": "avoiding this, that any one should blame us in this abundance [which is] administered by us;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28954,
+        "text": "for we provide for things honest, not only before [the] Lord, but also before men.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28955,
+        "text": "And we have sent with them our brother whom we have often proved to be of diligent zeal in many things, and now more diligently zealous through the great confidence [he has] as to you.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28956,
+        "text": "Whether as regards Titus, [he is] my companion and fellow-labourer in your behalf; or our brethren, [they are] deputed messengers of assemblies, Christ’s glory.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28957,
+        "text": "Shew therefore to them, before the assemblies, the proof of your love, and of our boasting about you.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

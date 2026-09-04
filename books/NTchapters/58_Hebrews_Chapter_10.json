@@ -1,0 +1,285 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 1143,
+    "MaxVerses": 39,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30135,
+        "text": "For the law, having a shadow of the coming good things, not the image itself of the things, can never, by the same sacrifices which they offer continually yearly, perfect those who approach.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30136,
+        "text": "Since, would they not indeed have ceased being offered, on account of the worshippers once purged having no longer any conscience of sins?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30137,
+        "text": "But in these [there is] a calling to mind of sins yearly.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30138,
+        "text": "For blood of bulls and goats [is] incapable of taking away sins.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30139,
+        "text": "Wherefore coming into the world he says, Sacrifice and offering thou willedst not; but thou hast prepared me a body.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30140,
+        "text": "Thou tookest no pleasure in burnt-offerings and sacrifices for sin.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30141,
+        "text": "Then I said, Lo, I come (in [the] roll of the book it is written of me) to do, O God, thy will.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 30142,
+        "text": "Above, saying Sacrifices and offerings and burnt-offerings and sacrifices for sin thou willedst not, neither tookest pleasure in (which are offered according to the law);",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30143,
+        "text": "then he said, Lo, I come to do thy will. He takes away the first that he may establish the second;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30144,
+        "text": "by which will we have been sanctified through the offering of the body of Jesus Christ once for all.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30145,
+        "text": "And every priest stands daily ministering, and offering often the same sacrifices, which can never take away sins.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30146,
+        "text": "But he, having offered one sacrifice for sins, sat down in perpetuity at [the] right hand of God,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30147,
+        "text": "waiting from henceforth until his enemies be set [for the] footstool of his feet.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30148,
+        "text": "For by one offering he has perfected in perpetuity the sanctified.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30149,
+        "text": "And the Holy Spirit also bears us witness [of it]; for after what was said:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30150,
+        "text": "This [is] the covenant which I will establish towards them after those days, saith [the] Lord: Giving my laws into their hearts, I will write them also in their understandings;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30151,
+        "text": "and their sins and their lawlessnesses I will never remember any more.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30152,
+        "text": "But where there [is] remission of these, [there is] no longer a sacrifice for sin.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30153,
+        "text": "Having therefore, brethren, boldness for entering into the [holy of] holies by the blood of Jesus,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 30154,
+        "text": "the new and living way which he has dedicated for us through the veil, that is, his flesh,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30155,
+        "text": "and [having] a great priest over the house of God,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30156,
+        "text": "let us approach with a true heart, in full assurance of faith, sprinkled as to our hearts from a wicked conscience, and washed as to our body with pure water.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30157,
+        "text": "Let us hold fast the confession of the hope unwavering, (for he [is] faithful who has promised;)",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30158,
+        "text": "and let us consider one another for provoking to love and good works;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30159,
+        "text": "not forsaking the assembling of ourselves together, as the custom [is] with some; but encouraging [one another], and by so much the more as ye see the day drawing near.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 30160,
+        "text": "For where we sin wilfully after receiving the knowledge of the truth, there no longer remains any sacrifice for sins,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 30161,
+        "text": "but a certain fearful expectation of judgment, and heat of fire about to devour the adversaries.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 30162,
+        "text": "Any one that has disregarded Moses’ law dies without mercy on [the testimony of] two or three witnesses:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 30163,
+        "text": "of how much worse punishment, think ye, shall he be judged worthy who has trodden under foot the Son of God, and esteemed the blood of the covenant, whereby he has been sanctified, common, and has insulted the Spirit of grace?",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 30164,
+        "text": "For we know him that said, To me [belongs] vengeance; I will recompense, saith the Lord: and again, The Lord shall judge his people.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 30165,
+        "text": "[It is] a fearful thing falling into [the] hands of [the] living God.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 30166,
+        "text": "But call to mind the earlier days in which, having been enlightened, ye endured much conflict of sufferings;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 30167,
+        "text": "on the one hand, when ye were made a spectacle both in reproaches and afflictions; and on the other, when ye became partakers with those who were passing through them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 30168,
+        "text": "For ye both sympathised with prisoners and accepted with joy the plunder of your goods, knowing that ye have for yourselves a better substance, and an abiding one.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 30169,
+        "text": "Cast not away therefore your confidence, which has great recompense.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 30170,
+        "text": "For ye have need of endurance in order that, having done the will of God, ye may receive the promise.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 30171,
+        "text": "For yet a very little while he that comes will come, and will not delay.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 30172,
+        "text": "But the just shall live by faith; and, if he draw back, my soul does not take pleasure in him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 30173,
+        "text": "But we are not drawers back to perdition, but of faith to saving [the] soul.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

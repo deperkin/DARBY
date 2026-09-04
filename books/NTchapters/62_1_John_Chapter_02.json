@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 62,"name": "1 John","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1161,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30552,
+        "text": "My children, these things I write to you in order that ye may not sin; and if any one sin, we have a patron with the Father, Jesus Christ [the] righteous;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30553,
+        "text": "and he is the propitiation for our sins; but not for ours alone, but also for the whole world.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30554,
+        "text": "And hereby we know that we know him, if we keep his commandments.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30555,
+        "text": "He that says, I know him, and does not keep his commandments, is a liar, and the truth is not in him;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30556,
+        "text": "but whoever keeps his word, in him verily the love of God is perfected. Hereby we know that we are in him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30557,
+        "text": "He that says he abides in him ought, even as he walked, himself also [so] to walk.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30558,
+        "text": "Beloved, I write no new commandment to you, but an old commandment, which ye have had from the beginning. The old commandment is the word which ye heard.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 30559,
+        "text": "Again, I write a new commandment to you, which thing is true in him and in you, because the darkness is passing and the true light already shines.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30560,
+        "text": "He who says he is in the light, and hates his brother, is in the darkness until now.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30561,
+        "text": "He that loves his brother abides in light, and there is no occasion of stumbling in him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30562,
+        "text": "But he that hates his brother is in the darkness, and walks in the darkness, and knows not where he goes, because the darkness has blinded his eyes.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30563,
+        "text": "I write to you, children, because [your] sins are forgiven you for his name’s sake.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30564,
+        "text": "I write to you, fathers, because ye have known him [that is] from the beginning. I write to you, young men, because ye have overcome the wicked [one]. I write to you, little children, because ye have known the Father.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30565,
+        "text": "I have written to you, fathers, because ye have known him [that is] from the beginning. I have written to you, young men, because ye are strong, and the word of God abides in you, and ye have overcome the wicked [one].",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30566,
+        "text": "Love not the world, nor the things in the world. If any one love the world, the love of the Father is not in him;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30567,
+        "text": "because all that [is] in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30568,
+        "text": "And the world is passing, and its lust, but he that does the will of God abides for eternity.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30569,
+        "text": "Little children, it is [the] last hour, and, according as ye have heard that antichrist comes, even now there have come many antichrists, whence we know that it is [the] last hour.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 30570,
+        "text": "They went out from among us, but they were not of us; for if they had been of us, they would have surely remained with us, but that they might be made manifest that none are of us.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30571,
+        "text": "And ye have [the] unction from the holy [one], and ye know all things.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 30572,
+        "text": "I have not written to you because ye do not know the truth, but because ye know it, and that no lie is of the truth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30573,
+        "text": "Who is the liar but he who denies that Jesus is the Christ? He is the antichrist who denies the Father and the Son.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30574,
+        "text": "Whoever denies the Son has not the Father either; he who confesses the Son has the Father also.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30575,
+        "text": "As for you let that which ye have heard from the beginning abide in you: if what ye have heard from the beginning abides in you, ye also shall abide in the Son and in the Father.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30576,
+        "text": "And this is the promise which he has promised us, life eternal.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 30577,
+        "text": "These things have I written to you concerning those who lead you astray:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 30578,
+        "text": "and yourselves, the unction which ye have received from him abides in you, and ye have not need that any one should teach you; but as the same unction teaches you as to all things, and is true and is not a lie, and even as it has taught you, ye shall abide in him.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 30579,
+        "text": "And now, children, abide in him, that if he be manifested we may have boldness, and not be put to shame from before him at his coming.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 30580,
+        "text": "If ye know that he is righteous, know that every one who practises righteousness is begotten of him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

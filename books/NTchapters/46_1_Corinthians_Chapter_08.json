@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 1070,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28529,
+        "text": "But concerning things sacrificed to idols, we know, (for we all have knowledge: knowledge puffs up, but love edifies.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28530,
+        "text": "If any one think he knows anything, he knows nothing yet as he ought to know [it].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28531,
+        "text": "But if any one love God, he is known of him):",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28532,
+        "text": "—concerning then the eating of things sacrificed to idols, we know that an idol [is] nothing in [the] world, and that there [is] no other God save one.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 28533,
+        "text": "For and if indeed there are [those] called gods, whether in heaven or on earth, (as there are gods many, and lords many,)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28534,
+        "text": "yet to us [there is] one God, the Father, of whom all things, and we for him; and one Lord, Jesus Christ, by whom [are] all things, and we by him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28535,
+        "text": "But knowledge [is] not in all: but some, with conscience of the idol, until now eat as of a thing sacrificed to idols; and their conscience, being weak, is defiled.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28536,
+        "text": "But meat does not commend us to God; neither if we should not eat do we come short; nor if we should eat have we an advantage.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28537,
+        "text": "But see lest anywise this your right [to eat] itself be a stumbling-block to the weak.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28538,
+        "text": "For if any one see thee, who hast knowledge, sitting at table in an idol-house, shall not his conscience, he being weak, be emboldened to eat the things sacrificed to the idol?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28539,
+        "text": "and the weak [one], the brother for whose sake Christ died, will perish through thy knowledge.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28540,
+        "text": "Now, thus sinning against the brethren, and wounding their weak conscience, ye sin against Christ.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28541,
+        "text": "Wherefore if meat be a fall-trap to my brother, I will eat no flesh for ever, that I may not be a fall-trap to my brother.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 51,"name": "Colossians","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1111,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29544,
+        "text": "Masters, give to bondmen what is just and fair, knowing that ye also have a Master in [the] heavens.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29545,
+        "text": "Persevere in prayer, watching in it with thanksgiving;",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 29546,
+        "text": "praying at the same time for us also, that God may open to us a door of the word to speak the mystery of Christ, on account of which also I am bound,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29547,
+        "text": "to the end that I may make it manifest as I ought to speak.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29548,
+        "text": "Walk in wisdom towards those without, redeeming opportunities.",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29549,
+        "text": "[Let] your word [be] always with grace, seasoned with salt, [so as] to know how ye ought to answer each one.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29550,
+        "text": "Tychicus, the beloved brother and faithful minister and fellow-bondman in [the] Lord, will make known to you all that concerns me;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 29551,
+        "text": "whom I have sent to you for this very purpose, that he might know your state, and that he might encourage your hearts:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29552,
+        "text": "with Onesimus, the faithful and beloved brother, who is [one] of you. They shall make known to you everything here.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29553,
+        "text": "Aristarchus my fellow-captive salutes you, and Mark, Barnabas’s cousin, concerning whom ye have received orders, (if he come to you, receive him,)",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29554,
+        "text": "and Jesus called Justus, who are of the circumcision. These [are the] only fellow-workers for the kingdom of God who have been a consolation to me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29555,
+        "text": "Epaphras, who is [one] of you, [the] bondman of Christ Jesus, salutes you, always combating earnestly for you in prayers, to the end that ye may stand perfect and complete in all [the] will of God.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29556,
+        "text": "For I bear him witness that he labours much for you, and them in Laodicea, and them in Hierapolis.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29557,
+        "text": "Luke, the beloved physician, salutes you, and Demas.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29558,
+        "text": "Salute the brethren in Laodicea, and Nymphas, and the assembly which [is] in his house.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29559,
+        "text": "And when the letter has been read among you, cause that it be read also in the assembly of Laodiceans, and that ye also read that from Laodicea.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29560,
+        "text": "And say to Archippus, Take heed to the ministry which thou hast received in [the] Lord, to the end that thou fulfil it.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29561,
+        "text": "The salutation by the hand of me Paul. Remember my bonds. Grace [be] with you.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

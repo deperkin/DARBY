@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1048,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27964,
+        "text": "Therefore thou art inexcusable, O man, every one who judgest, for in that in which thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27965,
+        "text": "But we know that the judgment of God is according to truth upon those who do such things.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27966,
+        "text": "And thinkest thou this, O man, who judgest those that do such things, and practisest them [thyself], that thou shalt escape the judgment of God?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27967,
+        "text": "or despisest thou the riches of his goodness, and forbearance, and long-suffering, not knowing that the goodness of God leads thee to repentance?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27968,
+        "text": "but, according to thy hardness and impenitent heart, treasurest up to thyself wrath, in [the] day of wrath and revelation of [the] righteous judgment of God,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27969,
+        "text": "who shall render to each according to his works:",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27970,
+        "text": "to them who, in patient continuance of good works, seek for glory and honour and incorruptibility, life eternal.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27971,
+        "text": "But to those that are contentious, and are disobedient to the truth, but obey unrighteousness, [there shall be] wrath and indignation,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27972,
+        "text": "tribulation and distress, on every soul of man that works evil, both of Jew first, and of Greek;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27973,
+        "text": "but glory and honour and peace to every one that works good, both to Jew first and to Greek:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27974,
+        "text": "for there is no acceptance of persons with God.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27975,
+        "text": "For as many as have sinned without law shall perish also without law; and as many as have sinned under law shall be judged by law,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27976,
+        "text": "(for not the hearers of the law [are] just before God, but the doers of the law shall be justified.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27977,
+        "text": "For when [those of the] nations, which have no law, practise by nature the things of the law, these, having no law, are a law to themselves;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27978,
+        "text": "who shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts accusing or else excusing themselves between themselves;)",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27979,
+        "text": "in [the] day when God shall judge the secrets of men, according to my glad tidings, by Jesus Christ.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27980,
+        "text": "But if thou art named a Jew, and restest in the law, and makest thy boast in God,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 27981,
+        "text": "and knowest the will, and discerningly approvest the things that are more excellent, being instructed out of the law;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27982,
+        "text": "and hast confidence that thou thyself art a leader of the blind, a light of those who [are] in darkness,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27983,
+        "text": "an instructor of the foolish, a teacher of babes, having the form of knowledge and of truth in the law:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27984,
+        "text": "thou then that teachest another, dost thou not teach thyself? thou that preachest not to steal, dost thou steal?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27985,
+        "text": "thou that sayest [man should] not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27986,
+        "text": "thou who boastest in law, dost thou by transgression of the law dishonour God?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27987,
+        "text": "For the name of God is blasphemed on your account among the nations, according as it is written.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27988,
+        "text": "For circumcision indeed profits if thou keep [the] law; but if thou be a law-transgressor, thy circumcision is become uncircumcision.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27989,
+        "text": "If therefore the uncircumcision keep the requirements of the law, shall not his uncircumcision be reckoned for circumcision,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27990,
+        "text": "and uncircumcision by nature, fulfilling the law, judge thee, who, with letter and circumcision, [art] a law-transgressor?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27991,
+        "text": "For he is not a Jew who [is] one outwardly, neither that circumcision which is outward in flesh;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27992,
+        "text": "but he [is] a Jew [who is so] inwardly; and circumcision, of the heart, in spirit, not in letter; whose praise [is] not of men, but of God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

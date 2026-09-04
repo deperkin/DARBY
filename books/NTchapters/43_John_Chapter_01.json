@@ -1,0 +1,369 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 998,
+    "MaxVerses": 51,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26046,
+        "text": "In [the] beginning was the Word, and the Word was with God, and the Word was God.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26047,
+        "text": "He was in the beginning with God.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26048,
+        "text": "All things received being through him, and without him not one [thing] received being which has received being.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26049,
+        "text": "In him was life, and the life was the light of men.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26050,
+        "text": "And the light appears in darkness, and the darkness apprehended it not.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 26051,
+        "text": "There was a man sent from God, his name John.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26052,
+        "text": "He came for witness, that he might witness concerning the light, that all might believe through him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26053,
+        "text": "He was not the light, but that he might witness concerning the light.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26054,
+        "text": "The true light was that which, coming into the world, lightens every man.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26055,
+        "text": "He was in the world, and the world had [its] being through him, and the world knew him not.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26056,
+        "text": "He came to his own, and his own received him not;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26057,
+        "text": "but as many as received him, to them gave he [the] right to be children of God, to those that believe on his name;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26058,
+        "text": "who have been born, not of blood, nor of flesh’s will, nor of man’s will, but of God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26059,
+        "text": "And the Word became flesh, and dwelt among us (and we have contemplated his glory, a glory as of an only-begotten with a father), full of grace and truth;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26060,
+        "text": "(John bears witness of him, and he has cried, saying, This was he of whom I said, He that comes after me is preferred before me, for he was before me;)",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 26061,
+        "text": "for of his fulness we all have received, and grace upon grace.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26062,
+        "text": "For the law was given by Moses: grace and truth subsists through Jesus Christ.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26063,
+        "text": "No one has seen God at any time; the only-begotten Son, who is in the bosom of the Father, he hath declared [him].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26064,
+        "text": "And this is the witness of John, when the Jews sent from Jerusalem priests and Levites that they might ask him, Thou, who art thou?",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 26065,
+        "text": "And he acknowledged and denied not, and acknowledged, I am not the Christ.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26066,
+        "text": "And they asked him, What then? Art thou Elias? And he says, I am not. Art thou the prophet? And he answered, No.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26067,
+        "text": "They said therefore to him, Who art thou? that we may give an answer to those who sent us. What sayest thou of thyself?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26068,
+        "text": "He said, I [am] [the] voice of one crying in the wilderness, Make straight the path of [the] Lord, as said Esaias the prophet.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26069,
+        "text": "And they were sent from among the Pharisees.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26070,
+        "text": "And they asked him and said to him, Why baptisest thou then, if thou art not the Christ, nor Elias, nor the prophet?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26071,
+        "text": "John answered them saying, I baptise with water. In the midst of you stands, whom ye do not know,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26072,
+        "text": "he who comes after me, the thong of whose sandal I am not worthy to unloose.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26073,
+        "text": "These things took place in Bethany, across the Jordan, where John was baptising.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26074,
+        "text": "On the morrow he sees Jesus coming to him, and says, Behold the Lamb of God, who takes away the sin of the world.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 26075,
+        "text": "He it is of whom I said, A man comes after me who takes a place before me, because he was before me;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26076,
+        "text": "and I knew him not; but that he might be manifested to Israel, therefore have I come baptising with water.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26077,
+        "text": "And John bore witness, saying, I beheld the Spirit descending as a dove from heaven, and it abode upon him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26078,
+        "text": "And I knew him not; but he who sent me to baptise with water, he said to me, Upon whom thou shalt see the Spirit descending and abiding on him, he it is who baptises with [the] Holy Spirit.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26079,
+        "text": "And I have seen and borne witness that this is the Son of God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26080,
+        "text": "Again, on the morrow, there stood John and two of his disciples.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26081,
+        "text": "And, looking at Jesus as he walked, he says, Behold the Lamb of God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26082,
+        "text": "And the two disciples heard him speaking, and followed Jesus.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 26083,
+        "text": "But Jesus having turned, and seeing them following, says to them, What seek ye? And they said to him, Rabbi (which, being interpreted, signifies Teacher), where abidest thou?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26084,
+        "text": "He says to them, Come and see. They went therefore, and saw where he abode; and they abode with him that day. It was about the tenth hour.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26085,
+        "text": "Andrew, the brother of Simon Peter, was one of the two who heard [this] from John and followed him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26086,
+        "text": "He first finds his own brother Simon, and says to him, We have found the Messias (which being interpreted is Christ).",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26087,
+        "text": "And he led him to Jesus. Jesus looking at him said, Thou art Simon, the son of Jonas; thou shalt be called Cephas (which interpreted is stone).",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26088,
+        "text": "On the morrow he would go forth into Galilee, and Jesus finds Philip, and says to him, Follow me.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 26089,
+        "text": "And Philip was from Bethsaida, of the city of Andrew and Peter.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26090,
+        "text": "Philip finds Nathanael, and says to him, We have found him of whom Moses wrote in the law, and the prophets, Jesus, the son of Joseph, who is from Nazareth.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26091,
+        "text": "And Nathanael said to him, Can anything good come out of Nazareth? Philip says to him, Come and see.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26092,
+        "text": "Jesus saw Nathanael coming to him, and says of him, Behold [one] truly an Israelite, in whom there is no guile.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26093,
+        "text": "Nathanael says to him, Whence knowest thou me? Jesus answered and said to him, Before that Philip called thee, when thou wast under the fig-tree, I saw thee.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26094,
+        "text": "Nathanael answered and said to him, Rabbi, thou art the Son of God, thou art the King of Israel.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26095,
+        "text": "Jesus answered and said to him, Because I said to thee, I saw thee under the fig-tree, believest thou? Thou shalt see greater things than these.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 26096,
+        "text": "And he says to him, Verily, verily, I say to you, Henceforth ye shall see the heaven opened, and the angels of God ascending and descending on the Son of man.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

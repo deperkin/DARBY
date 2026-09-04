@@ -1,0 +1,425 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 985,
+    "MaxVerses": 59,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25461,
+        "text": "In those [times], the myriads of the crowd being gathered together, so that they trod one on another, he began to say to his disciples first, Beware of the leaven of the Pharisees, which is hypocrisy;",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25462,
+        "text": "but there is nothing covered up which shall not be revealed, nor secret that shall not be known;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25463,
+        "text": "therefore whatever ye have said in the darkness shall be heard in the light, and what ye have spoken in the ear in chambers shall be proclaimed upon the housetops.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25464,
+        "text": "But I say to you, my friends, Fear not those who kill the body and after this have no more that they can do.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25465,
+        "text": "But I will shew you whom ye shall fear: Fear him who after he has killed has authority to cast into hell; yea, I say to you, Fear him.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25466,
+        "text": "Are not five sparrows sold for two assaria? and one of them is not forgotten before God.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25467,
+        "text": "But even the hairs of your head are all numbered. Fear not therefore, ye are better than many sparrows.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25468,
+        "text": "But I say to you, Whosoever shall confess me before men, the Son of man will confess him also before the angels of God;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25469,
+        "text": "but he that shall have denied me before men shall be denied before the angels of God;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25470,
+        "text": "and whoever shall say a word against the Son of man it shall be forgiven him; but to him that speaks injuriously against the Holy Spirit it shall not be forgiven.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25471,
+        "text": "But when they bring you before the synagogues and rulers and the authorities, be not careful how or what ye shall answer, or what ye shall say;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25472,
+        "text": "for the Holy Spirit shall teach you in the hour itself what should be said.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25473,
+        "text": "And a person said to him out of the crowd, Teacher, speak to my brother to divide the inheritance with me.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 25474,
+        "text": "But he said to him, Man, who established me [as] a judge or a divider over you?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25475,
+        "text": "And he said to them, Take heed and keep yourselves from all covetousness, for [it is] not because a man is in abundance [that] his life is in his possessions.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25476,
+        "text": "And he spoke a parable to them, saying, The land of a certain rich man brought forth abundantly.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25477,
+        "text": "And he reasoned within himself saying, What shall I do? for I have not [a place] where I shall lay up my fruits.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25478,
+        "text": "And he said, This will I do: I will take away my granaries and build greater, and there I will lay up all my produce and my good things;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25479,
+        "text": "and I will say to my soul, Soul, thou hast much good things laid by for many years; repose thyself, eat, drink, be merry.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 25480,
+        "text": "But God said to him, Fool, this night thy soul shall be required of thee; and whose shall be what thou hast prepared?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 25481,
+        "text": "Thus is he who lays up treasure for himself, and is not rich toward God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25482,
+        "text": "And he said to his disciples, For this cause I say unto you, Be not careful for life, what ye shall eat, nor for the body, what ye shall put on.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 25483,
+        "text": "The life is more than food, and the body than raiment.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25484,
+        "text": "Consider the ravens, that they sow not nor reap; which have neither storehouse nor granary; and God feeds them. How much better are ye than the birds?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25485,
+        "text": "But which of you by being careful can add to his stature one cubit?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25486,
+        "text": "If therefore ye cannot [do] even what is least, why are ye careful about the rest?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25487,
+        "text": "Consider the lilies how they grow: they neither toil nor spin; but I say unto you, Not even Solomon in all his glory was clothed as one of these.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25488,
+        "text": "But if God thus clothe the grass, which to-day is in the field and to-morrow is cast into [the] oven, how much rather you, O ye of little faith?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25489,
+        "text": "And ye, seek not what ye shall eat or what ye shall drink, and be not in anxiety;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25490,
+        "text": "for all these things do the nations of the world seek after, and your Father knows that ye have need of these things;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25491,
+        "text": "but seek his kingdom, and [all] these things shall be added to you.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25492,
+        "text": "Fear not, little flock, for it has been the good pleasure of your Father to give you the kingdom.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25493,
+        "text": "Sell what ye possess and give alms; make to yourselves purses which do not grow old, a treasure which does not fail in the heavens, where thief does not draw near nor moth destroy.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25494,
+        "text": "For where your treasure is, there also will your heart be.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25495,
+        "text": "Let your loins be girded about, and lamps burning;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25496,
+        "text": "and ye like men who wait their own lord whenever he may leave the wedding, that when he comes and knocks, they may open to him immediately.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25497,
+        "text": "Blessed are those bondmen whom the lord [on] coming shall find watching; verily I say unto you, that he will gird himself and make them recline at table, and coming up will serve them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25498,
+        "text": "And if he come in the second watch, and come in the third watch, and find [them] thus, blessed are those [bondmen].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 25499,
+        "text": "But this know, that if the master of the house had known in what hour the thief was coming, he would have watched, and not have suffered his house to be dug through.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 25500,
+        "text": "And ye therefore, be ye ready, for in the hour in which ye do not think [it], the Son of man comes.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 25501,
+        "text": "And Peter said to him, Lord, sayest thou this parable to us, or also to all?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 25502,
+        "text": "And the Lord said, Who then is the faithful and prudent steward, whom his lord will set over his household, to give the measure of corn in season?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 25503,
+        "text": "Blessed is that bondman whom his lord [on] coming shall find doing thus;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 25504,
+        "text": "verily I say unto you, that he will set him over all that he has.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 25505,
+        "text": "But if that bondman should say in his heart, My lord delays to come, and begin to beat the menservants and the maidservants, and to eat and to drink and to be drunken,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 25506,
+        "text": "the lord of that bondman shall come in a day when he does not expect it, and in an hour he knows not of, and shall cut him in two and appoint his portion with the unbelievers.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 25507,
+        "text": "But that bondman who knew his own lord’s will, and had not prepared [himself] nor done his will, shall be beaten with many [stripes];",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 25508,
+        "text": "but he who knew [it] not, and did things worthy of stripes, shall be beaten with few. And to every one to whom much has been given, much shall be required from him; and to whom [men] have committed much, they will ask from him the more.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 25509,
+        "text": "I have come to cast a fire on the earth; and what will I if already it has been kindled?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 25510,
+        "text": "But I have a baptism to be baptised with, and how am I straitened until it shall have been accomplished!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 25511,
+        "text": "Think ye that I have come to give peace in the earth? Nay, I say to you, but rather division:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 25512,
+        "text": "for from henceforth there shall be five in one house divided; three shall be divided against two, and two against three:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 25513,
+        "text": "father against son, and son against father; mother against daughter, and daughter against mother; a mother-in-law against her daughter-in-law, and a daughter-in-law against her mother-in-law.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 25514,
+        "text": "And he said also to the crowds, When ye see a cloud rising out of the west, straightway ye say, A shower is coming; and so it happens.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 55,
+        "count": 25515,
+        "text": "And when [ye see] the south wind blow, ye say, There will be heat; and it happens.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 25516,
+        "text": "Hypocrites, ye know how to judge of the appearance of the earth and of the heaven; how [is it then that] ye do not discern this time?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 25517,
+        "text": "And why even of yourselves judge ye not what is right?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 25518,
+        "text": "For as thou goest with thine adverse party before a magistrate, strive in the way to be reconciled with him, lest he drag thee away to the judge, and the judge shall deliver thee to the officer, and the officer cast thee into prison.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 25519,
+        "text": "I say unto thee, Thou shalt in no wise come out thence until thou hast paid the very last mite.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

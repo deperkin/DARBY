@@ -1,0 +1,145 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 60,"name": "1 Peter","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1155,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30448,
+        "text": "Christ, then, having suffered for us in [the] flesh, do ye also arm yourselves with the same mind; for he that has suffered in [the] flesh has done with sin,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30449,
+        "text": "no longer to live the rest of [his] time in [the] flesh to men’s lusts, but to God’s will.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30450,
+        "text": "For the time past [is] sufficient [for us] to have wrought the will of the Gentiles, walking in lasciviousness, lusts, wine-drinking, revels, drinkings, and unhallowed idolatries.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30451,
+        "text": "Wherein they think it strange that ye run not with [them] to the same sink of corruption, speaking injuriously [of you];",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 30452,
+        "text": "who shall render account to him who is ready to judge [the] living and [the] dead.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30453,
+        "text": "For to this [end] were the glad tidings preached to [the] dead also, that they might be judged, as regards men, after [the] flesh, but live, as regards God, after [the] Spirit.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30454,
+        "text": "But the end of all things is drawn nigh: be sober therefore, and be watchful unto prayers;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 30455,
+        "text": "but before all things having fervent love among yourselves, because love covers a multitude of sins;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30456,
+        "text": "hospitable one to another, without murmuring;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30457,
+        "text": "each according as he has received a gift, ministering it to one another, as good stewards of [the] various grace of God.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30458,
+        "text": "If any one speak—as oracles of God; if any one minister—as of strength which God supplies; that God in all things may be glorified through Jesus Christ, to whom is the glory and the might for the ages of ages. Amen.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30459,
+        "text": "Beloved, take not [as] strange the fire [of persecution] which has taken place amongst you for [your] trial, as if a strange thing was happening to you;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30460,
+        "text": "but as ye have share in the sufferings of Christ, rejoice, that in the revelation of his glory also ye may rejoice with exultation.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30461,
+        "text": "If ye are reproached in [the] name of Christ, blessed [are ye]; for the [Spirit] of glory and the Spirit of God rests upon you: [on their part he is blasphemed, but on your part he is glorified.]",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30462,
+        "text": "Let none of you suffer indeed as murderer, or thief, or evildoer, or as overseer of other people’s matters;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30463,
+        "text": "but if as a christian, let him not be ashamed, but glorify God in this name.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30464,
+        "text": "For the time of having the judgment begin from the house of God [is come]; but if first from us, what [shall be] the end of those who obey not the glad tidings of God?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30465,
+        "text": "And if the righteous is difficultly saved, where shall the impious and [the] sinner appear?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30466,
+        "text": "Wherefore also let them who suffer according to the will of God commit their souls in well-doing to a faithful Creator.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

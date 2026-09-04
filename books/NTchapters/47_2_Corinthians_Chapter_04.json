@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1082,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28861,
+        "text": "Therefore, having this ministry, as we have had mercy shewn us, we faint not.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28862,
+        "text": "But we have rejected the hidden things of shame, not walking in deceit, nor falsifying the word of God, but by manifestation of the truth commending ourselves to every conscience of men before God.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28863,
+        "text": "But if also our gospel is veiled, it is veiled in those that are lost;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28864,
+        "text": "in whom the god of this world has blinded the thoughts of the unbelieving, so that the radiancy of the glad tidings of the glory of the Christ, who is [the] image of God, should not shine forth [for them].",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28865,
+        "text": "For we do not preach ourselves, but Christ Jesus Lord, and ourselves your bondmen for Jesus’ sake.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28866,
+        "text": "Because [it is] the God who spoke that out of darkness light should shine who has shone in our hearts for the shining forth of the knowledge of the glory of God in [the] face of [Jesus] Christ.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28867,
+        "text": "But we have this treasure in earthen vessels, that the surpassingness of the power may be of God, and not from us:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28868,
+        "text": "every way afflicted, but not straitened; seeing no apparent issue, but our way not entirely shut up;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 28869,
+        "text": "persecuted, but not abandoned; cast down, but not destroyed;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28870,
+        "text": "always bearing about in the body the dying of Jesus, that the life also of Jesus may be manifested in our body;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28871,
+        "text": "for we who live are always delivered unto death on account of Jesus, that the life also of Jesus may be manifested in our mortal flesh;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28872,
+        "text": "so that death works in us, but life in you.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28873,
+        "text": "And having the same spirit of faith, according to what is written, I have believed, therefore have I spoken; we also believe, therefore also we speak;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28874,
+        "text": "knowing that he who has raised the Lord Jesus shall raise us also with Jesus, and shall present [us] with you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28875,
+        "text": "For all things [are] for your sakes, that the grace abounding through the many may cause thanksgiving to abound to the glory of God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28876,
+        "text": "Wherefore we faint not; but if indeed our outward man is consumed, yet the inward is renewed day by day.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28877,
+        "text": "For our momentary [and] light affliction works for us in surpassing measure an eternal weight of glory;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28878,
+        "text": "while we look not at the things that are seen, but at the things that are not seen; for the things that are seen [are] for a time, but those that are not seen eternal.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

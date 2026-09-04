@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 931,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23171,
+        "text": "Now Jesus having been born in Bethlehem of Judaea, in the days of Herod the king, behold magi from the east arrived at Jerusalem, saying,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23172,
+        "text": "Where is the king of the Jews that has been born? for we have seen his star in the east, and have come to do him homage.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23173,
+        "text": "But Herod the king having heard [of it], was troubled, and all Jerusalem with him;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23174,
+        "text": "and, assembling all the chief priests and scribes of the people, he inquired of them where the Christ should be born.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23175,
+        "text": "And they said to him, In Bethlehem of Judaea; for thus it is written through the prophet:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23176,
+        "text": "And thou Bethlehem, land of Juda, art in no wise the least among the governors of Juda; for out of thee shall go forth a leader who shall shepherd my people Israel.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23177,
+        "text": "Then Herod, having secretly called the magi, inquired of them accurately the time of the star that was appearing;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23178,
+        "text": "and having sent them to Bethlehem, said, Go, search out accurately concerning the child, and when ye shall have found [him] bring me back word, so that I also may come and do him homage.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23179,
+        "text": "And they having heard the king went their way; and lo, the star, which they had seen in the east, went before them until it came and stood over the place where the little child was.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 23180,
+        "text": "And when they saw the star they rejoiced with exceeding great joy.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23181,
+        "text": "And having come into the house they saw the little child with Mary his mother, and falling down did him homage. And having opened their treasures, they offered to him gifts, gold, and frankincense, and myrrh.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23182,
+        "text": "And being divinely instructed in a dream not to return to Herod, they departed into their own country another way.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23183,
+        "text": "Now, they having departed, behold, an angel of [the] Lord appears in a dream to Joseph, saying, Arise, take to [thee] the little child and his mother, and flee into Egypt, and be there until I shall tell thee; for Herod will seek the little child to destroy it.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23184,
+        "text": "And, having arisen, he took to [him] the little child and his mother by night, and departed into Egypt.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23185,
+        "text": "And he was there until the death of Herod, that that might be fulfilled which was spoken by [the] Lord through the prophet, saying, Out of Egypt have I called my son.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23186,
+        "text": "Then Herod, seeing that he had been mocked by the magi, was greatly enraged; and sent and slew all the boys which [were] in Bethlehem, and in all its borders, from two years and under, according to the time which he had accurately inquired from the magi.",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 23187,
+        "text": "Then was fulfilled that which was spoken through Jeremias the prophet, saying,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23188,
+        "text": "A voice has been heard in Rama, weeping, and great lamentation: Rachel weeping [for] her children, and would not be comforted, because they are not.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23189,
+        "text": "But Herod having died, behold, an angel of [the] Lord appears in a dream to Joseph in Egypt, saying,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 23190,
+        "text": "Arise, take to [thee] the little child and its mother, and go into the land of Israel: for they who sought the life of the little child are dead.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23191,
+        "text": "And he arose and took to [him] the little child and its mother, and came into the land of Israel;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23192,
+        "text": "but having heard that ‘Archelaus reigns over Judaea, instead of Herod his father,’ he was afraid to go there; and having been divinely instructed in a dream, he went away into the parts of Galilee,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23193,
+        "text": "and came and dwelt in a town called Nazareth; so that that should be fulfilled which was spoken through the prophets, He shall be called a Nazaraean.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

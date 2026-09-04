@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 1014,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26761,
+        "text": "These things Jesus spoke, and lifted up his eyes to heaven and said, Father, the hour is come; glorify thy Son, that thy Son may glorify thee;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26762,
+        "text": "as thou hast given him authority over all flesh, that [as to] all that thou hast given to him, he should give them life eternal.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26763,
+        "text": "And this is the eternal life, that they should know thee, the only true God, and Jesus Christ whom thou hast sent.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26764,
+        "text": "I have glorified thee on the earth, I have completed the work which thou gavest me that I should do it;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26765,
+        "text": "and now glorify me, thou Father, along with thyself, with the glory which I had along with thee before the world was.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26766,
+        "text": "I have manifested thy name to the men whom thou gavest me out of the world. They were thine, and thou gavest them me, and they have kept thy word.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 26767,
+        "text": "Now they have known that all things that thou hast given me are of thee;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26768,
+        "text": "for the words which thou hast given me I have given them, and they have received [them], and have known truly that I came out from thee, and have believed that thou sentest me.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26769,
+        "text": "I demand concerning them; I do not demand concerning the world, but concerning those whom thou hast given me, for they are thine,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26770,
+        "text": "(and all that is mine is thine, and [all] that is thine mine,) and I am glorified in them.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26771,
+        "text": "And I am no longer in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name which thou hast given me, that they may be one as we.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 26772,
+        "text": "When I was with them I kept them in thy name; those thou hast given me I have guarded, and not one of them has perished, but the son of perdition, that the scripture might be fulfilled.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26773,
+        "text": "And now I come to thee. And these things I speak in the world, that they may have my joy fulfilled in them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26774,
+        "text": "I have given them thy word, and the world has hated them, because they are not of the world, as I am not of the world.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26775,
+        "text": "I do not demand that thou shouldest take them out of the world, but that thou shouldest keep them out of evil.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26776,
+        "text": "They are not of the world, as I am not of the world.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26777,
+        "text": "Sanctify them by the truth: thy word is truth.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 26778,
+        "text": "As thou hast sent me into the world, I also have sent them into the world;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26779,
+        "text": "and I sanctify myself for them, that they also may be sanctified by truth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26780,
+        "text": "And I do not demand for these only, but also for those who believe on me through their word;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 26781,
+        "text": "that they may be all one, as thou, Father, [art] in me, and I in thee, that they also may be one in us, that the world may believe that thou hast sent me.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26782,
+        "text": "And the glory which thou hast given me I have given them, that they may be one, as we are one;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26783,
+        "text": "I in them and thou in me, that they may be perfected into one [and] that the world may know that thou hast sent me, and [that] thou hast loved them as thou hast loved me.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26784,
+        "text": "Father, [as to] those whom thou hast given me, I desire that where I am they also may be with me, that they may behold my glory which thou hast given me, for thou lovedst me before [the] foundation of [the] world.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 26785,
+        "text": "Righteous Father,—and the world has not known thee, but I have known thee, and these have known that thou hast sent me.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26786,
+        "text": "And I have made known to them thy name, and will make [it] known; that the love with which thou hast loved me may be in them and I in them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

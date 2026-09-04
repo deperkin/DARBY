@@ -1,0 +1,117 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 56,"name": "Titus","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1131,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29910,
+        "text": "But do thou speak the things that become sound teaching;",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29911,
+        "text": "that the elder men be sober, grave, discreet, sound in faith, in love, in patience;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29912,
+        "text": "that the elder women in like manner be in deportment as becoming those who have to say to sacred things, not slanderers, not enslaved to much wine, teachers of what is right;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29913,
+        "text": "that they may admonish the young women to be attached to [their] husbands, to be attached to [their] children,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29914,
+        "text": "discreet, chaste, diligent in home work, good, subject to their own husbands, that the word of God may not be evil spoken of.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29915,
+        "text": "The younger men in like manner exhort to be discreet:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29916,
+        "text": "in all things affording thyself as a pattern of good works; in teaching uncorruptedness, gravity,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29917,
+        "text": "a sound word, not to be condemned; that he who is opposed may be ashamed, having no evil thing to say about us:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29918,
+        "text": "bondmen to be subject to their own masters, to make themselves acceptable in everything; not gainsaying;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29919,
+        "text": "not robbing [their masters], but shewing all good fidelity, that they may adorn the teaching which [is] of our Saviour God in all things.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29920,
+        "text": "For the grace of God which carries with it salvation for all men has appeared,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29921,
+        "text": "teaching us that, having denied impiety and worldly lusts, we should live soberly, and justly, and piously in the present course of things,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29922,
+        "text": "awaiting the blessed hope and appearing of the glory of our great God and Saviour Jesus Christ;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29923,
+        "text": "who gave himself for us, that he might redeem us from all lawlessness, and purify to himself a peculiar people, zealous for good works.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29924,
+        "text": "These things speak, and exhort, and rebuke with all authority. Let no one despise thee.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

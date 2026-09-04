@@ -1,0 +1,264 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 943,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23599,
+        "text": "At that time Herod the tetrarch heard of the fame of Jesus,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23600,
+        "text": "and said to his servants, This is John the baptist: he is risen from the dead, and because of this these works of power display their force in him.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23601,
+        "text": "For Herod had seized John, and had bound him and put him in prison on account of Herodias the wife of Philip his brother.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23602,
+        "text": "For John said to him, It is not lawful for thee to have her.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23603,
+        "text": "And [while] desiring to kill him, he feared the crowd, because they held him for a prophet.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23604,
+        "text": "But when Herod’s birthday was celebrated, the daughter of Herodias danced before them, and pleased Herod;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23605,
+        "text": "whereupon he promised with oath to give her whatsoever she should ask.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23606,
+        "text": "But she, being set on by her mother, says, Give me here upon a dish the head of John the baptist.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23607,
+        "text": "And the king was grieved; but on account of the oaths, and those lying at table with [him], he commanded [it] to be given.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23608,
+        "text": "And he sent and beheaded John in the prison;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23609,
+        "text": "and his head was brought upon a dish, and was given to the damsel, and she carried [it] to her mother.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23610,
+        "text": "And his disciples came and took the body and buried it, and came and brought word to Jesus.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23611,
+        "text": "And Jesus, having heard it, went away thence by ship to a desert place apart. And the crowds having heard [of it] followed him on foot from the cities.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23612,
+        "text": "And going out he saw a great crowd, and was moved with compassion about them, and healed their infirm.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23613,
+        "text": "But when even was come, his disciples came to him saying, The place is desert, and [much of] the [day] time already gone by; dismiss the crowds, that they may go into the villages and buy food for themselves.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23614,
+        "text": "But Jesus said to them, They have no need to go: give ye them to eat.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23615,
+        "text": "But they say to him, We have not here save five loaves and two fishes.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23616,
+        "text": "And he said, Bring them here to me.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23617,
+        "text": "And having commanded the crowds to recline upon the grass, having taken the five loaves and the two fishes, he looked up to heaven, and blessed: and having broken the loaves, he gave [them] to the disciples, and the disciples [gave them] to the crowds.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23618,
+        "text": "And all ate and were filled, and they took up what was over and above of fragments twelve hand-baskets full.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23619,
+        "text": "But those that had eaten were about five thousand men, besides women and children.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23620,
+        "text": "And immediately he compelled the disciples to go on board ship, and to go on before him to the other side, until he should have dismissed the crowds.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 23621,
+        "text": "And having dismissed the crowds, he went up into the mountain apart to pray. And when even was come, he was alone there,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23622,
+        "text": "but the ship was already in the middle of the sea tossed by the waves, for the wind was contrary.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23623,
+        "text": "But in the fourth watch of the night he went off to them, walking on the sea.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23624,
+        "text": "And the disciples, seeing him walking on the sea, were troubled, saying, It is an apparition. And they cried out through fear.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23625,
+        "text": "But Jesus immediately spoke to them, saying, Take courage; it is I: be not afraid.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23626,
+        "text": "And Peter answering him said, Lord, if it be thou, command me to come to thee upon the waters.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23627,
+        "text": "And he said, Come. And Peter, having descended from the ship, walked upon the waters to go to Jesus.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23628,
+        "text": "But seeing the wind strong he was afraid; and beginning to sink he cried out, saying, Lord, save me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23629,
+        "text": "And immediately Jesus stretched out his hand and caught hold of him, and says to him, O thou of little faith, why didst thou doubt?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23630,
+        "text": "And when they had gone up into the ship, the wind fell.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23631,
+        "text": "But those in the ship came and did homage to him, saying, Truly thou art God’s Son.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 23632,
+        "text": "And having crossed over they came to the land of Gennesaret.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 23633,
+        "text": "And when the men of that place recognised him, they sent to that whole country around, and they brought to him all that were ill,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 23634,
+        "text": "and besought him that they might only touch the hem of his garment; and as many as touched were made thoroughly well.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

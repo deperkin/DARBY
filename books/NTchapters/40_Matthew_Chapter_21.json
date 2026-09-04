@@ -1,0 +1,334 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 950,
+    "MaxVerses": 46,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23828,
+        "text": "And when they drew near to Jerusalem and came to Bethphage, at the mount of Olives, then Jesus sent two disciples,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23829,
+        "text": "saying to them, Go into the village over against you, and immediately ye will find an ass tied, and a colt with it; loose [them] and lead [them] to me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23830,
+        "text": "And if any one say anything to you, ye shall say, The Lord has need of them, and straightway he will send them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23831,
+        "text": "But all this came to pass, that that might be fulfilled which was spoken through the prophet, saying,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23832,
+        "text": "Say to the daughter of Zion, Behold thy King cometh to thee, meek, and mounted upon an ass, and upon a colt the foal of an ass.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23833,
+        "text": "But the disciples, having gone and done as Jesus had ordered them,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23834,
+        "text": "brought the ass and the colt and put their garments upon them, and he sat on them.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23835,
+        "text": "But a very great crowd strewed their own garments on the way, and others kept cutting down branches from the trees and strewing them on the way.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23836,
+        "text": "And the crowds who went before him and who followed cried, saying, Hosanna to the Son of David; blessed [be] he who comes in the name of [the] Lord; hosanna in the highest.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23837,
+        "text": "And as he entered into Jerusalem, the whole city was moved, saying, Who is this?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23838,
+        "text": "And the crowds said, This is Jesus the prophet who is from Nazareth of Galilee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23839,
+        "text": "And Jesus entered into the temple [of God], and cast out all that sold and bought in the temple, and overthrew the tables of the money-changers and the seats of those that sold the doves.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 23840,
+        "text": "And he says to them, It is written, My house shall be called a house of prayer, but ye have made it a den of robbers.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23841,
+        "text": "And blind and lame came to him in the temple, and he healed them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23842,
+        "text": "And when the chief priests and the scribes saw the wonders which he wrought, and the children crying in the temple and saying, Hosanna to the Son of David, they were indignant,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23843,
+        "text": "and said to him, Hearest thou what these say? And Jesus says to them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23844,
+        "text": "And leaving them he went forth out of the city to Bethany, and there he passed the night.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23845,
+        "text": "But early in the morning, as he came back into the city, he hungered.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 23846,
+        "text": "And seeing one fig-tree in the way, he came to it and found on it nothing but leaves only. And he says to it, Let there be never more fruit of thee for ever. And the fig-tree was immediately dried up.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23847,
+        "text": "And when the disciples saw [it], they wondered, saying, How immediately is the fig-tree dried up!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23848,
+        "text": "And Jesus answering said to them, Verily I say unto you, If ye have faith, and do not doubt, not only shall ye do what [is done] to the fig-tree, but even if ye should say to this mountain, Be thou taken away and be thou cast into the sea, it shall come to pass.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23849,
+        "text": "And all things whatsoever ye shall ask in prayer, believing, ye shall receive.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23850,
+        "text": "And when he came into the temple, the chief priests and the elders of the people came to him [as he was] teaching, saying, By what authority doest thou these things? and who gave thee this authority?",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 23851,
+        "text": "And Jesus answering said to them, I also will ask you one thing, which if ye tell me, I also will tell you by what authority I do these things:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23852,
+        "text": "The baptism of John, whence was it? of heaven or of men? And they reasoned among themselves, saying, If we should say, Of heaven, he will say to us, Why then have ye not believed him?",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23853,
+        "text": "but if we should say, Of men, we fear the crowd, for all hold John for a prophet.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23854,
+        "text": "And answering Jesus they said, We do not know. He also said to them, Neither do I tell you by what authority I do these things.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23855,
+        "text": "But what think ye? A man had two children, and coming to the first he said, Child, go to-day, work in [my] vineyard.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 23856,
+        "text": "And he answering said, I will not; but afterwards repenting himself he went.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23857,
+        "text": "And coming to the second he said likewise; and he answering said, I [go], sir, and went not.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23858,
+        "text": "Which of the two did the will of the father? They say [to him], The first. Jesus says to them, Verily I say unto you that the tax-gatherers and the harlots go into the kingdom of God before you.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23859,
+        "text": "For John came to you in the way of righteousness, and ye believed him not; but the tax-gatherers and the harlots believed him; but ye when ye saw [it] repented not yourselves afterwards to believe him.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23860,
+        "text": "Hear another parable: There was a householder who planted a vineyard, and made a fence round it, and dug a winepress in it, and built a tower, and let it out to husbandmen, and left the country.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 23861,
+        "text": "But when the time of fruit drew near, he sent his bondmen to the husbandmen to receive his fruits.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 23862,
+        "text": "And the husbandmen took his bondmen, and beat one, killed another, and stoned another.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 23863,
+        "text": "Again he sent other bondmen more than the first, and they did to them in like manner.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 23864,
+        "text": "And at last he sent to them his son, saying, They will have respect for my son.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 23865,
+        "text": "But the husbandmen, seeing the son, said among themselves, This is the heir; come, let us kill him and possess his inheritance.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 23866,
+        "text": "And they took him, and cast him forth out of the vineyard, and killed him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 23867,
+        "text": "When therefore the lord of the vineyard comes, what shall he do to those husbandmen?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 23868,
+        "text": "They say to him, He will miserably destroy those evil [men], and let out the vineyard to other husbandmen, who shall render him the fruits in their seasons.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 23869,
+        "text": "Jesus says to them, Have ye never read in the scriptures, The stone which they that builded rejected, this has become the corner-stone: this is of [the] Lord, and it is wonderful in our eyes?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 23870,
+        "text": "Therefore I say to you, that the kingdom of God shall be taken from you and shall be given to a nation producing the fruits of it.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 23871,
+        "text": "And he that falls on this stone shall be broken, but on whomsoever it shall fall, it shall grind him to powder.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 23872,
+        "text": "And the chief priests and the Pharisees, having heard his parables, knew that he spoke about them.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 23873,
+        "text": "And seeking to lay hold of him, they were afraid of the crowds, because they held him for a prophet.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

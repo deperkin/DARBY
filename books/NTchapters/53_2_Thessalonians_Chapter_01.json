@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 53,"name": "2 Thessalonians","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1117,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29651,
+        "text": "Paul and Silvanus and Timotheus to the assembly of Thessalonians in God our Father and [the] Lord Jesus Christ.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29652,
+        "text": "Grace to you, and peace from God our Father, and [the] Lord Jesus Christ.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29653,
+        "text": "We ought to thank God always for you, brethren, even as it is meet, because your faith increases exceedingly, and the love of each one of you all towards one another abounds;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29654,
+        "text": "so that we ourselves make our boast in you in the assemblies of God for your endurance and faith in all your persecutions and tribulations, which ye are sustaining;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29655,
+        "text": "a manifest token of the righteous judgment of God, to the end that ye should be counted worthy of the kingdom of God, for the sake of which ye also suffer;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29656,
+        "text": "if at least [it is a] righteous thing with God to render tribulation to those that trouble you,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29657,
+        "text": "and to you that are troubled repose with us, at the revelation of the Lord Jesus from heaven, with [the] angels of his power,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29658,
+        "text": "in flaming fire taking vengeance on those who know not God, and those who do not obey the glad tidings of our Lord Jesus Christ;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29659,
+        "text": "who shall pay the penalty [of] everlasting destruction from [the] presence of the Lord, and from the glory of his might,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29660,
+        "text": "when he shall have come to be glorified in his saints, and wondered at in all that have believed, (for our testimony to you has been believed,) in that day.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29661,
+        "text": "To which end we also pray always for you, that our God may count you worthy of the calling, and fulfil all [the] good pleasure of [his] goodness and [the] work of faith with power,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29662,
+        "text": "so that the name of our Lord Jesus [Christ] may be glorified in you and ye in him, according to the grace of our God, and of [the] Lord Jesus Christ.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

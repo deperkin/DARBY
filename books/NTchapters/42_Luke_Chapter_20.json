@@ -1,0 +1,341 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 993,
+    "MaxVerses": 47,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25781,
+        "text": "And it came to pass on one of the days, as he was teaching the people in the temple, and announcing the glad tidings, the chief priests and the scribes with the elders came up,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25782,
+        "text": "and spoke to him saying, Tell us by what authority thou doest these things, or who is it who has given thee this authority?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25783,
+        "text": "And he answering said to them, I also will ask you [one] thing, and tell me:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25784,
+        "text": "The baptism of John, was it of heaven or of men?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25785,
+        "text": "And they reasoned among themselves, saying, If we should say, Of heaven, he will say, Why have ye not believed him?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25786,
+        "text": "but if we should say, Of men, the whole people will stone us, for they are persuaded that John was a prophet.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25787,
+        "text": "And they answered, they did not know whence.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25788,
+        "text": "And Jesus said to them, Neither do I tell you by what authority I do these things.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25789,
+        "text": "And he began to speak to the people this parable: A man planted a vineyard and let it out to husbandmen, and left the country for a long time.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 25790,
+        "text": "And in the season he sent to the husbandmen a bondman, that they might give to him of the fruit of the vineyard; but the husbandmen, having beaten him, sent [him] away empty.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25791,
+        "text": "And again he sent another bondman; but they, having beaten him also, and cast insult upon him, sent [him] away empty.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25792,
+        "text": "And again he sent a third; and they, having wounded him also, cast [him] out.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25793,
+        "text": "And the lord of the vineyard said, What shall I do? I will send my beloved son: perhaps when they see him they will respect [him].",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25794,
+        "text": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir; [come,] let us kill him, that the inheritance may become ours.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25795,
+        "text": "And having cast him forth out of the vineyard, they killed [him]. What therefore shall the lord of the vineyard do to them?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25796,
+        "text": "He will come and destroy those husbandmen, and will give the vineyard to others. And when they heard it they said, May it never be!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25797,
+        "text": "But he looking at them said, What then is this that is written, The stone which they that builded rejected, this has become the corner-stone?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25798,
+        "text": "Every one falling on this stone shall be broken, but on whomsoever it shall fall, it shall grind him to powder.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25799,
+        "text": "And the chief priests and the scribes sought the same hour to lay hands on him, and they feared the people; for they knew that he had spoken this parable of them.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 25800,
+        "text": "And having watched [him], they sent out suborned persons, pretending to be just men, that they might take hold of him in [his] language, so that they might deliver him up to the power and authority of the governor.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 25801,
+        "text": "And they asked him saying, Teacher, we know that thou sayest and teachest rightly, and acceptest no [man’s] person, but teachest with truth the way of God:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25802,
+        "text": "Is it lawful for us to give tribute to Caesar, or not?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 25803,
+        "text": "But perceiving their deceit he said to them, Why do ye tempt me?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25804,
+        "text": "Shew me a denarius. Whose image and superscription has it? And answering they said, Caesar’s.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25805,
+        "text": "And he said to them, Pay therefore what is Caesar’s to Caesar, and what is God’s to God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25806,
+        "text": "And they were not able to take hold of him in [his] expressions before the people, and, wondering at his answer, they were silent.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25807,
+        "text": "And some of the Sadducees, who deny that there is any resurrection, coming up [to him],",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 25808,
+        "text": "demanded of him saying, Teacher, Moses wrote to us, If any one’s brother, who has a wife, die, and he die childless, his brother shall take the wife and raise up seed to his brother.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25809,
+        "text": "There were then seven brethren: and the first, having taken a wife, died childless;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25810,
+        "text": "and the second [took the woman, and he died childless];",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25811,
+        "text": "and the third took her: and in like manner also the seven left no children and died;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25812,
+        "text": "and last of all the woman also died.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25813,
+        "text": "In the resurrection therefore of which of them does she become wife, for the seven had her as wife?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25814,
+        "text": "And Jesus said to them, The sons of this world marry and are given in marriage,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25815,
+        "text": "but they who are counted worthy to have part in that world, and the resurrection from among [the] dead, neither marry nor are given in marriage;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25816,
+        "text": "for neither can they die any more, for they are equal to angels, and are sons of God, being sons of the resurrection.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25817,
+        "text": "But that the dead rise, even Moses shewed in [the section of] the bush, when he called [the] Lord the God of Abraham and the God of Isaac and the God of Jacob;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25818,
+        "text": "but he is not God of [the] dead but of [the] living; for all live for him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 25819,
+        "text": "And some of the scribes answering said, Teacher, thou hast well spoken.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 40,
+        "count": 25820,
+        "text": "For they did not dare any more to ask him anything.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 25821,
+        "text": "And he said to them, How do they say that the Christ is David’s son,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 25822,
+        "text": "and David himself says in the book of Psalms, The Lord said to my Lord, Sit at my right hand",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 25823,
+        "text": "until I put thine enemies [as] footstool of thy feet?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 25824,
+        "text": "David therefore calls him Lord, and how is he his son?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 25825,
+        "text": "And, as all the people were listening, he said to his disciples,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 25826,
+        "text": "Beware of the scribes, who like to walk about in long robes, and who love salutations in the market-places, and first seats in the synagogues, and first places at suppers;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 25827,
+        "text": "who devour the houses of widows, and as a pretext make long prayers. These shall receive a severer judgment.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

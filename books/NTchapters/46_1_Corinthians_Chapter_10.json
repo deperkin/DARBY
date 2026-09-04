@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 1072,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28569,
+        "text": "For I would not have you ignorant, brethren, that all our fathers were under the cloud, and all passed through the sea;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28570,
+        "text": "and all were baptised unto Moses in the cloud and in the sea;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28571,
+        "text": "and all ate the same spiritual food,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28572,
+        "text": "and all drank the same spiritual drink, for they drank of a spiritual rock which followed [them]: (now the rock was the Christ;)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28573,
+        "text": "yet God was not pleased with the most of them, for they were strewed in the desert.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28574,
+        "text": "But these things happened [as] types of us, that we should not be lusters after evil things, as they also lusted.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 28575,
+        "text": "Neither be ye idolaters, as some of them; as it is written, The people sat down to eat and to drink, and rose up to play.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28576,
+        "text": "Neither let us commit fornication, as some of them committed fornication, and fell in one day three and twenty thousand.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28577,
+        "text": "Neither let us tempt the Christ, as some of them tempted, and perished by serpents.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28578,
+        "text": "Neither murmur ye, as some of them murmured, and perished by the destroyer.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28579,
+        "text": "Now all these things happened to them [as] types, and have been written for our admonition, upon whom the ends of the ages are come.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28580,
+        "text": "So that let him that thinks that he stands take heed lest he fall.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28581,
+        "text": "No temptation has taken you but such as is according to man’s nature; and God is faithful, who will not suffer you to be tempted above what ye are able [to bear], but will with the temptation make the issue also, so that [ye] should be able to bear [it].",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28582,
+        "text": "Wherefore, my beloved, flee from idolatry.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28583,
+        "text": "I speak as to intelligent [persons]: do ye judge what I say.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 28584,
+        "text": "The cup of blessing which we bless, is it not [the] communion of the blood of the Christ? The bread which we break, is it not [the] communion of the body of the Christ?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28585,
+        "text": "Because we, [being] many, are one loaf, one body; for we all partake of that one loaf.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28586,
+        "text": "See Israel according to flesh: are not they who eat the sacrifices in communion with the altar?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28587,
+        "text": "What then do I say? that what is sacrificed to an idol is anything, or that an idol is anything?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28588,
+        "text": "But that what [the nations] sacrifice they sacrifice to demons, and not to God. Now I do not wish you to be in communion with demons.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28589,
+        "text": "Ye cannot drink [the] Lord’s cup, and [the] cup of demons: ye cannot partake of [the] Lord’s table, and of [the] table of demons.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28590,
+        "text": "Do we provoke the Lord to jealousy? are we stronger than he?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28591,
+        "text": "All things are lawful, but all are not profitable; all things are lawful, but all do not edify.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 28592,
+        "text": "Let no one seek his own [advantage], but that of the other.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28593,
+        "text": "Everything sold in the shambles eat, making no inquiry for conscience sake.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28594,
+        "text": "For the earth [is] the Lord’s and its fulness.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28595,
+        "text": "But if any one of the unbelievers invite you, and ye are minded to go, all that is set before you eat, making no inquiry for conscience sake.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28596,
+        "text": "But if any one say to you, This is offered to holy purposes, do not eat, for his sake that pointed it out, and conscience sake;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28597,
+        "text": "but conscience, I mean, not thine own, but that of the other: for why is my liberty judged by another conscience?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28598,
+        "text": "If I partake with thanksgiving, why am I spoken evil of for what I give thanks for?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28599,
+        "text": "Whether therefore ye eat, or drink, or whatever ye do, do all things to God’s glory.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 28600,
+        "text": "Give no occasion to stumbling, whether to Jews, or Greeks, or the assembly of God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28601,
+        "text": "Even as I also please all in all things; not seeking my own profit, but that of the many, that they may be saved.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

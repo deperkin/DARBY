@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 62,"name": "1 John","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1163,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30605,
+        "text": "Beloved, believe not every spirit, but prove the spirits, if they are of God; because many false prophets are gone out into the world.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30606,
+        "text": "Hereby ye know the Spirit of God: every spirit which confesses Jesus Christ come in flesh is of God;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30607,
+        "text": "and every spirit which does not confess Jesus Christ come in flesh is not of God: and this is that [power] of the antichrist, [of] which ye have heard that it comes, and now it is already in the world.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30608,
+        "text": "Ye are of God, children, and have overcome them, because greater is he that [is] in you than he that [is] in the world.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 30609,
+        "text": "They are of the world; for this reason they speak [as] of the world, and the world hears them.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30610,
+        "text": "We are of God; he that knows God hears us; he who is not of God does not hear us. From this we know the spirit of truth and the spirit of error.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30611,
+        "text": "Beloved, let us love one another; because love is of God, and every one that loves has been begotten of God, and knows God.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 30612,
+        "text": "He that loves not has not known God; for God is love.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30613,
+        "text": "Herein as to us has been manifested the love of God, that God has sent his only begotten Son into the world, that we might live through him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30614,
+        "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son a propitiation for our sins.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30615,
+        "text": "Beloved, if God has so loved us, we also ought to love one another.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30616,
+        "text": "No one has seen God at any time: if we love one another, God abides in us, and his love is perfected in us.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30617,
+        "text": "Hereby we know that we abide in him and he in us, that he has given to us of his Spirit.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30618,
+        "text": "And we have seen, and testify, that the Father has sent the Son [as] Saviour of the world.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 30619,
+        "text": "Whosoever shall confess that Jesus is the Son of God, God abides in him, and he in God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30620,
+        "text": "And we have known and have believed the love which God has to us. God is love, and he that abides in love abides in God, and God in him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30621,
+        "text": "Herein has love been perfected with us that we may have boldness in the day of judgment, that even as he is, we also are in this world.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 30622,
+        "text": "There is no fear in love, but perfect love casts out fear; for fear has torment, and he that fears has not been made perfect in love.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30623,
+        "text": "We love because he has first loved us.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30624,
+        "text": "If any one say, I love God, and hate his brother, he is a liar: for he that loves not his brother whom he has seen, how can he love God whom he has not seen?",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30625,
+        "text": "And this commandment have we from him, That he that loves God love also his brother.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

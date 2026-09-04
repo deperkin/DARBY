@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 66,"name": "The Revelation","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1173,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30795,
+        "text": "And I saw when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as a voice of thunder, Come [and see].",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30796,
+        "text": "And I saw: and behold, a white horse, and he that sat upon it having a bow; and a crown was given to him, and he went forth conquering and that he might conquer.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30797,
+        "text": "And when it opened the second seal, I heard the second living creature saying, Come [and see].",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30798,
+        "text": "And another, a red horse, went forth; and to him that sat upon it, to him it was given to take peace from the earth, and that they should slay one another; and there was given to him a great sword.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30799,
+        "text": "And when it opened the third seal, I heard the third living creature saying, Come [and see]. And I saw: and behold, a black horse, and he that sat upon it having a balance in his hand.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30800,
+        "text": "And I heard as a voice in the midst of the four living creatures saying, A choenix of wheat for a denarius, and three choenixes of barley for a denarius: and do not injure the oil and the wine.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30801,
+        "text": "And when it opened the fourth seal, I heard [the voice of] the fourth living creature saying, Come [and see].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30802,
+        "text": "And I saw: and behold, a pale horse, and he that sat upon it, his name [was] Death, and hades followed with him; and authority was given to him over the fourth of the earth to slay with sword, and with hunger, and with death, and by the beasts of the earth.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30803,
+        "text": "And when it opened the fifth seal, I saw underneath the altar the souls of them that had been slain for the word of God, and for the testimony which they held;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 30804,
+        "text": "and they cried with a loud voice, saying, How long, O sovereign Ruler, holy and true, dost thou not judge and avenge our blood on them that dwell upon the earth?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30805,
+        "text": "And there was given to them, to each one a white robe; and it was said to them that they should rest yet a little while, until both their fellow-bondmen and their brethren, who were about to be killed as they, should be fulfilled.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30806,
+        "text": "And I saw when it opened the sixth seal, and there was a great earthquake; and the sun became black as hair sackcloth, and the whole moon became as blood,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30807,
+        "text": "and the stars of heaven fell upon the earth, as a fig tree, shaken by a great wind, casts its unseasonable figs.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30808,
+        "text": "And the heaven was removed as a book rolled up, and every mountain and island were removed out of their places.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30809,
+        "text": "And the kings of the earth, and the great, and the chiliarchs, and the rich, and the strong, and every bondman and freeman, hid themselves in the caves and in the rocks of the mountains;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30810,
+        "text": "and they say to the mountains and to the rocks, Fall on us, and have us hidden from [the] face of him that sits upon the throne, and from the wrath of the Lamb;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30811,
+        "text": "because the great day of his wrath is come, and who is able to stand?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 1090,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29024,
+        "text": "Well, it is not of profit to me to boast, for I will come to visions and revelations of [the] Lord.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29025,
+        "text": "I know a man in Christ, fourteen years ago, (whether in [the] body I know not, or out of the body I know not, God knows;) such [a one] caught up to [the] third heaven.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29026,
+        "text": "And I know such a man, (whether in [the] body or out of the body I know not, God knows;)",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29027,
+        "text": "that he was caught up into paradise, and heard unspeakable things said which it is not allowed to man to utter.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29028,
+        "text": "Of such [a one] I will boast, but of myself I will not boast, unless in my weaknesses.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29029,
+        "text": "For if I shall desire to boast, I shall not be a fool; for I will say [the] truth; but I forbear, lest any one should think as to me above what he sees me [to be], or whatever he may hear of me.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29030,
+        "text": "And that I might not be exalted by the exceeding greatness of the revelations, there was given to me a thorn for the flesh, a messenger of Satan that he might buffet me, that I might not be exalted.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29031,
+        "text": "For this I thrice besought the Lord that it might depart from me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29032,
+        "text": "And he said to me, My grace suffices thee; for [my] power is perfected in weakness. Most gladly therefore will I rather boast in my weaknesses, that the power of the Christ may dwell upon me.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29033,
+        "text": "Wherefore I take pleasure in weaknesses, in insults, in necessities, in persecutions, in straits, for Christ: for when I am weak, then I am powerful.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29034,
+        "text": "I have become a fool; ye have compelled me; for I ought to have been commended by you; for I have been nothing behind those who were in surpassing degree apostles, if also I am nothing.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29035,
+        "text": "The signs indeed of the apostle were wrought among you in all endurance, signs, and wonders, and works of power.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29036,
+        "text": "For in what is it that ye have been inferior to the other assemblies, unless that I myself have not been in laziness a charge upon you? Forgive me this injury.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29037,
+        "text": "Behold, this third time I am ready to come to you, and I will not be in laziness a charge; for I do not seek yours, but you; for the children ought not to lay up for the parents, but the parents for the children.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29038,
+        "text": "Now I shall most gladly spend and be utterly spent for your souls, if even in abundantly loving you I should be less loved.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29039,
+        "text": "But be it so. I did not burden you, but being crafty I took you by guile.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29040,
+        "text": "Did I make gain of you by any of those whom I have sent to you?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29041,
+        "text": "I begged Titus, and sent the brother with [him]: did Titus at all make gain of you? have we not walked in the same spirit? [have we] not in the same steps?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29042,
+        "text": "Ye have long been supposing that we excuse ourselves to you: we speak before God in Christ; and all things, beloved, for your building up.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29043,
+        "text": "For I fear lest perhaps coming I find you not such as I wish, and that I be found by you such as ye do not wish: lest [there might be] strifes, jealousies, angers, contentions, evil speakings, whisperings, puffings up, disturbances;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29044,
+        "text": "lest my God should humble me as to you when I come again, and that I shall grieve over many of those who have sinned before, and have not repented as to the uncleanness and fornication and licentiousness which they have practised.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

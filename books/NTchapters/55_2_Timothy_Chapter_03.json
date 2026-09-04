@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 55,"name": "2 Timothy","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1128,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29855,
+        "text": "But this know, that in [the] last days difficult times shall be there;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29856,
+        "text": "for men shall be lovers of self, lovers of money, boastful, arrogant, evil speakers, disobedient to parents, ungrateful, profane,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29857,
+        "text": "without natural affection, implacable, slanderers, of unsubdued passions, savage, having no love for what is good,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29858,
+        "text": "traitors, headlong, of vain pretensions, lovers of pleasure rather than lovers of God;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29859,
+        "text": "having a form of piety but denying the power of it: and from these turn away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29860,
+        "text": "For of these are they who are getting into houses, and leading captive silly women, laden with sins, led by various lusts,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29861,
+        "text": "always learning, and never able to come to [the] knowledge of [the] truth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29862,
+        "text": "Now in the same manner in which Jannes and Jambres withstood Moses, thus these also withstand the truth; men corrupted in mind, found worthless as regards the faith.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29863,
+        "text": "But they shall not advance farther; for their folly shall be completely manifest to all, as that of those also became.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29864,
+        "text": "But thou hast been thoroughly acquainted with my teaching, conduct, purpose, faith, longsuffering, love, endurance,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 29865,
+        "text": "persecutions, sufferings: what [sufferings] happened to me in Antioch, in Iconium, in Lystra; what persecutions I endured; and the Lord delivered me out of all.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29866,
+        "text": "And all indeed who desire to live piously in Christ Jesus will be persecuted.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29867,
+        "text": "But wicked men and juggling impostors shall advance in evil, leading and being led astray.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29868,
+        "text": "But thou, abide in those things which thou hast learned, and [of which] thou hast been fully persuaded, knowing of whom thou hast learned [them];",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29869,
+        "text": "and that from a child thou hast known the sacred letters, which are able to make thee wise unto salvation, through faith which [is] in Christ Jesus.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29870,
+        "text": "Every scripture [is] divinely inspired, and profitable for teaching, for conviction, for correction, for instruction in righteousness;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29871,
+        "text": "that the man of God may be complete, fully fitted to every good work.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

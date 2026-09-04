@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 1085,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28918,
+        "text": "Having therefore these promises, beloved, let us purify ourselves from every pollution of flesh and spirit, perfecting holiness in God’s fear.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28919,
+        "text": "Receive us: we have injured no one, we have ruined no one, we have made gain of no one.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28920,
+        "text": "I do not speak for condemnation, for I have already said that ye are in our hearts, to die together, and live together.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28921,
+        "text": "Great [is] my boldness towards you, great my exulting in respect of you; I am filled with encouragement; I overabound in joy under all our affliction.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28922,
+        "text": "For indeed, when we came into Macedonia, our flesh had no rest, but [we were] afflicted in every way; without combats, within fears.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 28923,
+        "text": "But he who encourages those that are [brought] low, [even] God, encouraged us by the coming of Titus;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28924,
+        "text": "and not by his coming only, but also through the encouragement with which he was encouraged as to you; relating to us your ardent desire, your mourning, your zeal for me; so that I the more rejoiced.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28925,
+        "text": "For if also I grieved you in the letter, I do not regret [it], if even I have regretted it; for I see that that letter, if even [it were] only for a time, grieved you.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28926,
+        "text": "Now I rejoice, not that ye have been grieved, but that ye have been grieved to repentance; for ye have been grieved according to God, that in nothing ye might be injured by us.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28927,
+        "text": "For grief according to God works repentance to salvation, never to be regretted; but the grief of the world works death.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28928,
+        "text": "For, behold, this same thing, your being grieved according to God, how much diligence it wrought in you, but [what] excusing [of yourselves], but [what] indignation, but [what] fear, but [what] ardent desire, but [what] zeal, but [what] vengeance: in every way ye have proved yourselves to be pure in the matter.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28929,
+        "text": "So then, if also I wrote to you, [it was] not for the sake of him that injured, nor for the sake of him that was injured, but for the sake of our diligent zeal for you being manifested to you before God.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28930,
+        "text": "For this reason we have been encouraged. And we the rather rejoiced in our encouragement more abundantly by reason of the joy of Titus, because his spirit has been refreshed by you all.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28931,
+        "text": "Because if I boasted to him anything about you, I have not been put to shame; but as we have spoken to you all things in truth, so also our boasting to Titus has been [the] truth;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28932,
+        "text": "and his affections are more abundantly towards you, calling to mind the obedience of you all, how with fear and trembling ye received him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28933,
+        "text": "I rejoice that in everything I am confident as to you.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

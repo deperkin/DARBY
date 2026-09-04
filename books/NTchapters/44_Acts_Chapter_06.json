@@ -1,0 +1,117 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1024,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27103,
+        "text": "But in those days, the disciples multiplying in number, there arose a murmuring of the Hellenists against the Hebrews because their widows were overlooked in the daily ministration.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27104,
+        "text": "And the twelve, having called the multitude of the disciples to [them], said, It is not right that we, leaving the word of God, should serve tables.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27105,
+        "text": "Look out therefore, brethren, from among yourselves seven men, well reported of, full of [the] [Holy] Spirit and wisdom, whom we will establish over this business:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27106,
+        "text": "but we will give ourselves up to prayer and the ministry of the word.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27107,
+        "text": "And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and [the] Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas, a proselyte of Antioch,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27108,
+        "text": "whom they set before the apostles; and, having prayed, they laid their hands on them.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27109,
+        "text": "And the word of God increased; and the number of the disciples in Jerusalem was very greatly multiplied, and a great crowd of the priests obeyed the faith.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27110,
+        "text": "And Stephen, full of grace and power, wrought wonders and great signs among the people.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 27111,
+        "text": "And there arose up certain of those of the synagogue called of freedmen, and of Cyrenians, and of Alexandrians, and of those of Cilicia and Asia, disputing with Stephen.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27112,
+        "text": "And they were not able to resist the wisdom and the Spirit with which he spoke.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27113,
+        "text": "Then they suborned men, saying, We have heard him speaking blasphemous words against Moses and God.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27114,
+        "text": "And they roused the people, and the elders, and the scribes. And coming upon [him] they seized him and brought [him] to the council.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27115,
+        "text": "And they set false witnesses, saying, This man does not cease speaking words against the holy place and the law;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27116,
+        "text": "for we have heard him saying, This Jesus the Nazaraean shall destroy this place, and change the customs which Moses taught us.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27117,
+        "text": "And all who sat in the council, looking fixedly on him, saw his face as [the] face of an angel.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

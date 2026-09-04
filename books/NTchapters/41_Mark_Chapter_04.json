@@ -1,0 +1,299 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 41,"name": "Mark","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 961,
+    "MaxVerses": 41,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24325,
+        "text": "And again he began to teach by the sea. And a great crowd was gathered together to him, so that going on board ship he sat in the sea, and all the crowd were close to the sea on the land.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24326,
+        "text": "And he taught them many things in parables. And he said to them in his doctrine,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24327,
+        "text": "Hearken: Behold, the sower went forth to sow.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24328,
+        "text": "And it came to pass as he sowed, one fell by the wayside, and the birds came and devoured it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24329,
+        "text": "And another fell on the rocky ground, where it had not much earth, and immediately it sprung up out [of the ground] because it had no depth of earth;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24330,
+        "text": "and when the sun arose it was burnt up, and because of its not having any root, it withered.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24331,
+        "text": "And another fell among the thorns, and the thorns grew up and choked it, and it yielded no fruit.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24332,
+        "text": "And another fell into the good ground, and yielded fruit, growing up and increasing; and bore, one thirty, and one sixty, and one a hundred.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24333,
+        "text": "And he said, He that has ears to hear, let him hear.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24334,
+        "text": "And when he was alone, those about him with the twelve asked him [as to] the parables.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24335,
+        "text": "And he said to them, To you is given [to know] the mystery of the kingdom of God; but to them who are without, all things are done in parables,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24336,
+        "text": "that beholding they may behold and not see, and hearing they may hear and not understand, lest it may be, they should be converted and they should be forgiven.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24337,
+        "text": "And he says to them, Do ye not know this parable? and how will ye be acquainted with all the parables?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 24338,
+        "text": "The sower sows the word:",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24339,
+        "text": "and these are they by the wayside where the word is sown, and when they hear, immediately Satan comes and takes away the word that was sown in them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24340,
+        "text": "And these are they in like manner who are sown upon the rocky places, who when they hear the word, immediately receive it with joy,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24341,
+        "text": "and they have no root in themselves, but are for a time: then, tribulation arising, or persecution on account of the word, immediately they are offended.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24342,
+        "text": "And others are they who are sown among the thorns: these are they who have heard the word,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24343,
+        "text": "and the cares of life, and the deceitfulness of riches, and the lusts of other things, entering in, choke the word, and it becomes unfruitful.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24344,
+        "text": "And these are they who have been sown on the good ground, such as hear the word and receive it, and bear fruit; one thirty, and one sixty, and one a hundred [fold].",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24345,
+        "text": "And he said to them, Does the lamp come that it should be put under the bushel or under the couch? [Is it] not that it should be set upon the lamp-stand?",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 24346,
+        "text": "For there is nothing hidden which shall not be made manifest; nor does any secret thing take place, but that it should come to light.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 24347,
+        "text": "If any one have ears to hear, let him hear.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24348,
+        "text": "And he said to them, Take heed what ye hear; with what measure ye mete, it shall be meted to you; and there shall be [more] added to you.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24349,
+        "text": "For whosoever has, to him shall be given; and he who has not, even what he has shall be taken from him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24350,
+        "text": "And he said, Thus is the kingdom of God, as if a man should cast the seed upon the earth,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 24351,
+        "text": "and should sleep and rise up night and day, and the seed should sprout and grow, he does not know how.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24352,
+        "text": "The earth bears fruit of itself, first [the] blade, then an ear, then full corn in the ear.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 24353,
+        "text": "But when the fruit is produced, immediately he sends the sickle, for the harvest is come.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 24354,
+        "text": "And he said, How should we liken the kingdom of God, or with what comparison should we compare it?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 24355,
+        "text": "As to a grain of mustard [seed], which, when it is sown upon the earth, is less than all seeds which are upon the earth,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 24356,
+        "text": "and when it has been sown, mounts up and becomes greater than all herbs, and produces great branches, so that the birds of heaven can roost under its shadow.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 24357,
+        "text": "And with many such parables he spoke the word to them, as they were able to hear,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 24358,
+        "text": "but without a parable spoke he not to them; and in private he explained all things to his disciples.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 24359,
+        "text": "And on that day, when evening was come, he says to them, Let us go over to the other side:",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 24360,
+        "text": "and having sent away the crowd, they take him with [them], as he was, in the ship. But other ships also were with him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 24361,
+        "text": "And there comes a violent gust of wind, and the waves beat into the ship, so that it already filled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 24362,
+        "text": "And he was in the stern sleeping on the cushion. And they awake him up and say to him, Teacher, dost thou not care that we are perishing?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 24363,
+        "text": "And awaking up he rebuked the wind, and said to the sea, Silence; be mute. And the wind fell, and there was a great calm.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 24364,
+        "text": "And he said to them, Why are ye [thus] fearful? how [is it] ye have not faith?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 24365,
+        "text": "And they feared [with] great fear, and said one to another, Who then is this, that even the wind and the sea obey him?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

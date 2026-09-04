@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 55,"name": "2 Timothy","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1129,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29872,
+        "text": "I testify before God and Christ Jesus, who is about to judge living and dead, and by his appearing and his kingdom,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29873,
+        "text": "proclaim the word; be urgent in season [and] out of season, convict, rebuke, encourage, with all longsuffering and doctrine.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29874,
+        "text": "For the time shall be when they will not bear sound teaching; but according to their own lusts will heap up to themselves teachers, having an itching ear;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29875,
+        "text": "and they will turn away their ear from the truth, and will have turned aside to fables.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29876,
+        "text": "But thou, be sober in all things, bear evils, do [the] work of an evangelist, fill up the full measure of thy ministry.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29877,
+        "text": "For I am already being poured out, and the time of my release is come.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29878,
+        "text": "I have combated the good combat, I have finished the race, I have kept the faith.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29879,
+        "text": "Henceforth the crown of righteousness is laid up for me, which the Lord, the righteous Judge, will render to me in that day; but not only to me, but also to all who love his appearing.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29880,
+        "text": "Use diligence to come to me quickly;",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29881,
+        "text": "for Demas has forsaken me, having loved the present age, and is gone to Thessalonica; Crescens to Galatia, Titus to Dalmatia.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29882,
+        "text": "Luke alone is with me. Take Mark, and bring [him] with thyself, for he is serviceable to me for ministry.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29883,
+        "text": "But Tychicus I have sent to Ephesus.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29884,
+        "text": "The cloak which I left behind [me] in Troas at Carpus’s, bring when thou comest, and the books, especially the parchments.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29885,
+        "text": "Alexander the smith did many evil things against me. The Lord will render to him according to his works.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29886,
+        "text": "Against whom be thou also on thy guard, for he has greatly withstood our words.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29887,
+        "text": "At my first defence no man stood with me, but all deserted me. May it not be imputed to them.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29888,
+        "text": "But the Lord stood with [me], and gave me power, that through me the proclamation might be fully made, and all [those of] the nations should hear; and I was delivered out of the lion’s mouth.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29889,
+        "text": "The Lord shall deliver me from every wicked work, and shall preserve [me] for his heavenly kingdom; to whom [be] glory for the ages of ages. Amen.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29890,
+        "text": "Salute Prisca and Aquila, and the house of Onesiphorus.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29891,
+        "text": "Erastus remained in Corinth, but Trophimus I left behind in Miletus sick.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29892,
+        "text": "Use diligence to come before winter. Eubulus salutes thee, and Pudens, and Linus, and Claudia, and the brethren all.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29893,
+        "text": "The Lord Jesus Christ [be] with your spirit. Grace [be] with you.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

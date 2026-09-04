@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 59,"name": "James","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1150,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30339,
+        "text": "Whence [come] wars and whence fightings among you? [Is it] not thence,—from your pleasures, which war in your members?",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30340,
+        "text": "Ye lust and have not: ye kill and are full of envy, and cannot obtain; ye fight and war; ye have not because ye ask not.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30341,
+        "text": "Ye ask and receive not, because ye ask evilly, that ye may consume [it] in your pleasures.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30342,
+        "text": "Adulteresses, know ye not that friendship with the world is enmity with God? Whoever therefore is minded to be [the] friend of the world is constituted enemy of God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30343,
+        "text": "Think ye that the scripture speaks in vain? Does the Spirit which has taken his abode in us desire enviously?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30344,
+        "text": "But he gives more grace. Wherefore he says, God sets himself against [the] proud, but gives grace to [the] lowly.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30345,
+        "text": "Subject yourselves therefore to God. Resist the devil, and he will flee from you.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30346,
+        "text": "Draw near to God, and he will draw near to you. Cleanse [your] hands, sinners, and purify [your] hearts, ye double-minded.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30347,
+        "text": "Be wretched, and mourn, and weep: let your laughter be turned to mourning, and [your] joy to heaviness.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30348,
+        "text": "Humble yourselves before [the] Lord, and he shall exalt you.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30349,
+        "text": "Speak not against one another, brethren. He that speaks against [his] brother, or judges his brother, speaks against [the] law and judges [the] law. But if thou judgest [the] law, thou art not doer of [the] law, but judge.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 30350,
+        "text": "One is the lawgiver and judge, who is able to save and to destroy: but who art thou who judgest thy neighbour?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30351,
+        "text": "Go to now, ye who say, To-day or to-morrow will we go into such a city and spend a year there, and traffic and make gain,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30352,
+        "text": "ye who do not know what will be on the morrow, ([for] what [is] your life? It is even a vapour, appearing for a little while, and then disappearing,)",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30353,
+        "text": "instead of your saying, If the Lord should [so] will and we should live, we will also do this or that.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30354,
+        "text": "But now ye glory in your vauntings: all such glorying is evil.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30355,
+        "text": "To him therefore who knows how to do good, and does it not, to him it is sin.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

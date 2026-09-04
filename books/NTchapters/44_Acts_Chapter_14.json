@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 1032,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27416,
+        "text": "And it came to pass in Iconium that they entered together into the synagogue of the Jews, and so spake that a great multitude of both Jews and Greeks believed.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27417,
+        "text": "But the Jews who did not believe stirred up the minds of [those of] the nations and made [them] evil-affected against the brethren.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27418,
+        "text": "They stayed therefore a good while, speaking boldly, [confiding] in the Lord, who gave witness to the word of his grace, giving signs and wonders to be done by their hands.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27419,
+        "text": "And the multitude of the city was divided, and some were with the Jews and some with the apostles.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27420,
+        "text": "And when an assault was making, both of [those of] the nations and [the] Jews with their rulers, to use [them] ill and stone them,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27421,
+        "text": "they, being aware of it, fled to the cities of Lycaonia, Lystra and Derbe, and the surrounding country,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27422,
+        "text": "and there they were announcing the glad tidings.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27423,
+        "text": "And a certain man in Lystra, impotent in his feet, sat, [being] lame from his mother’s womb, who had never walked.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 27424,
+        "text": "This [man] heard Paul speaking, who, fixing his eyes on him, and seeing that he had faith to be healed,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27425,
+        "text": "said with a loud voice, Rise up straight upon thy feet: and he sprang up and walked.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27426,
+        "text": "But the crowds, who saw what Paul had done, lifted up their voices in Lycaonian, saying, The gods, having made themselves like men, are come down to us.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27427,
+        "text": "And they called Barnabas Jupiter, and Paul Mercury, because he took the lead in speaking.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27428,
+        "text": "And the priest of Jupiter who was before the city, having brought bulls and garlands to the gates, would have done sacrifice along with the crowds.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27429,
+        "text": "But the apostles Barnabas and Paul, having heard [it], rent their garments, and rushed out to the crowd, crying",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27430,
+        "text": "and saying, Men, why do ye these things? We also are men of like passions with you, preaching to you to turn from these vanities to the living God, who made the heaven, and the earth, and the sea, and all things in them;",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27431,
+        "text": "who in the past generations suffered all the nations to go in their own ways,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27432,
+        "text": "though indeed he did not leave himself without witness, doing good, and giving to you from heaven rain and fruitful seasons, filling your hearts with food and gladness.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27433,
+        "text": "And saying these things, they with difficulty kept the crowds from sacrificing to them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27434,
+        "text": "But there came Jews from Antioch and Iconium, and having persuaded the crowds and stoned Paul, drew him out of the city, supposing him to have died.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 27435,
+        "text": "But while the disciples encircled him, he rose up and entered into the city. And on the morrow he went away with Barnabas to Derbe.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27436,
+        "text": "And having announced the glad tidings to that city, and having made many disciples, they returned to Lystra, and Iconium, and Antioch,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27437,
+        "text": "establishing the souls of the disciples, exhorting them to abide in the faith, and that through many tribulations we must enter into the kingdom of God.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27438,
+        "text": "And having chosen them elders in each assembly, having prayed with fastings, they committed them to the Lord, on whom they had believed.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27439,
+        "text": "And having passed through Pisidia they came to Pamphylia,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27440,
+        "text": "and having spoken the word in Perga, they came down to Attalia;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27441,
+        "text": "and thence they sailed away to Antioch, whence they had been committed to the grace of God for the work which they had fulfilled.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27442,
+        "text": "And having arrived, and having brought together the assembly, they related to them all that God had done with them, and that he had opened a door of faith to the nations.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27443,
+        "text": "And they stayed no little time with the disciples.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

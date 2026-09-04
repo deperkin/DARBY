@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 60,"name": "1 Peter","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1153,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30401,
+        "text": "Laying aside therefore all malice and all guile and hypocrisies and envyings and all evil speakings,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30402,
+        "text": "as newborn babes desire earnestly the pure mental milk of the word, that by it ye may grow up to salvation,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30403,
+        "text": "if indeed ye have tasted that the Lord [is] good.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30404,
+        "text": "To whom coming, a living stone, cast away indeed as worthless by men, but with God chosen, precious,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 30405,
+        "text": "yourselves also, as living stones, are being built up a spiritual house, a holy priesthood, to offer spiritual sacrifices acceptable to God by Jesus Christ.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30406,
+        "text": "Because it is contained in the scripture: Behold, I lay in Zion a corner stone, elect, precious: and he that believes on him shall not be put to shame.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30407,
+        "text": "To you therefore who believe [is] the preciousness; but to the disobedient, the stone which the builders cast away as worthless, this is become head of [the] corner,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30408,
+        "text": "and a stone of stumbling and rock of offence; [who] stumble at the word, being disobedient to which also they have been appointed.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30409,
+        "text": "But ye [are] a chosen race, a kingly priesthood, a holy nation, a people for a possession, that ye might set forth the excellencies of him who has called you out of darkness to his wonderful light;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30410,
+        "text": "who once [were] not a people, but now God’s people; who were not enjoying mercy, but now have found mercy.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30411,
+        "text": "Beloved, I exhort [you], as strangers and sojourners, to abstain from fleshly lusts, which war against the soul;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30412,
+        "text": "having your conversation honest among the Gentiles, that [as to that] in which they speak against you as evildoers, they may through [your] good works, [themselves] witnessing [them], glorify God in [the] day of visitation.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30413,
+        "text": "Be in subjection [therefore] to every human institution for the Lord’s sake; whether to [the] king as supreme,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 30414,
+        "text": "or to rulers as sent by him, for vengeance on evildoers, and praise to them that do well.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30415,
+        "text": "Because so is the will of God, that by well-doing ye put to silence the ignorance of senseless men;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30416,
+        "text": "as free, and not as having liberty as a cloak of malice, but as God’s bondmen.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30417,
+        "text": "Shew honour to all, love the brotherhood, fear God, honour the king.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30418,
+        "text": "Servants, [be] subject with all fear to your masters, not only to the good and gentle, but also to the ill-tempered.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30419,
+        "text": "For this [is] acceptable, if one, for conscience sake towards God, endure griefs, suffering unjustly.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30420,
+        "text": "For what glory [is it], if sinning and being buffeted ye shall bear [it]? but if, doing good and suffering, ye shall bear [it], this is acceptable with God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30421,
+        "text": "For to this have ye been called; for Christ also has suffered for you, leaving you a model that ye should follow in his steps:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30422,
+        "text": "who did no sin, neither was guile found in his mouth;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30423,
+        "text": "who, [when] reviled, reviled not again; [when] suffering, threatened not; but gave [himself] over into the hands of him who judges righteously;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30424,
+        "text": "who himself bore our sins in his body on the tree, in order that, being dead to sins, we may live to righteousness: by whose stripes ye have been healed.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30425,
+        "text": "For ye were going astray as sheep, but have now returned to the shepherd and overseer of your souls.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1124,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29765,
+        "text": "Rebuke not an elder sharply, but exhort [him] as a father, younger [men] as brethren,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29766,
+        "text": "elder women as mothers, younger women as sisters, with all purity.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29767,
+        "text": "Honour widows who are really widows;",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29768,
+        "text": "but if any widow have children or descendants, let them learn first to be pious as regards their own house, and to render a return on their side to [their] parents; for this is acceptable in the sight of God.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29769,
+        "text": "Now she who [is] a widow indeed, and is left alone, has put [her] hope in God, and continues in supplications and prayers night and day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29770,
+        "text": "But she that lives in habits of self-indulgence is dead [while] living.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29771,
+        "text": "And these things enjoin, that they may be irreproachable.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29772,
+        "text": "But if any one does not provide for his own, and specially for those of [his] house, he has denied the faith, and is worse than the unbeliever.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29773,
+        "text": "Let a widow be put upon the list, being of not less than sixty years, [having been] wife of one man,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29774,
+        "text": "borne witness to in good works, if she have brought up children, if she have exercised hospitality, if she have washed saints’ feet, if she have imparted relief to the distressed, if she have diligently followed every good work.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29775,
+        "text": "But younger widows decline; for when they grow wanton against Christ, they desire to marry,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29776,
+        "text": "being guilty, because they have cast off their first faith.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29777,
+        "text": "And, at the same time, they learn also [to be] idle, going about to people’s houses; and not only idle, but also gossipers and meddlers, speaking things not becoming.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29778,
+        "text": "I will therefore that the younger marry, bear children, rule the house, give no occasion to the adversary in respect of reproach.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29779,
+        "text": "For already some have turned aside after Satan.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29780,
+        "text": "If any believing man or woman have widows, let them impart relief to them, and let not the assembly be charged, that it may impart relief to those [that are] widows indeed.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29781,
+        "text": "Let the elders who take the lead [among the saints] well be esteemed worthy of double honour, specially those labouring in word and teaching;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 29782,
+        "text": "for the scripture says, Thou shalt not muzzle an ox that treadeth out corn, and, The workman [is] worthy of his hire.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29783,
+        "text": "Against an elder receive not an accusation unless where there are two or three witnesses.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29784,
+        "text": "Those that sin convict before all, that the rest also may have fear.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29785,
+        "text": "I testify before God and Christ Jesus and the elect angels, that thou keep these things without prejudice, doing nothing by favour.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29786,
+        "text": "Lay hands quickly on no man, nor partake in others’ sins. Keep thyself pure.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29787,
+        "text": "Drink no longer only water, but use a little wine on account of thy stomach and thy frequent illnesses.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29788,
+        "text": "Of some men the sins are manifest beforehand, going before to judgment, and some also they follow after.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29789,
+        "text": "In like manner good works also are manifest beforehand, and those that are otherwise cannot be hid.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

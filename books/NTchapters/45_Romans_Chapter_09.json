@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 1055,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28157,
+        "text": "I say [the] truth in Christ, I lie not, my conscience bearing witness with me in [the] Holy Spirit,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28158,
+        "text": "that I have great grief and uninterrupted pain in my heart,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28159,
+        "text": "for I have wished, I myself, to be a curse from the Christ for my brethren, my kinsmen, according to flesh;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28160,
+        "text": "who are Israelites; whose [is] the adoption, and the glory, and the covenants, and the law-giving, and the service, and the promises;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28161,
+        "text": "whose [are] the fathers; and of whom, as according to flesh, [is] the Christ, who is over all, God blessed for ever. Amen.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28162,
+        "text": "Not however as though the word of God had failed; for not all [are] Israel which [are] of Israel;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 28163,
+        "text": "nor because they are seed of Abraham [are] all children: but, In Isaac shall a seed be called to thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28164,
+        "text": "That is, [they that are] the children of the flesh, these [are] not the children of God; but the children of the promise are reckoned as seed.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28165,
+        "text": "For this word [is] of promise, According to this time I will come, and there shall be a son to Sarah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28166,
+        "text": "And not only [that], but Rebecca having conceived by one, Isaac our father,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28167,
+        "text": "[the children] indeed being not yet born, or having done anything good or worthless (that the purpose of God according to election might abide, not of works, but of him that calls),",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28168,
+        "text": "it was said to her, The greater shall serve the less:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28169,
+        "text": "according as it is written, I have loved Jacob, and I have hated Esau.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28170,
+        "text": "What shall we say then? [Is there] unrighteousness with God? Far be the thought.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 28171,
+        "text": "For he says to Moses, I will shew mercy to whom I will shew mercy, and I will feel compassion for whom I will feel compassion.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28172,
+        "text": "So then [it is] not of him that wills, nor of him that runs, but of God that shews mercy.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28173,
+        "text": "For the scripture says to Pharaoh, For this very thing I have raised thee up from amongst [men], that I might thus shew in thee my power, and so that my name should be declared in all the earth.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28174,
+        "text": "So then, to whom he will he shews mercy, and whom he will he hardens.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28175,
+        "text": "Thou wilt say to me then, Why does he yet find fault? for who resists his purpose?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28176,
+        "text": "Aye, but thou, O man, who art thou that answerest again to God? Shall the thing formed say to him that has formed it, Why hast thou made me thus?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28177,
+        "text": "Or has not the potter authority over the clay, out of the same lump to make one vessel to honour, and another to dishonour?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28178,
+        "text": "And if God, minded to shew his wrath and to make his power known, endured with much long-suffering vessels of wrath fitted for destruction;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28179,
+        "text": "and that he might make known the riches of his glory upon vessels of mercy, which he had before prepared for glory,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28180,
+        "text": "us, whom he has also called, not only from amongst [the] Jews, but also from amongst [the] nations?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28181,
+        "text": "As he says also in Hosea, I will call not-my-people My people; and the-not-beloved Beloved.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 28182,
+        "text": "And it shall be, in the place where it was said to them, Ye [are] not my people, there shall they be called Sons of [the] living God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28183,
+        "text": "But Esaias cries concerning Israel, Should the number of the children of Israel be as the sand of the sea, the remnant shall be saved:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28184,
+        "text": "for [he] is bringing the matter to an end, and [cutting [it] short in righteousness; because] a cutting short of the matter will [the] Lord accomplish upon the earth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28185,
+        "text": "And according as Esaias said before, Unless [the] Lord of hosts had left us a seed, we had been as Sodom, and made like even as Gomorrha.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28186,
+        "text": "What then shall we say? That [they of the] nations, who did not follow after righteousness, have attained righteousness, but [the] righteousness that is on the principle of faith.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 28187,
+        "text": "But Israel, pursuing after a law of righteousness, has not attained to [that] law.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 28188,
+        "text": "Wherefore? Because [it was] not on the principle of faith, but as of works. They have stumbled at the stumblingstone,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28189,
+        "text": "according as it is written, Behold, I place in Zion a stone of stumbling and rock of offence: and he that believes on him shall not be ashamed.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

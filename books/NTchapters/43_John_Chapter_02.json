@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 999,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26097,
+        "text": "And on the third day a marriage took place in Cana of Galilee, and the mother of Jesus was there.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26098,
+        "text": "And Jesus also, and his disciples, were invited to the marriage.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26099,
+        "text": "And wine being deficient, the mother of Jesus says to him, They have no wine.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26100,
+        "text": "Jesus says to her, What have I to do with thee, woman? mine hour has not yet come.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26101,
+        "text": "His mother says to the servants, Whatever he may say to you, do.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26102,
+        "text": "Now there were standing there six stone water-vessels, according to the purification of the Jews, holding two or three measures each.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26103,
+        "text": "Jesus says to them, Fill the water-vessels with water. And they filled them up to the brim.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26104,
+        "text": "And he says to them, Draw out now, and carry [it] to the feast-master. And they carried [it].",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26105,
+        "text": "But when the feast-master had tasted the water which had been made wine (and knew not whence it was, but the servants knew who drew the water), the feast-master calls the bridegroom,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26106,
+        "text": "and says to him, Every man sets on first the good wine, and when [men] have well drunk, then the inferior; thou hast kept the good wine till now.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26107,
+        "text": "This beginning of signs did Jesus in Cana of Galilee, and manifested his glory; and his disciples believed on him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26108,
+        "text": "After this he descended to Capernaum, he and his mother and his brethren and his disciples; and there they abode not many days.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 26109,
+        "text": "And the passover of the Jews was near, and Jesus went up to Jerusalem.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26110,
+        "text": "And he found in the temple the sellers of oxen and sheep and doves, and the money-changers sitting;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26111,
+        "text": "and, having made a scourge of cords, he cast [them] all out of the temple, both the sheep and the oxen; and he poured out the change of the money-changers, and overturned the tables,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26112,
+        "text": "and said to the sellers of doves, Take these things hence; make not my Father’s house a house of merchandise.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26113,
+        "text": "[And] his disciples remembered that it is written, The zeal of thy house devours me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26114,
+        "text": "The Jews therefore answered and said to him, What sign shewest thou to us, that thou doest these things?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26115,
+        "text": "Jesus answered and said to them, Destroy this temple, and in three days I will raise it up.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26116,
+        "text": "The Jews therefore said, Forty and six years was this temple building, and thou wilt raise it up in three days?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26117,
+        "text": "But he spoke of the temple of his body.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26118,
+        "text": "When therefore he was raised from among [the] dead, his disciples remembered that he had said this, and believed the scripture and the word which Jesus had spoken.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26119,
+        "text": "And when he was in Jerusalem, at the passover, at the feast, many believed on his name, beholding his signs which he wrought.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 26120,
+        "text": "But Jesus himself did not trust himself to them, because he knew all [men],",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26121,
+        "text": "and that he had not need that any should testify of man, for himself knew what was in man.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

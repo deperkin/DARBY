@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 932,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23194,
+        "text": "Now in those days comes John the baptist, preaching in the wilderness of Judaea,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23195,
+        "text": "and saying, Repent, for the kingdom of the heavens has drawn nigh.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23196,
+        "text": "For this is he who has been spoken of through Esaias the prophet, saying, Voice of him that crieth in the wilderness: prepare ye the way of [the] Lord, make straight his paths.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23197,
+        "text": "And John himself had his garment of camel’s hair, and a leathern girdle about his loins, and his nourishment was locusts and wild honey.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23198,
+        "text": "Then went out to him Jerusalem, and all Judaea, and all the country round the Jordan,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23199,
+        "text": "and were baptised by him in the Jordan, confessing their sins.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23200,
+        "text": "But seeing many of the Pharisees and Sadducees coming to his baptism, he said to them, Offspring of vipers, who has forewarned you to flee from the coming wrath?",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 23201,
+        "text": "Produce therefore fruit worthy of repentance.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23202,
+        "text": "And do not think to say within yourselves, We have Abraham for [our] father; for I say unto you, that God is able of these stones to raise up children to Abraham.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23203,
+        "text": "And already the axe is applied to the root of the trees; every tree therefore not producing good fruit is cut down and cast into the fire.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23204,
+        "text": "I indeed baptise you with water to repentance, but he that comes after me is mightier than I, whose sandals I am not fit to bear; he shall baptise you with [the] Holy Spirit and fire;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23205,
+        "text": "whose winnowing fan [is] in his hand, and he shall thoroughly purge his threshing-floor, and shall gather his wheat into the garner, but the chaff he will burn with fire unquenchable.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23206,
+        "text": "Then comes Jesus from Galilee to the Jordan to John, to be baptised of him;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23207,
+        "text": "but John urgently forbad him, saying, I have need to be baptised of thee; and comest thou to me?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23208,
+        "text": "But Jesus answering said to him, Suffer [it] now; for thus it becometh us to fulfil all righteousness. Then he suffers him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23209,
+        "text": "And Jesus, having been baptised, went up straightway from the water, and lo, the heavens were opened to him, and he saw the Spirit of God descending as a dove, and coming upon him:",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23210,
+        "text": "and behold, a voice out of the heavens saying, This is my beloved Son, in whom I have found my delight.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 61,"name": "2 Peter","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1157,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30481,
+        "text": "Simon Peter, bondman and apostle of Jesus Christ, to them that have received like precious faith with us through [the] righteousness of our God and Saviour Jesus Christ:",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30482,
+        "text": "Grace and peace be multiplied to you in [the] knowledge of God and of Jesus our Lord.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30483,
+        "text": "As his divine power has given to us all things which relate to life and godliness, through the knowledge of him that has called us by glory and virtue,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30484,
+        "text": "through which he has given to us the greatest and precious promises, that through these ye may become partakers of [the] divine nature, having escaped the corruption that is in the world through lust.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30485,
+        "text": "But for this very reason also, using therewith all diligence, in your faith have also virtue, in virtue knowledge,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 30486,
+        "text": "in knowledge temperance, in temperance endurance, in endurance godliness,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30487,
+        "text": "in godliness brotherly love, in brotherly love love:",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30488,
+        "text": "for these things existing and abounding in you make [you] to be neither idle nor unfruitful as regards the knowledge of our Lord Jesus Christ;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30489,
+        "text": "for he with whom these things are not present is blind, short-sighted, and has forgotten the purging of his former sins.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30490,
+        "text": "Wherefore the rather, brethren, use diligence to make your calling and election sure, for doing these things ye will never fall;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30491,
+        "text": "for thus shall the entrance into the everlasting kingdom of our Lord and Saviour Jesus Christ be richly furnished unto you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30492,
+        "text": "Wherefore I will be careful to put you always in mind of these things, although knowing [them] and established in the present truth.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30493,
+        "text": "But I account it right, as long as I am in this tabernacle, to stir you up by putting [you] in remembrance,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30494,
+        "text": "knowing that the putting off of my tabernacle is speedily [to take place], as also our Lord Jesus Christ has manifested to me;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30495,
+        "text": "but I will use diligence, that after my departure ye should have also, at any time, [in your power] to call to mind these things.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30496,
+        "text": "For we have not made known to you the power and coming of our Lord Jesus Christ, following cleverly imagined fables, but having been eyewitnesses of his majesty.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 30497,
+        "text": "For he received from God [the] Father honour and glory, such a voice being uttered to him by the excellent glory: This is my beloved Son, in whom I have found my delight;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30498,
+        "text": "and this voice we heard uttered from heaven, being with him on the holy mountain.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30499,
+        "text": "And we have the prophetic word [made] surer, to which ye do well taking heed (as to a lamp shining in an obscure place) until [the] day dawn and [the] morning star arise in your hearts;",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 30500,
+        "text": "knowing this first, that [the scope of] no prophecy of scripture is had from its own particular interpretation,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30501,
+        "text": "for prophecy was not ever uttered by [the] will of man, but holy men of God spake under the power of [the] Holy Spirit.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

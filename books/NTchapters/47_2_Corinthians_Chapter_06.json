@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1084,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28900,
+        "text": "But [as] fellow-workmen, we also beseech that ye receive not the grace of God in vain:",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28901,
+        "text": "(for he says, I have listened to thee in an accepted time, and I have helped thee in a day of salvation: behold, now [is the] well-accepted time; behold, now [the] day of salvation:)",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28902,
+        "text": "giving no manner of offence in anything, that the ministry be not blamed;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28903,
+        "text": "but in everything commending ourselves as God’s ministers, in much endurance, in afflictions, in necessities, in straits,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28904,
+        "text": "in stripes, in prisons, in riots, in labours, in watchings, in fastings,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28905,
+        "text": "in pureness, in knowledge, in longsuffering, in kindness, in [the] Holy Spirit, in love unfeigned,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28906,
+        "text": "in [the] word of truth, in [the] power of God; through the arms of righteousness on the right hand and left,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28907,
+        "text": "through glory and dishonour, through evil report and good report: as deceivers, and true;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28908,
+        "text": "as unknown, and well known; as dying, and behold, we live; as disciplined, and not put to death;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28909,
+        "text": "as grieved, but always rejoicing; as poor, but enriching many; as having nothing, and possessing all things.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28910,
+        "text": "Our mouth is opened to you, Corinthians, our heart is expanded.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 28911,
+        "text": "Ye are not straitened in us, but ye are straitened in your affections;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28912,
+        "text": "but for an answering recompense, (I speak as to children,) let your heart also expand itself.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28913,
+        "text": "Be not diversely yoked with unbelievers; for what participation [is there] between righteousness and lawlessness? or what fellowship of light with darkness?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28914,
+        "text": "and what consent of Christ with Beliar, or what part for a believer along with an unbeliever?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28915,
+        "text": "and what agreement of God’s temple with idols? for ye are [the] living God’s temple; according as God has said, I will dwell among them, and walk among [them]; and I will be their God, and they shall be to me a people.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28916,
+        "text": "Wherefore come out from the midst of them, and be separated, saith [the] Lord, and touch not [what is] unclean, and I will receive you;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28917,
+        "text": "and I will be to you for a Father, and ye shall be to me for sons and daughters, saith [the] Lord Almighty.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

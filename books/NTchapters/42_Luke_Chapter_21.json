@@ -1,0 +1,278 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 994,
+    "MaxVerses": 38,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25828,
+        "text": "And he looked up and saw the rich casting their gifts into the treasury;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25829,
+        "text": "but he saw also a certain poor widow casting therein two mites.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25830,
+        "text": "And he said, Verily I say unto you, that this poor widow has cast in more than all;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25831,
+        "text": "for all these out of their abundance have cast into the gifts [of God]; but she out of her need has cast in all the living which she had.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25832,
+        "text": "And as some spoke of the temple, that it was adorned with goodly stones and consecrated offerings, he said,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 25833,
+        "text": "[As to] these things which ye are beholding, days are coming in which there shall not be left stone upon stone which shall not be thrown down.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25834,
+        "text": "And they asked him saying, Teacher, when then shall these things be; and what [is] the sign when these things are going to take place?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25835,
+        "text": "And he said, See that ye be not led astray, for many shall come in my name, saying, I am [he], and the time is drawn nigh: go ye not [therefore] after them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25836,
+        "text": "And when ye shall hear of wars and tumults, be not terrified, for these things must first take place, but the end is not immediately.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25837,
+        "text": "Then he said to them, Nation shall rise up against nation, and kingdom against kingdom;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25838,
+        "text": "there shall be both great earthquakes in different places, and famines and pestilences; and there shall be fearful sights and great signs from heaven.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25839,
+        "text": "But before all these things they shall lay their hands upon you and persecute you, delivering [you] up to synagogues and prisons, bringing [you] before kings and governors on account of my name;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25840,
+        "text": "but it shall turn out to you for a testimony.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25841,
+        "text": "Settle therefore in your hearts not to meditate beforehand [your] defence,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25842,
+        "text": "for I will give you a mouth and wisdom which all your opposers shall not be able to reply to or resist.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25843,
+        "text": "But ye will be delivered up even by parents and brethren and relations and friends, and they shall put to death [some] from among you,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25844,
+        "text": "and ye will be hated of all for my name’s sake.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25845,
+        "text": "And a hair of your head shall in no wise perish.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25846,
+        "text": "By your patient endurance gain your souls.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 25847,
+        "text": "But when ye see Jerusalem encompassed with armies, then know that its desolation is drawn nigh.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 25848,
+        "text": "Then let those who are in Judaea flee to the mountains, and those who are in the midst of it depart out, and those who are in the country not enter into it;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25849,
+        "text": "for these are days of avenging, that all the things that are written may be accomplished.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 25850,
+        "text": "But woe to them that are with child and to them who give suck in those days, for there shall be great distress upon the land and wrath upon this people.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25851,
+        "text": "And they shall fall by the edge of the sword, and be led captive into all the nations; and Jerusalem shall be trodden down of [the] nations until [the] times of [the] nations be fulfilled.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25852,
+        "text": "And there shall be signs in sun and moon and stars, and upon the earth distress of nations in perplexity [at] the roar of the sea and rolling waves,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25853,
+        "text": "men ready to die through fear and expectation of what is coming on the habitable earth, for the powers of the heavens shall be shaken.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25854,
+        "text": "And then shall they see the Son of man coming in a cloud with power and great glory.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25855,
+        "text": "But when these things begin to come to pass, look up and lift up your heads, because your redemption draws nigh.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25856,
+        "text": "And he spoke a parable to them: Behold the fig-tree and all the trees;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 25857,
+        "text": "when they already sprout, ye know of your own selves, [on] looking [at them], that already the summer is near.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25858,
+        "text": "So also ye, when ye see these things take place, know that the kingdom of God is near.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25859,
+        "text": "Verily I say unto you, that this generation shall in no wise pass away until all come to pass.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25860,
+        "text": "The heaven and the earth shall pass away, but my words shall in no wise pass away.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25861,
+        "text": "But take heed to yourselves lest possibly your hearts be laden with surfeiting and drinking and cares of life, and that day come upon you suddenly unawares;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25862,
+        "text": "for as a snare shall it come upon all them that dwell upon the face of the whole earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25863,
+        "text": "Watch therefore, praying at every season, that ye may be accounted worthy to escape all these things which are about to come to pass, and to stand before the Son of man.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25864,
+        "text": "And by day he was teaching in the temple, and by night, going out, he remained abroad on the mountain called [the mount] of Olives;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25865,
+        "text": "and all the people came early in the morning to him in the temple to hear him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

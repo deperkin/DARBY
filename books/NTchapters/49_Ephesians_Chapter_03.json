@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 49,"name": "Ephesians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1100,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29253,
+        "text": "For this reason I Paul, prisoner of the Christ Jesus for you nations,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29254,
+        "text": "(if indeed ye have heard of the administration of the grace of God which has been given to me towards you,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29255,
+        "text": "that by revelation the mystery has been made known to me, (according as I have written before briefly,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29256,
+        "text": "by which, in reading it, ye can understand my intelligence in the mystery of the Christ,)",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29257,
+        "text": "which in other generations has not been made known to the sons of men, as it has now been revealed to his holy apostles and prophets in [the power of the] Spirit,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29258,
+        "text": "that [they who are of] the nations should be joint heirs, and a joint body, and joint partakers of [his] promise in Christ Jesus by the glad tidings;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29259,
+        "text": "of which I am become minister according to the gift of the grace of God given to me, according to the working of his power.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29260,
+        "text": "To me, less than the least of all saints, has this grace been given, to announce among the nations the glad tidings of the unsearchable riches of the Christ,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29261,
+        "text": "and to enlighten all [with the knowledge of] what is the administration of the mystery hidden throughout the ages in God, who has created all things,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29262,
+        "text": "in order that now to the principalities and authorities in the heavenlies might be made known through the assembly the all-various wisdom of God,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29263,
+        "text": "according to [the] purpose of the ages, which he purposed in Christ Jesus our Lord,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29264,
+        "text": "in whom we have boldness and access in confidence by the faith of him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29265,
+        "text": "Wherefore I beseech [you] not to faint through my tribulations for you, which is your glory.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29266,
+        "text": "For this reason I bow my knees to the Father [of our Lord Jesus Christ],",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29267,
+        "text": "of whom every family in [the] heavens and on earth is named,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29268,
+        "text": "in order that he may give you according to the riches of his glory, to be strengthened with power by his Spirit in the inner man;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29269,
+        "text": "that the Christ may dwell, through faith, in your hearts, being rooted and founded in love,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29270,
+        "text": "in order that ye may be fully able to apprehend with all the saints what [is] the breadth and length and depth and height;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29271,
+        "text": "and to know the love of the Christ which surpasses knowledge; that ye may be filled [even] to all the fulness of God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29272,
+        "text": "But to him that is able to do far exceedingly above all which we ask or think, according to the power which works in us,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29273,
+        "text": "to him be glory in the assembly in Christ Jesus unto all generations of the age of ages. Amen).",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

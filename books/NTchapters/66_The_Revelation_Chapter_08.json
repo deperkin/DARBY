@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 66,"name": "The Revelation","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 1175,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30829,
+        "text": "And when it opened the seventh seal, there was silence in the heaven about half an hour.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30830,
+        "text": "And I saw the seven angels who stand before God, and seven trumpets were given to them.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30831,
+        "text": "And another angel came and stood at the altar, having a golden censer; and much incense was given to him, that he might give [efficacy] to the prayers of all saints at the golden altar which [was] before the throne.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30832,
+        "text": "And the smoke of the incense went up with the prayers of the saints, out of the hand of the angel before God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30833,
+        "text": "And the angel took the censer, and filled it from the fire of the altar, and cast [it] on the earth: and there were voices, and thunders and lightnings, and an earthquake.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30834,
+        "text": "And the seven angels who had the seven trumpets prepared themselves that they might sound with [their] trumpets.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30835,
+        "text": "And the first sounded [his] trumpet: and there was hail and fire, mingled with blood, and they were cast upon the earth; and the third part of the earth was burnt up, and the third part of the trees was burnt up, and all green grass was burnt up.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 30836,
+        "text": "And the second angel sounded [his] trumpet: and as a great mountain burning with fire was cast into the sea, and the third part of the sea became blood;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30837,
+        "text": "and the third part of the creatures which were in the sea which had life died; and the third part of the ships were destroyed.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30838,
+        "text": "And the third angel sounded [his] trumpet: and there fell out of the heaven a great star, burning as a torch, and it fell upon the third part of the rivers, and upon the fountains of waters.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30839,
+        "text": "And the name of the star is called Wormwood; and the third part of the waters became wormwood, and many of the men died of the waters because they were made bitter.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30840,
+        "text": "And the fourth angel sounded [his] trumpet: and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so that the third part of them should be darkened, and that the day should not appear [for] the third part of it, and the night the same.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30841,
+        "text": "And I saw, and I heard an eagle flying in mid-heaven, saying with a loud voice, Woe, woe, woe, to them that dwell upon the earth, for the remaining voices of the trumpet of the three angels who are about to sound.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 49,"name": "Ephesians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1102,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29306,
+        "text": "Be ye therefore imitators of God, as beloved children,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29307,
+        "text": "and walk in love, even as the Christ loved us, and delivered himself up for us, an offering and sacrifice to God for a sweet-smelling savour.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29308,
+        "text": "But fornication and all uncleanness or unbridled lust, let it not be even named among you, as it becomes saints;",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29309,
+        "text": "and filthiness and foolish talking, or jesting, which are not convenient; but rather thanksgiving.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29310,
+        "text": "For this ye are [well] informed of, knowing that no fornicator, or unclean person, or person of unbridled lust, who is an idolater, has inheritance in the kingdom of the Christ and God.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29311,
+        "text": "Let no one deceive you with vain words, for on account of these things the wrath of God comes upon the sons of disobedience.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29312,
+        "text": "Be not ye therefore fellow-partakers with them;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29313,
+        "text": "for ye were once darkness, but now light in [the] Lord; walk as children of light,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29314,
+        "text": "(for the fruit of the light [is] in all goodness and righteousness and truth,)",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29315,
+        "text": "proving what is agreeable to the Lord;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29316,
+        "text": "and do not have fellowship with the unfruitful works of darkness, but rather also reprove [them],",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29317,
+        "text": "for the things that are done by them in secret it is shameful even to say.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29318,
+        "text": "But all things having their true character exposed by the light are made manifest; for that which makes everything manifest is light.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29319,
+        "text": "Wherefore he says, Wake up, [thou] that sleepest, and arise up from among the dead, and the Christ shall shine upon thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29320,
+        "text": "See therefore how ye walk carefully, not as unwise but as wise,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29321,
+        "text": "redeeming the time, because the days are evil.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29322,
+        "text": "For this reason be not foolish, but understanding what [is] the will of the Lord.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29323,
+        "text": "And be not drunk with wine, in which is debauchery; but be filled with the Spirit,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29324,
+        "text": "speaking to yourselves in psalms and hymns and spiritual songs, singing and chanting with your heart to the Lord;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29325,
+        "text": "giving thanks at all times for all things to him [who is] God and [the] Father in the name of our Lord Jesus Christ,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29326,
+        "text": "submitting yourselves to one another in [the] fear of Christ.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 29327,
+        "text": "Wives, [submit yourselves] to your own husbands, as to the Lord,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29328,
+        "text": "for a husband is head of the wife, as also the Christ [is] head of the assembly. He [is] Saviour of the body.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29329,
+        "text": "But even as the assembly is subjected to the Christ, so also wives to their own husbands in everything.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29330,
+        "text": "Husbands, love your own wives, even as the Christ also loved the assembly, and has delivered himself up for it,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29331,
+        "text": "in order that he might sanctify it, purifying [it] by the washing of water by [the] word,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29332,
+        "text": "that he might present the assembly to himself glorious, having no spot, or wrinkle, or any of such things; but that it might be holy and blameless.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29333,
+        "text": "So ought men also to love their own wives as their own bodies: he that loves his own wife loves himself.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29334,
+        "text": "For no one has ever hated his own flesh, but nourishes and cherishes it, even as also the Christ the assembly:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 29335,
+        "text": "for we are members of his body; [we are of his flesh, and of his bones.]",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 29336,
+        "text": "Because of this a man shall leave his father and mother, and shall be united to his wife, and the two shall be one flesh.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 29337,
+        "text": "This mystery is great, but I speak as to Christ, and as to the assembly.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 29338,
+        "text": "But ye also, every one of you, let each so love his own wife as himself; but as to the wife [I speak] that she may fear the husband.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

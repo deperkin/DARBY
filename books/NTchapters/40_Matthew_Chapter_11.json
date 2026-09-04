@@ -1,0 +1,222 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 940,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23461,
+        "text": "And it came to pass when Jesus had finished commanding his twelve disciples, he departed thence to teach and preach in their cities.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23462,
+        "text": "But John, having heard in the prison the works of the Christ, sent by his disciples,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23463,
+        "text": "and said to him, Art thou the coming [one]? or are we to wait for another?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23464,
+        "text": "And Jesus answering said to them, Go, report to John what ye hear and see.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23465,
+        "text": "Blind [men] see and lame walk; lepers are cleansed, and deaf hear; and dead are raised, and poor have glad tidings preached to them:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23466,
+        "text": "and blessed is whosoever shall not be offended in me.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23467,
+        "text": "But as they went [away], Jesus began to say to the crowds concerning John, What went ye out into the wilderness to see? a reed moved about by the wind?",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 23468,
+        "text": "But what went ye out to see? a man clothed in delicate raiment? behold, those who wear delicate things are in the houses of kings.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23469,
+        "text": "But what went ye out to see? a prophet? Yea, I say to you, and more than a prophet:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23470,
+        "text": "this is he of whom it is written, Behold, I send my messenger before thy face, who shall prepare thy way before thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23471,
+        "text": "Verily I say to you, that there is not arisen among [the] born of women a greater than John the baptist. But he who is a little one in the kingdom of the heavens is greater than he.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23472,
+        "text": "But from the days of John the baptist until now, the kingdom of the heavens is taken by violence, and [the] violent seize on it.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23473,
+        "text": "For all the prophets and the law have prophesied unto John.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23474,
+        "text": "And if ye will receive it, this is Elias, who is to come.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23475,
+        "text": "He that has ears to hear, let him hear.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23476,
+        "text": "But to whom shall I liken this generation? It is like children sitting in the markets, which, calling to their companions,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 23477,
+        "text": "say, We have piped to you, and ye have not danced: we have mourned to you, and ye have not wailed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23478,
+        "text": "For John has come neither eating nor drinking, and they say, He has a demon.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23479,
+        "text": "The Son of man has come eating and drinking, and they say, Behold, a man [that is] eating and wine-drinking, a friend of tax-gatherers, and of sinners:—and wisdom has been justified by her children.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23480,
+        "text": "Then began he to reproach the cities in which most of his works of power had taken place, because they had not repented.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23481,
+        "text": "Woe to thee, Chorazin! woe to thee Bethsaida! for if the works of power which have taken place in you, had taken place in Tyre and Sidon, they had long ago repented in sackcloth and ashes.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23482,
+        "text": "But I say to you, that it shall be more tolerable for Tyre and Sidon in judgment-day than for you.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23483,
+        "text": "And thou, Capernaum, who hast been raised up to heaven, shalt be brought down even to hades. For if the works of power which have taken place in thee, had taken place in Sodom, it had remained until this day.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23484,
+        "text": "But I say to you, that it shall be more tolerable for [the] land of Sodom in judgment-day than for thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23485,
+        "text": "At that time, Jesus answering said, I praise thee, Father, Lord of the heaven and of the earth, that thou hast hid these things from the wise and prudent, and hast revealed them to babes.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 23486,
+        "text": "Yea, Father, for thus has it been well-pleasing in thy sight.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23487,
+        "text": "All things have been delivered to me by my Father, and no one knows the Son but the Father, nor does any one know the Father, but the Son, and he to whom the Son may be pleased to reveal [him].",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23488,
+        "text": "Come to me, all ye who labour and are burdened, and I will give you rest.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23489,
+        "text": "Take my yoke upon you, and learn from me; for I am meek and lowly in heart; and ye shall find rest to your souls;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23490,
+        "text": "for my yoke is easy, and my burden is light.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

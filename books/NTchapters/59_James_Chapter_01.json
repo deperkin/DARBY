@@ -1,0 +1,201 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 59,"name": "James","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1147,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30268,
+        "text": "James, bondman of God and of [the] Lord Jesus Christ, to the twelve tribes which [are] in the dispersion, greeting.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30269,
+        "text": "Count it all joy, my brethren, when ye fall into various temptations,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 30270,
+        "text": "knowing that the proving of your faith works endurance.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30271,
+        "text": "But let endurance have [its] perfect work, that ye may be perfect and complete, lacking in nothing.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30272,
+        "text": "But if any one of you lack wisdom, let him ask of God, who gives to all freely and reproaches not, and it shall be given to him:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30273,
+        "text": "but let him ask in faith, nothing doubting. For he that doubts is like a wave of the sea driven by the wind and tossed about;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30274,
+        "text": "for let not that man think that he shall receive anything from the Lord;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30275,
+        "text": "[he is] a double-minded man, unstable in all his ways.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30276,
+        "text": "But let the brother of low degree glory in his elevation,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30277,
+        "text": "and the rich in his humiliation, because as [the] grass’s flower he will pass away.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30278,
+        "text": "For the sun has risen with its burning heat, and has withered the grass, and its flower has fallen, and the comeliness of its look has perished: thus the rich also shall wither in his goings.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30279,
+        "text": "Blessed [is the] man who endures temptation; for, having been proved, he shall receive the crown of life, which He has promised to them that love him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30280,
+        "text": "Let no man, being tempted, say, I am tempted of God. For God cannot be tempted by evil things, and himself tempts no one.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 30281,
+        "text": "But every one is tempted, drawn away, and enticed by his own lust;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30282,
+        "text": "then lust, having conceived, gives birth to sin; but sin fully completed brings forth death.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30283,
+        "text": "Do not err, my beloved brethren.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30284,
+        "text": "Every good gift and every perfect gift comes down from above, from the Father of lights, with whom is no variation nor shadow of turning.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30285,
+        "text": "According to his own will begat he us by the word of truth, that we should be a certain first-fruits of his creatures.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30286,
+        "text": "So that, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 30287,
+        "text": "for man’s wrath does not work God’s righteousness.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30288,
+        "text": "Wherefore, laying aside all filthiness and abounding of wickedness, accept with meekness the implanted word, which is able to save your souls.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30289,
+        "text": "But be ye doers of [the] word and not hearers only, beguiling yourselves.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30290,
+        "text": "For if any man be a hearer of [the] word and not a doer, he is like to a man considering his natural face in a mirror:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30291,
+        "text": "for he has considered himself and is gone away, and straightway he has forgotten what he was like.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30292,
+        "text": "But he that fixes his view on [the] perfect law, that of liberty, and abides in [it], being not a forgetful hearer but a doer of [the] work, he shall be blessed in his doing.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 30293,
+        "text": "If any one think himself to be religious, not bridling his tongue, but deceiving his heart, this man’s religion is vain.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 30294,
+        "text": "Pure and undefiled religion before God and the Father is this: to visit orphans and widows in their affliction, to keep oneself unspotted from the world.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

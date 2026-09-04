@@ -1,0 +1,117 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1121,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29718,
+        "text": "I exhort therefore, first of all, that supplications, prayers, intercessions, thanksgivings be made for all men;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29719,
+        "text": "for kings and all that are in dignity, that we may lead a quiet and tranquil life in all piety and gravity;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29720,
+        "text": "for this is good and acceptable before our Saviour God,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29721,
+        "text": "who desires that all men should be saved and come to [the] knowledge of [the] truth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29722,
+        "text": "For God is one, and [the] mediator of God and men one, [the] man Christ Jesus,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29723,
+        "text": "who gave himself a ransom for all, the testimony [to be rendered] in its own times;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29724,
+        "text": "to which I have been appointed a herald and apostle, (I speak [the] truth, I do not lie,) a teacher of [the] nations in faith and truth.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29725,
+        "text": "I will therefore that the men pray in every place, lifting up pious hands, without wrath or reasoning.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29726,
+        "text": "In like manner also that the women in decent deportment and dress adorn themselves with modesty and discretion, not with plaited [hair] and gold, or pearls, or costly clothing,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29727,
+        "text": "but, what becomes women making profession of the fear of God, by good works.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29728,
+        "text": "Let a woman learn in quietness in all subjection;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29729,
+        "text": "but I do not suffer a woman to teach nor to exercise authority over man, but to be in quietness;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29730,
+        "text": "for Adam was formed first, then Eve:",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29731,
+        "text": "and Adam was not deceived; but the woman, having been deceived, was in transgression.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29732,
+        "text": "But she shall be preserved in childbearing, if they continue in faith and love and holiness with discretion.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

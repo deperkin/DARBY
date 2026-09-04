@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1122,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29733,
+        "text": "The word [is] faithful: if any one aspires to exercise oversight, he desires a good work.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29734,
+        "text": "The overseer then must be irreproachable, husband of one wife, sober, discreet, decorous, hospitable, apt to teach;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29735,
+        "text": "not given to excesses from wine, not a striker, but mild, not addicted to contention, not fond of money,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29736,
+        "text": "conducting his own house well, having [his] children in subjection with all gravity;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29737,
+        "text": "(but if one does not know how to conduct his own house, how shall he take care of the assembly of God?)",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29738,
+        "text": "not a novice, that he may not, being inflated, fall into [the] fault of the devil.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29739,
+        "text": "But it is necessary that he should have also a good testimony from those without, that he may fall not into reproach and [the] snare of the devil.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29740,
+        "text": "Ministers, in like manner, grave, not double-tongued, not given to much wine, not seeking gain by base means,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 29741,
+        "text": "holding the mystery of the faith in a pure conscience.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29742,
+        "text": "And let these be first proved, then let them minister, being without charge [against them].",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29743,
+        "text": "[The] women in like manner grave, not slanderers, sober, faithful in all things.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29744,
+        "text": "Let [the] ministers be husbands of one wife, conducting [their] children and their own houses well:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29745,
+        "text": "for those who shall have ministered well obtain for themselves a good degree, and much boldness in faith which [is] in Christ Jesus.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29746,
+        "text": "These things I write to thee, hoping to come to thee more quickly;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29747,
+        "text": "but if I delay, in order that thou mayest know how one ought to conduct oneself in God’s house, which is [the] assembly of [the] living God, [the] pillar and base of the truth.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29748,
+        "text": "And confessedly the mystery of piety is great. God has been manifested in flesh, has been justified in [the] Spirit, has appeared to angels, has been preached among [the] nations, has been believed on in [the] world, has been received up in glory.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

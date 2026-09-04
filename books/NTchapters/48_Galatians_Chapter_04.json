@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 48,"name": "Galatians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1095,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29133,
+        "text": "Now I say, As long as the heir is a child, he differs nothing from a bondman, though he be lord of all;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29134,
+        "text": "but he is under guardians and stewards until the period fixed by the father.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29135,
+        "text": "So we also, when we were children, were held in bondage under the principles of the world;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29136,
+        "text": "but when the fulness of the time was come, God sent forth his Son, come of woman, come under law,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29137,
+        "text": "that he might redeem those under law, that we might receive sonship.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29138,
+        "text": "But because ye are sons, God has sent out the Spirit of his Son into our hearts, crying, Abba, Father.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29139,
+        "text": "So thou art no longer bondman, but son; but if son, heir also through God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29140,
+        "text": "But then indeed, not knowing God, ye were in bondage to those who by nature are not gods;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 29141,
+        "text": "but now, knowing God, but rather being known by God, how do ye turn again to the weak and beggarly principles to which ye desire to be again anew in bondage?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29142,
+        "text": "Ye observe days and months and times and years.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29143,
+        "text": "I am afraid of you, lest indeed I have laboured in vain as to you.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29144,
+        "text": "Be as I [am], for I also [am] as ye, brethren, I beseech you: ye have not at all wronged me.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 29145,
+        "text": "But ye know that in weakness of the flesh I announced the glad tidings to you at the first;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29146,
+        "text": "and my temptation, which [was] in my flesh, ye did not slight nor reject with contempt; but ye received me as an angel of God, as Christ Jesus.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29147,
+        "text": "What then [was] your blessedness? for I bear you witness that, if possible, plucking out your own eyes ye would have given [them] to me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29148,
+        "text": "So I have become your enemy in speaking the truth to you?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29149,
+        "text": "They are not rightly zealous after you, but desire to shut you out [from us], that ye may be zealous after them.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 29150,
+        "text": "But [it is] right to be zealous at all times in what is right, and not only when I am present with you—",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29151,
+        "text": "my children, of whom I again travail in birth until Christ shall have been formed in you:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 29152,
+        "text": "and I should wish to be present with you now, and change my voice, for I am perplexed as to you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29153,
+        "text": "Tell me, ye who are desirous of being under law, do ye not listen to the law?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 29154,
+        "text": "For it is written that Abraham had two sons; one of the maid servant, and one of the free woman.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29155,
+        "text": "But he [that was] of the maid servant was born according to flesh, and he [that was] of the free woman through the promise.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29156,
+        "text": "Which things have an allegorical sense; for these are two covenants: one from mount Sinai, gendering to bondage, which is Hagar.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29157,
+        "text": "For Hagar is mount Sinai in Arabia, and corresponds to Jerusalem which [is] now, for she is in bondage with her children;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29158,
+        "text": "but the Jerusalem above is free, which is our mother.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29159,
+        "text": "For it is written, Rejoice, thou barren that bearest not; break out and cry, thou that travailest not; because the children of the desolate are more numerous than [those] of her that has a husband.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29160,
+        "text": "But ye, brethren, after the pattern of Isaac, are children of promise.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29161,
+        "text": "But as then he that was born according to flesh persecuted him [that was born] according to Spirit, so also [it is] now.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 29162,
+        "text": "But what says the scripture? Cast out the maid servant and her son; for the son of the maid servant shall not inherit with the son of the free woman.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 29163,
+        "text": "So then, brethren, we are not maid servant’s children, but [children] of the free woman.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 1034,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27485,
+        "text": "And he came to Derbe and Lystra: and behold, a certain disciple was there, by name Timotheus, son of a Jewish believing woman, but [the] father a Greek,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27486,
+        "text": "who had a [good] testimony of the brethren in Lystra and Iconium.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27487,
+        "text": "Him would Paul have go forth with him, and took [him and] circumcised him on account of the Jews who were in those places, for they all knew his father that he was a Greek.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27488,
+        "text": "And as they passed through the cities they instructed them to observe the decrees determined on by the apostles and elders who were in Jerusalem.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27489,
+        "text": "The assemblies therefore were confirmed in the faith, and increased in number every day.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27490,
+        "text": "And having passed through Phrygia and the Galatian country, having been forbidden by the Holy Spirit to speak the word in Asia,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 27491,
+        "text": "having come down to Mysia, they attempted to go to Bithynia, and the Spirit of Jesus did not allow them;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27492,
+        "text": "and having passed by Mysia they descended to Troas.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27493,
+        "text": "And a vision appeared to Paul in the night: There was a certain Macedonian man, standing and beseeching him, and saying, Pass over into Macedonia and help us.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27494,
+        "text": "And when he had seen the vision, immediately we sought to go forth to Macedonia, concluding that the Lord had called us to announce to them the glad tidings.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27495,
+        "text": "Having sailed therefore away from Troas, we went in a straight course to Samothracia, and on the morrow to Neapolis,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27496,
+        "text": "and thence to Philippi, which is [the] first city of that part of Macedonia, a colony. And we were staying in that city certain days.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27497,
+        "text": "And on the sabbath day we went outside the gate by the river, where it was the custom for prayer to be, and we sat down and spoke to the women who had assembled.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27498,
+        "text": "And a certain woman, by name Lydia, a seller of purple, of the city of Thyatira, who worshipped God, heard; whose heart the Lord opened to attend to the things spoken by Paul.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27499,
+        "text": "And when she had been baptised and her house, she besought [us], saying, If ye have judged me to be faithful to the Lord, come into my house and abide [there]. And she constrained us.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27500,
+        "text": "And it came to pass as we were going to prayer that a certain female slave, having a spirit of Python, met us, who brought much profit to her masters by prophesying.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 27501,
+        "text": "She, having followed Paul and us, cried saying, These men are bondmen of the Most High God, who announce to you [the] way of salvation.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27502,
+        "text": "And this she did many days. And Paul, being distressed, turned, and said to the spirit, I enjoin thee in the name of Jesus Christ to come out of her. And it came out the same hour.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27503,
+        "text": "And her masters, seeing that the hope of their gains was gone, having seized Paul and Silas, dragged [them] into the market before the magistrates;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27504,
+        "text": "and having brought them up to the praetors, said, These men utterly trouble our city, being Jews,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27505,
+        "text": "and announce customs which it is not lawful for us to receive nor practise, being Romans.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27506,
+        "text": "And the crowd rose up too against them; and the praetors, having torn off their clothes, commanded to scourge [them].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27507,
+        "text": "And having laid many stripes upon them they cast [them] into prison, charging the jailor to keep them safely;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27508,
+        "text": "who, having received such a charge, cast them into the inner prison, and secured their feet to the stocks.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27509,
+        "text": "And at midnight Paul and Silas, in praying, were praising God with singing, and the prisoners listened to them.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 27510,
+        "text": "And suddenly there was a great earthquake, so that the foundations of the prison shook, and all the doors were immediately opened, and the bonds of all loosed.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27511,
+        "text": "And the jailor being awakened out of his sleep, and seeing the doors of the prison opened, having drawn a sword was going to kill himself, thinking the prisoners had fled.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27512,
+        "text": "But Paul called out with a loud voice, saying, Do thyself no harm, for we are all here.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27513,
+        "text": "And having asked for lights, he rushed in, and, trembling, fell down before Paul and Silas.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27514,
+        "text": "And leading them out said, Sirs, what must I do that I may be saved?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27515,
+        "text": "And they said, Believe on the Lord Jesus and thou shalt be saved, thou and thy house.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27516,
+        "text": "And they spoke to him the word of the Lord, with all that were in his house.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27517,
+        "text": "And he took them the same hour of the night and washed [them] from their stripes; and was baptised, he and all his straightway.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27518,
+        "text": "And having brought them into his house he laid the table [for them], and rejoiced with all his house, having believed in God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27519,
+        "text": "And when it was day, the praetors sent the lictors, saying, Let those men go.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 27520,
+        "text": "And the jailor reported these words to Paul: The praetors have sent that ye may be let go. Now therefore go out and depart in peace.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 27521,
+        "text": "But Paul said to them, Having beaten us publicly uncondemned, us who are Romans, they have cast us into prison, and now they thrust us out secretly? no, indeed, but let them come themselves and bring us out.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27522,
+        "text": "And the lictors reported these words to the praetors. And they were afraid when they heard they were Romans.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 27523,
+        "text": "And they came and besought them, and having brought them out, asked them to go out of the city.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 27524,
+        "text": "And having gone out of the prison, they came to Lydia; and having seen the brethren, they exhorted them and went away.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

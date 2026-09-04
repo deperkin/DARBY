@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1138,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30032,
+        "text": "For every high priest taken from amongst men is established for men in things relating to God, that he may offer both gifts and sacrifices for sins;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30033,
+        "text": "being able to exercise forbearance towards the ignorant and erring, since he himself also is clothed with infirmity;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30034,
+        "text": "and, on account of this [infirmity], he ought, even as for the people, so also for himself, to offer for sins.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30035,
+        "text": "And no one takes the honour to himself but [as] called by God, even as Aaron also.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30036,
+        "text": "Thus the Christ also has not glorified himself to be made a high priest; but he who had said to him, Thou art my Son, I have to-day begotten thee.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30037,
+        "text": "Even as also in another [place] he says, Thou [art] a priest for ever according to the order of Melchisedec.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30038,
+        "text": "Who in the days of his flesh, having offered up both supplications and entreaties to him who was able to save him out of death, with strong crying and tears; (and having been heard because of his piety;)",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30039,
+        "text": "though he were Son, he learned obedience from the things which he suffered;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30040,
+        "text": "and having been perfected, became to all them that obey him, author of eternal salvation;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30041,
+        "text": "addressed by God [as] high priest according to the order of Melchisedec.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 30042,
+        "text": "Concerning whom we have much to say, and hard to be interpreted in speaking [of it], since ye are become dull in hearing.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30043,
+        "text": "For when for the time ye ought to be teachers, ye have again need that [one] should teach you what [are] the elements of the beginning of the oracles of God, and are become such as have need of milk, [and] not of solid food.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30044,
+        "text": "For every one that partakes of milk [is] unskilled in the word of righteousness, for he is a babe;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30045,
+        "text": "but solid food belongs to full-grown men, who, on account of habit, have their senses exercised for distinguishing both good and evil.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

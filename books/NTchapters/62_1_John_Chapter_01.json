@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 62,"name": "1 John","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1160,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30542,
+        "text": "That which was from [the] beginning, that which we have heard, which we have seen with our eyes; that which we contemplated, and our hands handled, concerning the word of life;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30543,
+        "text": "(and the life has been manifested, and we have seen, and bear witness, and report to you the eternal life, which was with the Father, and has been manifested to us:)",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30544,
+        "text": "that which we have seen and heard we report to you, that ye also may have fellowship with us; and our fellowship [is] indeed with the Father, and with his Son Jesus Christ.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30545,
+        "text": "And these things write we to you that your joy may be full.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30546,
+        "text": "And this is the message which we have heard from him, and declare to you, that God is light, and in him is no darkness at all.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 30547,
+        "text": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not practise the truth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30548,
+        "text": "But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son cleanses us from all sin.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30549,
+        "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 30550,
+        "text": "If we confess our sins, he is faithful and righteous to forgive us [our] sins, and cleanse us from all unrighteousness.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30551,
+        "text": "If we say that we have not sinned, we make him a liar, and his word is not in us.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

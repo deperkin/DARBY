@@ -1,0 +1,201 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 1071,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28542,
+        "text": "Am I not free? am I not an apostle? have I not seen Jesus our Lord? are not ye my work in [the] Lord?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28543,
+        "text": "If I am not an apostle to others, yet at any rate I am to you: for the seal of mine apostleship are ye in [the] Lord.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28544,
+        "text": "My defence to those who examine me is this:",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 28545,
+        "text": "Have we not a right to eat and to drink?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28546,
+        "text": "have we not a right to take round a sister [as] wife, as also the other apostles, and the brethren of the Lord, and Cephas?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28547,
+        "text": "Or I alone and Barnabas, have we not a right not to work?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28548,
+        "text": "Who ever carries on war at his own charges? who plants a vineyard and does not eat of its fruit? or who herds a flock and does not eat of the milk of the flock?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28549,
+        "text": "Do I speak these things as a man, or does not the law also say these things?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28550,
+        "text": "For in the law of Moses it is written, Thou shalt not muzzle the ox that is treading out corn. Is God occupied about the oxen,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28551,
+        "text": "or does he say [it] altogether for our sakes? For for our sakes it has been written, that the plougher should plough in hope, and he that treads out corn, in hope of partaking of [it].",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28552,
+        "text": "If we have sown to you spiritual things, [is it a] great [thing] if we shall reap your carnal things?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28553,
+        "text": "If others partake of this right over you, should not rather we? But we have not used this right, but we bear all things, that we may put no hindrance in the way of the glad tidings of the Christ.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28554,
+        "text": "Do ye not know that they who labour [at] sacred things eat of the [offerings offered in the] temple; they that attend at the altar partake with the altar?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28555,
+        "text": "So also the Lord has ordained to those that announce the glad tidings to live of the glad tidings.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28556,
+        "text": "But I have used none of these things. Now I have not written these things that it should be thus in my case; for [it were] good for me rather to die than that any one should make vain my boast.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 28557,
+        "text": "For if I announce the glad tidings, I have nothing to boast of; for a necessity is laid upon me; for it is woe to me if I should not announce the glad tidings.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28558,
+        "text": "For if I do this voluntarily, I have a reward; but if not of my own will, I am entrusted with an administration.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28559,
+        "text": "What is the reward then that I have? That in announcing the glad tidings I make the glad tidings costless [to others], so as not to have made use, as belonging to me, of my right in [announcing] the glad tidings.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28560,
+        "text": "For being free from all, I have made myself bondman to all, that I might gain the most [possible].",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 28561,
+        "text": "And I became to the Jews as a Jew, in order that I might gain the Jews: to those under law, as under law, not being myself under law, in order that I might gain those under law:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28562,
+        "text": "to those without law, as without law, (not as without law to God, but as legitimately subject to Christ,) in order that I might gain [those] without law.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28563,
+        "text": "I became to the weak, [as] weak, in order that I might gain the weak. To all I have become all things, in order that at all events I might save some.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28564,
+        "text": "And I do all things for the sake of the glad tidings, that I may be fellow-partaker with them.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28565,
+        "text": "Know ye not that they who run in [the] race-course run all, but one receives the prize? Thus run in order that ye may obtain.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 28566,
+        "text": "But every one that contends [for a prize] is temperate in all things: they then indeed that they may receive a corruptible crown, but we an incorruptible.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28567,
+        "text": "I therefore thus run, as not uncertainly; so I combat, as not beating the air.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28568,
+        "text": "But I buffet my body, and lead it captive, lest [after] having preached to others I should be myself rejected.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

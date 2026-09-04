@@ -1,0 +1,355 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 979,
+    "MaxVerses": 49,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25148,
+        "text": "And it came to pass on [the] second-first sabbath, that he went through cornfields, and his disciples were plucking the ears and eating [them], rubbing [them] in their hands.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25149,
+        "text": "But some of the Pharisees said to them, Why do ye what is not lawful to do on the sabbath?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25150,
+        "text": "And Jesus answering said to them, Have ye not read so much as this, what David did when he hungered, he and those who were with him,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25151,
+        "text": "how he entered into the house of God and took the shewbread and ate, and gave to those also who were with him, which it is not lawful that [any] eat, unless the priests alone?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25152,
+        "text": "And he said to them, The Son of man is Lord of the sabbath also.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25153,
+        "text": "And it came to pass on another sabbath also that he entered into the synagogue and taught; and there was a man there, and his right hand was withered.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25154,
+        "text": "And the scribes and the Pharisees were watching if he would heal on the sabbath, that they might find something of which to accuse him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25155,
+        "text": "But he knew their thoughts, and said to the man who had the withered hand, Get up, and stand in the midst. And having risen up he stood [there].",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25156,
+        "text": "Jesus therefore said to them, I will ask you if it is lawful on the sabbath to do good, or to do evil? to save life, or to destroy [it]?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25157,
+        "text": "And having looked around on them all, he said to him, Stretch out thy hand. And he did [so] and his hand was restored as the other.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25158,
+        "text": "But they were filled with madness, and they spoke together among themselves what they should do to Jesus.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25159,
+        "text": "And it came to pass in those days that he went out into the mountain to pray, and he spent the night in prayer to God.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 25160,
+        "text": "And when it was day he called his disciples, and having chosen out twelve from them, whom also he named apostles:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25161,
+        "text": "Simon, to whom also he gave the name of Peter, and Andrew his brother, [and] James and John, [and] Philip and Bartholomew,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25162,
+        "text": "[and] Matthew and Thomas, James the [son] of Alphaeus and Simon who was called Zealot,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25163,
+        "text": "[and] Judas [brother] of James, and Judas Iscariote, who was also [his] betrayer;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25164,
+        "text": "and having descended with them, he stood on a level place, and a crowd of his disciples, and a great multitude of the people from all Judaea and Jerusalem, and the sea coast of Tyre and Sidon, who came to hear him, and to be healed of their diseases;",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25165,
+        "text": "and those that were beset by unclean spirits were healed.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25166,
+        "text": "And all the crowd sought to touch him, for power went out from him and healed all.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 25167,
+        "text": "And he, lifting up his eyes upon his disciples, said, Blessed [are] ye poor, for yours is the kingdom of God.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 25168,
+        "text": "Blessed ye that hunger now, for ye shall be filled. Blessed ye that weep now, for ye shall laugh.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25169,
+        "text": "Blessed are ye when men shall hate you, and when they shall separate you [from them], and shall reproach [you], and cast out your name as wicked, for the Son of man’s sake:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 25170,
+        "text": "rejoice in that day and leap for joy, for behold, your reward is great in the heaven, for after this manner did their fathers act toward the prophets.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25171,
+        "text": "But woe to you rich, for ye have received your consolation.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25172,
+        "text": "Woe to you that are filled, for ye shall hunger. Woe to you who laugh now, for ye shall mourn and weep.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25173,
+        "text": "Woe, when all men speak well of you, for after this manner did their fathers to the false prophets.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25174,
+        "text": "But to you that hear I say, Love your enemies; do good to those that hate you;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 25175,
+        "text": "bless those that curse you; pray for those who use you despitefully.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25176,
+        "text": "To him that smites thee on the cheek, offer also the other; and from him that would take away thy garment, forbid not thy body-coat also.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25177,
+        "text": "To every one that asks of thee, give; and from him that takes away what is thine, ask it not back.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25178,
+        "text": "And as ye wish that men should do to you, do ye also to them in like manner.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25179,
+        "text": "And if ye love those that love you, what thank is it to you? for even sinners love those that love them.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25180,
+        "text": "And if ye do good to those that do good to you, what thank is it to you? for even sinners do the same.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25181,
+        "text": "And if ye lend to those from whom ye hope to receive, what thank is it to you? [for] even sinners lend to sinners that they may receive the like.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25182,
+        "text": "But love your enemies, and do good, and lend, hoping for nothing in return, and your reward shall be great, and ye shall be sons of [the] Highest; for he is good to the unthankful and wicked.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25183,
+        "text": "Be ye therefore merciful, even as your Father also is merciful.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25184,
+        "text": "And judge not, and ye shall not be judged; condemn not, and ye shall not be condemned. Remit, and it shall be remitted to you.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 25185,
+        "text": "Give, and it shall be given to you; good measure, pressed down, and shaken together, and running over, shall be given into your bosom: for with the same measure with which ye mete it shall be measured to you again.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 25186,
+        "text": "And he spoke also a parable to them: Can a blind [man] lead a blind [man]? shall not both fall into [the] ditch?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 25187,
+        "text": "The disciple is not above his teacher, but every one that is perfected shall be as his teacher.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 25188,
+        "text": "But why lookest thou on the mote which is in the eye of thy brother, but perceivest not the beam which is in thine own eye?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 25189,
+        "text": "or how canst thou say to thy brother, Brother, allow [me], I will cast out the mote that is in thine eye, thyself not seeing the beam that is in thine eye? Hypocrite, cast out first the beam out of thine eye, and then thou shalt see clear to cast out the mote which is in the eye of thy brother.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 25190,
+        "text": "For there is no good tree which produces corrupt fruit, nor a corrupt tree which produces good fruit;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 25191,
+        "text": "for every tree is known by its own fruit, for figs are not gathered from thorns, nor grapes vintaged from a bramble.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 25192,
+        "text": "The good man, out of the good treasure of his heart, brings forth good; and the wicked [man] out of the wicked, brings forth what is wicked: for out of the abundance of the heart his mouth speaks.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 25193,
+        "text": "And why call ye me, Lord, Lord, and do not the things that I say?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 25194,
+        "text": "Every one that comes to me, and hears my words and does them, I will shew you to whom he is like.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 25195,
+        "text": "He is like a man building a house, who dug and went deep, and laid a foundation on the rock; but a great rain coming, the stream broke upon that house, and could not shake it, for it had been founded on the rock.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 25196,
+        "text": "And he that has heard and not done, is like a man who has built a house on the ground without [a] foundation, on which the stream broke, and immediately it fell, and the breach of that house was great.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 1074,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28636,
+        "text": "But concerning spiritual [manifestations], brethren, I do not wish you to be ignorant.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28637,
+        "text": "Ye know that when ye were [of the] nations [ye were] led away to dumb idols, in whatever way ye might be led.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28638,
+        "text": "I give you therefore to know, that no one, speaking in [the power of the] Spirit of God, says, Curse [on] Jesus; and no one can say, Lord Jesus, unless in [the power of the] Holy Spirit.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28639,
+        "text": "But there are distinctions of gifts, but the same Spirit;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28640,
+        "text": "and there are distinctions of services, and the same Lord;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28641,
+        "text": "and there are distinctions of operations, but the same God who operates all things in all.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28642,
+        "text": "But to each the manifestation of the Spirit is given for profit.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28643,
+        "text": "For to one, by the Spirit, is given [the] word of wisdom; and to another [the] word of knowledge, according to the same Spirit;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28644,
+        "text": "and to a different one faith, in [the power of] the same Spirit; and to another gifts of healing in [the power of] the same Spirit;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28645,
+        "text": "and to another operations of miracles; and to another prophecy; and to another discerning of spirits; and to a different one kinds of tongues; and to another interpretation of tongues.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28646,
+        "text": "But all these things operates the one and the same Spirit, dividing to each in particular according as he pleases.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28647,
+        "text": "For even as the body is one and has many members, but all the members of the body, being many, are one body, so also [is] the Christ.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28648,
+        "text": "For also in [the power of] one Spirit we have all been baptised into one body, whether Jews or Greeks, whether bondmen or free, and have all been given to drink of one Spirit.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28649,
+        "text": "For also the body is not one member but many.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28650,
+        "text": "If the foot say, Because I am not a hand I am not of the body, is it on account of this not indeed of the body?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28651,
+        "text": "And if the ear say, Because I am not an eye I am not of the body, is it on account of this not indeed of the body?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28652,
+        "text": "If the whole body [were] an eye, where the hearing? if all hearing, where the smelling?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28653,
+        "text": "But now God has set the members, each one of them in the body, according as it has pleased [him].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28654,
+        "text": "But if all were one member, where the body?",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28655,
+        "text": "But now the members [are] many, and the body one.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28656,
+        "text": "The eye cannot say to the hand, I have not need of thee; or again, the head to the feet, I have not need of you.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28657,
+        "text": "But much rather, the members of the body which seem to be weaker are necessary;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28658,
+        "text": "and those [parts] of the body which we esteem to be the more void of honour, these we clothe with more abundant honour; and our uncomely [parts] have more abundant comeliness;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28659,
+        "text": "but our comely [parts] have not need. But God has tempered the body together, having given more abundant honour to [the part] that lacked;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28660,
+        "text": "that there might be no division in the body, but that the members might have the same concern one for another.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28661,
+        "text": "And if one member suffer, all the members suffer with [it]; and if one member be glorified, all the members rejoice with [it].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28662,
+        "text": "Now ye are Christ’s body, and members in particular.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 28663,
+        "text": "And God has set certain in the assembly: first, apostles; secondly, prophets; thirdly, teachers; then miraculous powers; then gifts of healings; helps; governments; kinds of tongues.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28664,
+        "text": "[Are] all apostles? [are] all prophets? [are] all teachers? [are] all [in possession of] miraculous powers?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28665,
+        "text": "have all gifts of healings? do all speak with tongues? do all interpret?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28666,
+        "text": "But desire earnestly the greater gifts, and yet shew I unto you a way of more surpassing excellence.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

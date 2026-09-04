@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 50,"name": "Philippians","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1107,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29444,
+        "text": "So that, my brethren, beloved and longed for, my joy and crown, thus stand fast in [the] Lord, beloved.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29445,
+        "text": "I exhort Euodia, and exhort Syntyche, to be of the same mind in [the] Lord;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29446,
+        "text": "yea, I ask thee also, true yokefellow, assist them, who have contended along with me in the glad tidings, with Clement also, and my other fellow-labourers, whose names [are] in [the] book of life.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29447,
+        "text": "Rejoice in [the] Lord always: again I will say, Rejoice.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29448,
+        "text": "Let your gentleness be known of all men. The Lord [is] near.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29449,
+        "text": "Be careful about nothing; but in everything, by prayer and supplication with thanksgiving, let your requests be made known to God;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29450,
+        "text": "and the peace of God, which surpasses every understanding, shall guard your hearts and your thoughts by Christ Jesus.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29451,
+        "text": "For the rest, brethren, whatsoever things [are] true, whatsoever things [are] noble, whatsoever things [are] just, whatsoever things [are] pure, whatsoever things [are] amiable, whatsoever things [are] of good report; if [there be] any virtue and if any praise, think on these things.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29452,
+        "text": "What ye have both learned, and received, and heard, and seen in me, these things do; and the God of peace shall be with you.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29453,
+        "text": "But I rejoiced in [the] Lord greatly, that now however at length ye have revived your thinking of me, though surely ye did also think [of me], but lacked opportunity.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 29454,
+        "text": "Not that I speak as regards privation, for as to me I have learnt in those circumstances in which I am, to be satisfied in myself.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29455,
+        "text": "I know both how to be abased and I know how to abound. In everything and in all things I am initiated both to be full and to be hungry, both to abound and to suffer privation.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29456,
+        "text": "I have strength for all things in him that gives me power.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29457,
+        "text": "But ye have done well in taking part in my affliction.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29458,
+        "text": "And know also ye, O Philippians, that in [the] beginning of the gospel, when I came out of Macedonia, no assembly communicated [anything] to me in [the] way of giving and receiving save ye alone;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29459,
+        "text": "for also in Thessalonica once and even twice ye sent to me for my need.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29460,
+        "text": "Not that I seek gift, but I seek fruit abounding to your account.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29461,
+        "text": "But I have all things in full supply and abound; I am full, having received of Epaphroditus the things [sent] from you, an odour of sweet savour, an acceptable sacrifice, agreeable to God.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29462,
+        "text": "But my God shall abundantly supply all your need according to his riches in glory in Christ Jesus.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29463,
+        "text": "But to our God and Father [be] glory to the ages of ages. Amen.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 29464,
+        "text": "Salute every saint in Christ Jesus. The brethren who [are] with me salute you.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29465,
+        "text": "All the saints salute you, and specially those of the household of Caesar.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29466,
+        "text": "The grace of the Lord Jesus Christ [be] with your spirit. Amen.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

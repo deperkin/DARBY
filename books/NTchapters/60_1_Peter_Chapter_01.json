@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 60,"name": "1 Peter","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1152,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30376,
+        "text": "Peter, apostle of Jesus Christ, to [the] sojourners of [the] dispersion of Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30377,
+        "text": "elect according to [the] foreknowledge of God [the] Father, by sanctification of [the] Spirit, unto [the] obedience and sprinkling of [the] blood of Jesus Christ: Grace to you and peace be multiplied.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30378,
+        "text": "Blessed [be] the God and Father of our Lord Jesus Christ, who, according to his great mercy, has begotten us again to a living hope through [the] resurrection of Jesus Christ from among [the] dead,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30379,
+        "text": "to an incorruptible and undefiled and unfading inheritance, reserved in [the] heavens for you,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30380,
+        "text": "who are kept guarded by [the] power of God through faith for salvation ready to be revealed in [the] last time.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30381,
+        "text": "Wherein ye exult, for a little while at present, if needed, put to grief by various trials,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 30382,
+        "text": "that the proving of your faith, much more precious than of gold which perishes, though it be proved by fire, be found to praise and glory and honour in [the] revelation of Jesus Christ:",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30383,
+        "text": "whom, having not seen, ye love; on whom [though] not now looking, but believing, ye exult with joy unspeakable and filled with [the] glory,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30384,
+        "text": "receiving the end of your faith, [the] salvation of [your] souls.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30385,
+        "text": "Concerning which salvation prophets, who have prophesied of the grace towards you, sought out and searched out;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 30386,
+        "text": "searching what, or what manner of time, the Spirit of Christ which [was] in them pointed out, testifying before of the sufferings which [belonged] to Christ, and the glories after these.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30387,
+        "text": "To whom it was revealed, that not to themselves but to you they ministered those things, which have now been announced to you by those who have declared to you the glad tidings by [the] Holy Spirit, sent from heaven, which angels desire to look into.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30388,
+        "text": "Wherefore, having girded up the loins of your mind, [be] sober [and] hope with perfect stedfastness in the grace [which will be] brought to you at [the] revelation of Jesus Christ;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 30389,
+        "text": "as children of obedience, not conformed to [your] former lusts in your ignorance;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30390,
+        "text": "but as he who has called you is holy, be ye also holy in all [your] conversation;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30391,
+        "text": "because it is written, Be ye holy, for I am holy.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30392,
+        "text": "And if ye invoke as Father him who, without regard of persons, judges according to the work of each, pass your time of sojourn in fear,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30393,
+        "text": "knowing that ye have been redeemed, not by corruptible [things, as] silver or gold, from your vain conversation handed down from [your] fathers,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30394,
+        "text": "but by precious blood, as of a lamb without blemish and without spot, [the blood] of Christ,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30395,
+        "text": "foreknown indeed before [the] foundation of [the] world, but who has been manifested at the end of times for your sakes,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30396,
+        "text": "who by him do believe on God, who has raised him from among [the] dead and given him glory, that your faith and hope should be in God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30397,
+        "text": "Having purified your souls by obedience to the truth to unfeigned brotherly love, love one another out of a pure heart fervently;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30398,
+        "text": "being born again, not of corruptible seed, but of incorruptible, by [the] living and abiding word of God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30399,
+        "text": "Because all flesh [is] as grass, and all its glory as [the] flower of grass. The grass has withered and [its] flower has fallen;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 30400,
+        "text": "but the word of [the] Lord abides for eternity. But this is the word which in the glad tidings [is] preached to you.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}
