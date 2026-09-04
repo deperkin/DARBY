@@ -1,0 +1,75 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 122,
+    "count": 600,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16091,
+        "text": "{A Song of degrees. Of David.} I rejoiced when they said unto me, Let us go into the house of Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16092,
+        "text": "Our feet shall stand within thy gates, O Jerusalem.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16093,
+        "text": "Jerusalem, which art built as a city that is compact together,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16094,
+        "text": "Whither the tribes go up, the tribes of Jah, a testimony to Israel, to give thanks unto the name of Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16095,
+        "text": "For there are set thrones for judgment, the thrones of the house of David.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16096,
+        "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16097,
+        "text": "Peace be within thy bulwarks, prosperity within thy palaces.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16098,
+        "text": "For my brethren and companions’ sakes I will say, Peace be within thee!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16099,
+        "text": "Because of the house of Jehovah our God I will seek thy good.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

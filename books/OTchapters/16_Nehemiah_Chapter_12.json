@@ -1,0 +1,341 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 16,"name": "Nehemiah","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 425,
+    "MaxVerses": 47,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12626,
+        "text": "And these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12627,
+        "text": "Amariah, Malluch, Hattush,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12628,
+        "text": "Shechaniah, Rehum, Meremoth,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12629,
+        "text": "Iddo, Ginnethoi, Abijah,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12630,
+        "text": "Mijamin, Maadiah, Bilgah,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12631,
+        "text": "Shemaiah, and Joiarib, Jedaiah,",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12632,
+        "text": "Sallu, Amok, Hilkijah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12633,
+        "text": "And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, Mattaniah, [who was] over the thanksgiving, he and his brethren;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12634,
+        "text": "and Bakbukiah and Unni, their brethren, were over against them as watches.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12635,
+        "text": "And Jeshua begot Joiakim, and Joiakim begot Eliashib, and Eliashib begot Joiada,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12636,
+        "text": "and Joiada begot Jonathan, and Jonathan begot Jaddua.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12637,
+        "text": "And in the days of Joiakim were priests, chief fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12638,
+        "text": "of Ezra, Meshullam; of Amariah, Jehohanan;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12639,
+        "text": "of Melicu, Jonathan; of Shebaniah, Joseph;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12640,
+        "text": "of Harim, Adna; of Meraioth, Helkai;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12641,
+        "text": "of Iddo, Zechariah; of Ginnethon, Meshullam;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12642,
+        "text": "of Abijah, Zichri; of Miniamin [and] Moadiah, Piltai;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12643,
+        "text": "of Bilgah, Shammua; of Shemaiah, Jehonathan;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12644,
+        "text": "and of Joiarib, Mattenai; of Jedaiah, Uzzi;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12645,
+        "text": "of Sallai, Kallai; of Amok, Eber;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12646,
+        "text": "of Hilkijah, Hashabiah; of Jedaiah, Nethaneel.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12647,
+        "text": "of the Levites, the chief fathers were recorded in the days of Eliashib, Joiada, and Johanan, and Jaddua, and the priests, until the reign of Darius the Persian.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12648,
+        "text": "The children of Levi, the chief fathers, were recorded in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12649,
+        "text": "And the chief Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise [and] to give thanks, according to the commandment of David the man of God, ward over against ward.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12650,
+        "text": "Mattaniah and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were doorkeepers keeping the ward at the storehouses of the gates.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12651,
+        "text": "These were in the days of Joiakim the son of Jeshua the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12652,
+        "text": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to hold the dedication with gladness, both with thanksgivings, and with singing, [with] cymbals, lutes and harps.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 12653,
+        "text": "And the children of the singers were assembled, both from the plain [of Jordan] round about Jerusalem, and from the villages of the Netophathites,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12654,
+        "text": "also from Beth-Gilgal, and out of the fields of Geba and Azmaveth; for the singers had built themselves hamlets round about Jerusalem.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12655,
+        "text": "And the priests and the Levites purified themselves; and they purified the people, and the gates and the wall.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12656,
+        "text": "And I brought up the princes of Judah upon the wall, and appointed two great choirs and processions, on the right hand upon the wall towards the dung-gate.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 12657,
+        "text": "And after them went Hoshaiah, and half of the princes of Judah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 12658,
+        "text": "and Azariah, Ezra, and Meshullam,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 12659,
+        "text": "Judah and Benjamin, and Shemaiah, and Jeremiah,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 12660,
+        "text": "and [certain] of the priests’ sons with trumpets: Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 12661,
+        "text": "and his brethren, Shemaiah, and Azareel, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God; and Ezra the scribe before them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 12662,
+        "text": "And at the fountain-gate, and over against them, they went up by the stairs of the city of David, at the ascent of the wall, above the house of David, even to the water-gate eastward.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 12663,
+        "text": "And the second choir went in the opposite direction upon the wall, and I after them, and the half of the people, from beyond the tower of the furnaces even to the broad wall;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 12664,
+        "text": "and from above the gate of Ephraim, and above the gate of the old [wall], and above the fish-gate, and the tower of Hananeel, and the tower of Meah, even to the sheep-gate; and they stood still in the prison-gate.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 12665,
+        "text": "And both choirs stood in the house of God, and I, and the half of the rulers with me;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 12666,
+        "text": "and the priests, Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, Hananiah, with trumpets;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 12667,
+        "text": "and Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud; and Jizrahiah was their overseer.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 12668,
+        "text": "And that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy; and also the women and the children rejoiced. And the joy of Jerusalem was heard even afar off.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 12669,
+        "text": "And at that time men were appointed over the chambers of the treasures for the heave-offerings, for the first-fruits, and for the tithes, to gather into them, out of the fields of the cities, the portions assigned by the law for the priests and the Levites; for Judah rejoiced over the priests, and over the Levites that waited.",
+        "WordCount": 58,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 45,
+        "count": 12670,
+        "text": "And, with the singers and the doorkeepers, they kept the ward of their God, and the ward of the purification, according to the commandment of David [and] of Solomon his son.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 12671,
+        "text": "For of old, in the days of David and Asaph, there were the chiefs of the singers, and songs of praise and thanksgivings to God.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 12672,
+        "text": "And all Israel, in the days of Zerubbabel and in the days of Nehemiah, gave the portions of the singers and the doorkeepers, every day what was needed, and they consecrated things for the Levites; and the Levites consecrated for the children of Aaron.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

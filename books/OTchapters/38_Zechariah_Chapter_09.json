@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 920,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23001,
+        "text": "The burden of the word of Jehovah, in the land of Hadrach, and [on] Damascus shall it rest; (for Jehovah hath an eye upon men, and upon all the tribes of Israel;)",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23002,
+        "text": "and also [on] Hamath [which] bordereth thereon; on Tyre and Zidon, though she be very wise.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23003,
+        "text": "And Tyre hath built herself a stronghold, and hath heaped up silver as the dust, and fine gold as the mire of the streets.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23004,
+        "text": "Behold, the Lord will take possession of her, and he will smite her power in the sea; and she shall be devoured with fire.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23005,
+        "text": "Ashkelon shall see [it], and fear; Gazah also, and she shall be greatly pained; Ekron also, for her expectation shall be put to shame: and the king shall perish from Gazah, and Ashkelon shall not be inhabited.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23006,
+        "text": "And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23007,
+        "text": "and I will take away his blood out of his mouth, and his abominations from between his teeth; but he that remaineth, he also shall belong to our God, and shall be as a leader in Judah, and Ekron as a Jebusite.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23008,
+        "text": "And I will encamp about my house because of the army, because of those that pass by and that return; and the exactor shall not pass through them any more: for now have I seen [it] with mine eyes.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23009,
+        "text": "Rejoice greatly, daughter of Zion; shout, daughter of Jerusalem! Behold, thy King cometh to thee: he is just, and having salvation; lowly and rIding upon an ass, even upon a colt the foal of an ass.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 23010,
+        "text": "And I will cut off the chariot from Ephraim, and the horse from Jerusalem; and the battle-bow shall be cut off. And he shall speak peace unto the nations; and his dominion shall be from sea to sea, and from the river to the ends of the earth.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23011,
+        "text": "As for thee also, by the blood of thy covenant, I will send forth thy prisoners out of the pit wherein is no water.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23012,
+        "text": "Turn again to the stronghold, prisoners of hope! even to-day do I declare I will render double unto thee.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 23013,
+        "text": "For I have bent Judah for me, I have filled the bow with Ephraim; and I will raise up thy sons, O Zion, against thy sons, O Greece, and make thee like the sword of a mighty man.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23014,
+        "text": "And Jehovah shall be seen over them, and his arrow shall go forth as the lightning; and the Lord Jehovah will blow the trumpet, and will march with whirlwinds of the south.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23015,
+        "text": "Jehovah of hosts will defend them; and they shall devour, and shall tread down the sling-stones; and they shall drink, [and] make a noise as from wine; and they shall be filled like a bowl, like the corners of the altar.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23016,
+        "text": "And Jehovah their God shall save them in that day as the flock of his people; for [they shall be as] the stones of a crown, lifted up upon his land.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23017,
+        "text": "For how great is his goodness, and how great is his beauty! Corn shall make the young men flourish, and new wine the maidens.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

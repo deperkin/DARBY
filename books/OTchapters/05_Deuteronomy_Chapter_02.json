@@ -1,0 +1,271 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 155,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4940,
+        "text": "And we turned, and took our journey into the wilderness by the way of the Red sea, as Jehovah had said unto me; and we went round mount Seir many days.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4941,
+        "text": "And Jehovah spoke to me, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4942,
+        "text": "Ye have gone round this mountain long enough: turn you northward.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4943,
+        "text": "And command the people, saying, Ye are to pass through the border of your brethren the children of Esau, who dwell in Seir; and they will be afraid of you; and ye shall be very guarded:",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4944,
+        "text": "attack them not; for I will not give you of their land, no, not so much as a foot-breadth; for I have given mount Seir as a possession unto Esau.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4945,
+        "text": "Ye shall buy of them food for money, that ye may eat; and water shall ye also buy of them for money, that ye may drink;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4946,
+        "text": "for Jehovah thy God hath blessed thee in all the work of thy hand. He hath known thy walking through this great wilderness: these forty years hath Jehovah thy God been with thee; thou hast lacked nothing.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4947,
+        "text": "And we passed by from our brethren the children of Esau, who dwelt in Seir, by the plain, by Elath, and by Ezion-geber, and we turned and passed by the way of the wilderness of Moab.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 4948,
+        "text": "And Jehovah said to me, Distress not the Moabites, neither engage with them in battle; for I will not give thee of their land a possession; for unto the children of Lot have I given Ar as a possession.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4949,
+        "text": "(The Emim dwelt therein in times past, a people great, and many, and tall as the Anakim.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4950,
+        "text": "They also are reckoned as giants like the Anakim; but the Moabites call them Emim.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4951,
+        "text": "And in Seir dwelt the Horites in times past; and the children of Esau dispossessed them, and destroyed them from before them, and dwelt in their stead; as Israel did to the land of their possession, which Jehovah gave to them.)",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4952,
+        "text": "Now rise up, and pass over the torrent Zered. And we passed over the torrent Zered.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4953,
+        "text": "Now the days in which we came from Kadesh-barnea, until we had come over the torrent Zered, were thirty-eight years; until the whole generation of the men of war was consumed from the midst of the camp, as Jehovah had sworn unto them.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4954,
+        "text": "Moreover the hand of Jehovah was against them to destroy them from the midst of the camp, until they were consumed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4955,
+        "text": "And it came to pass when all the men of war were consumed, having died off from among the people,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4956,
+        "text": "that Jehovah spoke to me, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4957,
+        "text": "Thou art to pass this day over the border of Moab, [which is] Ar,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4958,
+        "text": "and come near over against the children of Ammon; thou shalt not distress them nor attack them; for I will not give thee of the land of the children of Ammon a possession; for unto the children of Lot have I given it as a possession.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4959,
+        "text": "(That also is reckoned a land of giants: giants dwelt therein in time past, and the Ammonites call them Zamzummim;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4960,
+        "text": "a people great, and many, and tall as the Anakim; and Jehovah destroyed them before them, and they dispossessed them, and dwelt in their stead;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4961,
+        "text": "as he did to the children of Esau, who dwelt in Seir, from before whom he destroyed the Horites; and they dispossessed them, and dwelt in their stead, even to this day.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4962,
+        "text": "And the Avvites who dwelt in the hamlets as far as Gazah—the Caphtorim, who came out of Caphtor, destroyed them, and dwelt in their stead.)",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4963,
+        "text": "Rise up, take your journey, and pass over the river Arnon. Behold, I have given into thy hand Sihon the king of Heshbon, the Amorite, and his land: begin, take possession, and engage with him in battle.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 4964,
+        "text": "This day will I begin to put the dread of thee and the fear of thee upon the peoples under the whole heaven; who will hear report of thee, and will tremble, and quake because of thee.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4965,
+        "text": "And I sent messengers out of the wilderness of Kedemoth unto Sihon the king of Heshbon with words of peace, saying,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4966,
+        "text": "Let me pass through thy land: by the highway alone will I go; I will neither turn to the right hand nor to the left.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4967,
+        "text": "Thou shalt sell me food for money that I may eat; and thou shalt give me water for money that I may drink; I will only pass through on my feet,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4968,
+        "text": "—as the children of Esau who dwell in Seir, and the Moabites who dwell in Ar, did to me,—until I shall pass over the Jordan into the land which Jehovah our God giveth us.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4969,
+        "text": "But Sihon the king of Heshbon would not let us pass by him; for Jehovah thy God hardened his spirit, and made his heart obdurate, that he might give him into thy hand, as it is this day.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4970,
+        "text": "And Jehovah said to me, Behold, I begin to give Sihon and his land before thee: begin, take possession, that thou mayest possess his land.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4971,
+        "text": "And Sihon came out against us for battle, he and all his people, to Jahaz.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4972,
+        "text": "But Jehovah our God gave him up before us; and we smote him, and his sons, and his whole people.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4973,
+        "text": "And we took all his cities at that time, and utterly destroyed every city, men, and women, and little ones: we let none escape.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4974,
+        "text": "Only the cattle we took as booty for ourselves, and the spoil of the cities which we took.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4975,
+        "text": "From Aroer, which is on the bank of the river Arnon, and the city that is in the ravine even to Gilead, there was not one city too strong for us: Jehovah our God delivered all before us.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4976,
+        "text": "Only thou didst not approach the land of the children of Ammon, the whole border of the river Jabbok, nor the cities of the mountain, nor to whatsoever Jehovah our God had forbidden us.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

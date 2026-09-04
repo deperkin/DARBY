@@ -1,0 +1,264 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 127,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3990,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3991,
+        "text": "Make thee two trumpets of silver; of beaten work shalt thou make them; and they shall serve for the calling together of the assembly, and for the journeying of the camps.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3992,
+        "text": "And when they shall blow with them, the whole assembly shall gather to thee at the entrance of the tent of meeting.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3993,
+        "text": "And if they blow with one, then the princes, the heads of the thousands of Israel, shall gather unto thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3994,
+        "text": "And when ye blow an alarm, the camps that lie eastward shall set forward.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3995,
+        "text": "And when ye blow an alarm the second time, the camps that lie southward shall set forward; they shall blow an alarm on their setting forward.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3996,
+        "text": "And when the congregation is to be gathered together, ye shall blow, but ye shall not blow an alarm:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3997,
+        "text": "the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an everlasting statute throughout your generations.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3998,
+        "text": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before Jehovah your God, and ye shall be saved from your enemies.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3999,
+        "text": "And in the day of your gladness, and in your set feasts, and in your new moons, ye shall blow with the trumpets over your burnt-offerings and over your sacrifices of peace-offering; and they shall be to you for a memorial before your God: I am Jehovah your God.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4000,
+        "text": "And it came to pass in the second year, in the second month, on the twentieth of the month, that the cloud was taken up from off the tabernacle of the testimony.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 4001,
+        "text": "And the children of Israel set forward according to their journeys out of the wilderness of Sinai; and the cloud stood still in the wilderness of Paran.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4002,
+        "text": "And they first took their journey, according to the commandment of Jehovah through Moses.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4003,
+        "text": "The standard of the camp of the children of Judah set forward first according to their hosts, and over his host was Nahshon the son of Amminadab;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4004,
+        "text": "and over the host of the tribe of the children of Issachar was Nethaneel the son of Zuar;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4005,
+        "text": "and over the host of the tribe of the children of Zebulun was Eliab the son of Helon.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4006,
+        "text": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward bearing the tabernacle.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4007,
+        "text": "And the standard of the camp of Reuben set forward according to their hosts, and over his host was Elizur the son of Shedeur;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4008,
+        "text": "and over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4009,
+        "text": "and over the host of the tribe of the children of Gad was Eliasaph the son of Deuel.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4010,
+        "text": "And the Kohathites set forward bearing the sanctuary: and [the others] set up the tabernacle whilst they came.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4011,
+        "text": "And the standard of the camp of the children of Ephraim set forward according to their hosts, and over his host was Elishama the son of Ammihud;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4012,
+        "text": "and over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4013,
+        "text": "and over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4014,
+        "text": "And the standard of the camp of the children of Dan set forward, the rear-guard of all the camps according to their hosts, and over his host was Ahiezer the son of Ammishaddai;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4015,
+        "text": "and over the host of the tribe of the children of Asher was Pagiel the son of Ocran;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4016,
+        "text": "and over the host of the tribe of the children of Naphtali was Ahira the son of Enan.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4017,
+        "text": "These were the settings forward of the children of Israel according to their hosts: so did they set forward.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4018,
+        "text": "And Moses said to Hobab, the son of Reuel the Midianite, Moses’ father-in-law, We are journeying to the place of which Jehovah said, I will give it unto you: come with us, and we will do thee good; for Jehovah has spoken good concerning Israel.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 4019,
+        "text": "And he said to him, I will not go; but to mine own land, and to my kindred will I go.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4020,
+        "text": "And he said, Leave me not, I pray thee, because thou knowest where we are to encamp in the wilderness, and thou wilt be to us for eyes.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4021,
+        "text": "And it shall be, if thou come with us, that whatever good Jehovah doeth unto us, so will we do to thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4022,
+        "text": "And they set forward from the mountain of Jehovah [and went] three days’ journey; and the ark of the covenant of Jehovah went before them in the three days’ journey, to search out a resting-place for them.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4023,
+        "text": "And the cloud of Jehovah was over them by day when they set forward out of the camp.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4024,
+        "text": "And it came to pass when the ark set forward, that Moses said, Rise up, Jehovah, and let thine enemies be scattered; And let them that hate thee flee before thy face.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4025,
+        "text": "And when it rested, he said, Return, Jehovah, unto the myriads of the thousands of Israel.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

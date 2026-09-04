@@ -1,0 +1,222 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 458,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13391,
+        "text": "And Eliphaz the Temanite answered and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13392,
+        "text": "Can a man be profitable to God? surely it is unto himself that the wise man is profitable.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13393,
+        "text": "Is it any pleasure to the Almighty if thou art righteous? And is it gain [to him] that thou makest thy ways perfect?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13394,
+        "text": "Will he reason with thee for fear of thee? Will he enter with thee into judgment?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13395,
+        "text": "Is not thy wickedness great? and thine iniquities without end?",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 13396,
+        "text": "For thou hast taken a pledge of thy brother for nought, and stripped off the clothing of the naked.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13397,
+        "text": "Thou hast not given water to the fainting to drink, and thou hast withholden bread from the hungry.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13398,
+        "text": "But the powerful man, he had the land; and the man of high rank dwelt in it.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13399,
+        "text": "Widows hast thou sent empty away, and the arms of the fatherless have been broken.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13400,
+        "text": "Therefore snares are round about thee, and sudden fear troubleth thee;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13401,
+        "text": "Or darkness, that thou canst not see, and floods of waters cover thee.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13402,
+        "text": "Is not +God in the height of the heavens? And behold the summit of the stars: how exalted are they!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13403,
+        "text": "And thou sayest, What doth God know? will he judge through the dark cloud?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13404,
+        "text": "Thick clouds are a covering to him, that he seeth not; and he walketh on the vault of the heavens.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13405,
+        "text": "Dost thou mark the ancient path which wicked men have trodden?",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 13406,
+        "text": "Who were carried off before the time, whose foundation was overflowed with a flood;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13407,
+        "text": "Who said unto God, Depart from us! and what could the Almighty do to them?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13408,
+        "text": "Yet he filled their houses with good. But the counsel of the wicked is far from me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13409,
+        "text": "The righteous see it, and are glad; and the innocent laugh them to scorn:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13410,
+        "text": "Is not he who rose against us destroyed, and doth not the fire consume his residue?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13411,
+        "text": "Reconcile thyself now with him, and be at peace: thereby good shall come unto thee.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 13412,
+        "text": "Receive, I pray thee, instruction from his mouth, and lay up his words in thy heart.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13413,
+        "text": "If thou return to the Almighty, thou shalt be built up. If thou remove unrighteousness far from thy tents,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13414,
+        "text": "And put the precious ore with the dust, and [the gold of] Ophir among the stones of the torrents,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13415,
+        "text": "Then the Almighty will be thy precious ore, and silver heaped up unto thee;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13416,
+        "text": "Yea, then shalt thou delight thyself in the Almighty, and shalt lift up thy face unto +God:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13417,
+        "text": "Thou shalt make thy prayer unto him, and he will hear thee, and thou shalt pay thy vows;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13418,
+        "text": "And thou shalt decree a thing, and it shall be established unto thee; and light shall shine upon thy ways.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13419,
+        "text": "When they are made low, then thou shalt say, Rise up! and he shall save him that is of downcast eyes.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13420,
+        "text": "[Even] him that is not innocent shall he deliver; yea, he shall be delivered by the pureness of thy hands.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

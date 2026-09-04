@@ -1,0 +1,222 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 140,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4418,
+        "text": "And Balaam said to Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4419,
+        "text": "And Balak did as Balaam had said; and Balak and Balaam offered up a bullock and a ram on [each] altar.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4420,
+        "text": "And Balaam said to Balak, Stand by thy burnt-offering, and I will go; perhaps Jehovah will come to meet me; and whatever he shews me I will tell thee. And he went to a hill.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4421,
+        "text": "And God met Balaam; and [Balaam] said to him, I have disposed seven altars, and have offered up a bullock and a ram upon [each] altar.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4422,
+        "text": "And Jehovah put a word in Balaam’s mouth, and said, Return to Balak, and thus shalt thou speak.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4423,
+        "text": "And he returned to him, and behold, he was standing by his burnt-offering, he, and all the princes of Moab.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4424,
+        "text": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, from the mountains of the east: Come, curse me Jacob, and come, denounce Israel!",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4425,
+        "text": "How shall I curse whom God hath not cursed? or how shall I denounce whom Jehovah doth not denounce?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4426,
+        "text": "For from the top of the rocks I see him, and from the hills I behold him: Lo, [it is] a people that shall dwell alone and shall not be reckoned among the nations.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4427,
+        "text": "Who can count the dust of Jacob, and the number of the fourth part of Israel? Let my soul die the death of the righteous, and let my end be like his!",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4428,
+        "text": "And Balak said to Balaam, What hast thou done to me? I took thee to curse mine enemies, and behold, thou hast blessed them altogether.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4429,
+        "text": "And he answered and said, Must I not take heed to speak that which Jehovah puts in my mouth?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4430,
+        "text": "And Balak said to him, Come, I pray thee, with me to another place, from whence thou wilt see them; thou shalt see only the extremity of them and shalt not see them all, and curse me them from thence.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 4431,
+        "text": "And he took him to the watchmen’s field, to the top of Pisgah, and built seven altars, and offered up a bullock and a ram on [each] altar.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4432,
+        "text": "And [Balaam] said to Balak, Stand here by thy burnt-offering, and I will go to meet yonder.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4433,
+        "text": "And Jehovah met Balaam, and put a word in his mouth, and said, Return to Balak, and thus shalt thou speak.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4434,
+        "text": "And he came to him, and behold, he was standing by his burnt-offering, and the princes of Moab with him; and Balak said to him, What has Jehovah spoken?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4435,
+        "text": "Then he took up his parable and said, Rise up, Balak, and hear! hearken unto me, son of Zippor!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4436,
+        "text": "God is not a man, that he should lie; neither a son of man, that he should repent. Shall he say and not do? and shall he speak and not make it good?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4437,
+        "text": "Behold, I have received [mission] to bless; and he hath blessed, and I cannot reverse it.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4438,
+        "text": "He hath not beheld iniquity in Jacob, neither hath he seen wrong in Israel; Jehovah his God is with him, and the shout of a king is in his midst.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4439,
+        "text": "God brought him out of Egypt; he hath as it were the strength of a buffalo.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4440,
+        "text": "For there is no enchantment against Jacob, neither is there any divination against Israel. At this time it shall be said of Jacob and of Israel, What hath God wrought!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4441,
+        "text": "Lo, the people will rise up as a lioness, and lift himself up as a lion. He shall not lie down until he have eaten the prey and drunk the blood of the slain.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4442,
+        "text": "And Balak said to Balaam, Neither curse them at all, nor bless them at all.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4443,
+        "text": "And Balaam answered and said to Balak, Did I not tell thee, saying, All that Jehovah shall speak, that will I do?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4444,
+        "text": "And Balak said to Balaam, Come, I pray thee, I will bring thee to another place; perhaps it will be right in the sight of God that thou curse me them from thence.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4445,
+        "text": "And Balak brought Balaam to the top of Peor, which looks over the surface of the waste.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4446,
+        "text": "And Balaam said to Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4447,
+        "text": "And Balak did as Balaam had said, and offered up a bullock and a ram on each altar.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

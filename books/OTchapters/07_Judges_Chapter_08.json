@@ -1,0 +1,257 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 7,"name": "Judges","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 219,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6721,
+        "text": "And the men of Ephraim said to him, What is this thing thou hast done to us, that thou calledst us not, when thou wentest to fight with Midian? And they disputed with him sharply.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6722,
+        "text": "And he said to them, What have I done now in comparison with you? Are not the gleanings of Ephraim better than the vintage of Abi-ezer?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6723,
+        "text": "Into your hands hath God delivered the princes of Midian, Oreb and Zeeb; and what was I able to do in comparison with you? Then their spirit was appeased toward him, when he said that word.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6724,
+        "text": "And Gideon came to the Jordan, [and] passed over, he and the three hundred men that were with him, faint, yet pursuing.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 6725,
+        "text": "And he said to the men of Succoth, Give, I pray you, loaves of bread to the people that follow me, for they are faint; and I am pursuing after Zebah and Zalmunna, kings of Midian.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6726,
+        "text": "And the chief men of Succoth said, Are the hands of Zebah and Zalmunna already in thy hand, that we should give bread to thine army?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6727,
+        "text": "And Gideon said, Therefore when Jehovah delivers Zebah and Zalmunna into my hand, I will thresh your flesh with thorns of the wilderness and with briars.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 6728,
+        "text": "And he went up thence to Penuel, and spoke to them in like manner. And the men of Penuel answered him as the men of Succoth had answered.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6729,
+        "text": "And he spoke also to the men of Penuel, saying, When I come again in peace, I will break down this tower.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6730,
+        "text": "Now Zebah and Zalmunna were in Karkor, and their camp with them, about fifteen thousand [men], all that were left of the whole camp of the children of the east; for there had fallen a hundred and twenty thousand men that drew sword.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6731,
+        "text": "And Gideon went up by the way of them that dwell in tents on the east of Nobah and Jogbehah, and smote the camp; for the camp was at its ease.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6732,
+        "text": "And Zebah and Zalmunna fled, and he pursued after them, and he took the two kings of Midian, Zebah and Zalmunna, and discomfited all the camp.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6733,
+        "text": "And Gideon the son of Joash returned from the battle, from the ascent of Heres.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6734,
+        "text": "And he caught a youth of the men of Succoth, and inquired of him; and he wrote down for him the chief men of Succoth, and the elders thereof, seventy-seven men.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6735,
+        "text": "And he came to the men of Succoth, and said, Behold Zebah and Zalmunna, with whom ye did upbraid me, saying, Are the hands of Zebah and Zalmunna already in thy hand, that we should give bread to thy men that are weary?",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6736,
+        "text": "And he took the elders of the city, and thorns of the wilderness and briars, and with them he taught the men of Succoth.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6737,
+        "text": "And he broke down the tower of Penuel, and slew the men of the city.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6738,
+        "text": "Then said he to Zebah and Zalmunna, What sort of men were they that ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the sons of a king.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 6739,
+        "text": "And he said, They were my brethren, the sons of my mother. [As] Jehovah liveth, if ye had saved them alive, I would not slay you.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6740,
+        "text": "And he said to Jether his firstborn, Arise, slay them! But the youth drew not his sword; for he feared, because he was yet a youth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6741,
+        "text": "Then Zebah and Zalmunna said, Rise thou, and fall on us; for as is the man, so is his strength. And Gideon arose, and slew Zebah and Zalmunna; and he took the moons that were on their camels’ necks.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6742,
+        "text": "And the men of Israel said to Gideon, Rule over us, both thou, and thy son, and thy son’s son also; for thou hast saved us from the hand of Midian.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 6743,
+        "text": "And Gideon said to them, I will not rule over you, neither shall my son rule over you: Jehovah will rule over you.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6744,
+        "text": "And Gideon said to them, I would desire a request of you: give me every man the earrings of his booty; for they had golden earrings, because they were Ishmaelites.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 6745,
+        "text": "And they said, We will willingly give [them]. And they spread a garment, and cast therein every man the earrings of his booty.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6746,
+        "text": "And the weight of the golden earrings that he requested was a thousand seven hundred [shekels] of gold; besides the moons, and eardrops, and the purple garments that were on the kings of Midian, and besides the chains that were about their camels’ necks.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6747,
+        "text": "And Gideon made an ephod of them, and put it in his city, in Ophrah. And all Israel went thither a whoring after it; and it became a snare to Gideon, and to his house.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6748,
+        "text": "And Midian was subdued before the children of Israel, and they lifted up their heads no more. And the land had rest forty years in the days of Gideon.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6749,
+        "text": "And Jerubbaal the son of Joash went and dwelt in his house.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 6750,
+        "text": "Now Gideon had seventy sons who had come out of his loins, for he had many wives.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6751,
+        "text": "And his concubine that was in Shechem, she also bore him a son, and he gave him the name of Abimelech.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6752,
+        "text": "And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abi-ezrites.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 6753,
+        "text": "And it came to pass when Gideon was dead, that the children of Israel turned again, and went a whoring after the Baals, and set up Baal-Berith as their god.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 6754,
+        "text": "And the children of Israel remembered not Jehovah their God, who had delivered them out of the hand of all their enemies on every side.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 6755,
+        "text": "And they shewed no kindness to the house of Jerubbaal-Gideon, according to all the good that he had done to Israel.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

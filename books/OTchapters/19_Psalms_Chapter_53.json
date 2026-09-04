@@ -1,0 +1,54 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 53,
+    "count": 531,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14721,
+        "text": "{To the chief Musician. On Mahalath: an instruction. Of David.} The fool hath said in his heart, There is no God! They have corrupted themselves, and have done abominable iniquity: there is none that doeth good.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14722,
+        "text": "God looked down from the heavens upon the children of men, to see if there were any that did understand, that did seek God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14723,
+        "text": "Every one of them is gone back, they are together become corrupt: there is none that doeth good, not even one.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14724,
+        "text": "Have the workers of iniquity no knowledge, eating up my people [as] they eat bread? they call not upon God.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14725,
+        "text": "There were they in great fear, where no fear was; for God scattereth the bones of him that encampeth against thee. Thou hast put [them] to shame, for God hath despised them.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14726,
+        "text": "Oh that the salvation of Israel were come out of Zion! When God turneth again the captivity of his people, Jacob shall be glad, Israel shall rejoice.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

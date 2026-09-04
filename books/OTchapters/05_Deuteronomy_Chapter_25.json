@@ -1,0 +1,145 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 178,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5549,
+        "text": "If there be a controversy between men, and they resort to judgment, and they judge [their case]; then they shall justify the righteous, and condemn the wicked.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5550,
+        "text": "And it shall be if the wicked man have deserved to be beaten, that the judge shall cause him to lie down, and be beaten before his face, according to the measure of his wickedness with a certain number [of stripes].",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5551,
+        "text": "With forty [stripes] shall they beat him; they shall not exceed, lest, if they continue to beat him with many stripes above these, thy brother become despicable in thine eyes.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5552,
+        "text": "Thou shalt not muzzle the ox when he treadeth out [the corn].",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5553,
+        "text": "If brethren dwell together, and one of them die, and have no son, the wife of the dead shall not marry a stranger abroad: her husband’s brother shall go in unto her, and take her to him as wife, and perform the duty of a husband’s brother unto her.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 5554,
+        "text": "And it shall be, that the firstborn that she beareth shall stand in the name of his brother who is dead, that his name be not blotted out from Israel.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5555,
+        "text": "But if the man like not to take his brother’s wife, his brother’s wife shall go up to the gate unto the elders, and say, My husband’s brother refuseth to raise up unto his brother a name in Israel: he will not perform for me the duty of a husband’s brother.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5556,
+        "text": "Then the elders of his city shall call him and speak unto him; and if he stand to it and say, I like not to take her;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5557,
+        "text": "then shall his brother’s wife come near to him before the eyes of the elders, and draw his sandal from his foot, and spit in his face, and shall answer and say, So shall it be done unto the man that will not build up his brother’s house.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5558,
+        "text": "And his name shall be called in Israel, The house of him that hath his shoe drawn off.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5559,
+        "text": "When men fight together one with another, and the wife of the one come near to rescue her husband out of the hand of him that smiteth him, and stretch out her hand, and seize him by his secret parts,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5560,
+        "text": "thou shalt cut off her hand; thine eye shall not spare.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5561,
+        "text": "Thou shalt not have in thy bag divers weights, a great and a small.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 5562,
+        "text": "Thou shalt not have in thy house divers ephahs, a great and a small.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5563,
+        "text": "A perfect and just weight shalt thou have; a perfect and just ephah shalt thou have; that thy days may be prolonged in the land that Jehovah thy God giveth thee.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5564,
+        "text": "For every one that doeth such things, every one that doeth unrighteousness, is an abomination to Jehovah thy God.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5565,
+        "text": "Remember what Amalek did unto thee on the way, when ye came forth out of Egypt;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5566,
+        "text": "how he met thee on the way, and smote the hindmost of thee, all the feeble that lagged behind thee, when thou wast faint and weary, and he feared not God.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5567,
+        "text": "And it shall be, when Jehovah thy God shall have given thee rest from all thine enemies round about, in the land that Jehovah thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under the heavens; thou shalt not forget it.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

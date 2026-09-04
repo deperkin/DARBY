@@ -1,0 +1,306 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 32,
+    "count": 149,
+    "MaxVerses": 42,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4720,
+        "text": "And the children of Reuben and the children of Gad had much cattle, a very great multitude; and they saw the land of Jaazer, and the land of Gilead, and behold, the place was a place for cattle.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4721,
+        "text": "And the children of Gad and the children of Reuben came and spoke to Moses, and to Eleazar the priest, and to the princes of the assembly, saying,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4722,
+        "text": "Ataroth, and Dibon, and Jaazer, and Nimrah, and Heshbon, and Elaleh, and Sebam, and Nebo, and Beon,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4723,
+        "text": "the country that Jehovah smote before the assembly of Israel, is a land for cattle, and thy servants have cattle;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4724,
+        "text": "and they said, If we have found favour in thine eyes, let this land be given to thy servants for a possession: bring us not over the Jordan.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4725,
+        "text": "And Moses said to the children of Gad, and to the children of Reuben, Shall your brethren go to war, and shall ye abide here?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4726,
+        "text": "And why do ye discourage the children of Israel from going over into the land that Jehovah has given them?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4727,
+        "text": "Thus did your fathers, when I sent them from Kadesh-barnea to see the land:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4728,
+        "text": "they went up to the valley of Eshcol, and saw the land, and discouraged the children of Israel, that they should not go into the land that Jehovah had given them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4729,
+        "text": "And Jehovah’s anger was kindled the same time, and he swore, saying,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4730,
+        "text": "If the men that came up out of Egypt, from twenty years old and upward, shall see the land that I swore to Abraham, to Isaac, and to Jacob! for they have not wholly followed me;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4731,
+        "text": "save Caleb the son of Jephunneh the Kenizzite, and Joshua the son of Nun; for they have wholly followed Jehovah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4732,
+        "text": "And Jehovah’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until the whole generation was consumed that had done evil in the eyes of Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4733,
+        "text": "And behold, ye are risen up in your fathers’ stead, a progeny of sinful men, to augment yet the fierce anger of Jehovah toward Israel.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4734,
+        "text": "If ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4735,
+        "text": "And they drew near to him, and said, We will build sheepfolds here for our cattle, and cities for our little ones;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 4736,
+        "text": "but we ourselves will go with diligence armed before the children of Israel, until we have brought them to their place; and our little ones shall dwell in the strong cities because of the inhabitants of the land.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4737,
+        "text": "We will not return to our houses, until the children of Israel have inherited each one his inheritance.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4738,
+        "text": "For we will not inherit with them on yonder side the Jordan, and further, because our inheritance is fallen to us on this side the Jordan eastward.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4739,
+        "text": "And Moses said to them, If ye do this thing, if ye arm yourselves before Jehovah for war,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4740,
+        "text": "and all of you that are armed go over the Jordan before Jehovah, until he have dispossessed his enemies from before him,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4741,
+        "text": "and the land is subdued before Jehovah, and afterwards ye return, ye shall be guiltless toward Jehovah and toward Israel, and this land shall be your possession before Jehovah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4742,
+        "text": "But if ye do not do so, behold, ye have sinned against Jehovah, and be sure your sin will find you out.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4743,
+        "text": "Build yourselves cities for your little ones, and folds for your flocks, and do that which has gone out of your mouth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4744,
+        "text": "And the children of Gad and the children of Reuben spoke to Moses, saying, Thy servants will do as my lord commands.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4745,
+        "text": "Our little ones, our wives, our cattle, and all our beasts shall be there in the cities of Gilead;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4746,
+        "text": "but thy servants will pass over, every one armed for war, before Jehovah to battle, as my lord says.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4747,
+        "text": "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 4748,
+        "text": "And Moses said unto them, If the children of Gad and the children of Reuben pass with you over the Jordan, every one armed for battle, before Jehovah, and the land be subdued before you, then ye shall give them the land of Gilead for a possession;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4749,
+        "text": "but if they do not pass over with you armed, they shall have possessions among you in the land of Canaan.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4750,
+        "text": "And the children of Gad and the children of Reuben answered, saying, As Jehovah has said to thy servants, so will we do.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4751,
+        "text": "We will pass over armed before Jehovah into the land of Canaan, and the possession of our inheritance on this side the Jordan shall be ours.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4752,
+        "text": "And Moses gave to them, to the children of Gad, and to the children of Reuben, and to half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og the king of Bashan, the land, according to its cities and territories, the cities of the land round about.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4753,
+        "text": "And the children of Gad built Dibon, and Ataroth, and Aroer,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4754,
+        "text": "and Atroth-Shophan, and Jaazer, and Jogbebah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4755,
+        "text": "and Beth-Nimrah, and Beth-haran, strong cities, and sheepfolds.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4756,
+        "text": "—And the children of Reuben built Heshbon, and Elaleh, and Kirjathaim,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4757,
+        "text": "and Nebo, and Baal-meon (of which the names were changed), and Sibmah; and they gave other names to the cities that they built.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4758,
+        "text": "And the children of Machir the son of Manasseh went to Gilead, And took it, And they dispossessed the Amorites that were therein.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4759,
+        "text": "And Moses gave Gilead to Machir the son of Manasseh; and he dwelt therein.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4760,
+        "text": "And Jair the son of Manasseh went and took their hamlets, and called them Havoth-Jair.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 4761,
+        "text": "And Nobah went and took Kenath, and its dependent villages, and called it Nobah, after his name.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

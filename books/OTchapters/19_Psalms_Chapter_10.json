@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 488,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14043,
+        "text": "Why, Jehovah, standest thou afar off? [Why] hidest thou thyself in times of distress?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14044,
+        "text": "The wicked, in his pride, doth hotly pursue the afflicted. They shall be taken in the devices that they have imagined.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14045,
+        "text": "For the wicked boasteth of his soul’s desire, and he blesseth the covetous; he contemneth Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14046,
+        "text": "The wicked [saith], in the haughtiness of his countenance, He doth not search out: all his thoughts are, There is no God!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14047,
+        "text": "His ways always succeed; thy judgments are far above out of his sight; [as for] all his adversaries, he puffeth at them.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14048,
+        "text": "He saith in his heart, I shall not be moved; from generation to generation I shall be in no adversity.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14049,
+        "text": "His mouth is full of cursing, and deceit, and oppression; under his tongue is mischief and iniquity.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14050,
+        "text": "He sitteth in the lurking-places of the villages; in the secret places doth he slay the innocent: his eyes watch for the wretched.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14051,
+        "text": "He lieth in wait secretly, like a lion in his thicket; he lieth in wait to catch the afflicted: he doth catch the afflicted, drawing him into his net.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14052,
+        "text": "He croucheth, he boweth down, that the wretched may fall by his strong ones.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14053,
+        "text": "He saith in his heart, God hath forgotten, he hideth his face, he will never see [it].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14054,
+        "text": "Arise, Jehovah; O God, lift up thy hand: forget not the afflicted.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 14055,
+        "text": "Wherefore doth the wicked contemn God? He hath said in his heart, Thou wilt not require [it].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14056,
+        "text": "Thou hast seen [it], for thou thyself beholdest trouble and vexation, to requite by thy hand. The wretched committeth himself unto thee; thou hast been the helper of the fatherless.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14057,
+        "text": "Break thou the arm of the wicked, and as for the evil man, seek out his wickedness [till] thou find none.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14058,
+        "text": "Jehovah is King for ever and ever: the nations have perished out of his land.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14059,
+        "text": "Jehovah, thou hast heard the desire of the meek, thou hast established their heart: thou causest thine ear to hear,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14060,
+        "text": "To do justice to the fatherless and the oppressed one, that the man of the earth may terrify no more.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 304,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9186,
+        "text": "And behold, there came a man of God from Judah, by the word of Jehovah, to Bethel; and Jeroboam stood by the altar to burn incense.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9187,
+        "text": "And he cried against the altar by the word of Jehovah, and said, O altar, altar! thus saith Jehovah: Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he sacrifice the priests of the high places that burn incense upon thee, and men’s bones shall be burned upon thee.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9188,
+        "text": "And he gave a sign the same day, saying, This is the sign that Jehovah hath spoken: Behold, the altar shall be rent, and the ashes that are upon it shall be poured out.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9189,
+        "text": "And it came to pass when the king heard the word of the man of God, which he cried against the altar in Bethel, that Jeroboam stretched forth his hand from the altar, saying, Lay hold on him. And his hand which he stretched out against him dried up, so that he could not bring it back again to him.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9190,
+        "text": "And the altar was rent, and the ashes poured out from the altar, according to the sign that the man of God had given by the word of Jehovah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9191,
+        "text": "And the king answered and said to the man of God, Intreat now Jehovah thy God, and pray for me, that my hand may be restored to me again. And the man of God intreated Jehovah, and the king’s hand was restored to him again, and became as before.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9192,
+        "text": "And the king said to the man of God, Come home with me, and refresh thyself, and I will give thee a present.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9193,
+        "text": "And the man of God said to the king, If thou wilt give me half thy house, I will not go in with thee, neither will I eat bread nor drink water in this place;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9194,
+        "text": "for so was it charged me by the word of Jehovah, saying, Thou shalt eat no bread, nor drink water, nor return by the way that thou shalt go.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9195,
+        "text": "So he went another way, and returned not by the way that he had come to Bethel.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9196,
+        "text": "Now there dwelt a certain old prophet in Bethel; and his sons came and told him all the works that the man of God had done that day in Bethel; the words that he had spoken to the king, them they told also to their father.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 9197,
+        "text": "And their father said to them, Which way went he? for his sons had seen which way the man of God went, who came from Judah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9198,
+        "text": "And he said to his sons, Saddle me the ass. So they saddled him the ass; and he rode thereon,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9199,
+        "text": "and went after the man of God, and found him sitting under a terebinth; and he said to him, Art thou the man of God that camest from Judah? And he said, I am.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9200,
+        "text": "And he said to him, Come home with me, and eat bread.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9201,
+        "text": "And he said, I cannot return with thee, nor go in with thee; neither will I eat bread nor drink water with thee in this place.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9202,
+        "text": "For it was said to me by the word of Jehovah, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou wentest.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9203,
+        "text": "And he said to him, I am a prophet also as thou art; and an angel spoke to me by the word of Jehovah saying, Bring him back with thee into thy house, that he may eat bread and drink water. He lied unto him.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9204,
+        "text": "Then he went back with him, and ate bread in his house, and drank water.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9205,
+        "text": "And it came to pass as they sat at the table, that the word of Jehovah came to the prophet that brought him back;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9206,
+        "text": "and he cried to the man of God that came from Judah, saying, Thus saith Jehovah: Forasmuch as thou hast disobeyed the word of Jehovah, and hast not kept the commandment that Jehovah thy God commanded thee,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9207,
+        "text": "but camest back, and hast eaten bread and drunk water in the place of which he said to thee, Eat no bread and drink no water; thy carcase shall not come to the sepulchre of thy fathers.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9208,
+        "text": "And it came to pass, after he had eaten bread, and after he had drunk, that he saddled the ass for him, for the prophet that he had brought back;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 9209,
+        "text": "and he departed. And a lion met him by the way and slew him; and his corpse was cast in the way, and the ass stood by it; the lion also stood by the corpse.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9210,
+        "text": "And behold, men passed by, and saw the corpse cast in the way and the lion standing by the corpse; and they came and told it in the city where the old prophet dwelt.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9211,
+        "text": "And the prophet that brought him back from the way heard [of it] and said, It is the man of God who was disobedient to the word of Jehovah; therefore Jehovah has delivered him to the lion, which has torn him and slain him, according to the word of Jehovah which he spoke to him.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9212,
+        "text": "And he spoke to his sons saying, Saddle me the ass; and they saddled it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9213,
+        "text": "And he went and found his corpse cast in the way, and the ass and the lion standing by the corpse: the lion had not eaten the corpse, nor torn the ass.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9214,
+        "text": "And the prophet took up the corpse of the man of God, and laid it upon the ass, and brought it back; and the old prophet came into the city, to mourn and to bury him.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 9215,
+        "text": "And he laid his corpse in his own sepulchre; and they mourned over him [saying], Alas, my brother!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 9216,
+        "text": "And it came to pass after he had buried him, that he spoke to his sons saying, When I am dead, bury me in the sepulchre in which the man of God is buried; lay my bones beside his bones.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 9217,
+        "text": "For the word that he cried by the word of Jehovah against the altar in Bethel, and against all the houses of the high places that are in the cities of Samaria, shall certainly come to pass.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 9218,
+        "text": "After this thing Jeroboam turned not from his evil way, but made again from all classes of the people priests of the high places: whosoever would, he consecrated him, and he became [one] of the priests of the high places.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 9219,
+        "text": "And by this thing there was sin on the house of Jeroboam, even to cut it off and to destroy it from off the face of the earth.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

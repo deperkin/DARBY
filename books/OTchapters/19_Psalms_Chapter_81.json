@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 81,
+    "count": 559,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15219,
+        "text": "{To the chief Musician. Upon the Gittith. [A Psalm] of Asaph.} Sing ye joyously unto God our strength, shout aloud unto the God of Jacob;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15220,
+        "text": "Raise a song, and sound the tambour, the pleasant harp with the lute.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15221,
+        "text": "Blow the trumpet at the new moon, at the set time, on our feast day:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15222,
+        "text": "For this is a statute for Israel, an ordinance of the God of Jacob;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15223,
+        "text": "He ordained it in Joseph [for] a testimony, when he went forth over the land of Egypt, [where] I heard a language that I knew not.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15224,
+        "text": "I removed his shoulder from the burden; his hands were freed from the basket.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15225,
+        "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder; I proved thee at the waters of Meribah. Selah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15226,
+        "text": "Hear, my people, and I will testify unto thee; O Israel, if thou wouldest hearken unto me!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15227,
+        "text": "There shall no strange god be in thee, neither shalt thou worship any foreign god.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15228,
+        "text": "I am Jehovah thy God, that brought thee up out of the land of Egypt: open thy mouth wide, and I will fill it.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15229,
+        "text": "But my people hearkened not to my voice, and Israel would none of me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15230,
+        "text": "So I gave them up unto their own hearts’ stubbornness: they walked after their own counsels.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15231,
+        "text": "Oh that my people had hearkened unto me, that Israel had walked in my ways!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15232,
+        "text": "I would soon have subdued their enemies, and turned my hand against their adversaries.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15233,
+        "text": "The haters of Jehovah would have come cringing unto him; but their time would have been for ever.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15234,
+        "text": "And he would have fed them with the finest of wheat; yea, with honey out of the rock would I have satisfied thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

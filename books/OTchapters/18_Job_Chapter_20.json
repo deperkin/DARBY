@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 456,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13328,
+        "text": "And Zophar the Naamathite answered and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13329,
+        "text": "Therefore do my thoughts give me an answer, and for this is my haste within me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13330,
+        "text": "I hear a reproof putting me to shame; and [my] spirit answereth me by mine understanding.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13331,
+        "text": "Knowest thou [not] this, that of old, since man was placed upon earth,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13332,
+        "text": "The exultation of the wicked is short, and the joy of the ungodly man but for a moment?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13333,
+        "text": "Though his height mount up to the heavens, and his head reach unto the clouds,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13334,
+        "text": "Like his own dung doth he perish for ever; they which have seen him shall say, Where is he?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13335,
+        "text": "He flieth away as a dream, and is not found; and is chased away as a vision of the night.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13336,
+        "text": "The eye which saw him shall [see him] not again; and his place beholdeth him no more.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13337,
+        "text": "His children shall seek the favour of the poor, and his hands restore his wealth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13338,
+        "text": "His bones were full of his youthful strength; but it shall lie down with him in the dust.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13339,
+        "text": "Though wickedness be sweet in his mouth [and] he hide it under his tongue,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13340,
+        "text": "[Though] he spare it, and forsake it not, but keep it within his mouth,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13341,
+        "text": "His food is turned in his bowels; it is the gall of asps within him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13342,
+        "text": "He hath swallowed down riches, but he shall vomit them up again: God shall cast them out of his belly.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13343,
+        "text": "He shall suck the poison of asps; the viper’s tongue shall kill him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13344,
+        "text": "He shall not see streams, rivers, brooks of honey and butter.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13345,
+        "text": "That which he laboured for shall he restore, and not swallow down; its restitution shall be according to the value, and he shall not rejoice [therein].",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13346,
+        "text": "For he hath oppressed, hath forsaken the poor; he hath violently taken away a house that he did not build.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13347,
+        "text": "Because he knew no rest in his craving, he shall save nought of what he most desired.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13348,
+        "text": "Nothing escaped his greediness; therefore his prosperity shall not endure.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13349,
+        "text": "In the fulness of his sufficiency he shall be in straits; every hand of the wretched shall come upon him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13350,
+        "text": "It shall be that, to fill his belly, he will cast his fierce anger upon him, and will rain it upon him into his flesh.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 13351,
+        "text": "If he have fled from the iron weapon, the bow of brass shall strike him through.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13352,
+        "text": "He draweth it forth; it cometh out of his body, and the glittering point out of his gall: terrors are upon him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13353,
+        "text": "All darkness is laid up for his treasures: a fire not blown shall devour him; it shall feed upon what is left in his tent.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13354,
+        "text": "The heavens shall reveal his iniquity, and the earth shall rise up against him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13355,
+        "text": "The increase of his house shall depart, flowing away in the day of his anger.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13356,
+        "text": "This is the portion of the wicked man from God, and the heritage appointed to him by God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

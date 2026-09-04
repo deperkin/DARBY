@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 463,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13483,
+        "text": "And Job continued his parable and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13484,
+        "text": "[As] God liveth, who hath taken away my right, and the Almighty, who hath embittered my soul,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13485,
+        "text": "All the while my breath is in me, and the spirit of +God is in my nostrils,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13486,
+        "text": "My lips shall not speak unrighteousness, nor my tongue utter deceit!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13487,
+        "text": "Be it far from me that I should justify you; till I die I will not remove my blamelessness from me.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13488,
+        "text": "My righteousness I hold fast, and will not let it go: my heart reproacheth [me] not one of my days.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13489,
+        "text": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13490,
+        "text": "For what is the hope of the ungodly, when [God] cutteth him off, when +God taketh away his soul?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13491,
+        "text": "Will God hear his cry when distress cometh upon him?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13492,
+        "text": "Doth he delight himself in the Almighty? will he at all times call upon +God?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13493,
+        "text": "I will teach you concerning the hand of God; what is with the Almighty will I not conceal.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 13494,
+        "text": "Behold, ye yourselves have all seen [it]; and why are ye thus altogether vain?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13495,
+        "text": "This is the portion of the wicked man with God, and the heritage of the violent, which they receive from the Almighty:—",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13496,
+        "text": "If his children be multiplied, it is for the sword, and his offspring shall not be satisfied with bread;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13497,
+        "text": "Those that remain of him shall be buried by death, and his widows shall not weep.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13498,
+        "text": "Though he heap up silver as the dust, and prepare clothing as the clay;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13499,
+        "text": "He may prepare it, but the just shall put it on; and the innocent shall divide the silver.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13500,
+        "text": "He buildeth his house as the moth, and as a booth that a keeper maketh.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13501,
+        "text": "He lieth down rich, but will do so no more; he openeth his eyes, and he is not.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13502,
+        "text": "Terrors overtake him like waters; a whirlwind stealeth him away in the night.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13503,
+        "text": "The east wind carrieth him away and he is gone; and as a storm it hurleth him out of his place.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13504,
+        "text": "And [God] shall cast upon him and not spare: he would fain flee out of his hand.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13505,
+        "text": "[Men] shall clap their hands at him, and shall hiss him out of his place.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

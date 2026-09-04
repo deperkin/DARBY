@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 374,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11326,
+        "text": "And when Solomon had ended praying, the fire came down from the heavens and consumed the burnt-offering and the sacrifices; and the glory of Jehovah filled the house.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11327,
+        "text": "And the priests could not enter into the house of Jehovah, because the glory of Jehovah filled Jehovah’s house.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11328,
+        "text": "And all the children of Israel saw how the fire came down, and the glory of Jehovah upon the house, and bowed themselves with their faces to the ground on the pavement, and worshipped and thanked Jehovah: For he is good, for his loving-kindness [endureth] for ever.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11329,
+        "text": "And the king and all the people offered sacrifices before Jehovah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11330,
+        "text": "And king Solomon sacrificed a sacrifice of twenty-two thousand oxen, and a hundred and twenty thousand sheep. So the king and all the people dedicated the house of God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11331,
+        "text": "And the priests stood in their charges, and the Levites with Jehovah’s instruments of music, which David the king had made to praise Jehovah, for his loving-kindness [endureth] for ever, when David praised by their means; and the priests sounded the trumpets opposite to them, and all Israel stood.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11332,
+        "text": "And Solomon hallowed the middle of the court that was before the house of Jehovah; for there he offered the burnt-offerings, and the fat of the peace-offerings, because the brazen altar which Solomon had made was not able to receive the burnt-offerings and the oblations and the fat.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11333,
+        "text": "And at that time Solomon held the feast seven days, and all Israel with him, a very great congregation, from the entrance of Hamath unto the torrent of Egypt.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11334,
+        "text": "And on the eighth day they held a solemn assembly; for they kept the dedication of the altar seven days, and the feast seven days.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11335,
+        "text": "And on the three and twentieth day of the seventh month he sent the people away to their tents, joyful and glad of heart for the goodness that Jehovah had done to David and to Solomon, and to Israel his people.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11336,
+        "text": "And Solomon completed the house of Jehovah, and the king’s house; and all that came into Solomon’s heart to make in the house of Jehovah, and in his own house, he did prosperously.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11337,
+        "text": "Then Jehovah appeared to Solomon by night, and said to him: I have heard thy prayer, and I have chosen for myself this place for a house of sacrifice.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 11338,
+        "text": "If I shut up the heavens that there be no rain, or if I command the locust to devour the land, or if I send pestilence among my people;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11339,
+        "text": "and my people, who are called by my name, humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from the heavens, and forgive their sin, and heal their land.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11340,
+        "text": "Now mine eyes shall be open, and mine ears attentive to the prayer [made] in this place;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11341,
+        "text": "for I have now chosen and hallowed this house, that my name may be there for ever; and mine eyes and my heart shall be there perpetually.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11342,
+        "text": "And [as for] thee, if thou wilt walk before me, as David thy father walked, to do according to all that I have commanded thee, and wilt keep my statutes and mine ordinances;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11343,
+        "text": "then will I establish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to rule over Israel.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11344,
+        "text": "But if ye turn away and forsake my statutes and my commandments which I have set before you, and go and serve other gods and worship them;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11345,
+        "text": "then will I pluck them up by the roots out of my land which I have given them; and this house, which I have hallowed to my name, will I cast out of my sight, and will make it a proverb and a byword among all peoples.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11346,
+        "text": "And this house, which is high, shall be an astonishment to every one that passes by it; so that he shall say, Why has Jehovah done thus to this land and to this house?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11347,
+        "text": "And they shall say, Because they forsook Jehovah the God of their fathers, who brought them forth out of the land of Egypt, and have attached themselves to other gods, and have worshipped them and served them; therefore he has brought upon them all this evil.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

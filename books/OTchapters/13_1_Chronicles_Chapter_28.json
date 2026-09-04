@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 366,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11145,
+        "text": "And David assembled all the princes of Israel, the princes of the tribes, and the princes of the divisions that ministered to the king, and the captains over thousands, and the captains over hundreds, and the comptrollers of all the substance and possessions of the king and of his sons, with the chamberlains, and the mighty men, and all the men of valour, unto Jerusalem.",
+        "WordCount": 65,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11146,
+        "text": "And king David stood up upon his feet, and said, Hear me, my brethren and my people! I had in my heart to build a house of rest for the ark of the covenant of Jehovah and for the footstool of our God, and I have prepared to build.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11147,
+        "text": "But God said to me, Thou shalt not build a house unto my name, for thou art a man of war, and hast shed blood.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11148,
+        "text": "And Jehovah the God of Israel chose me out of all the house of my father to be king over Israel for ever; for he has chosen Judah to be the prince; and of the house of Judah, the house of my father; and among the sons of my father he took pleasure in me to make me king over all Israel;",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11149,
+        "text": "and of all my sons, (for Jehovah has given me many sons,) he has chosen Solomon my son to sit upon the throne of the kingdom of Jehovah over Israel.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11150,
+        "text": "And he said to me, Solomon thy son, he shall build my house and my courts; for I have chosen him to be my son, and I will be his father.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11151,
+        "text": "And I will establish his kingdom for ever, if he be firm to do my commandments and mine ordinances, as at this day.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11152,
+        "text": "And now in the sight of all Israel, the congregation of Jehovah, and in the audience of our God,—keep and seek for all the commandments of Jehovah your God; that ye may possess the good land, and leave it as an inheritance to your children after you for ever.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11153,
+        "text": "And thou, Solomon my son, know the God of thy father, and serve him with a perfect heart and with a willing mind; for Jehovah searches all hearts, and discerns all the imaginations of the thoughts. If thou seek him, he will be found of thee; but if thou forsake him, he will cut thee off for ever.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11154,
+        "text": "Consider now, that Jehovah has chosen thee to build a house for the sanctuary: be strong, and do [it].",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11155,
+        "text": "And David gave to Solomon his son the pattern of the porch, and of its houses, and of its treasuries, and of its upper chambers, and of its inner chambers, and of the house of the mercy-seat;",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 11156,
+        "text": "and the pattern of all that he had by the Spirit, of the courts of the house of Jehovah, and of all the chambers round about, for the treasuries of the house of God, and for the treasuries of the dedicated things;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11157,
+        "text": "and for the courses of the priests and the Levites, and for all the work of the service of the house of Jehovah, and for all the instruments of service in the house of Jehovah:",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11158,
+        "text": "gold by weight for [things] of gold, for all utensils of each kind of service; for all utensils of silver, by weight, for all utensils of each kind of service;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11159,
+        "text": "and the weight of the golden candlesticks, and of their golden lamps, by weight for every candlestick, and for its lamps; and for the silver candlesticks, by weight, for the candlestick and for its lamps, according to the use of every candlestick;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11160,
+        "text": "and gold by weight for the tables of the [loaves] to be set in rows, for every table; and silver for the tables of silver;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11161,
+        "text": "and pure gold for the forks, and the bowls, and the goblets; and for the golden basons by weight for every bason; and for the silver basons by weight for every bason;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11162,
+        "text": "and for the altar of incense, refined gold by weight; and the pattern of the chariot of the cherubim of gold, which spread out [their wings] and cover the ark of the covenant of Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11163,
+        "text": "All this [said David,] in writing, by Jehovah’s hand upon me, instructing as to all the works of the pattern.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11164,
+        "text": "And David said to Solomon his son, Be strong and courageous, and do it; fear not nor be dismayed: for Jehovah Elohim, my God, will be with thee; he will not leave thee, neither forsake thee, until all the work for the service of the house of Jehovah is finished.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11165,
+        "text": "And behold, the courses of the priests and the Levites are for all the service of the house of God; and thou hast with thee for all manner of workmanship every willing man, skilful for every sort of service; and the princes and all the people are wholly at thy commandment.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 79,
+    "count": 557,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15187,
+        "text": "{A Psalm of Asaph.} O God, the nations are come into thine inheritance: thy holy temple have they defiled; they have laid Jerusalem in heaps.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15188,
+        "text": "The dead bodies of thy servants have they given to be meat unto the fowl of the heavens, the flesh of thy saints unto the beasts of the earth:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15189,
+        "text": "Their blood have they shed like water round about Jerusalem, and there was none to bury [them].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15190,
+        "text": "We are become a reproach to our neighbours, a mockery and a derision to them that are round about us.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15191,
+        "text": "How long, O Jehovah? wilt thou be angry for ever? Shall thy jealousy burn like fire?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15192,
+        "text": "Pour out thy fury upon the nations that have not known thee, and upon the kingdoms that call not upon thy name:",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15193,
+        "text": "For they have devoured Jacob, and laid waste his habitation.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15194,
+        "text": "Remember not against us the iniquities of [our] forefathers; let thy tender mercies speedily come to meet us: for we are brought very low.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15195,
+        "text": "Help us, O God of our salvation, because of the glory of thy name; and deliver us, and forgive our sins, for thy name’s sake.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15196,
+        "text": "Wherefore should the nations say, Where is their God? Let the avenging of the blood of thy servants that is shed be known among the nations in our sight.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15197,
+        "text": "Let the groaning of the prisoner come before thee; according to the greatness of thine arm, preserve those that are appointed to die;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15198,
+        "text": "And render unto our neighbours, sevenfold into their bosom, their reproach, wherewith they have reproached thee, O Lord.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15199,
+        "text": "And we, thy people and the sheep of thy pasture, will give thanks unto thee for ever; we will shew forth thy praise from generation to generation.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

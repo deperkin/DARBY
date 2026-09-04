@@ -1,0 +1,355 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 822,
+    "MaxVerses": 49,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20897,
+        "text": "And it came to pass in the seventh year, in the fifth [month], the tenth of the month, [that] certain of the elders of Israel came to inquire of Jehovah, and they sat before me.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20898,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20899,
+        "text": "Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord Jehovah: Are ye come to inquire of me? [As] I live, saith the Lord Jehovah, I will not be inquired of by you.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20900,
+        "text": "Wilt thou judge them, wilt thou judge, son of man? Cause them to know the abominations of their fathers,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20901,
+        "text": "and say unto them, Thus saith the Lord Jehovah: In the day when I chose Israel, and lifted up my hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up my hand unto them, saying, I [am] Jehovah your God,",
+        "WordCount": 54,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 20902,
+        "text": "in that day I lifted up my hand unto them, to bring them out of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which is the ornament of all lands;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20903,
+        "text": "and I said unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I [am] Jehovah your God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20904,
+        "text": "But they rebelled against me, and would not hearken unto me: none of them cast away the abominations of his eyes, neither did they forsake the idols of Egypt. Then I thought to pour out my fury upon them, so as to accomplish mine anger against them in the midst of the land of Egypt.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20905,
+        "text": "But I wrought for my name’s sake, that it should not be profaned in the sight of the nations among whom they were, in whose sight I had made myself known unto them in bringing them forth out of the land of Egypt.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20906,
+        "text": "And I caused them to go forth out of the land of Egypt, and brought them into the wilderness.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 20907,
+        "text": "And I gave them my statutes, and made known unto them mine ordinances, which if a man do, he shall live by them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20908,
+        "text": "And I also gave them my sabbaths, to be a sign between me and them, that they might know that I [am] Jehovah that hallow them.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20909,
+        "text": "But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they rejected mine ordinances, which if a man do, he shall live by them; and my sabbaths they greatly profaned: and I said I would pour out my fury upon them in the wilderness, to consume them.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20910,
+        "text": "But I wrought for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I had brought them out.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20911,
+        "text": "And I also lifted up my hand unto them in the wilderness, that I would not bring them into the land that I had given [them], flowing with milk and honey, which is the ornament of all lands;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20912,
+        "text": "because they rejected mine ordinances and walked not in my statutes, and profaned my sabbaths: for their heart went after their idols.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20913,
+        "text": "But mine eye spared them so as not to destroy them, neither did I make a full end of them in the wilderness.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20914,
+        "text": "And I said unto their children in the wilderness, Walk not in the statutes of your fathers, neither keep their ordinances, nor defile yourselves with their idols.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20915,
+        "text": "I [am] Jehovah your God: walk in my statutes, and keep mine ordinances, and do them;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20916,
+        "text": "and hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] Jehovah your God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20917,
+        "text": "And the children rebelled against me: they walked not in my statutes, neither kept mine ordinances to do them, which if a man do, he shall live by them; they profaned my sabbaths: and I said I would pour out my fury upon them, to accomplish mine anger against them in the wilderness.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20918,
+        "text": "But I withdrew my hand, and wrought for my name’s sake, that it should not be profaned in the sight of the nations, in whose sight I had brought them out.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20919,
+        "text": "I lifted up my hand also unto them in the wilderness, that I would scatter them among the nations, and disperse them through the countries;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20920,
+        "text": "because they performed not mine ordinances, and rejected my statutes, and profaned my sabbaths, and their eyes were after their fathers’ idols.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20921,
+        "text": "And I also gave them statutes that were not good, and ordinances whereby they should not live;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20922,
+        "text": "and I defiled them by their own gifts, in that they devoted all that opened the womb, that I might make them desolate, to the end that they might know that I [am] Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20923,
+        "text": "Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord Jehovah: In this moreover have your fathers blasphemed me, in that they have wrought unfaithfulness against me.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 20924,
+        "text": "When I had brought them into the land which I had lifted up my hand to give unto them, then they saw every high hill and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering; and there they placed their sweet savour, and there poured out their drink-offerings.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 20925,
+        "text": "And I said unto them, What is the high place whither ye go? And the name thereof is called Bamah unto this day.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 20926,
+        "text": "Therefore say unto the house of Israel, Thus saith the Lord Jehovah: Do ye defile yourselves after the manner of your fathers? and do ye commit fornication after their abominations?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 20927,
+        "text": "And when ye offer your gifts, making your sons to pass through the fire, ye defile yourselves with all your idols, even unto this day; and shall I be inquired of by you, O house of Israel? [As] I live, saith the Lord Jehovah, I will not be inquired of by you.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 20928,
+        "text": "And that which cometh into your mind shall not be at all, that ye say, We will be as the nations, as the families of the countries, in serving wood and stone.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 20929,
+        "text": "[As] I live, saith the Lord Jehovah, verily with a mighty hand, and with an outstretched arm, and with fury poured out, will I reign over you.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 20930,
+        "text": "And I will bring you out from the peoples, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with an outstretched arm, and with fury poured out;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 20931,
+        "text": "and I will bring you into the wilderness of the peoples, and there will I enter into judgment with you face to face.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 20932,
+        "text": "Like as I entered into judgment with your fathers in the wilderness of the land of Egypt, so will I enter into judgment with you, saith the Lord Jehovah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 20933,
+        "text": "And I will cause you to pass under the rod, and I will bring you into the bond of the covenant.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 20934,
+        "text": "And I will purge out from among you the rebels, and them that transgress against me; I will bring them forth out of the country where they sojourn, but they shall not enter into the land of Israel: and ye shall know that I [am] Jehovah.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 20935,
+        "text": "As for you, O house of Israel, thus saith the Lord Jehovah: Go ye, serve every one his idols henceforth also, if none of you will hearken unto me; but profane my holy name no more with your gifts and with your idols.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 20936,
+        "text": "For in my holy mountain, in the mountain of the height of Israel, saith the Lord Jehovah, there shall all the house of Israel serve me, the whole of it, in the land; there will I accept them, and there will I require your heave-offerings and the first-fruits of your offerings, with all your holy things.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 20937,
+        "text": "As a sweet savour will I accept you, when I bring you out from the peoples, and gather you out of the countries wherein ye have been scattered; and I will be hallowed in you in the sight of the nations.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 20938,
+        "text": "And ye shall know that I [am] Jehovah, when I have brought you into the land of Israel, into the country which I lifted up my hand to give to your fathers.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 20939,
+        "text": "And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall loathe yourselves in your own sight for all your evils which ye have committed.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 20940,
+        "text": "And ye shall know that I [am] Jehovah, when I have wrought with you for my name’s sake, not according to your wicked ways, nor according to your corrupt doings, O house of Israel, saith the Lord Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 20941,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 46,
+        "count": 20942,
+        "text": "Son of man, set thy face toward the south, and drop [words] against the south, and prophesy against the forest of the south field;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 20943,
+        "text": "and say to the forest of the south, Hear the word of Jehovah. Thus saith the Lord Jehovah: Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flashing flame shall not be quenched; and all that it meets from the south to the north shall be burned thereby.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 20944,
+        "text": "And all flesh shall see that I Jehovah have kindled it: it shall not be quenched.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 20945,
+        "text": "And I said, Ah, Lord Jehovah! they say of me, Doth he not speak parables?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

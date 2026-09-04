@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 42,
+    "count": 787,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19977,
+        "text": "And all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even to the greatest,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19978,
+        "text": "came near and said unto Jeremiah the prophet, Let, we beseech thee, our supplication come before thee, and pray for us unto Jehovah thy God, for all this remnant (for we are left a few of many, as thine eyes do behold us);",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19979,
+        "text": "that Jehovah thy God may shew us the way wherein we should walk, and the thing that we should do.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19980,
+        "text": "And Jeremiah the prophet said unto them, I have heard; behold, I will pray unto Jehovah your God according to your words; and it shall come to pass [that] whatsoever thing Jehovah shall answer you, I will declare it unto you: I will keep nothing back from you.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19981,
+        "text": "And they said to Jeremiah, Jehovah be a true and faithful witness amongst us, if we do not even according to all the word for which Jehovah thy God shall send thee to us.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19982,
+        "text": "Whether it be good or whether it be evil, we will hearken unto the voice of Jehovah our God, to whom we send thee; that it may be well with us when we hearken unto the voice of Jehovah our God.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19983,
+        "text": "And it came to pass at the end of ten days, that the word of Jehovah came unto Jeremiah.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 19984,
+        "text": "And he called Johanan the son of Kareah, and all the captains of the forces that were with him, and all the people from the least even unto the greatest,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19985,
+        "text": "and said unto them, Thus saith Jehovah the God of Israel, to whom ye sent me to present your supplication before him:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19986,
+        "text": "If ye will still abide in this land, then will I build you, and not overthrow [you], and I will plant you, and not pluck [you] up; for I repent me of the evil that I have done unto you.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 19987,
+        "text": "Be not afraid of the king of Babylon, of whom ye are afraid: be not afraid of him, saith Jehovah; for I will be with you to save you, and to deliver you from his hand.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19988,
+        "text": "And I will grant mercies to you, that he may have mercy upon you, and cause you to return to your own land.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19989,
+        "text": "But if ye say, We will not dwell in this land; so as not to hearken unto the voice of Jehovah your God,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19990,
+        "text": "saying, No; but we will go into the land of Egypt, where we shall see no war, nor hear the sound of the trumpet, nor have hunger for bread; and there will we dwell;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19991,
+        "text": "—and now, therefore, hear the word of Jehovah, ye remnant of Judah: thus saith Jehovah of hosts, the God of Israel: If ye really set your faces to enter into Egypt, and go to sojourn there,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19992,
+        "text": "then it shall come to pass, that the sword which ye fear shall overtake you there in the land of Egypt, and the famine, whereof ye are afraid, shall follow hard after you there in Egypt; and there ye shall die.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19993,
+        "text": "And it shall be that all the men that have set their faces to go into Egypt to sojourn there shall die by the sword, by the famine, and by the pestilence; and none of them shall remain or escape from the evil that I will bring upon them.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19994,
+        "text": "For thus saith Jehovah of hosts, the God of Israel: As mine anger and my fury have been poured forth upon the inhabitants of Jerusalem, so shall my fury be poured forth upon you, when ye shall enter into Egypt; and ye shall be an execration, and an astonishment, and a curse, and a reproach, and ye shall see this place no more.",
+        "WordCount": 63,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19995,
+        "text": "Jehovah hath said concerning you, the remnant of Judah, Go ye not into Egypt. Know certainly that I have admonished you this day.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19996,
+        "text": "For ye deceived yourselves in your own souls, when ye sent me unto Jehovah your God, saying, Pray for us unto Jehovah our God; and according to all that Jehovah our God shall say, so declare unto us, and we will do it.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 19997,
+        "text": "And I have this day declared [it] to you; but ye have not obeyed the voice of Jehovah your God, nor anything for which he hath sent me unto you.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 19998,
+        "text": "And now know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go to sojourn.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

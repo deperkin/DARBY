@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 32,"name": "Jonah","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 891,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22550,
+        "text": "And Jonah prayed unto Jehovah his God out of the fish’s belly;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22551,
+        "text": "and he said: I cried by reason of my distress unto Jehovah, and he answered me; Out of the belly of Sheol cried I: thou heardest my voice.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22552,
+        "text": "For thou didst cast me into the depth, into the heart of the seas, And the flood was round about me: All thy breakers and thy billows are gone over me.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22553,
+        "text": "And I said, I am cast out from before thine eyes, Yet will I look again toward thy holy temple.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22554,
+        "text": "The waters encompassed me, to the soul: The deep was round about me, The weeds were wrapped about my head.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22555,
+        "text": "I went down to the bottoms of the mountains; The bars of the earth [closed] upon me for ever: But thou hast brought up my life from the pit, O Jehovah my God.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22556,
+        "text": "When my soul fainted within me, I remembered Jehovah; And my prayer came in unto thee, Into thy holy temple.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22557,
+        "text": "They that observe lying vanities forsake their own mercy.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22558,
+        "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that which I have vowed. Salvation is of Jehovah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22559,
+        "text": "And Jehovah commanded the fish, and it vomited out Jonah upon the dry [land].",
+        "WordCount": 14,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

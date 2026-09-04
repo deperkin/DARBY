@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 645,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16875,
+        "text": "Better is a dry morsel, and quietness therewith, than a house full of feasting [with] strife.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16876,
+        "text": "A wise servant shall rule over a son that causeth shame, and shall have part in the inheritance among the brethren.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16877,
+        "text": "The fining-pot is for silver, and the furnace for gold; but Jehovah trieth the hearts.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16878,
+        "text": "The evil-doer giveth heed to iniquitous lips; the liar giveth ear to a mischievous tongue.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16879,
+        "text": "Whoso mocketh a poor [man] reproacheth his Maker; he that is glad at calamity shall not be held innocent.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16880,
+        "text": "Children’s children are the crown of old men; and the glory of children are their fathers.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16881,
+        "text": "Excellent speech becometh not a vile [man]; how much less do lying lips a noble!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16882,
+        "text": "A gift is a precious stone in the eyes of the possessor: whithersoever it turneth it prospereth.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16883,
+        "text": "He that covereth transgression seeketh love; but he that bringeth a matter up again separateth very friends.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16884,
+        "text": "A reproof entereth more deeply into him that hath understanding than a hundred stripes into a fool.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16885,
+        "text": "An evil [man] seeketh only rebellion; but a cruel messenger shall be sent against him.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16886,
+        "text": "Let a bear robbed of her whelps meet a man rather than a fool in his folly.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16887,
+        "text": "Whoso rewardeth evil for good, evil shall not depart from his house.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16888,
+        "text": "The beginning of contention is [as] when one letteth out water; therefore leave off strife before it become vehement.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16889,
+        "text": "He that justifieth the wicked, and he that condemneth the righteous, even they both are abomination to Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16890,
+        "text": "To what purpose is there a price in the hand of a fool to get wisdom, seeing [he] hath no sense?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16891,
+        "text": "The friend loveth at all times, and a brother is born for adversity.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16892,
+        "text": "A senseless man striketh hands, becoming surety for his neighbour.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16893,
+        "text": "He loveth transgression that loveth a quarrel; he that maketh high his gate seeketh destruction.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16894,
+        "text": "He that hath a perverse heart findeth no good; and he that shifteth about with his tongue falleth into evil.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16895,
+        "text": "He that begetteth a fool [doeth it] to his sorrow, and the father of a vile [man] hath no joy.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16896,
+        "text": "A joyful heart promoteth healing; but a broken spirit drieth up the bones.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16897,
+        "text": "A wicked [man] taketh a gift out of the bosom, to pervert the paths of judgment.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16898,
+        "text": "Wisdom is before him that hath understanding; but the eyes of a fool are in the ends of the earth.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16899,
+        "text": "A foolish son is a grief to his father, and bitterness to her that bore him.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16900,
+        "text": "To punish a righteous [man] is not good, nor to strike nobles because of [their] uprightness.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16901,
+        "text": "He that hath knowledge spareth his words; and a man of understanding is of a cool spirit.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16902,
+        "text": "Even a fool when he holdeth his peace is reckoned wise, [and] he that shutteth his lips, intelligent.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

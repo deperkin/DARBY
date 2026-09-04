@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 677,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17616,
+        "text": "Whither is thy beloved gone, Thou fairest among women? Whither is thy beloved turned aside? And we will seek him with thee.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17617,
+        "text": "My beloved is gone down into his garden, to the beds of spices, To feed in the gardens and to gather lilies.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17618,
+        "text": "I am my beloved’s, and my beloved is mine: He feedeth [his flock] among the lilies.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17619,
+        "text": "Thou art fair, my love, as Tirzah, Comely as Jerusalem, Terrible as troops with banners:",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17620,
+        "text": "Turn away thine eyes from me, For they overcome me. Thy hair is as a flock of goats On the slopes of Gilead.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17621,
+        "text": "Thy teeth are like a flock of sheep Which go up from the washing; Which have all borne twins, And none is barren among them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17622,
+        "text": "As a piece of a pomegranate are thy temples Behind thy veil.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17623,
+        "text": "There are threescore queens, and fourscore concubines, And virgins without number:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17624,
+        "text": "My dove, mine undefiled, is but one; She is the only one of her mother, She is the choice one of her that bore her. The daughters saw her, and they called her blessed; The queens and the concubines, and they praised her.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17625,
+        "text": "Who is she that looketh forth as the dawn, Fair as the moon, clear as the sun, Terrible as troops with banners?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17626,
+        "text": "I went down into the garden of nuts, To see the verdure of the valley, To see whether the vine budded, Whether the pomegranates blossomed.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17627,
+        "text": "Before I was aware, My soul set me upon the chariots of my willing people.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17628,
+        "text": "Return, return, O Shulamite; Return, return, that we may look upon thee.—What would ye look upon in the Shulamite?—As it were the dance of two camps.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

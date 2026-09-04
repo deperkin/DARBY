@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 34,"name": "Nahum","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 902,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22701,
+        "text": "He that dasheth in pieces is come up against thy face: keep the fortress, watch the way, make [thy] loins strong, fortify [thy] power mightily.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22702,
+        "text": "For Jehovah hath brought again the glory of Jacob, as the glory of Israel; for the wasters have wasted them, and marred their vine-branches.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22703,
+        "text": "The shield of his mighty men is made red, the valiant men are in scarlet: the chariots [glitter] with the sheen of steel, in the day of his preparation, and the spears are brandished.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22704,
+        "text": "The chariots rush madly in the streets, they justle one against another in the broad ways: the appearance of them is like torches, they run like lightnings.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22705,
+        "text": "He bethinketh him of his nobles: they stumble in their march; they make haste to the wall thereof, and the shelter is prepared.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22706,
+        "text": "The gates of the rivers are opened, and the palace melteth away.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22707,
+        "text": "And it is decreed: she shall be uncovered, she shall be led away, and her maids shall moan as with the voice of doves, drumming upon their breasts.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22708,
+        "text": "Nineveh hath been like a pool of water, since the day she existed, yet they flee away.... Stand! Stand! But none looketh back.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22709,
+        "text": "Plunder the silver, plunder the gold; for there is no end of the splendid store of all precious vessels.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22710,
+        "text": "She is empty, and void, and waste; and the heart melteth, and the knees smite together, and writhing pain is in all loins, and all their faces grow pale.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22711,
+        "text": "Where is [now] the den of the lions, and the feeding-place of the young lions, where the lion, the lioness, [and] the lion’s whelp walked, and none made them afraid?",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 22712,
+        "text": "The lion tore in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22713,
+        "text": "Behold, I am against thee, saith Jehovah of hosts: and I will burn her chariots into smoke; and the sword shall devour thy young lions, and I will cut off thy prey from the earth; and the voice of thy messengers shall no more be heard.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

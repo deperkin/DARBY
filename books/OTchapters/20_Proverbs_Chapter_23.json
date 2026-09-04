@@ -1,0 +1,257 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 651,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17046,
+        "text": "When thou sittest to eat with a ruler, consider well who is before thee;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17047,
+        "text": "and put a knife to thy throat, if thou be a man given to appetite.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17048,
+        "text": "Be not desirous of his dainties; for they are deceitful food.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17049,
+        "text": "Weary not thyself to become rich; cease from thine own intelligence:",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17050,
+        "text": "wilt thou set thine eyes upon it, it is gone; for indeed it maketh itself wings and it flieth away as an eagle towards the heavens.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17051,
+        "text": "Eat thou not the food of him that hath an evil eye, neither desire thou his dainties.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17052,
+        "text": "For as he thinketh in his soul, so is he. Eat and drink! will he say unto thee; but his heart is not with thee.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17053,
+        "text": "Thy morsel which thou hast eaten must thou vomit up, and thou wilt have wasted thy sweet words.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17054,
+        "text": "Speak not in the ears of a foolish [man], for he will despise the wisdom of thy words.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17055,
+        "text": "Remove not the ancient landmark; and enter not into the fields of the fatherless:",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17056,
+        "text": "for their redeemer is mighty; he will plead their cause against thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17057,
+        "text": "Apply thy heart unto instruction, and thine ears to the words of knowledge.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17058,
+        "text": "Withhold not correction from the child; for [if] thou beatest him with the rod, he shall not die:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17059,
+        "text": "thou shalt beat him with the rod, and shalt deliver his soul from Sheol.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17060,
+        "text": "My son, if thy heart be wise, my heart shall rejoice, even mine;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17061,
+        "text": "and my reins shall exult, when thy lips speak right things.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17062,
+        "text": "Let not thy heart envy sinners, but [be thou] in the fear of Jehovah all the day;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17063,
+        "text": "for surely there is a result, and thine expectation shall not be cut off.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17064,
+        "text": "Thou, my son, hear and be wise, and direct thy heart in the way.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 17065,
+        "text": "Be not among winebibbers, among riotous eaters of flesh.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17066,
+        "text": "For the drunkard and the glutton shall come to poverty; and drowsiness clotheth with rags.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17067,
+        "text": "Hearken unto thy father that begat thee, and despise not thy mother when she is old.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17068,
+        "text": "Buy the truth, and sell it not; wisdom, and instruction, and intelligence.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17069,
+        "text": "The father of a righteous [man] shall greatly rejoice, and he that begetteth a wise [son] shall have joy of him:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 17070,
+        "text": "let thy father and thy mother have joy, and let her that bore thee rejoice.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17071,
+        "text": "My son, give me thy heart, and let thine eyes observe my ways.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17072,
+        "text": "For a whore is a deep ditch; and a strange woman is a narrow pit.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 17073,
+        "text": "She also lieth in wait as a robber, and increaseth the treacherous among men.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 17074,
+        "text": "Who hath woe? Who hath sorrow? Who contentions? Who complaining? Who wounds without cause? Who redness of eyes?",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 17075,
+        "text": "—They that tarry long at the wine; they that go to try mixed wine.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 17076,
+        "text": "Look not upon the wine when it is red, when it sparkleth in the cup, and goeth down smoothly:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 17077,
+        "text": "at the last it biteth like a serpent, and stingeth like an adder.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 17078,
+        "text": "Thine eyes shall behold strange women, and thy heart shall speak froward things;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 17079,
+        "text": "and thou shalt be as he that lieth down in the midst of the sea, and as he that lieth down upon the top of a mast:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 17080,
+        "text": "—‘’They have smitten me, [and] I am not sore; they have beaten me, [and] I knew it not. When shall I awake? I will seek it yet again.’’",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

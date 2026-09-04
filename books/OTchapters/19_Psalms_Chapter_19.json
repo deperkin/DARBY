@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 497,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14170,
+        "text": "{To the chief Musician. A Psalm of David.} The heavens declare the glory of God; and the expanse sheweth the work of his hands.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14171,
+        "text": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14172,
+        "text": "There is no speech and there are no words, yet their voice is heard.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14173,
+        "text": "Their line is gone out through all the earth, and their language to the extremity of the world. In them hath he set a tent for the sun,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14174,
+        "text": "And he is as a bridegroom going forth from his chamber; he rejoiceth as a strong man to run the race.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14175,
+        "text": "His going forth is from the end of the heavens, and his circuit unto the ends of it; and there is nothing hid from the heat thereof.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14176,
+        "text": "The law of Jehovah is perfect, restoring the soul; the testimony of Jehovah is sure, making wise the simple;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14177,
+        "text": "The precepts of Jehovah are right, rejoicing the heart; the commandment of Jehovah is pure, enlightening the eyes;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14178,
+        "text": "The fear of Jehovah is clean, enduring for ever; the judgments of Jehovah are truth, they are righteous altogether:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14179,
+        "text": "They are more precious than gold, yea, than much fine gold; and sweeter than honey and the dropping of the honeycomb.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14180,
+        "text": "Moreover, by them is thy servant enlightened; in keeping them there is great reward.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14181,
+        "text": "Who understandeth [his] errors? Purify me from secret [faults].",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14182,
+        "text": "Keep back thy servant also from presumptuous [sins]; let them not have dominion over me: then shall I be perfect, and I shall be innocent from great transgression.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14183,
+        "text": "Let the words of my mouth and the meditation of my heart be acceptable in thy sight, O Jehovah, my rock, and my redeemer.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

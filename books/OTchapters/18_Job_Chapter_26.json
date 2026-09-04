@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 462,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13469,
+        "text": "And Job answered and said,",
+        "WordCount": 5,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13470,
+        "text": "How hast thou helped the powerless; how saved the arm that is without strength!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13471,
+        "text": "How hast thou counselled him that hath no wisdom, and abundantly declared the thing as it is!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13472,
+        "text": "For whom hast thou uttered words? and whose spirit came from thee?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13473,
+        "text": "The shades tremble beneath the waters and the inhabitants thereof;",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 13474,
+        "text": "Sheol is naked before him, and destruction hath no covering.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13475,
+        "text": "He stretcheth out the north over empty space, he hangeth the earth upon nothing;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13476,
+        "text": "He bindeth up the waters in his thick clouds, and the cloud is not rent under them.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13477,
+        "text": "He covereth the face of his throne, he spreadeth his cloud upon it.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13478,
+        "text": "He hath traced a fixed circle over the waters, unto the confines of light and darkness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13479,
+        "text": "The pillars of the heavens tremble and are astonished at his rebuke.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13480,
+        "text": "He stirreth up the sea by his power, and by his understanding he smiteth through Rahab.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13481,
+        "text": "By his Spirit the heavens are adorned; his hand hath formed the fleeing serpent.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13482,
+        "text": "Lo, these are the borders of his ways; but what a whisper of a word do we hear of him! And the thunder of his power, who can understand?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 460,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13438,
+        "text": "Why are not times treasured up with the Almighty? why do not they that know him see his days?",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13439,
+        "text": "They remove the landmarks; they violently take away the flocks and pasture them;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13440,
+        "text": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13441,
+        "text": "They turn the needy out of the way: the afflicted of the land all hide themselves.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13442,
+        "text": "Lo, [as] wild asses in the desert, they go forth to their work, seeking early for the prey: the wilderness [yieldeth] them food for [their] children.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13443,
+        "text": "They reap in the field the fodder thereof, and they gather the vintage of the wicked;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13444,
+        "text": "They pass the night naked without clothing, and have no covering in the cold;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13445,
+        "text": "They are wet with the showers of the mountains, and for want of a shelter embrace the rock...",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13446,
+        "text": "They pluck the fatherless from the breast, and take a pledge of the poor:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13447,
+        "text": "These go naked without clothing, and, hungry, they bear the sheaf;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13448,
+        "text": "They press out oil within their walls, they tread their winepresses, and suffer thirst.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13449,
+        "text": "Men groan from out of the city, and the soul of the wounded crieth out; and +God imputeth not the impiety.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13450,
+        "text": "There are those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 13451,
+        "text": "The murderer riseth with the light, killeth the afflicted and needy, and in the night is as a thief.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13452,
+        "text": "And the eye of the adulterer waiteth for the twilight, saying, No eye shall see me; and he putteth a covering on [his] face.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13453,
+        "text": "In the dark they dig through houses; by day they shut themselves in; they know not the light:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13454,
+        "text": "For the morning is to them all [as] the shadow of death; for they are familiar with the terrors of the shadow of death.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13455,
+        "text": "He is swift on the face of the waters; their portion is cursed on the earth: he turneth not unto the way of the vineyards.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 13456,
+        "text": "Drought and heat consume snow waters; so doth Sheol those that have sinned.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13457,
+        "text": "The womb forgetteth him; the worm feedeth sweetly on him: he shall be no more remembered; and unrighteousness is broken as a tree,—",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13458,
+        "text": "He that despoileth the barren that beareth not, and doeth not good to the widow:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13459,
+        "text": "He draweth also the mighty with his power; he riseth up, and no [man] is sure of life.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13460,
+        "text": "[God] setteth him in safety, and he resteth thereon; but his eyes are upon their ways.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13461,
+        "text": "They are exalted for a little, and are no more; they are laid low; like all [other] are they gathered, and are cut off as the tops of the ears of corn.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13462,
+        "text": "If it be not so now, who will make me a liar, and make my speech nothing worth?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

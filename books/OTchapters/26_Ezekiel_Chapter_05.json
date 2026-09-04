@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 807,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20548,
+        "text": "And thou, son of man, take thee a sharp knife; a barber’s razor shalt thou take; and cause it to pass upon thy head and upon thy beard: and thou shalt take balances to weigh, and divide the [hair].",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20549,
+        "text": "A third part shalt thou burn in the fire in the midst of the city, when the days of the siege are fulfilled; and thou shalt take a third part, [and] smite about it with a knife; and a third part thou shalt scatter to the wind, and I will draw out a sword after them.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20550,
+        "text": "And thou shalt take thereof a few in number, and bind them in thy skirts;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20551,
+        "text": "and thou shalt take of these again, and cast them into the midst of the fire, and burn them in the fire: from it shall a fire come forth against all the house of Israel.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20552,
+        "text": "Thus saith the Lord Jehovah: This is Jerusalem: I have set her in the midst of the nations, and the countries are round about her.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 20553,
+        "text": "And she hath rebelled against my judgments in wickedness more than the nations, and against my statutes more than the countries that are round about her: for mine ordinances have they refused; and my statutes, they have not walked in them.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20554,
+        "text": "Therefore thus saith the Lord Jehovah: Because ye have been turbulent more than the nations that are round about you, [and] have not walked in my statutes, neither have kept mine ordinances, nor [even] have done according to the ordinances of the nations that are round about you;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20555,
+        "text": "therefore thus saith the Lord Jehovah: Behold, I, even I, am against thee, and will execute judgments in the midst of thee in the sight of the nations;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20556,
+        "text": "and I will do in thee that which I have not done, and whereunto I will not do any more the like, because of all thine abominations.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20557,
+        "text": "Therefore the fathers shall eat the sons in the midst of thee, and the sons shall eat their fathers; and I will execute judgments in thee, and the whole remnant of thee will I scatter to all the winds.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20558,
+        "text": "Wherefore, [as] I live, saith the Lord Jehovah, verily because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also withdraw mine eye, and it shall not spare, nor will I have any pity.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20559,
+        "text": "A third part of thee shall die by the pestilence, and shall be consumed by the famine in the midst of thee; and a third part shall fall by the sword round about thee; and I will scatter a third part to all the winds, and I will draw out a sword after them.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20560,
+        "text": "And mine anger shall be accomplished, and I will satisfy my fury upon them, and I will comfort myself; and they shall know that I Jehovah have spoken in my jealousy, when I have accomplished my fury upon them.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20561,
+        "text": "And I will make thee a waste and a reproach among the nations that are round about thee, in the sight of all that pass by.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20562,
+        "text": "And it shall be a reproach, and a taunt, an instruction, and an astonishment unto the nations that are round about thee, when I shall execute judgments upon thee in anger, and in fury, and in furious rebukes: I, Jehovah, have spoken.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20563,
+        "text": "When I send upon them the evil arrows of famine, that are for [their] destruction, which I send to destroy you, then will I increase the famine upon you, and will break your staff of bread.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20564,
+        "text": "And I will send upon you famine and evil beasts, which shall bereave thee of children; and pestilence and blood shall pass through thee; and I will bring the sword upon thee: I, Jehovah, have spoken.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 327,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9898,
+        "text": "In the second year of Joash son of Jehoahaz, king of Israel, began Amaziah the son of Joash, king of Judah, to reign.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9899,
+        "text": "He was twenty-five years old when he began to reign; and he reigned twenty-nine years in Jerusalem; and his mother’s name was Jehoaddan of Jerusalem.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9900,
+        "text": "And he did what was right in the sight of Jehovah, yet not like David his father: he did according to all that Joash his father had done.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9901,
+        "text": "Only, the high places were not removed: the people still sacrificed and burned incense on the high places.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9902,
+        "text": "And it came to pass when the kingdom was established in his hand, that he slew his servants who had smitten the king his father.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9903,
+        "text": "But the children of those that smote [him] he did not put to death; according to that which is written in the book of the law of Moses, wherein Jehovah commanded saying, The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers; but every man shall be put to death for his own sin.",
+        "WordCount": 66,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9904,
+        "text": "He smote of Edom in the valley of salt ten thousand, and took Sela in the war, and called the name of it Joktheel to this day.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9905,
+        "text": "Then Amaziah sent messengers to Jehoash the son of Jehoahaz, son of Jehu, king of Israel, saying, Come, let us look one another in the face.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 9906,
+        "text": "And Jehoash king of Israel sent to Amaziah king of Judah, saying, The thorn-bush that is in Lebanon sent to the cedar that is in Lebanon, saying, Give thy daughter to my son as wife; and there passed by the wild beast that is in Lebanon, and trode down the thorn-bush.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9907,
+        "text": "Thou hast indeed smitten Edom, and thy heart has lifted thee up: boast thyself, and abide at home; for why shouldest thou contend with misfortune, that thou shouldest fall, thou, and Judah with thee?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9908,
+        "text": "But Amaziah would not hear. And Jehoash king of Israel went up; and they looked one another in the face, he and Amaziah king of Judah, at Beth-shemesh, which is in Judah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9909,
+        "text": "And Judah was routed before Israel; and they fled every man to his tent.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9910,
+        "text": "And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash son of Ahaziah, at Beth-shemesh, and came to Jerusalem, and broke down the wall of Jerusalem from the gate of Ephraim to the corner-gate, four hundred cubits.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9911,
+        "text": "And he took all the gold and the silver, and all the vessels that were found in the house of Jehovah, and in the treasures of the king’s house, and hostages, and returned to Samaria.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9912,
+        "text": "And the rest of the acts of Jehoash, what he did, and his might, and how he fought with Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 9913,
+        "text": "And Jehoash slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9914,
+        "text": "And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz, king of Israel, fifteen years.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9915,
+        "text": "And the rest of the acts of Amaziah, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9916,
+        "text": "And they made a conspiracy against him in Jerusalem; and he fled to Lachish; and they sent after him to Lachish, and slew him there.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9917,
+        "text": "And they brought him on horses, and he was buried at Jerusalem with his fathers, in the city of David.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9918,
+        "text": "And all the people of Judah took Azariah, who was sixteen years old, and made him king instead of his father Amaziah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9919,
+        "text": "It was he that built Elath, and restored it to Judah, after the king slept with his fathers.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9920,
+        "text": "In the fifteenth year of Amaziah the son of Joash, king of Judah, Jeroboam the son of Joash, king of Israel, began to reign in Samaria, for forty-one years.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 9921,
+        "text": "And he did evil in the sight of Jehovah: he departed not from any of the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9922,
+        "text": "He restored the border of Israel from the entrance of Hamath as far as the sea of the plain, according to the word of Jehovah the God of Israel, which he had spoken through his servant Jonah the prophet, the son of Amittai, who was of Gath-Hepher.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9923,
+        "text": "For Jehovah saw that the affliction of Israel was very bitter; and that there was not any shut up, nor any left, nor any helper for Israel.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9924,
+        "text": "And Jehovah had not said that he would blot out the name of Israel from under the heavens; and he saved them by the hand of Jeroboam the son of Joash.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9925,
+        "text": "And the rest of the acts of Jeroboam, and all that he did, and his might, how he warred, and how he recovered for Israel that [which had belonged] to Judah in Damascus and in Hamath, are they not written in the book of the chronicles of the kings of Israel?",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9926,
+        "text": "And Jeroboam slept with his fathers, with the kings of Israel; and Zechariah his son reigned in his stead.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

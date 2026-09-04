@@ -1,0 +1,89 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 494,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14094,
+        "text": "{Michtam of David.} Preserve me, O God: for I trust in thee.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14095,
+        "text": "Thou [my soul] hast said to Jehovah, Thou art the Lord: my goodness [extendeth] not to thee;—",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14096,
+        "text": "To the saints that are on the earth, and to the excellent [thou hast said], In them is all my delight.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14097,
+        "text": "Their sorrows shall be multiplied that hasten after another: their drink-offerings of blood will I not offer, and I will not take up their names into my lips.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14098,
+        "text": "Jehovah is the portion of mine inheritance and of my cup: thou maintainest my lot.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14099,
+        "text": "The lines are fallen unto me in pleasant places; yea, I have a goodly heritage.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14100,
+        "text": "I will bless Jehovah, who giveth me counsel; even in the nights my reins instruct me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14101,
+        "text": "I have set Jehovah continually before me; because [he is] at my right hand, I shall not be moved.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14102,
+        "text": "Therefore my heart rejoiceth, and my glory exulteth; my flesh moreover shall dwell in hope.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14103,
+        "text": "For thou wilt not leave my soul to Sheol, neither wilt thou allow thy Holy One to see corruption.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14104,
+        "text": "Thou wilt make known to me the path of life: thy countenance is fulness of joy; at thy right hand are pleasures for evermore.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 445,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13053,
+        "text": "And Job answered and said,",
+        "WordCount": 5,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13054,
+        "text": "Of a truth I know it is so; but how can man be just with God?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13055,
+        "text": "If he shall choose to strive with him, he cannot answer him one thing of a thousand.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13056,
+        "text": "He is wise in heart and mighty in strength: who hath hardened himself against him, and had peace?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13057,
+        "text": "Who removeth mountains, and they know it not, when he overturneth them in his anger;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13058,
+        "text": "Who shaketh the earth out of its place, and the pillars thereof tremble;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13059,
+        "text": "Who commandeth the sun, and it riseth not, and he sealeth up the stars;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13060,
+        "text": "Who alone spreadeth out the heavens, and treadeth upon the high waves of the sea;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13061,
+        "text": "Who maketh the Bear, Orion, and the Pleiades, and the chambers of the south;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13062,
+        "text": "Who doeth great things past finding out, and wonders without number.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13063,
+        "text": "Lo, he goeth by me, and I see [him] not; and he passeth along, and I perceive him not.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13064,
+        "text": "Behold, he taketh away: who will hinder him? Who will say unto him, What doest thou?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13065,
+        "text": "+God withdraweth not his anger; the proud helpers stoop under him:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13066,
+        "text": "How much less shall I answer him, choose out my words [to strive] with him?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 13067,
+        "text": "Whom, though I were righteous, [yet] would I not answer; I would make supplication to my judge.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13068,
+        "text": "If I had called, and he had answered me, I would not believe that he hearkened to my voice,—",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13069,
+        "text": "He, who crusheth me with a tempest, and multiplieth my wounds without cause.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13070,
+        "text": "He suffereth me not to take my breath, for he filleth me with bitternesses.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13071,
+        "text": "Be it a question of strength, lo, [he is] strong; and be it of judgment, who will set me a time?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13072,
+        "text": "If I justified myself, mine own mouth would condemn me; were I perfect, he would prove me perverse.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13073,
+        "text": "Were I perfect, [yet] would I not know my soul: I would despise my life.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13074,
+        "text": "It is all one; therefore I said, he destroyeth the perfect and the wicked.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 13075,
+        "text": "If the scourge kill suddenly, he mocketh at the trial of the innocent.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13076,
+        "text": "The earth is given over into the hand of the wicked [man]; he covereth the faces of its judges. If not, who then is it?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13077,
+        "text": "And my days are swifter than a runner: they flee away, they see no good.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 13078,
+        "text": "They pass by like skiffs of reed; as an eagle that swoops upon the prey.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13079,
+        "text": "If I say, I will forget my complaint, I will leave off my [sad] countenance, and brighten up,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13080,
+        "text": "I am afraid of all my sorrows; I know that thou wilt not hold me innocent.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13081,
+        "text": "Be it that I am wicked, why then do I labour in vain?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13082,
+        "text": "If I washed myself with snow-water, and cleansed my hands in purity,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13083,
+        "text": "Then wouldest thou plunge me in the ditch, and mine own clothes would abhor me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 13084,
+        "text": "For he is not a man, as I am, that I should answer him; that we should come together in judgment.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13085,
+        "text": "There is not an umpire between us, who should lay his hand upon us both.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 13086,
+        "text": "Let him take his rod away from me, and let not his terror make me afraid,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 13087,
+        "text": "[Then] I will speak, and not fear him; but it is not so with me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 328,
+    "MaxVerses": 38,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9927,
+        "text": "In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah, king of Judah, began to reign.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9928,
+        "text": "He was sixteen years old when he began to reign; and he reigned fifty-two years in Jerusalem; and his mother’s name was Jecholiah of Jerusalem.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9929,
+        "text": "And he did what was right in the sight of Jehovah, according to all that his father Amaziah had done.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9930,
+        "text": "Only, the high places were not removed: the people still sacrificed and burned incense on the high places.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9931,
+        "text": "And Jehovah smote the king, so that he was a leper to the day of his death, and dwelt in a separate house. And Jotham the king’s son was over the house, judging the people of the land.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9932,
+        "text": "And the rest of the acts of Azariah, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9933,
+        "text": "And Azariah slept with his fathers, and they buried him with his fathers in the city of David; and Jotham his son reigned in his stead.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9934,
+        "text": "In the thirty-eighth year of Azariah king of Judah, Zechariah the son of Jeroboam reigned over Israel in Samaria, six months.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 9935,
+        "text": "And he did evil in the sight of Jehovah, according as his fathers had done: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9936,
+        "text": "And Shallum the son of Jabesh conspired against him, and smote him before the people, and slew him, and reigned in his stead.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9937,
+        "text": "And the rest of the acts of Zechariah, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9938,
+        "text": "This was the word of Jehovah which he spoke to Jehu saying, Thy sons shall sit upon the throne of Israel unto the fourth [generation]. And so it came to pass.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9939,
+        "text": "Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah; and he reigned a full month in Samaria.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9940,
+        "text": "And Menahem the son of Gadi went up from Tirzah, and came to Samaria, and smote Shallum the son of Jabesh in Samaria, and slew him, and reigned in his stead.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9941,
+        "text": "And the rest of the acts of Shallum, and his conspiracy which he made, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9942,
+        "text": "Then Menahem smote Tiphsah, and all that were therein, and its territory from Tirzah, because they did not open [to him]; and he smote [it]: all the women in it that were with child he ripped up.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9943,
+        "text": "In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel, for ten years, in Samaria.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9944,
+        "text": "And he did evil in the sight of Jehovah: he departed not, all his days, from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9945,
+        "text": "Pul the king of Assyria came against the land; and Menahem gave Pul a thousand talents of silver, that his hand might be with him to establish the kingdom in his hand.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9946,
+        "text": "And Menahem exacted the money of Israel, of all those who were wealthy, of each man fifty shekels of silver, to give to the king of Assyria. And the king of Assyria turned back, and stayed not there in the land.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9947,
+        "text": "And the rest of the acts of Menahem, and all that he did, are they not written in the book of the chronicles of the kings of Israel?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9948,
+        "text": "And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9949,
+        "text": "In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, for two years.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9950,
+        "text": "And he did evil in the sight of Jehovah: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9951,
+        "text": "And Pekah the son of Remaliah, his captain, conspired against him, and smote him in Samaria, in the fortress of the king’s house, with Argob and Arieh, and with him fifty men of the Gileadites; and he slew him, and reigned in his stead.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9952,
+        "text": "And the rest of the acts of Pekahiah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9953,
+        "text": "In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, for twenty years.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9954,
+        "text": "And he did evil in the sight of Jehovah: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9955,
+        "text": "In the days of Pekah king of Israel, Tiglath-Pileser king of Assyria came and took Ijon, and Abel-Beth-Maachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 9956,
+        "text": "And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and smote him and slew him; and he reigned in his stead, in the twentieth year of Jotham the son of Uzziah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 9957,
+        "text": "And the rest of the acts of Pekah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 9958,
+        "text": "In the second year of Pekah the son of Remaliah, king of Israel, Jotham the son of Uzziah, king of Judah, began to reign.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 9959,
+        "text": "He was twenty-five years old when he began to reign; and he reigned sixteen years in Jerusalem; and his mother’s name was Jerusha, the daughter of Zadok.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 9960,
+        "text": "And he did what was right in the sight of Jehovah: he did according to all that his father Uzziah had done.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 9961,
+        "text": "Only, the high places were not removed: the people still sacrificed and burned incense on the high places. It was he who built the upper gate of the house of Jehovah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 9962,
+        "text": "And the rest of the acts of Jotham, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 9963,
+        "text": "In those days Jehovah began to send against Judah Rezin the king of Syria, and Pekah the son of Remaliah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 9964,
+        "text": "And Jotham slept with his fathers, and was buried with his fathers in the city of David his father; and Ahaz his son reigned in his stead.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

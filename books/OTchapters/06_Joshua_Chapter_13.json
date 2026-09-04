@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 200,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6156,
+        "text": "And Joshua was old, advanced in age, and Jehovah said to him, Thou art old, advanced in age, and there remaineth yet very much land to take possession of.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6157,
+        "text": "This is the land that yet remaineth: all the districts of the Philistines and all the Geshurites,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6158,
+        "text": "from the Shihor, which [floweth] before Egypt, as far as the borders of Ekron northward, [and which] is counted to the Canaanite; five lordships of the Philistines: of Gazah, and of Ashdod, of Eshkalon, of Gath, and of Ekron; also the Avvites;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6159,
+        "text": "in the south, the whole land of the Canaanites, and Mearah which [belongeth] to the Sidonians, unto Aphek, to the border of the Amorites;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6160,
+        "text": "and the land of the Giblites, and all Lebanon, toward the sun-rising, from Baal-Gad at the foot of mount Hermon to the entrance into Hamath;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6161,
+        "text": "all the inhabitants of the hill-country from Lebanon to Misrephoth-maim, all the Sidonians; I will dispossess them from before the children of Israel. Only, partition it by lot to Israel for an inheritance, as I have commanded thee.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6162,
+        "text": "And now divide this land for an inheritance to the nine tribes, and to half the tribe of Manasseh;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 6163,
+        "text": "with him the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond the Jordan eastward, as Moses the servant of Jehovah gave them:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6164,
+        "text": "from Aroer, which is on the bank of the river Arnon, and the city that is in the midst of the ravine, and all the plateau of Medeba to Dibon,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6165,
+        "text": "and all the cities of Sihon the king of the Amorites, who reigned at Heshbon, to the border of the children of Ammon;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6166,
+        "text": "and Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and the whole of Bashan to Salcah;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6167,
+        "text": "all the kingdom of Og in Bashan, who reigned at Ashtaroth and at Edrei, who remained of the residue of the giants; and Moses smote them and dispossessed them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6168,
+        "text": "But the children of Israel did not dispossess the Geshurites nor the Maachathites; but the Geshurites and the Maachathites dwell among the Israelites to this day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6169,
+        "text": "Only to the tribe of Levi he gave no inheritance: the offerings by fire of Jehovah the God of Israel are their inheritance, as he said to them.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6170,
+        "text": "And Moses gave [a portion] to the tribe of the children of Reuben according to their families.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6171,
+        "text": "And their territory was from Aroer, which is on the bank of the river Arnon, and the city that is in the midst of the ravine, and all the plateau by Medeba;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6172,
+        "text": "Heshbon, and all her cities that are in the plateau, Dibon, and Bamoth-Baal, and Beth-Baal-meon,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6173,
+        "text": "And Jahzah, and Kedemoth, and Mephaath,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6174,
+        "text": "and Kirjathaim, and Sibmah, and Zereth-shahar in the mountain of the vale,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6175,
+        "text": "and Beth-Peor, and the slopes of Pisgah, and Beth-jeshimoth;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6176,
+        "text": "all the cities of the plateau, and the whole kingdom of Sihon the king of the Amorites, who reigned at Heshbon, whom Moses smote, him and the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, the chiefs of Sihon dwelling in the land.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6177,
+        "text": "And Balaam the son of Beor, the diviner, did the children of Israel kill with the sword among them that were slain by them.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6178,
+        "text": "And the border of the children of Reuben was the Jordan, and [its] border. This is the inheritance of the children of Reuben according to their families, the cities and their hamlets.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6179,
+        "text": "And Moses gave [a portion] to the tribe of Gad, to the children of Gad according to their families.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 6180,
+        "text": "And their territory was Jaazer, and all the cities of Gilead, and half the land of the children of Ammon, to Aroer which is before Rabbah;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6181,
+        "text": "and from Heshbon to Ramath-Mizpeh, and Betonim; and from Mahanaim to the border of Debir;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6182,
+        "text": "and in the valley, Beth-haram, and Beth-Nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon the king of Heshbon, the Jordan and [its] border, as far as the edge of the sea of Chinnereth beyond the Jordan eastward.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6183,
+        "text": "This is the inheritance of the children of Gad according to their families, the cities and their hamlets.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6184,
+        "text": "And Moses gave [a portion] to half the tribe of Manasseh; and for half the tribe of the children of Manasseh according to their families:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6185,
+        "text": "their territory was from Mahanaim, all Bashan, the whole kingdom of Og the king of Bashan, and all the villages of Jair, which are in Bashan, sixty cities.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6186,
+        "text": "And half Gilead, and Ashtaroth, and Edrei, the cities of the kingdom of Og in Bashan, [belonged] to the children of Machir the son of Manasseh, to the one half of the children of Machir according to their families.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6187,
+        "text": "This is that which Moses allotted for inheritance in the plains of Moab, beyond the Jordan of Jericho, eastward.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 6188,
+        "text": "But to the tribe of Levi Moses gave no inheritance: Jehovah the God of Israel is their inheritance, as he said to them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

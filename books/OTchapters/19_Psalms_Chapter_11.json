@@ -1,0 +1,61 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 489,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14061,
+        "text": "{To the chief Musician. [A Psalm] of David.} In Jehovah have I put my trust: how say ye to my soul, Flee [as] a bird to your mountain?",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14062,
+        "text": "For behold, the wicked bend the bow, they make ready their arrow upon the string, that they may in darkness shoot at the upright in heart.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14063,
+        "text": "If the foundations be destroyed, what shall the righteous do?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14064,
+        "text": "Jehovah [is] in the temple of his holiness; Jehovah,—his throne is in the heavens: his eyes behold, his eyelids try the children of men.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 14065,
+        "text": "Jehovah trieth the righteous one; but the wicked, and him that loveth violence, his soul hateth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14066,
+        "text": "Upon the wicked he shall rain snares, fire and brimstone; and scorching wind shall be the portion of their cup.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14067,
+        "text": "For righteous is Jehovah; he loveth righteousness, his countenance doth behold the upright.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 160,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5113,
+        "text": "When Jehovah thy God shall bring thee into the land whither thou goest to possess it, and shall cast out many nations from before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou,",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5114,
+        "text": "and when Jehovah thy God shall give them up before thee and thou shalt smite them, then shalt thou utterly destroy them: thou shalt make no covenant with them, nor shew mercy unto them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5115,
+        "text": "And thou shalt make no marriages with them: thy daughter thou shalt not give unto his son, nor take his daughter for thy son;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5116,
+        "text": "for he will turn away thy son from following me, and they will serve other gods, and the anger of Jehovah will be kindled against you, and he will destroy thee quickly.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5117,
+        "text": "But thus shall ye deal with them: ye shall break down their altars, and shatter their statues, and hew down their Asherahs, and burn their graven images with fire.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5118,
+        "text": "For a holy people art thou unto Jehovah thy God: Jehovah thy God hath chosen thee to be unto him a people for a possession, above all the peoples that are upon the face of the earth.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5119,
+        "text": "Not because ye were more in number than all the peoples, hath Jehovah been attached to you and chosen you, for ye are the fewest of all the peoples;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5120,
+        "text": "but because Jehovah loved you, and because he would keep the oath which he had sworn unto your fathers, hath Jehovah brought you out with a powerful hand, and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5121,
+        "text": "And thou shalt know that Jehovah thy God, he is God, the faithful God, who keepeth covenant and mercy to a thousand generations with them that love him and keep his commandments;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5122,
+        "text": "and repayeth them that hate him [each] to his face, to cause them to perish: he delayeth not with him that hateth him, he will repay him to his face.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5123,
+        "text": "And thou shalt keep the commandment, and the statutes, and the ordinances, which I command thee this day, to do them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5124,
+        "text": "And it shall come to pass, if ye hearken to these ordinances, and keep and do them, that Jehovah thy God will keep with thee the covenant and the mercy which he swore unto thy fathers;",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 5125,
+        "text": "and he will love thee, and bless thee, and multiply thee, and will bless the fruit of thy womb, and the fruit of thy ground, thy corn and thy new wine, and thine oil, the offspring of thy kine, and the increase of thy sheep, in the land which he swore unto thy fathers to give thee.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5126,
+        "text": "Thou shalt be blessed above all the peoples; there shall not be male or female barren with thee, or with thy cattle;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5127,
+        "text": "and Jehovah will take away from thee all sickness, and none of the evil infirmities of Egypt, which thou knowest, will he put upon thee; but he will lay them upon all them that hate thee.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5128,
+        "text": "And thou shalt consume all the peoples that Jehovah thy God will give up unto thee; thine eye shall not spare them, and thou shalt not serve their gods; for that would be a snare unto thee.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5129,
+        "text": "If thou shouldest say in thy heart, These nations are greater than I; how can I dispossess them?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5130,
+        "text": "fear them not; remember well what Jehovah thy God did unto Pharaoh, and unto all the Egyptians;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5131,
+        "text": "the great trials which thine eyes saw, and the signs, and the wonders, and the powerful hand, and the stretched-out arm, whereby Jehovah thy God brought thee out: so will Jehovah thy God do unto all the peoples whom thou fearest.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5132,
+        "text": "Moreover, Jehovah thy God will send the hornet among them, until they that are left, and they that hide themselves from thee, are destroyed.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5133,
+        "text": "Thou shalt not be afraid of them; for Jehovah thy God is in thy midst, a God great and terrible.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5134,
+        "text": "And Jehovah thy God will cast out those nations from before thee by little and little; thou shalt not be able to make an end of them at once, lest the beasts of the field increase upon thee.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5135,
+        "text": "But Jehovah thy God will give them up before thee, and will confound them with great consternation, until they are destroyed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5136,
+        "text": "And he will give their kings into thy hand, and thou shalt put out their name from under the heavens; no man shall stand before thee, until thou hast destroyed them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5137,
+        "text": "The graven images of their gods shall ye burn with fire; thou shalt not covet the silver and gold [that is] on them and take it unto thee, lest thou be ensnared therein; for it is an abomination to Jehovah thy God.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5138,
+        "text": "And thou shalt not bring an abomination into thy house, lest thou be a cursed thing like it: thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 72,
+    "count": 550,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15002,
+        "text": "{For Solomon.} O God, give the king thy judgments, and thy righteousness unto the king’s son.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15003,
+        "text": "He will judge thy people with righteousness, and thine afflicted with judgment.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 15004,
+        "text": "The mountains shall bring peace to the people, and the hills, by righteousness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15005,
+        "text": "He will do justice to the afflicted of the people; he will save the children of the needy, and will break in pieces the oppressor.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15006,
+        "text": "They shall fear thee as long as sun and moon endure, from generation to generation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15007,
+        "text": "He shall come down like rain on the mown grass, as showers that water the earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15008,
+        "text": "In his days shall the righteous flourish, and abundance of peace till the moon be no more.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15009,
+        "text": "And he shall have dominion from sea to sea, and from the river unto the ends of the earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15010,
+        "text": "The dwellers in the desert shall bow before him, and his enemies shall lick the dust.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15011,
+        "text": "The kings of Tarshish and of the isles shall render presents; the kings of Sheba and Seba shall offer tribute:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15012,
+        "text": "Yea, all kings shall bow down before him; all nations shall serve him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15013,
+        "text": "For he will deliver the needy who crieth, and the afflicted, who hath no helper;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15014,
+        "text": "He will have compassion on the poor and needy, and will save the souls of the needy:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15015,
+        "text": "He will redeem their souls from oppression and violence, and precious shall their blood be in his sight.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15016,
+        "text": "And he shall live; and to him shall be given of the gold of Sheba; and prayer shall be made for him continually: all the day shall he be blessed.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15017,
+        "text": "There shall be abundance of corn in the earth, upon the top of the mountains; the fruit thereof shall shake like Lebanon; and they of the city shall bloom like the herb of the earth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15018,
+        "text": "His name shall endure for ever; his name shall be continued as long as the sun: and [men] shall bless themselves in him; all nations shall call him blessed.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15019,
+        "text": "Blessed be Jehovah Elohim, the God of Israel, who alone doeth wondrous things!",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 15020,
+        "text": "And blessed be his glorious name for ever! and let the whole earth be filled with his glory! Amen, and Amen.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15021,
+        "text": "The prayers of David the son of Jesse are ended.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

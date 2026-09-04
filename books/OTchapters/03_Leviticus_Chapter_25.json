@@ -1,0 +1,397 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 115,
+    "MaxVerses": 55,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3471,
+        "text": "And Jehovah spoke to Moses in mount Sinai, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3472,
+        "text": "Speak unto the children of Israel and say unto them, When ye come into the land that I will give you, the land shall celebrate a sabbath to Jehovah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3473,
+        "text": "Six years shalt thou sow thy field, and six years shalt thou prune thy vineyard, and gather in the produce thereof,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3474,
+        "text": "but in the seventh year shall be a sabbath of rest for the land, a sabbath to Jehovah. Thy field shalt thou not sow, and thy vineyard shalt thou not prune.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3475,
+        "text": "That which springeth up from the scattered seed of thy harvest thou shalt not reap, and the grapes of thine undressed vines thou shalt not gather: a year of rest shall it be for the land.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3476,
+        "text": "And the sabbath of the land shall be for food for you, for thee, and for thy bondman, and for thy handmaid, and for thy hired servant, and for him that dwelleth as a sojourner with thee, and for thy cattle,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3477,
+        "text": "and for the beasts that are in thy land: all the produce thereof shall be for food.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3478,
+        "text": "And thou shalt count seven sabbaths of years, seven times seven years; so that the days of the seven sabbaths of years be unto thee forty-nine years.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 3479,
+        "text": "Then shalt thou cause the loud sound of the trumpet to go forth in the seventh month, on the tenth of the month; on the day of atonement shall ye cause the trumpet to go forth throughout your land.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3480,
+        "text": "And ye shall hallow the year of the fiftieth year, and proclaim liberty in the land unto all the inhabitants thereof; a [year of] jubilee shall it be unto you, and ye shall return every man unto his possession, and ye shall return every man unto his family;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3481,
+        "text": "a year of jubilee shall that fiftieth year be unto you: ye shall not sow, neither reap its aftergrowth, nor gather [the fruit of] its undressed vines.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3482,
+        "text": "For it is the jubilee; it shall be holy unto you; out of the field shall ye eat its produce.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3483,
+        "text": "In this year of the jubilee ye shall return every man unto his possession.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3484,
+        "text": "And if ye sell ought unto your neighbour, or buy of your neighbour’s hand, ye shall not overreach one another.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3485,
+        "text": "According to the number of years since the jubilee, thou shalt buy of thy neighbour; according to the number of years of the produce, he shall sell unto thee.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3486,
+        "text": "According to the greater number of the years, thou shalt increase the price thereof; and according to the fewness of years, thou shalt diminish the price of it; for it is the number of crops that he selleth unto thee.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3487,
+        "text": "And ye shall not oppress one another; but thou shalt fear thy God; for I am Jehovah your God.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3488,
+        "text": "And ye shall do my statutes, and observe mine ordinances and do them: thus shall ye dwell in your land securely.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3489,
+        "text": "And the land shall yield its fruit, and ye shall eat and be satisfied, and dwell therein securely.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3490,
+        "text": "And if ye say, What shall we eat in the seventh year? behold, we may not sow, nor gather in our produce;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3491,
+        "text": "then I will command my blessing upon you in the sixth year, that it may bring forth produce for three years;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3492,
+        "text": "and ye shall sow in the eighth year, and ye shall eat of the old fruit until the ninth year; until her produce come in, ye shall eat the old.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3493,
+        "text": "And the land shall not be sold for ever; for the land is mine; for ye are strangers and sojourners with me.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 3494,
+        "text": "And in all the land of your possession ye shall grant a redemption for the land.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3495,
+        "text": "If thy brother grow poor, and sell of his possession, then shall his redeemer, his nearest relation, come and redeem that which his brother sold.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3496,
+        "text": "And if the man have no one having right of redemption, and his hand have acquired and found what sufficeth for its redemption,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3497,
+        "text": "then shall he reckon the years since the sale thereof, and restore the overplus unto the man to whom he sold it; and so return unto his possession.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3498,
+        "text": "And if his hand have not found what sufficeth for him to restore it to him, then that which is sold shall remain in the hand of the purchaser, until the year of jubilee; and in the jubilee it shall go out, and he shall return unto his possession.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3499,
+        "text": "And if any one sell a dwelling-house in a walled city, then he shall have the right of redemption up to the end of the year of the sale thereof; for a full year shall he have the right of redemption.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3500,
+        "text": "But if it be not redeemed until a whole year is complete, then the house that is in the walled city shall be established for ever to him that bought it, throughout his generations: it shall not go out in the jubilee.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3501,
+        "text": "But the houses in villages that have no wall round about them shall be reckoned as the fields of the country: they may be redeemed, and they shall go out in the jubilee.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3502,
+        "text": "But as to the cities of the Levites, the houses in the cities of their possession, the Levites shall have a perpetual right of redemption.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3503,
+        "text": "And if any one redeem from one of the Levites, then the house that was sold, in the city of his possession, shall go out in the jubilee; for the houses of the cities of the Levites are their possession among the children of Israel.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3504,
+        "text": "And the field of the suburbs of their cities shall not be sold; for it is their perpetual possession.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3505,
+        "text": "And if thy brother grow poor, and he be fallen into decay beside thee, then thou shalt relieve him, [be he] stranger or sojourner, that he may live beside thee.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3506,
+        "text": "Thou shalt take no usury nor increase of him; and thou shalt fear thy God; that thy brother may live beside thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3507,
+        "text": "Thy money shalt thou not give him upon usury, nor lend him thy victuals for increase.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3508,
+        "text": "I am Jehovah your God, who brought you forth out of the land of Egypt, to give you the land of Canaan, to be your God.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3509,
+        "text": "And if thy brother grow poor beside thee, and be sold unto thee, thou shalt not compel him to serve as a bondservant:",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 40,
+        "count": 3510,
+        "text": "as a hired servant, as a sojourner, shall he be with thee; until the year of jubilee shall he serve thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 3511,
+        "text": "Then shall he depart from thee, he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3512,
+        "text": "For they are my bondmen, whom I brought forth out of the land of Egypt: they shall not be sold as [men] sell bondmen.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3513,
+        "text": "Thou shalt not rule over him with rigour; and thou shalt fear thy God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3514,
+        "text": "And as for thy bondman and thy handmaid whom thou shalt have—of the nations that are round about you, of them shall ye buy bondmen and handmaids.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 3515,
+        "text": "Moreover of the children of them that dwell as sojourners with you, of them may ye buy, and of their family that is with you, which they beget in your land, and they shall be your possession.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3516,
+        "text": "And ye shall leave them as an inheritance to your children after you, to inherit them as a possession: these may ye make your bondmen for ever; but as for your brethren, the children of Israel, ye shall not rule over one another with rigour.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 3517,
+        "text": "And if a stranger or sojourner become wealthy beside thee, and thy brother beside him grow poor, and sell himself unto the stranger, who is settled by thee, or to a scion of the stranger’s family,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 3518,
+        "text": "after that he is sold there shall be right of redemption for him; one of his brethren may redeem him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 3519,
+        "text": "Either his uncle or his uncle’s son may redeem him, or one of his next relations of his family may redeem him; or if his means be sufficient, he may redeem himself.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 3520,
+        "text": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubilee; and the price of his sale shall be according to the number of the years, according to the days of a hired servant shall he be with him.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 3521,
+        "text": "If there are yet many years, according unto them shall he return his redemption [money] out of the money that he was bought for;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 3522,
+        "text": "and if there remain but few years unto the year of jubilee, then he shall reckon with him; according unto his [remaining] years [of service] shall he give him back his redemption [money].",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 3523,
+        "text": "As a hired servant shall he be with him year by year; [his master] shall not rule with rigour over him before thine eyes.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 3524,
+        "text": "And if he be not redeemed in this manner, then he shall go out in the year of jubilee, he and his children with him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 3525,
+        "text": "For the children of Israel are servants unto me; they are my servants whom I brought forth out of the land of Egypt: I am Jehovah your God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

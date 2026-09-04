@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 335,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10147,
+        "text": "Josiah was eight years old when he began to reign; and he reigned thirty-one years in Jerusalem; and his mother’s name was Jedidah, daughter of Adaiah of Bozcath.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10148,
+        "text": "And he did what was right in the sight of Jehovah, and walked in all the way of David his father, and turned not aside to the right hand nor to the left.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10149,
+        "text": "And it came to pass in the eighteenth year of king Josiah, [that] the king sent Shaphan the son of Azaliah, son of Meshullam, the scribe, to the house of Jehovah, saying,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10150,
+        "text": "Go up to Hilkijah the high priest, that he may sum up the money which is brought into the house of Jehovah, which the doorkeepers have gathered of the people,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10151,
+        "text": "and let them give it into the hand of them that do the work, that have the oversight of the house of Jehovah; and let them give it to those that do the work in the house of Jehovah, to repair the breaches of the house,",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10152,
+        "text": "to the carpenters and the builders and the masons, and to buy timber and hewn stone to repair the house.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10153,
+        "text": "But no reckoning was made with them of the money that was given into their hand, because they dealt faithfully.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10154,
+        "text": "And Hilkijah the high priest said to Shaphan the scribe, I have found the book of the law in the house of Jehovah. And Hilkijah gave the book to Shaphan, and he read it.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10155,
+        "text": "And Shaphan the scribe came to the king, and brought the king word again and said, Thy servants have emptied out the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of Jehovah.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10156,
+        "text": "And Shaphan the scribe informed the king saying, Hilkijah the priest has given me a book. And Shaphan read it before the king.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10157,
+        "text": "And it came to pass when the king heard the words of the book of the law, that he rent his garments.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 10158,
+        "text": "And the king commanded Hilkijah the priest, and Ahikam the son of Shaphan, and Achbor the son of Micaiah, and Shaphan the scribe, and Asaiah a servant of the king, saying,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10159,
+        "text": "Go, inquire of Jehovah for me, and for the people, and for all Judah, concerning the words of this book which is found; for great is the wrath of Jehovah that is kindled against us, because our fathers have not hearkened to the words of this book, to do according to all that is written [there] for us.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10160,
+        "text": "And Hilkijah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah, went to Huldah the prophetess, the wife of Shallum the son of Tikvah, son of Harhas, keeper of the wardrobe: now she dwelt in Jerusalem in the second quarter [of the town]; and they spoke with her.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10161,
+        "text": "And she said to them, Thus saith Jehovah the God of Israel: Tell the man that sent you to me,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10162,
+        "text": "Thus saith Jehovah: Behold, I will bring evil upon this place and upon the inhabitants thereof, all the words of the book that the king of Judah hath read.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10163,
+        "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the work of their hands, therefore my fury is kindled against this place, and shall not be quenched.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10164,
+        "text": "But to the king of Judah, who sent you to inquire of Jehovah, thus shall ye say to him: Thus saith Jehovah the God of Israel touching the words which thou hast heard:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10165,
+        "text": "Because thy heart was tender, and thou didst humble thyself before Jehovah, when thou heardest what I spoke against this place and against the inhabitants thereof, that they should become a desolation and a curse, and didst rend thy garments and weep before me, I also have heard [thee], saith Jehovah.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10166,
+        "text": "Therefore, behold, I will gather thee unto thy fathers, and thou shalt be gathered to thy grave in peace; and thine eyes shall not see all the evil that I will bring upon this place. And they brought the king word again.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

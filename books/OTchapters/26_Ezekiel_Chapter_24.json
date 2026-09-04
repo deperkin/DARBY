@@ -1,0 +1,201 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 826,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21058,
+        "text": "And in the ninth year, in the tenth month, on the tenth of the month, the word of Jehovah came unto me, saying,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21059,
+        "text": "Son of man, write thee the name of the day, of this selfsame day: on this selfsame day the king of Babylon draws near to Jerusalem.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21060,
+        "text": "And propose a parable unto the rebellious house, and say unto them, Thus saith the Lord Jehovah: Set on the pot, set [it] on, and also pour water into it.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21061,
+        "text": "Gather the pieces thereof into it, every good piece, the thigh and the shoulder; fill [it] with the choice bones:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21062,
+        "text": "take the choice of the flock; and also [put] a pile of wood under it, for the bones; make it boil well, and let the bones of it seethe therein.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21063,
+        "text": "Therefore thus saith the Lord Jehovah: Woe to the bloody city, to the pot whose rust is therein, and whose rust is not gone out of it! Bring it out piece by piece; let no lot fall upon it:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21064,
+        "text": "for her blood is in the midst of her; she set it upon the bare rock; she poured it not upon the ground, to cover it with dust.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21065,
+        "text": "That it might cause fury to come up to execute vengeance, I have set her blood upon the bare rock, that it should not be covered.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21066,
+        "text": "Therefore thus saith the Lord Jehovah: Woe to the bloody city! I also will make the pile great.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21067,
+        "text": "Heap on the wood, kindle the fire, boil thoroughly the flesh, and spice it well, and let the bones be burned.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21068,
+        "text": "Then set it empty upon its coals, that it may be hot, and the brass of it may burn, and that its filthiness may be molten in it, [and] that its rust may be consumed.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21069,
+        "text": "She hath exhausted [her] labours, yet her great rust goeth not forth out of her: let her rust be in the fire.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21070,
+        "text": "In thy filthiness is lewdness, for I have purged thee, and thou art not pure. Thou shalt no more be purged from thy filthiness, till I have satisfied my fury upon thee.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21071,
+        "text": "I Jehovah have spoken [it]: it shall come to pass, and I will do it; I will not go back, neither will I spare, nor will I repent. According to thy ways, and according to thy doings, shall they judge thee, saith the Lord Jehovah.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21072,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 21073,
+        "text": "Son of man, behold, I take away from thee the desire of thine eyes with a stroke; yet thou shalt not mourn nor weep, neither shall thy tears run down.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21074,
+        "text": "Sigh in silence, make no mourning for the dead; bind thy turban upon thee, and put thy sandals upon thy feet, and cover not the beard, and eat not the bread of men.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21075,
+        "text": "—And I spoke unto the people in the morning; and at even my wife died. And I did in the morning as I was commanded.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21076,
+        "text": "And the people said unto me, Wilt thou not tell us what these things are to us, which thou doest?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21077,
+        "text": "And I said to them, The word of Jehovah came unto me, saying,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21078,
+        "text": "Say unto the house of Israel, Thus saith the Lord Jehovah: Behold, I will profane my sanctuary, the pride of your strength, the desire of your eyes, and your soul’s longing; and your sons and your daughters whom ye have left behind shall fall by the sword.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21079,
+        "text": "And ye shall do as I have done: ye shall not cover the beard, neither eat the bread of men;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21080,
+        "text": "and your turbans shall be upon your heads, and your sandals upon your feet: ye shall not mourn nor weep; but ye shall waste away in your iniquities and moan one toward another.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21081,
+        "text": "Thus Ezekiel shall be unto you a sign; according to all that he hath done shall ye do: when it cometh, then ye shall know that I [am] the Lord Jehovah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21082,
+        "text": "And thou, son of man, shall it not be in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereunto they lift up their soul, their sons and their daughters,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21083,
+        "text": "that in that day he that escapeth shall come unto thee, to cause [thine] ears to hear [it]?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 21084,
+        "text": "In that day shall thy mouth be opened to him that is escaped, and thou shalt speak, and be no more dumb. So shalt thou be a sign unto them; and they shall know that I [am] Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 682,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17709,
+        "text": "For behold, the Lord, Jehovah of hosts, will take away from Jerusalem and from Judah stay and staff, the whole stay of bread, and the whole stay of water,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17710,
+        "text": "the mighty man and the man of war, the judge and the prophet, and the diviner and the elder,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17711,
+        "text": "the captain of fifty, and the honourable man, and the counsellor, and the clever among artificers, and the one versed in enchantments.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17712,
+        "text": "And I will appoint youths as their princes, and children shall rule over them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17713,
+        "text": "And the people shall be oppressed one by the other, and each by his neighbour; the child will be insolent against the elder, and the base against the honourable.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17714,
+        "text": "When a man shall take hold of his brother, in his father’s house, [and shall say:] Thou hast clothing; be our chief, and let this ruin be under thy hand;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17715,
+        "text": "he will lift up [his hand] in that day, saying, I cannot be a healer, and in my house there is neither bread nor clothing; ye shall not make me a chief of the people.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17716,
+        "text": "For Jerusalem stumbleth and Judah falleth, because their tongue and their doings are against Jehovah, to provoke the eyes of his glory.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17717,
+        "text": "The look of their face doth witness against them, and they declare their sin as Sodom: they hide it not. Woe unto their soul! for they have brought evil upon themselves.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17718,
+        "text": "Say ye of the righteous that it shall be well [with him], for they shall eat the fruit of their doings.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17719,
+        "text": "Woe unto the wicked! it shall be ill [with him], because the desert of his hands shall be rendered unto him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17720,
+        "text": "[As for] my people, children are their oppressors, and women rule over them. My people! they that guide thee mislead [thee], and destroy the way of thy paths.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17721,
+        "text": "Jehovah setteth himself to plead, and standeth to judge the peoples.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17722,
+        "text": "Jehovah will enter into judgment with the elders of his people and their princes, [saying:] It is ye that have eaten up the vineyard: the spoil of the poor is in your houses.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17723,
+        "text": "What mean ye that ye crush my people, and grind the faces of the afflicted? saith the Lord, Jehovah of hosts.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17724,
+        "text": "And Jehovah said, Because the daughters of Zion are haughty, and walk with stretched-out neck and wanton eyes, and go along mincing, and making a tinkling with their feet;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17725,
+        "text": "therefore the Lord will make bald the crown of the head of the daughters of Zion, and Jehovah will lay bare their secret parts.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17726,
+        "text": "In that day the Lord will take away the ornament of anklets, and the little suns and crescents,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17727,
+        "text": "the pearl-drops, and the bracelets, and the veils,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17728,
+        "text": "the head-dresses, and the stepping chains, and the girdles, and the scent-boxes, and the amulets;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17729,
+        "text": "the finger-rings, and the nose-rings;",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17730,
+        "text": "the festival-robes, and the tunics, and the mantles, and the wallets;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17731,
+        "text": "the mirrors, and the fine linen bodices, and the turbans, and the flowing veils.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17732,
+        "text": "And it shall come to pass, instead of perfume there shall be rottenness; and instead of a girdle, a rope; and instead of well-set hair, baldness; and instead of a robe of display, a girding of sackcloth; brand instead of beauty.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 17733,
+        "text": "Thy men shall fall by the sword, and thy mighty in the fight;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17734,
+        "text": "and her gates shall lament and mourn; and, stripped, she shall sit upon the ground.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

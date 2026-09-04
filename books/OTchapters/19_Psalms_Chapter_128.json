@@ -1,0 +1,54 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 128,
+    "count": 606,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16128,
+        "text": "{A Song of degrees.} Blessed is every one that feareth Jehovah, that walketh in his ways.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16129,
+        "text": "For thou shalt eat the labour of thy hands; happy shalt thou be, and it shall be well with thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16130,
+        "text": "Thy wife shall be as a fruitful vine in the inner part of thy house; thy children like olive-plants round about thy table.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16131,
+        "text": "Behold, thus shall the man be blessed that feareth Jehovah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16132,
+        "text": "Jehovah will bless thee out of Zion; and mayest thou see the good of Jerusalem all the days of thy life,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16133,
+        "text": "And see thy children’s children. Peace be upon Israel!",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

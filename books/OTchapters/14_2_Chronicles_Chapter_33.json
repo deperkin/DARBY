@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 400,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11910,
+        "text": "Manasseh was twelve years old when he began to reign; and he reigned fifty-five years in Jerusalem.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11911,
+        "text": "And he did evil in the sight of Jehovah, like the abominations of the nations that Jehovah had dispossessed from before the children of Israel.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11912,
+        "text": "And he built again the high places that Hezekiah his father had broken down; and he reared up altars to the Baals, and made Asherahs, and worshipped all the host of heaven and served them.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11913,
+        "text": "And he built altars in the house of Jehovah, of which Jehovah had said, In Jerusalem shall my name be for ever.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11914,
+        "text": "And he built altars to all the host of heaven in both courts of the house of Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11915,
+        "text": "He also caused his children to pass through the fire in the valley of the son of Hinnom; and he used magic and divination and sorcery, and appointed necromancers and soothsayers: he wrought evil beyond measure in the sight of Jehovah, to provoke him to anger.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11916,
+        "text": "And he set the graven image of the idol that he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, will I put my name for ever;",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11917,
+        "text": "neither will I any more remove the foot of Israel from out of the land that I have appointed to your fathers; if they will only take heed to do all that I commanded them through Moses, according to all the law and the statutes and the ordinances.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11918,
+        "text": "And Manasseh led Judah and the inhabitants of Jerusalem astray, to do more evil than the nations that Jehovah had destroyed from before the children of Israel.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11919,
+        "text": "And Jehovah spoke to Manasseh and to his people; but they did not hearken.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11920,
+        "text": "And Jehovah brought upon them the captains of the host of the king of Assyria, who took Manasseh with fetters, and bound him with chains of brass, and carried him to Babylon.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 11921,
+        "text": "And when he was in affliction, he besought Jehovah his God, and humbled himself greatly before the God of his fathers,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11922,
+        "text": "and prayed to him. And he was intreated of him and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that Jehovah, he was God.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11923,
+        "text": "And after this he built the outer wall of the city of David, on the west, toward Gihon, in the valley, even to the entrance of the fish-gate, and carried it round Ophel, and raised it up a very great height; and he put captains of war in all the fortified cities of Judah.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11924,
+        "text": "And he removed the strange gods, and the idol out of the house of Jehovah, and all the altars that he had built on the mount of the house of Jehovah and in Jerusalem, and cast [them] out of the city.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11925,
+        "text": "And he reinstated the altar of Jehovah, and sacrificed on it peace-offerings and thank-offerings, and commanded Judah to serve Jehovah the God of Israel.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11926,
+        "text": "Nevertheless, the people sacrificed still on the high places, although to Jehovah their God only.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11927,
+        "text": "And the rest of the acts of Manasseh, and his prayer to his God, and the words of the seers that spoke to him in the name of Jehovah the God of Israel, behold, they [are written] in the acts of the kings of Israel.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11928,
+        "text": "And his prayer, and [how God] was intreated of him, and all his sin and his unfaithfulness, and the places in which he built high places, and set up Asherahs and graven images, before he was humbled, behold, they are written among the words of Hozai.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11929,
+        "text": "And Manasseh slept with his fathers, and they buried him in his own house; and Amon his son reigned in his stead.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11930,
+        "text": "Amon was twenty-two years old when he began to reign; and he reigned two years in Jerusalem.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 11931,
+        "text": "And he did evil in the sight of Jehovah, as Manasseh his father had done; and Amon sacrificed to all the graven images that Manasseh his father had made, and served them.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 11932,
+        "text": "And he did not humble himself before Jehovah, as Manasseh his father had humbled himself; for he, Amon, multiplied trespass.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 11933,
+        "text": "And his servants conspired against him, and slew him in his own house.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 11934,
+        "text": "But the people of the land smote all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

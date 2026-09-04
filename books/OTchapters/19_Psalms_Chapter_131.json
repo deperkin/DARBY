@@ -1,0 +1,33 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 131,
+    "count": 609,
+    "MaxVerses": 3,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16150,
+        "text": "{A Song of degrees. Of David.} Jehovah, my heart is not haughty, nor mine eyes lofty; neither do I exercise myself in great matters, and in things too wonderful for me.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16151,
+        "text": "Surely I have restrained and composed my soul, like a weaned child with its mother: my soul within me is as a weaned child.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16152,
+        "text": "Let Israel hope in Jehovah, from henceforth and for evermore.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

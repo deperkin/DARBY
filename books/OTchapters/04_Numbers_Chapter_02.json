@@ -1,0 +1,250 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 119,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3660,
+        "text": "And Jehovah spoke to Moses and to Aaron, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3661,
+        "text": "The children of Israel shall encamp every one by his standard, with the ensign of their father’s house; round about the tent of meeting, afar off, opposite to it shall they encamp.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3662,
+        "text": "And [for] those encamping eastward toward the sun-rising [there shall be] the standard of the camp of Judah according to their hosts; and the prince of the sons of Judah shall be Nahshon the son of Amminadab;",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 3663,
+        "text": "and his host, even those that were numbered of them, were seventy-four thousand six hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3664,
+        "text": "And those that encamp next unto him shall be the tribe of Issachar; and the prince of the sons of Issachar shall be Nethaneel the son of Zuar;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3665,
+        "text": "and his host, even those that were numbered thereof, fifty-four thousand four hundred.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3666,
+        "text": "[With them shall be] the tribe of Zebulun; and the prince of the sons of Zebulun shall be Eliab the son of Helon;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3667,
+        "text": "and his host, even those that were numbered thereof, fifty-seven thousand four hundred.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3668,
+        "text": "All that were numbered of the camp of Judah were a hundred and eighty-six thousand four hundred, according to their hosts. They shall set forth first.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3669,
+        "text": "The standard of the camp of Reuben shall be southward according to their hosts; and the prince of the sons of Reuben shall be Elizur the son of Shedeur;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3670,
+        "text": "and his host, even those that were numbered thereof, forty-six thousand five hundred.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3671,
+        "text": "And those that encamp by him shall be the tribe of Simeon; and the prince of the sons of Simeon shall be Shelumiel the son of Zurishaddai;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3672,
+        "text": "and his host, even those that were numbered of them, fifty-nine thousand three hundred.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3673,
+        "text": "And [with them shall be] the tribe of Gad; and the prince of the sons of Gad shall be Eliasaph the son of Reuel;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3674,
+        "text": "and his host, even those that were numbered of them, forty-five thousand six hundred and fifty.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3675,
+        "text": "All that were numbered of the camp of Reuben were a hundred and fifty-one thousand four hundred and fifty, according to their hosts. And they shall set forth second.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3676,
+        "text": "And the tent of meeting shall set forth, the camp of the Levites in the midst of the camps; as they encamp, so shall they set forth, every man in his place, according to their standards.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3677,
+        "text": "The standard of the camp of Ephraim according to their hosts shall be westward; and the prince of the sons of Ephraim shall be Elishama the son of Ammihud;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3678,
+        "text": "and his host, even those that were numbered of them, forty thousand five hundred.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3679,
+        "text": "And by him shall be the tribe of Manasseh; and the prince of the sons of Manasseh shall be Gamaliel the son of Pedahzur;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3680,
+        "text": "and his host, even those that were numbered of them, thirty-two thousand two hundred.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3681,
+        "text": "And [with them shall be] the tribe of Benjamin; and the prince of the sons of Benjamin shall be Abidan the son of Gideoni;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3682,
+        "text": "and his host, even those that were numbered of them, thirty-five thousand four hundred.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3683,
+        "text": "All that were numbered of the camp of Ephraim were a hundred and eight thousand one hundred, according to their hosts. And they shall set forth third.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3684,
+        "text": "The standard of the camp of Dan shall be northward according to their hosts; and the prince of the sons of Dan shall be Ahiezer the son of Ammishaddai;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3685,
+        "text": "and his host, even those that were numbered of them, sixty-two thousand seven hundred.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3686,
+        "text": "And those that encamp by him shall be the tribe of Asher; and the prince of the sons of Asher shall be Pagiel the son of Ocran;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3687,
+        "text": "and his host, even those that were numbered of them, forty-one thousand five hundred.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3688,
+        "text": "And [with them shall be] the tribe of Naphtali; and the prince of the sons of Naphtali shall be Ahira the son of Enan;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3689,
+        "text": "and his host, even those that were numbered of them, fifty-three thousand four hundred.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3690,
+        "text": "All that were numbered of the camp of Dan were a hundred and fifty-seven thousand six hundred. They shall set forth last according to their standards.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3691,
+        "text": "These are those that were numbered of the children of Israel, according to their fathers’ houses: all those that were numbered of the camps, according to their hosts, were six hundred and three thousand five hundred and fifty.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3692,
+        "text": "But the Levites were not numbered among the children of Israel; as Jehovah had commanded Moses.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3693,
+        "text": "And the children of Israel did according to all that Jehovah had commanded Moses: so they encamped according to their standards, and so they journeyed, every one according to their families, according to their fathers’ houses.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

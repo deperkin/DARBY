@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 176,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5502,
+        "text": "He that is a eunuch, whether he have been crushed or cut, shall not come into the congregation of Jehovah.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5503,
+        "text": "A bastard shall not come into the congregation of Jehovah; even his tenth generation shall not come into the congregation of Jehovah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5504,
+        "text": "An Ammonite or Moabite shall not come into the congregation of Jehovah; even their tenth generation shall not come into the congregation of Jehovah for ever;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5505,
+        "text": "because they met you not with bread and with water on the way, when ye came forth out of Egypt, and because they hired against thee Balaam the son of Beor, of Pethor of Mesopotamia, to curse thee.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5506,
+        "text": "But Jehovah thy God would not listen to Balaam; and Jehovah thy God turned the curse into blessing unto thee, because Jehovah thy God loved thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5507,
+        "text": "Thou shalt not seek their peace nor their prosperity all thy days for ever.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5508,
+        "text": "Thou shalt not abhor an Edomite; for he is thy brother. Thou shalt not abhor an Egyptian; because thou wast a sojourner in his land.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5509,
+        "text": "Children that are born to them shall come into the congregation of Jehovah in the third generation.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5510,
+        "text": "When thou goest forth into camp against thine enemies, then keep thee from every evil thing.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 5511,
+        "text": "If there be with thee a man that is not clean from what hath happened in the night, then shall he go outside the camp; he shall not come inside the camp;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5512,
+        "text": "and it shall be, towards evening, he shall bathe in water: and at the going down of the sun he may come inside the camp.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5513,
+        "text": "Thou shalt have a place also outside the camp, and shalt go forth thither.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5514,
+        "text": "And thou shalt have a shovel amongst thy weapons, and it shall be, when thou sittest down abroad, thou shalt dig therewith, and shalt turn back and cover that which is come from thee.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5515,
+        "text": "For Jehovah thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; and thy camp shall be holy, that he see nothing unseemly with thee, and turn away from thee.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5516,
+        "text": "Thou shalt not hand over to his master a bondman that hath escaped from his master unto thee:",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 5517,
+        "text": "he shall dwell with thee, even in thy midst, in the place that he shall choose in one of thy gates, where it seemeth good to him; thou shalt not oppress him.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5518,
+        "text": "There shall be no prostitute amongst the daughters of Israel, nor any Sodomite amongst the sons of Israel.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5519,
+        "text": "Thou shalt not bring the hire of a harlot, or the price of a dog, into the house of Jehovah thy God for any vow; for even both these are an abomination to Jehovah thy God.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5520,
+        "text": "Thou shalt take no interest of thy brother, interest of money, interest of victuals, interest of anything that can be lent upon interest:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5521,
+        "text": "of a foreigner thou mayest take interest, but of thy brother thou shalt not take interest; that Jehovah thy God may bless thee in all the business of thy hand in the land whither thou goest to possess it.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5522,
+        "text": "When thou vowest a vow to Jehovah thy God, thou shalt not delay to perform it; for Jehovah thy God will certainly require it of thee, and it shall be sin in thee.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5523,
+        "text": "But if thou forbear to vow, it shall be no sin in thee.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5524,
+        "text": "What is gone out of thy lips thou shalt keep and do, as thou hast vowed to Jehovah thy God, the voluntary-offering that thou hast promised with thy mouth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5525,
+        "text": "When thou comest into thy neighbour’s vineyard, thou mayest eat grapes thy fill, according to thy desire, but thou shalt not put any in thy vessel.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5526,
+        "text": "When thou comest into the standing corn of thy neighbour, thou mayest pluck ears with thy hand; but thou shalt not wave the sickle against thy neighbour’s standing corn.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

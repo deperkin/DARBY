@@ -1,0 +1,75 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 506,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14301,
+        "text": "{[A Psalm] of David.} Unto thee, Jehovah, do I call; my rock, be not silent unto me, lest, [if] thou keep silence toward me, I become like them that go down into the pit.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14302,
+        "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward the oracle of thy holiness.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14303,
+        "text": "Draw me not away with the wicked, and with the workers of iniquity, who speak peace to their neighbours, and mischief is in their heart.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14304,
+        "text": "Give them according to their doing, and according to the wickedness of their deeds; give them after the work of their hands, render to them their desert.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14305,
+        "text": "For they regard not the deeds of Jehovah, nor the work of his hands: he will destroy them, and not build them up.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14306,
+        "text": "Blessed be Jehovah, for he hath heard the voice of my supplications.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14307,
+        "text": "Jehovah is my strength and my shield; my heart confided in him, and I was helped: therefore my heart exulteth, and with my song will I praise him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14308,
+        "text": "Jehovah is their strength; and he is the stronghold of salvation to his anointed one.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14309,
+        "text": "Save thy people, and bless thine inheritance; and feed them, and lift them up for ever.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

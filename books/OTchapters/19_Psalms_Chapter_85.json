@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 85,
+    "count": 563,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15273,
+        "text": "{To the chief Musician. Of the sons of Korah. A Psalm.} Thou hast been favourable, Jehovah, unto thy land; thou hast turned the captivity of Jacob:",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15274,
+        "text": "Thou hast forgiven the iniquity of thy people; thou hast covered all their sin. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15275,
+        "text": "Thou hast withdrawn all thy wrath; thou hast turned from the fierceness of thine anger.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15276,
+        "text": "Bring us back, O God of our salvation, and cause thine indignation toward us to cease.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15277,
+        "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger from generation to generation?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15278,
+        "text": "Wilt thou not revive us again, that thy people may rejoice in thee?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15279,
+        "text": "Shew us thy loving-kindness, O Jehovah, and grant us thy salvation.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15280,
+        "text": "I will hear what God, Jehovah, will speak; for he will speak peace unto his people, and to his godly ones: but let them not turn again to folly.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15281,
+        "text": "Surely his salvation is nigh them that fear him, that glory may dwell in our land.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15282,
+        "text": "Loving-kindness and truth are met together; righteousness and peace have kissed each other:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15283,
+        "text": "Truth shall spring out of the earth, and righteousness shall look down from the heavens.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15284,
+        "text": "Jehovah also will give what is good, and our land shall yield its increase.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15285,
+        "text": "Righteousness shall go before him, and shall set his footsteps on the way.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

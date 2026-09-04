@@ -1,0 +1,61 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 492,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14082,
+        "text": "{To the chief Musician. [A Psalm] of David.} The fool hath said in his heart, There is no God. They have corrupted themselves, they have done abominable works: there is none that doeth good.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14083,
+        "text": "Jehovah looked down from the heavens upon the children of men, to see if there were any that did understand, that did seek God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14084,
+        "text": "They have all gone aside, they are together become corrupt: there is none that doeth good, not even one.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14085,
+        "text": "Have all the workers of iniquity no knowledge, eating up my people [as] they eat bread? They call not upon Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 14086,
+        "text": "There were they in great fear; for God is in the generation of the righteous.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14087,
+        "text": "Ye have shamed the counsel of the afflicted, because Jehovah [was] his refuge.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14088,
+        "text": "Oh that the salvation of Israel were come out of Zion! When Jehovah turneth again the captivity of his people, Jacob shall be glad, Israel shall rejoice.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

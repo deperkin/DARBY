@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 27,"name": "Daniel","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 851,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21739,
+        "text": "In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21740,
+        "text": "And the Lord gave Jehoiakim king of Judah into his hand, and a part of the vessels of the house of God; and he carried them into the land of Shinar, to the house of his god; and he brought the vessels into the treasure-house of his god.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21741,
+        "text": "And the king spoke unto Ashpenaz the chief of his eunuchs, that he should bring of the children of Israel, both of the royal seed and of the nobles,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21742,
+        "text": "youths in whom was no blemish, and of goodly countenance, and skilful in all wisdom, and acquainted with knowledge, and understanding science, and such as had ability in them to stand in the king’s palace, and whom they might teach the learning and the language of the Chaldeans.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21743,
+        "text": "And the king appointed unto them a daily provision of the king’s delicate food, and of the wine that he drank, to nourish them three years, that at the end thereof they might stand before the king.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21744,
+        "text": "Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21745,
+        "text": "And the prince of the eunuchs gave them names: to Daniel he gave [the name] Belteshazzar, and to Hananiah, Shadrach, and to Mishael, Meshach, and to Azariah, Abed-nego.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21746,
+        "text": "And Daniel purposed in his heart that he would not pollute himself with the king’s delicate food, nor with the wine which he drank; and he requested of the prince of the eunuchs that he might not have to pollute himself.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 21747,
+        "text": "And God granted Daniel favour and mercy before the prince of the eunuchs.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21748,
+        "text": "And the prince of the eunuchs said unto Daniel, I fear my lord the king who hath appointed your food and your drink; for why should he see your faces worse liking than the youths who are of your age? and ye would endanger my head with the king.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21749,
+        "text": "And Daniel said to the steward, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21750,
+        "text": "Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21751,
+        "text": "then let our countenances be looked upon before thee, and the countenance of the youths that eat of the king’s delicate food: and as thou shalt see, deal with thy servants.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21752,
+        "text": "And he hearkened unto them in this matter, and proved them ten days.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21753,
+        "text": "And at the end of ten days their countenances appeared fairer and were fatter in flesh than all the youths that ate of the king’s delicate food.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21754,
+        "text": "So the steward took away their delicate food, and the wine that they should drink; and gave them pulse.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21755,
+        "text": "As for these four youths, God gave them knowledge and skill in all learning and wisdom; and Daniel had understanding in all visions and dreams.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 21756,
+        "text": "And at the end of the days that the king had said he should bring them in, the prince of the eunuchs brought them in before Nebuchadnezzar.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21757,
+        "text": "And the king spoke with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: and they stood before the king.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21758,
+        "text": "And in all matters of judicious wisdom, as to which the king enquired of them, he found them ten times better than all the scribes [and] magicians that were in all his realm.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21759,
+        "text": "And Daniel continued unto the first year of king Cyrus.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 140,
+    "count": 618,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16265,
+        "text": "{To the chief Musician. A Psalm of David.} Free me, O Jehovah, from the evil man; preserve me from the violent man:",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16266,
+        "text": "Who devise mischiefs in [their] heart; every day are they banded together for war.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16267,
+        "text": "They sharpen their tongues like a serpent; adders’ poison is under their lips. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16268,
+        "text": "Keep me, O Jehovah, from the hands of the wicked [man], preserve me from the violent man, who devise to overthrow my steps.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16269,
+        "text": "The proud have hidden a snare for me, and cords; they have spread a net by the way-side; they have set traps for me. Selah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16270,
+        "text": "I have said unto Jehovah, Thou art my God: give ear, O Jehovah, to the voice of my supplications.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16271,
+        "text": "Jehovah, the Lord, is the strength of my salvation: thou hast covered my head in the day of battle.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16272,
+        "text": "Grant not, O Jehovah, the desire of the wicked; further not his device: they would exalt themselves. Selah.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16273,
+        "text": "[As for] the head of those that encompass me, let the mischief of their own lips cover them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16274,
+        "text": "Let burning coals fall on them; let them be cast into the fire; into deep waters, that they rise not up again.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16275,
+        "text": "Let not the man of [evil] tongue be established in the earth: evil shall hunt the man of violence to [his] ruin.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16276,
+        "text": "I know that Jehovah will maintain the cause of the afflicted one, the right of the needy.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16277,
+        "text": "Yea, the righteous shall give thanks unto thy name; the upright shall dwell in thy presence.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 62,
+    "count": 540,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14829,
+        "text": "{To the chief Musician. On Jeduthun. A Psalm of David.} Upon God alone doth my soul rest peacefully; from him is my salvation.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14830,
+        "text": "He only is my rock and my salvation; my high fortress: I shall not be greatly moved.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14831,
+        "text": "How long will ye assail a man; will ye [seek], all of you, to break him down as a bowing wall or a tottering fence?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14832,
+        "text": "They only consult to thrust [him] down from his excellency; they delight in lies; they bless with their mouth, but in their inward part they curse. Selah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14833,
+        "text": "Upon God alone, O my soul, rest peacefully; for my expectation is from him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14834,
+        "text": "He only is my rock and my salvation; my high fortress: I shall not be moved.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14835,
+        "text": "With God is my salvation and my glory; the rock of my strength, my refuge is in God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14836,
+        "text": "Confide in him at all times, ye people; pour out your heart before him: God is our refuge. Selah.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14837,
+        "text": "Men of low degree are only vanity; men of high degree, a lie: laid in the balance, they go up together [lighter] than vanity.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14838,
+        "text": "Put not confidence in oppression, and become not vain in robbery; if wealth increase, set not your heart upon it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14839,
+        "text": "Once hath God spoken, twice have I heard this, that strength [belongeth] unto God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14840,
+        "text": "And unto thee, O Lord, [belongeth] loving-kindness; for thou renderest to every man according to his work.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

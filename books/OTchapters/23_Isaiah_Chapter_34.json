@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 34,
+    "count": 713,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18305,
+        "text": "Come near, ye nations, to hear; and hearken, ye peoples: let the earth hear, and all its fulness; the world, and all that cometh forth of it.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18306,
+        "text": "For the wrath of Jehovah is against all the nations, and [his] fury against all their armies: he hath devoted them to destruction, he hath delivered them to the slaughter.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18307,
+        "text": "And their slain shall be cast out, and their stink shall come up from their carcases, and the mountains shall be melted with their blood.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18308,
+        "text": "And all the host of the heavens shall be dissolved, and the heavens shall be rolled together as a scroll; and all their host shall fade away, as a leaf fadeth from off the vine, and as the withered [fruit] from the fig-tree.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18309,
+        "text": "For my sword is bathed in the heavens; behold, it shall come down upon Edom, and upon the people of my ban, to judgment.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18310,
+        "text": "The sword of Jehovah is filled with blood, it is made fat with fatness, with the blood of lambs and goats, with the fat of the kidneys of rams; for Jehovah hath a sacrifice in Bozrah, and a great slaughter in the land of Edom.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18311,
+        "text": "And the buffaloes shall come down with them, and the bullocks with the bulls; and their land shall be soaked with blood, and their dust made fat with fatness.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18312,
+        "text": "For it is the day of Jehovah’s vengeance, the year of recompenses for the controversy of Zion.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18313,
+        "text": "And the torrents thereof shall be turned into pitch, and its dust into brimstone; yea, the land thereof shall become burning pitch:",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18314,
+        "text": "it shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18315,
+        "text": "And the pelican and the bittern shall possess it, and the great owl and the raven shall dwell in it. And he shall stretch out upon it the line of waste, and the plummets of emptiness.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18316,
+        "text": "Of her nobles who should proclaim the kingdom, none are there; and all her princes shall be nought.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18317,
+        "text": "And thorns shall come up in her palaces, nettles and brambles in her fortresses; and it shall be a dwelling-place of wild dogs, a court for ostriches.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18318,
+        "text": "And there shall the beasts of the desert meet with the jackals, and the wild goat shall cry to his fellow; the lilith also shall settle there, and find for herself a place of rest.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18319,
+        "text": "There shall the arrow-snake make her nest, and lay, and hatch, and gather under her shadow; there also shall the vultures be gathered one with another.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18320,
+        "text": "Search ye in the book of Jehovah and read: not one of these shall fail, one shall not have to seek for the other; for my mouth, it hath commanded, and his Spirit, it hath gathered them.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18321,
+        "text": "For he himself hath cast the lot for them, and his hand hath divided it unto them with the line: they shall possess it for ever; from generation to generation shall they dwell therein.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

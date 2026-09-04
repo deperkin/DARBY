@@ -1,0 +1,75 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 47,
+    "count": 525,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14627,
+        "text": "{To the chief Musician. Of the sons of Korah. A Psalm.} All ye peoples, clap your hands; shout unto God with the voice of triumph!",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14628,
+        "text": "For Jehovah, the Most High, is terrible, a great king over all the earth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14629,
+        "text": "He subdueth the peoples under us, and the nations under our feet.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14630,
+        "text": "He hath chosen our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14631,
+        "text": "God is gone up amid shouting, Jehovah amid the sound of the trumpet.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 14632,
+        "text": "Sing psalms of God, sing psalms; sing psalms unto our King, sing psalms!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14633,
+        "text": "For God is the King of all the earth; sing psalms with understanding.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14634,
+        "text": "God reigneth over the nations; God sitteth upon the throne of his holiness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14635,
+        "text": "The willing-hearted of the peoples have gathered together, [with] the people of the God of Abraham. For unto God [belong] the shields of the earth: he is greatly exalted.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

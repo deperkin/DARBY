@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 134,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4246,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4247,
+        "text": "Speak unto the children of Israel, and take of them a staff, a staff for each father’s house, of all their princes according to the houses of their fathers, twelve staves: thou shalt write each one’s name upon his staff.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4248,
+        "text": "And Aaron’s name shalt thou write upon the staff of Levi; for one staff shall be for [each] head of their fathers’ houses.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4249,
+        "text": "And thou shalt lay them up in the tent of meeting before the testimony, where I meet with you.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4250,
+        "text": "And it shall come to pass, that the man whom I shall choose, his staff shall bud forth; and I will make to cease from before me the murmurings of the children of Israel, that they murmur against you.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4251,
+        "text": "And Moses spoke to the children of Israel, and all their princes gave him a staff, one staff for each prince according to their fathers’ houses, twelve staves, and the staff of Aaron was among their staves.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4252,
+        "text": "And Moses laid the staves before Jehovah in the tent of the testimony.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4253,
+        "text": "And it came to pass, when on the morrow Moses went into the tent of the testimony, behold, the staff of Aaron for the house of Levi had budded, and brought forth buds, and bloomed blossoms, and ripened almonds.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 4254,
+        "text": "And Moses brought out all the staves from before Jehovah to all the children of Israel, and they looked and took each one his staff.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4255,
+        "text": "And Jehovah said to Moses, Bring Aaron’s staff again before the testimony, to be kept as a token for the sons of rebellion, that thou mayest put an end to their murmurings before me, that they may not die.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4256,
+        "text": "And Moses did so: as Jehovah had commanded him, so did he.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4257,
+        "text": "And the children of Israel spoke to Moses, saying, Lo, we expire, we perish, we all perish.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4258,
+        "text": "Every one that comes at all near to the tabernacle of Jehovah shall die: shall we then expire altogether?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

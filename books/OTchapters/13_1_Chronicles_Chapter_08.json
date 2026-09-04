@@ -1,0 +1,292 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 346,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10577,
+        "text": "And Benjamin begot Bela his firstborn, Ashbel the second, and Aharah the third,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10578,
+        "text": "Nohah the fourth, and Rapha the fifth.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10579,
+        "text": "And Bela had sons: Addar, and Gera, and Abihud,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10580,
+        "text": "and Abishua, and Naaman, and Ahoah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10581,
+        "text": "and Gera, and Shephuphan, and Huram.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10582,
+        "text": "—And these are the sons of Ehud (these were the chief fathers of the inhabitants of Geba; and they carried them away to Manahath;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10583,
+        "text": "even Naaman, and Ahijah, and Gera; he removed them), and he begot Uzza and Ahihud.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10584,
+        "text": "And Shaharaim begot [children] in the land of Moab after he had sent away Hushim and Baara his wives.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10585,
+        "text": "And he begot of Hodesh his wife: Jobab, and Zibia, and Mesha, and Malcham,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10586,
+        "text": "and Jeuz, and Shobia, and Mirmah; these were his sons, chief fathers.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10587,
+        "text": "And of Hushim he begot Abitub, and Elpaal.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10588,
+        "text": "And the sons of Elpaal: Eber, and Misham, and Shemer, who built Ono, and Lod and its dependent villages;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10589,
+        "text": "and Beriah, and Shema, who were chief fathers of the inhabitants of Ajalon; they drove away the inhabitants of Gath.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10590,
+        "text": "And Ahio, Shashak, and Jeremoth,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10591,
+        "text": "and Zebadiah, and Arad, and Eder,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10592,
+        "text": "and Michael, and Jishpah, and Joha were the sons of Beriah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10593,
+        "text": "And Zebadiah, and Meshullam, and Hiski, and Heber,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10594,
+        "text": "and Jishmerai, and Jizliah, and Jobab were the sons of Elpaal.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10595,
+        "text": "And Jakim, and Zichri, and Zabdi,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10596,
+        "text": "and Elienai, and Zilthai, and Eliel,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10597,
+        "text": "and Adaiah, and Beraiah, and Shimrath were the sons of Shimei.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10598,
+        "text": "And Jishpah, and Eber, and Eliel,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10599,
+        "text": "and Abdon, and Zichri, and Hanan,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10600,
+        "text": "and Hananiah, and Elam, and Antothijah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10601,
+        "text": "and Jiphdeiah, and Penuel were the sons of Shashak.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10602,
+        "text": "And Shamsherai, and Shehariah, and Athaliah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10603,
+        "text": "and Jaareshiah, and Elijah, and Zichri were the sons of Jeroham.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10604,
+        "text": "These were the chief fathers, according to their generations, principal men; these dwelt in Jerusalem.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10605,
+        "text": "And at Gibeon dwelt the father of Gibeon; and his wife’s name was Maachah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10606,
+        "text": "And his son, the firstborn, was Abdon; and Zur, and Kish, and Baal, and Nadab,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10607,
+        "text": "and Gedor, and Ahio, and Zecher.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10608,
+        "text": "And Mikloth begot Shimeah. And these also dwelt beside their brethren in Jerusalem, with their brethren.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10609,
+        "text": "And Ner begot Kish; and Kish begot Saul; and Saul begot Jonathan, and Malchishua, and Abinadab, and Esh-baal.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 10610,
+        "text": "And the son of Jonathan was Merib-Baal; and Merib-Baal begot Micah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10611,
+        "text": "And the sons of Micah: Pithon, and Melech, and Tarea, and Ahaz.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10612,
+        "text": "And Ahaz begot Jehoaddah; and Jehoaddah begot Alemeth, and Azmaveth, and Zimri; and Zimri begot Moza;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10613,
+        "text": "and Moza begot Binea: Rapha was his son, Eleasah his son, Azel his son.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 10614,
+        "text": "And Azel had six sons, and these are their names: Azrikam, Bochru, and Ishmael, and Sheariah, and Obadiah, and Hanan; all these were sons of Azel.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10615,
+        "text": "And the sons of Eshek his brother were Ulam his firstborn, Jeush the second, and Eliphelet the third.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10616,
+        "text": "And the sons of Ulam were mighty men of valour, archers; and they had many sons, and sons’ sons, a hundred and fifty. All these were of the sons of Benjamin.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

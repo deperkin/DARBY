@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 55,
+    "count": 533,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14734,
+        "text": "{To the chief Musician. On stringed instruments: an instruction. Of David.} Give ear to my prayer, O God; and hide not thyself from my supplication.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14735,
+        "text": "Attend unto me, and answer me: I wander about in my plaint, and I moan aloud,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14736,
+        "text": "Because of the voice of the enemy; because of the oppression of the wicked: for they cast iniquity upon me, and in anger they persecute me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14737,
+        "text": "My heart is writhing within me, and the terrors of death are fallen upon me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14738,
+        "text": "Fear and trembling are come upon me, and horror hath overwhelmed me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14739,
+        "text": "And I said, Oh that I had wings like a dove! I would fly away, and be at rest;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14740,
+        "text": "Behold, I would flee afar off, I would lodge in the wilderness; Selah;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14741,
+        "text": "I would hasten my escape from the stormy wind, from the tempest.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14742,
+        "text": "Swallow [them] up, Lord; divide their tongue: for I have seen violence and strife in the city.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 14743,
+        "text": "Day and night they go about it upon the walls thereof; and iniquity and mischief are in the midst of it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14744,
+        "text": "Perversities are in the midst thereof; and oppression and deceit depart not from its streets.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14745,
+        "text": "For it is not an enemy that hath reproached me—then could I have borne it; neither is it he that hateth me that hath magnified [himself] against me—then would I have hidden myself from him;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14746,
+        "text": "But it was thou, a man mine equal, mine intimate, my familiar friend....",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14747,
+        "text": "We who held sweet intercourse together. To the house of God we walked amid the throng.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14748,
+        "text": "Let death seize upon them, let them go down alive into Sheol. For wickedness is in their dwellings, in their midst.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14749,
+        "text": "As for me, unto God will I call; and Jehovah will save me.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 14750,
+        "text": "Evening, and morning, and at noon, will I pray and moan aloud; and he will hear my voice.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14751,
+        "text": "He hath redeemed my soul in peace from the battle against me: for there were many about me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14752,
+        "text": "God will hear, and afflict them: he that is seated of old, (Selah)... because there is no change in them, and they fear not God.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14753,
+        "text": "He hath put forth his hands against such as are at peace with him; he hath profaned his covenant.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14754,
+        "text": "Smooth were the milky [words] of his mouth, but his heart was war; his words were softer than oil, yet are they drawn swords.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14755,
+        "text": "Cast thy burden upon Jehovah, and he will sustain thee: he will never suffer the righteous to be moved.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 14756,
+        "text": "And thou, O God, wilt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days. But as for me, I will confide in thee.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

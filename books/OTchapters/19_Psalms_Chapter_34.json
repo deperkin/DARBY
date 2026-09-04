@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 34,
+    "count": 512,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14390,
+        "text": "{[A Psalm] of David; when he changed his behaviour before Abimelech, who drove him away, and he departed.} I will bless Jehovah at all times; his praise shall continually be in my mouth.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14391,
+        "text": "My soul shall make its boast in Jehovah: the meek shall hear, and rejoice.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14392,
+        "text": "Magnify Jehovah with me, and let us exalt his name together.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14393,
+        "text": "I sought Jehovah, and he answered me, and delivered me from all my fears.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14394,
+        "text": "They looked unto him, and were enlightened, and their faces were not confounded.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14395,
+        "text": "This afflicted one called, and Jehovah heard [him], and saved him out of all his troubles.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14396,
+        "text": "The angel of Jehovah encampeth round about them that fear him, and delivereth them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14397,
+        "text": "Taste and see that Jehovah is good: blessed is the man that trusteth in him!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14398,
+        "text": "Fear Jehovah, ye his saints; for there is no want to them that fear him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14399,
+        "text": "The young lions are in need and suffer hunger; but they that seek Jehovah shall not want any good.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14400,
+        "text": "Come, ye sons, hearken unto me: I will teach you the fear of Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 14401,
+        "text": "What man is he that desireth life, [and] loveth days, that he may see good?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14402,
+        "text": "Keep thy tongue from evil, and thy lips from speaking guile;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14403,
+        "text": "Depart from evil, and do good; seek peace, and pursue it.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14404,
+        "text": "The eyes of Jehovah are upon the righteous, and his ears are toward their cry;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14405,
+        "text": "The face of Jehovah is against them that do evil, to cut off the remembrance of them from the earth:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14406,
+        "text": "[The righteous] cry, and Jehovah heareth, and delivereth them out of all their troubles.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14407,
+        "text": "Jehovah is nigh to those that are of a broken heart, and saveth them that are of a contrite spirit.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14408,
+        "text": "Many are the adversities of the righteous, but Jehovah delivereth him out of them all:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14409,
+        "text": "He keepeth all his bones; not one of them is broken.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14410,
+        "text": "Evil shall destroy the wicked; and they that hate the righteous shall bear their guilt.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14411,
+        "text": "Jehovah redeemeth the soul of his servants; and none of them that trust in him shall bear guilt.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

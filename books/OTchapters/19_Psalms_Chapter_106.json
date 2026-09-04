@@ -1,0 +1,348 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 106,
+    "count": 584,
+    "MaxVerses": 48,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15653,
+        "text": "Hallelujah! Give ye thanks unto Jehovah; for he is good; for his loving-kindness [endureth] for ever.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15654,
+        "text": "Who can utter the mighty acts of Jehovah? [who] can shew forth all his praise?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15655,
+        "text": "Blessed are they that keep justice, [and] he that doeth righteousness at all times.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15656,
+        "text": "Remember me, O Jehovah, with [thy] favour toward thy people; visit me with thy salvation:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15657,
+        "text": "That I may see the prosperity of thy chosen ones, that I may rejoice in the joy of thy nation, that I may glory with thine inheritance.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15658,
+        "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15659,
+        "text": "Our fathers in Egypt considered not thy wondrous works; they remembered not the multitude of thy loving-kindnesses; but they rebelled at the sea, at the Red Sea.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15660,
+        "text": "Yet he saved them for his name’s sake, that he might make known his might.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15661,
+        "text": "And he rebuked the Red Sea, and it dried up; and he led them through the deeps as through a wilderness.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15662,
+        "text": "And he saved them from the hand of him that hated [them], and redeemed them from the hand of the enemy.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15663,
+        "text": "And the waters covered their oppressors: there was not one of them left.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15664,
+        "text": "Then believed they his words; they sang his praise.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15665,
+        "text": "They soon forgot his works; they waited not for his counsel:",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 15666,
+        "text": "And they lusted exceedingly in the wilderness, and tempted God in the desert.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15667,
+        "text": "Then he gave them their request, but sent leanness into their soul.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15668,
+        "text": "And they envied Moses in the camp, [and] Aaron, the saint of Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15669,
+        "text": "The earth opened and swallowed up Dathan, and covered the company of Abiram;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15670,
+        "text": "And fire was kindled in their company; a flame burned up the wicked.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15671,
+        "text": "They made a calf in Horeb, and did homage to a molten image;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15672,
+        "text": "And they changed their glory into the similitude of an ox that eateth grass.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15673,
+        "text": "They forgot God their Saviour, who had done great things in Egypt,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15674,
+        "text": "Wondrous works in the land of Ham, terrible things by the Red Sea.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15675,
+        "text": "And he said that he would destroy them, had not Moses, his chosen, stood before him in the breach, to turn away his fury, lest he should destroy [them].",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15676,
+        "text": "And they despised the pleasant land; they believed not his word,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15677,
+        "text": "But murmured in their tents: they hearkened not unto the voice of Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15678,
+        "text": "And he lifted up his hand to them, that he would make them fall in the wilderness;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15679,
+        "text": "And that he would make their seed fall among the nations, and disperse them through the countries.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15680,
+        "text": "And they joined themselves unto Baal-Peor, and ate the sacrifices of the dead;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15681,
+        "text": "And they provoked [him] to anger with their doings; and a plague broke out among them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15682,
+        "text": "Then stood up Phinehas and executed judgment, and the plague was stayed;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15683,
+        "text": "And that was reckoned unto him for righteousness, from generation to generation, for evermore.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15684,
+        "text": "And they moved him to wrath at the waters of Meribah, and it went ill with Moses on their account;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15685,
+        "text": "For they provoked his spirit, so that he spoke unadvisedly with his lips.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 15686,
+        "text": "They did not destroy the peoples, as Jehovah commanded them;",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 15687,
+        "text": "But they mingled with the nations, and learned their works;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 15688,
+        "text": "And they served their idols; and they were a snare unto them:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15689,
+        "text": "And they sacrificed their sons and their daughters unto demons,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 15690,
+        "text": "And shed innocent blood, the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan; and the land was polluted with blood.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 15691,
+        "text": "And they were defiled with their works, and went a-whoring in their doings.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 15692,
+        "text": "Then was the anger of Jehovah kindled against his people, and he abhorred his inheritance;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 15693,
+        "text": "And he gave them into the hand of the nations; and they that hated them ruled over them:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 15694,
+        "text": "And their enemies oppressed them, and they were brought into subjection under their hand.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15695,
+        "text": "Often did he deliver them; but as for them they provoked [him] by their counsel, and they were brought low by their iniquity.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 15696,
+        "text": "But he regarded their distress, when he heard their cry;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 15697,
+        "text": "And he remembered for them his covenant, and repented according to the multitude of his loving-kindnesses;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 15698,
+        "text": "And he caused them to find compassion of all those that had carried them captives.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 15699,
+        "text": "Save us, Jehovah our God, and gather us from among the nations, to give thanks unto thy holy name, [and] to triumph in thy praise.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 15700,
+        "text": "Blessed be Jehovah the God of Israel, from eternity and to eternity! And let all the people say, Amen! Hallelujah!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

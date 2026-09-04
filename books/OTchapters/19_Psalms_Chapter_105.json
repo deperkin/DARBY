@@ -1,0 +1,327 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 105,
+    "count": 583,
+    "MaxVerses": 45,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15608,
+        "text": "Give ye thanks unto Jehovah, call upon his name; make known his acts among the peoples.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15609,
+        "text": "Sing unto him, sing psalms unto him; meditate upon all his wondrous works.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15610,
+        "text": "Glory ye in his holy name: let the heart of them rejoice that seek Jehovah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15611,
+        "text": "Seek Jehovah and his strength, seek his face continually;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15612,
+        "text": "Remember his wondrous works which he hath done, his miracles and the judgments of his mouth:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15613,
+        "text": "Ye seed of Abraham his servant, ye sons of Jacob, his chosen ones.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15614,
+        "text": "He, Jehovah, is our God; his judgments are in all the earth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15615,
+        "text": "He is ever mindful of his covenant,—the word which he commanded to a thousand generations,—",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15616,
+        "text": "Which he made with Abraham, and of his oath unto Isaac;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15617,
+        "text": "And he confirmed it unto Jacob for a statute, unto Israel for an everlasting covenant,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15618,
+        "text": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15619,
+        "text": "When they were a few men in number, of small account, and strangers in it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15620,
+        "text": "And they went from nation to nation, from one kingdom to another people.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15621,
+        "text": "He suffered no man to oppress them, and reproved kings for their sakes,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15622,
+        "text": "[Saying,] Touch not mine anointed ones, and do my prophets no harm.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15623,
+        "text": "And he called for a famine upon the land; he broke the whole staff of bread.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15624,
+        "text": "He sent a man before them: Joseph was sold for a bondman.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15625,
+        "text": "They afflicted his feet with fetters; his soul came into irons;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15626,
+        "text": "Until the time when what he said came about: the word of Jehovah tried him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15627,
+        "text": "The king sent and loosed him—the ruler of peoples—and let him go free.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15628,
+        "text": "He made him lord of his house, and ruler over all his possessions:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15629,
+        "text": "To bind his princes at his pleasure, and teach his elders wisdom.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15630,
+        "text": "And Israel came into Egypt, and Jacob sojourned in the land of Ham.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15631,
+        "text": "And he made his people exceeding fruitful, and made them mightier than their oppressors.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15632,
+        "text": "He turned their heart to hate his people, to deal subtilly with his servants.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 15633,
+        "text": "He sent Moses his servant, [and] Aaron whom he had chosen:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15634,
+        "text": "They set his signs among them, and miracles in the land of Ham.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15635,
+        "text": "He sent darkness, and made it dark; and they rebelled not against his word.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15636,
+        "text": "He turned their waters into blood, and caused their fish to die.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15637,
+        "text": "Their land swarmed with frogs,—in the chambers of their kings.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15638,
+        "text": "He spoke, and there came dog-flies, [and] gnats in all their borders.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15639,
+        "text": "He gave them hail for rain, [and] flaming fire in their land;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15640,
+        "text": "And he smote their vines and their fig-trees, and broke the trees of their borders.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 15641,
+        "text": "He spoke, and the locust came, and the cankerworm, even without number;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15642,
+        "text": "And they devoured every herb in their land, and ate up the fruit of their ground.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 15643,
+        "text": "And he smote every firstborn in their land, the firstfruits of all their vigour.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15644,
+        "text": "And he brought them forth with silver and gold; and there was not one feeble among their tribes.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 15645,
+        "text": "Egypt rejoiced at their departure; for the fear of them had fallen upon them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 15646,
+        "text": "He spread a cloud for a covering, and fire to give light in the night.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 15647,
+        "text": "They asked, and he brought quails, and satisfied them with the bread of heaven.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 15648,
+        "text": "He opened the rock, and waters gushed forth; they ran in the dry places [like] a river.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 15649,
+        "text": "For he remembered his holy word, [and] Abraham his servant;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15650,
+        "text": "And he brought forth his people with gladness, his chosen with rejoicing;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 15651,
+        "text": "And he gave them the lands of the nations, and they took possession of the labour of the peoples:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 15652,
+        "text": "That they might keep his statutes, and observe his laws. Hallelujah!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

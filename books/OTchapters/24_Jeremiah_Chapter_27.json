@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 772,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19598,
+        "text": "In the beginning of the reign of Jehoiakim the son of Josiah, the king of Judah, came this word to Jeremiah from Jehovah, saying,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19599,
+        "text": "Thus hath Jehovah said unto me: Make thee bonds and yokes, and put them upon thy neck;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19600,
+        "text": "and send them to the king of Edom, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Zidon, by the hand of the messengers that come to Jerusalem unto Zedekiah king of Judah.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19601,
+        "text": "And give them a charge unto their masters, saying, Thus saith Jehovah of hosts, the God of Israel: Thus shall ye say unto your masters:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19602,
+        "text": "I have made the earth, man and beast that are upon the face of the earth, by my great power and by my outstretched arm; and I give them unto whom it seemeth right in mine eyes.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19603,
+        "text": "And now have I given all these lands into the hand of Nebuchadnezzar king of Babylon, my servant; and the beasts of the field also have I given him to serve him.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19604,
+        "text": "And all the nations shall serve him, and his son, and his son’s son, until the time of his land also come, when many nations and great kings shall reduce him to servitude.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 19605,
+        "text": "And it shall come to pass, that the nation and kingdom which will not serve the same Nebuchadnezzar king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I visit, saith Jehovah, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19606,
+        "text": "And ye, hearken not to your prophets, nor to your diviners, nor to your dreamers, nor to your soothsayers, nor to your sorcerers, who speak unto you saying: Ye shall not serve the king of Babylon.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19607,
+        "text": "For they prophesy falsehood unto you, to remove you far from your land, and that I should drive you out, and ye should perish.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 19608,
+        "text": "But the nation that bringeth its neck under the yoke of the king of Babylon and serveth him, will I let remain still in its own land, saith Jehovah; and they shall till it, and dwell therein.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19609,
+        "text": "And I spoke to Zedekiah king of Judah according to all these words, saying, bring your necks under the yoke of the king of Babylon, and serve him and his people, and live.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 19610,
+        "text": "Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as Jehovah hath spoken concerning the nation that will not serve the king of Babylon?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19611,
+        "text": "And hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon; for they prophesy falsehood unto you.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19612,
+        "text": "For I have not sent them, saith Jehovah, yet they prophesy falsely in my name; in order that I should drive you out, and that ye should perish, ye, and the prophets who prophesy unto you.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19613,
+        "text": "And I spoke to the priests and to all this people, saying, Thus saith Jehovah: Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of Jehovah’s house shall now shortly be brought again from Babylon; for they prophesy falsehood unto you.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19614,
+        "text": "Hearken not unto them; serve the king of Babylon, and live: wherefore should this city become a waste?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19615,
+        "text": "But if they be prophets, and if the word of Jehovah be with them, let them now make intercession to Jehovah of hosts, that the vessels which are left in the house of Jehovah, and in the house of the king of Judah, and at Jerusalem, go not to Babylon.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19616,
+        "text": "For thus saith Jehovah of hosts concerning the pillars, and concerning the sea, and concerning the bases, and concerning the rest of the vessels that are left in this city,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19617,
+        "text": "which Nebuchadnezzar king of Babylon took not, when he carried away captive Jeconiah the son of Jehoiakim, the king of Judah, from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 19618,
+        "text": "yea, thus saith Jehovah of hosts, the God of Israel, concerning the vessels that are left in the house of Jehovah, and in the house of the king of Judah, and in Jerusalem:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 19619,
+        "text": "They shall be carried to Babylon, and there shall they be until the day of my visiting them, saith Jehovah; then I will bring them up, and restore them to this place.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 76,
+    "count": 554,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15083,
+        "text": "{To the chief Musician. On stringed instruments. A Psalm of Asaph: a Song.} In Judah is God known, his name is great in Israel;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15084,
+        "text": "And in Salem is his tent, and his dwelling-place in Zion.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15085,
+        "text": "There broke he the flashings of the bow, shield and sword and battle. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15086,
+        "text": "More glorious art thou, more excellent, than the mountains of prey.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15087,
+        "text": "The stout-hearted are made a spoil, they have slept their sleep; and none of the men of might have found their hands.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15088,
+        "text": "At thy rebuke, O God of Jacob, both chariot and horse are cast into a dead sleep.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15089,
+        "text": "Thou, thou art to be feared, and who can stand before thee when once thou art angry?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 15090,
+        "text": "Thou didst cause judgment to be heard from the heavens; the earth feared, and was still,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15091,
+        "text": "When God rose up to judgment, to save all the meek of the earth. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15092,
+        "text": "For the fury of man shall praise thee; the remainder of fury wilt thou gird on thyself.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15093,
+        "text": "Vow and pay unto Jehovah your God: let all that are round about him bring presents unto him that is to be feared.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15094,
+        "text": "He cutteth off the spirit of princes; [he] is terrible to the kings of the earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

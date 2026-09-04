@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 637,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16640,
+        "text": "Wisdom hath built her house, she hath hewn out her seven pillars;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16641,
+        "text": "she hath slaughtered her cattle, she hath mingled her wine, she hath also prepared her table;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16642,
+        "text": "she hath sent forth her maidens: she crieth upon the summits of the high places of the city,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16643,
+        "text": "Whoso is simple, let him turn in hither. To him that is void of understanding, she saith,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16644,
+        "text": "Come, eat ye of my bread, and drink of the wine that I have mingled.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16645,
+        "text": "Forsake follies and live, and go in the way of intelligence.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16646,
+        "text": "He that instructeth a scorner getteth to himself shame; and he that reproveth a wicked [man] [getteth] to himself a blot.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16647,
+        "text": "Reprove not a scorner, lest he hate thee; reprove a wise [man], and he will love thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16648,
+        "text": "Impart to a wise [man], and he will become yet wiser; teach a righteous [man], and he will increase learning.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16649,
+        "text": "The fear of Jehovah is the beginning of wisdom; and the knowledge of the Holy is intelligence.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16650,
+        "text": "For by me thy days shall be multiplied, and years of life shall be added to thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16651,
+        "text": "If thou art wise, thou shalt be wise for thyself; and if thou scornest, thou alone shalt bear it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16652,
+        "text": "The foolish woman is clamorous; she is stupid, and knoweth nothing.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16653,
+        "text": "And she sitteth at the entry of her house, on a seat in the high places of the city,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16654,
+        "text": "to call passers-by who go right on their ways:",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16655,
+        "text": "Whoso is simple, let him turn in hither. And to him that is void of understanding she saith,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16656,
+        "text": "Stolen waters are sweet, and the bread of secrecy is pleasant.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16657,
+        "text": "But he knoweth not that the dead are there; [that] her guests are in the depths of Sheol.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 107,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3237,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3238,
+        "text": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them, This is the thing which Jehovah hath commanded, saying,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3239,
+        "text": "Every one of the house of Israel that slaughtereth an ox, or sheep, or goat, in the camp, or that slaughtereth it out of the camp,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3240,
+        "text": "and doth not bring it to the entrance of the tent of meeting to present it as an offering to Jehovah, before the tabernacle of Jehovah, blood shall be reckoned unto that man: he hath shed blood; and that man shall be cut off from among his people,",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3241,
+        "text": "to the end that the children of Israel bring their sacrifices, which they sacrifice in the open field, that they bring them to Jehovah, unto the entrance of the tent of meeting, unto the priest, and sacrifice them as sacrifices of peace-offerings to Jehovah.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3242,
+        "text": "And the priest shall sprinkle the blood upon the altar of Jehovah, at the entrance of the tent of meeting, and burn the fat for a sweet odour to Jehovah.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3243,
+        "text": "And they shall no more sacrifice their sacrifices unto demons, after whom they go a whoring. This shall be an everlasting statute unto them for their generations.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3244,
+        "text": "And thou shalt say unto them, Every one of the house of Israel, and of the strangers who sojourn among them, that offereth up a burnt-offering or sacrifice,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3245,
+        "text": "and bringeth it not to the entrance of the tent of meeting, to offer it up to Jehovah—that man shall be cut off from his peoples.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3246,
+        "text": "And every one of the house of Israel, or of the strangers who sojourn among them, that eateth any manner of blood,—I will set my face against the soul that hath eaten blood, and will cut him off from among his people;",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 3247,
+        "text": "for the soul of the flesh is in the blood; and I have given it to you upon the altar to make atonement for your souls, for it is the blood that maketh atonement for the soul.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3248,
+        "text": "Therefore have I said unto the children of Israel, No soul of you shall eat blood, neither shall the stranger who sojourneth among you eat blood.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3249,
+        "text": "And every one of the children of Israel, and of the strangers who sojourn among them, that catcheth in the hunt a beast or fowl that may be eaten, he shall pour out the blood thereof, and cover it with earth;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3250,
+        "text": "for as to the life of all flesh, its blood is the life in it; and I have said unto the children of Israel, Of the blood of no manner of flesh shall ye eat, for the life of all flesh is its blood: whoever eateth it shall be cut off.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3251,
+        "text": "And every soul that eateth of a dead carcase, or of that which was torn, be it one home-born, or a stranger, he shall wash his clothes, and bathe in water, and be unclean until the even: then he shall be clean.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3252,
+        "text": "And if he wash them not nor bathe his flesh, then he shall bear his iniquity.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

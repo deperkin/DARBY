@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 84,
+    "count": 562,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15261,
+        "text": "{To the chief Musician. Upon the Gittith. Of the sons of Korah. A Psalm.} How amiable are thy tabernacles, O Jehovah of hosts!",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15262,
+        "text": "My soul longeth, yea, even fainteth for the courts of Jehovah; my heart and my flesh cry out for the living God.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15263,
+        "text": "Yea, the sparrow hath found a house, and the swallow a nest for herself, where she layeth her young, thine altars, O Jehovah of hosts, my King and my God.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15264,
+        "text": "Blessed are they that dwell in thy house: they will be constantly praising thee. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15265,
+        "text": "Blessed is the man whose strength is in thee,—they, in whose heart are the highways.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15266,
+        "text": "Passing through the valley of Baca, they make it a well-spring; yea, the early rain covereth it with blessings.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15267,
+        "text": "They go from strength to strength: [each one] will appear before God in Zion.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15268,
+        "text": "Jehovah, God of hosts, hear my prayer; give ear, O God of Jacob. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15269,
+        "text": "Behold, O God our shield, and look upon the face of thine anointed.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15270,
+        "text": "For a day in thy courts is better than a thousand. I had rather stand at the threshold of the house of my God, than dwell in the tents of wickedness.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15271,
+        "text": "For Jehovah Elohim is a sun and shield: Jehovah will give grace and glory; no good thing will he withhold from them that walk uprightly.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15272,
+        "text": "Jehovah of hosts, blessed is the man that confideth in thee!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

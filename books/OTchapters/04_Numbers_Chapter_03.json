@@ -1,0 +1,369 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 120,
+    "MaxVerses": 51,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3694,
+        "text": "And these are the generations of Aaron and Moses in the day that Jehovah spoke with Moses on mount Sinai.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3695,
+        "text": "And these are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar and Ithamar.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3696,
+        "text": "These are the names of the sons of Aaron, the anointed priests, who were consecrated to exercise the priesthood.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3697,
+        "text": "And Nadab and Abihu died before Jehovah when they offered strange fire before Jehovah in the wilderness of Sinai, and they had no sons; and Eleazar and Ithamar exercised the priesthood in the presence of Aaron their father.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3698,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3699,
+        "text": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3700,
+        "text": "and they shall keep his charge, and the charge of the whole assembly, before the tent of meeting, to do the service of the tabernacle.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3701,
+        "text": "And they shall keep all the utensils of the tent of meeting, and the charge of the children of Israel, to do the service of the tabernacle.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3702,
+        "text": "And thou shalt give the Levites to Aaron and to his sons: they are wholly given to him out of the children of Israel.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3703,
+        "text": "And Aaron and his sons shalt thou appoint that they may attend to their priest’s office; and the stranger that cometh near shall be put to death.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3704,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3705,
+        "text": "And I, behold, I have taken the Levites from among the children of Israel instead of every firstborn that breaketh open the womb among the children of Israel, and the Levites shall be mine;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3706,
+        "text": "for every firstborn is mine. On the day that I smote all the firstborn in the land of Egypt, I hallowed unto me all the firstborn in Israel, both of man and beast; mine shall they be: I am Jehovah.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3707,
+        "text": "And Jehovah spoke to Moses in the wilderness of Sinai, saying,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 3708,
+        "text": "Number the sons of Levi according to their fathers’ houses, after their families; every male from a month old and upward shalt thou number them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3709,
+        "text": "And Moses numbered them, according to the commandment of Jehovah,—as he had been commanded.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3710,
+        "text": "And these are the sons of Levi by their names: Gershon, and Kohath, and Merari.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3711,
+        "text": "And these are the names of the sons of Gershon according to their families: Libni and Shimei.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3712,
+        "text": "And the sons of Kohath according to their families: Amram and Izhar, Hebron and Uzziel.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3713,
+        "text": "And the sons of Merari according to their families: Mahli and Mushi. These are the families of the Levites according to their fathers’ houses.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3714,
+        "text": "Of Gershon, the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3715,
+        "text": "Those that were numbered of them, according to the number of all the males, from a month old and upward, those that were numbered of them were seven thousand five hundred.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3716,
+        "text": "The families of the Gershonites encamped behind the tabernacle westward.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3717,
+        "text": "And the prince of the father’s house of the Gershonites was Eliasaph the son of Lael.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3718,
+        "text": "And the charge of the sons of Gershon in the tent of meeting was: the tabernacle and the tent, its covering, and the curtain of the entrance to the tent of meeting.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3719,
+        "text": "And the hangings of the court, and the curtain of the entrance to the court, which surrounds the tabernacle and the altar, and the cords thereof for all its service.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3720,
+        "text": "And of Kohath, the family of the Amramites, and the family of the Izharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3721,
+        "text": "According to the number of all the males, from a month old and upward, there were eight thousand six hundred, who kept the charge of the sanctuary.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3722,
+        "text": "The families of the sons of Kohath encamped on the side of the tabernacle southward.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3723,
+        "text": "And the prince of the father’s house of the families of the Kohathites was Elizaphan the son of Uzziel.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3724,
+        "text": "And their charge was the ark, and the table, and the candlestick, and the altars, and the utensils of the sanctuary with which they ministered, and the curtain, and all that belongs to its service.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3725,
+        "text": "And the prince of princes of the Levites was Eleazar the son of Aaron the priest: he had the oversight of them that kept the charge of the sanctuary.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3726,
+        "text": "Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3727,
+        "text": "And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand two hundred.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3728,
+        "text": "And the prince of the father’s house of the families of Merari was Zuriel the son of Abihail. They encamped on the side of the tabernacle northward.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3729,
+        "text": "And the charge of the sons of Merari consisted in the oversight of the boards of the tabernacle, and its bars, and its pillars, and its bases, and all its furniture, and all that belongs to its service,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3730,
+        "text": "and the pillars of the court round about, and their bases, and their pegs, and their cords.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3731,
+        "text": "And those who encamped before the tabernacle eastward, before the tent of meeting toward the sunrising, were Moses, and Aaron and his sons, who kept the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh near shall be put to death.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3732,
+        "text": "All that were numbered of the Levites, whom Moses and Aaron numbered at the commandment of Jehovah, according to their families, all the males from a month old and upward, were twenty-two thousand.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3733,
+        "text": "And Jehovah said to Moses, Number all the first-born males of the children of Israel from a month old and upward, and take the number of their names.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 41,
+        "count": 3734,
+        "text": "And thou shalt take the Levites for me (I am Jehovah) instead of all the firstborn among the children of Israel; and the cattle of the Levites, instead of all the firstlings among the cattle of the children of Israel.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3735,
+        "text": "And Moses numbered, as Jehovah had commanded him, all the firstborn among the children of Israel.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3736,
+        "text": "And all the firstborn males, by the number of the names, from a month old and upward, according to their numbering, were twenty-two thousand two hundred and seventy-three.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3737,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 3738,
+        "text": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3739,
+        "text": "And for those that are to be ransomed, the two hundred and seventy-three of the firstborn of the children of Israel, which are in excess over the Levites,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 3740,
+        "text": "thou shalt take five shekels apiece by the poll, according to the shekel of the sanctuary shalt thou take them,—twenty gerahs the shekel;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 3741,
+        "text": "and thou shalt give the money unto Aaron and unto his sons for those in excess among them who are to be ransomed.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 3742,
+        "text": "And Moses took the ransom-money from them that were over and above those who were ransomed by the Levites;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 3743,
+        "text": "of the firstborn of the children of Israel he took the money, a thousand three hundred and sixty-five [shekels], according to the shekel of the sanctuary.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 3744,
+        "text": "And Moses gave the money of them that were ransomed to Aaron and to his sons, according to the commandment of Jehovah,—as Jehovah had commanded Moses.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

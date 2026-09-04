@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 37,
+    "count": 839,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21399,
+        "text": "The hand of Jehovah was upon me, and Jehovah carried me out in the Spirit, and set me down in the midst of a valley; and it was full of bones.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21400,
+        "text": "And he caused me to pass by them round about; and behold, there were very many in the open valley; and behold, they were very dry.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21401,
+        "text": "And he said unto me, Son of man, Shall these bones live? And I said, Lord Jehovah, thou knowest.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21402,
+        "text": "And he said unto me, Prophesy over these bones, and say unto them, Ye dry bones, hear the word of Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21403,
+        "text": "Thus saith the Lord Jehovah unto these bones: Behold, I will cause breath to enter into you, and ye shall live.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21404,
+        "text": "And I will put sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live: and ye shall know that I [am] Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21405,
+        "text": "And I prophesied as I was commanded; and as I prophesied, there was a noise, and behold a rustling, and the bones came together, bone to its bone.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21406,
+        "text": "And I looked, and behold, sinews and flesh came up upon them, and the skin covered them over; but there was no breath in them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21407,
+        "text": "And he said unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord Jehovah: Come from the four winds, O breath, and breathe upon these slain, that they may live.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21408,
+        "text": "And I prophesied as he had commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21409,
+        "text": "And he said unto me, Son of man, these bones are the whole house of Israel. Behold, they say, Our bones are dried, and our hope is lost: we are cut off!",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21410,
+        "text": "Therefore prophesy and say unto them, Thus saith the Lord Jehovah: Behold, I will open your graves, and cause you to come up out of your graves, O my people, and bring you into the land of Israel.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21411,
+        "text": "And ye shall know that I [am] Jehovah, when I have opened your graves, and have caused you to come up out of your graves, O my people.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21412,
+        "text": "And I will put my Spirit in you, and ye shall live, and I will place you in your own land: and ye shall know that I Jehovah have spoken, and have done [it], saith Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21413,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 21414,
+        "text": "And thou, son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel, his companions. And take another stick, and write upon it, For Joseph, the stick of Ephraim and all the house of Israel, his companions.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21415,
+        "text": "And join them one to another into one stick; and they shall become one in thy hand.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21416,
+        "text": "And when the children of my people speak unto thee, saying, Wilt thou not declare unto us what thou meanest by these?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21417,
+        "text": "say unto them, Thus saith the Lord Jehovah: Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his companions, and will put them with this, with the stick of Judah, and make them one stick, and they shall be one in my hand.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21418,
+        "text": "And the sticks whereon thou writest shall be in thy hand before their eyes.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21419,
+        "text": "And say unto them, Thus saith the Lord Jehovah: Behold, I will take the children of Israel from among the nations, whither they are gone, and will gather them from every side, and bring them into their own land:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21420,
+        "text": "and I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21421,
+        "text": "And they shall not defile themselves any more with their idols, or with their detestable things, or with any of their transgressions; and I will save them out of all their dwelling-places wherein they have sinned, and will cleanse them; and they shall be my people, and I will be their God.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21422,
+        "text": "And David my servant shall be king over them; and they all shall have one shepherd: and they shall walk in mine ordinances, and keep my statutes, and do them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21423,
+        "text": "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, they, and their children, and their children’s children for ever: and David my servant shall be their prince for ever.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21424,
+        "text": "And I will make a covenant of peace with them: it shall be an everlasting covenant with them; and I will place them, and multiply them, and will set my sanctuary in the midst of them for ever.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 21425,
+        "text": "And my tabernacle shall be over them; and I will be their God, and they shall be my people.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 21426,
+        "text": "And the nations shall know that I Jehovah do hallow Israel, when my sanctuary shall be in the midst of them for ever.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

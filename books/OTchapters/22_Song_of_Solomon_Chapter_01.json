@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 672,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17539,
+        "text": "The song of songs, which is Solomon’s.",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17540,
+        "text": "Let him kiss me with the kisses of his mouth; For thy love is better than wine.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17541,
+        "text": "Thine ointments savour sweetly; Thy name is an ointment poured forth: Therefore do the virgins love thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17542,
+        "text": "Draw me, we will run after thee!—The king hath brought me into his chambers—We will be glad and rejoice in thee, We will remember thy love more than wine. They love thee uprightly.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17543,
+        "text": "I am black, but comely, daughters of Jerusalem, As the tents of Kedar, As the curtains of Solomon.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17544,
+        "text": "Look not upon me, because I am black; Because the sun hath looked upon me. My mother’s children were angry with me: They made me keeper of the vineyards; Mine own vineyard have I not kept.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17545,
+        "text": "Tell me, thou whom my soul loveth, Where thou feedest [thy flock], Where thou makest it to rest at noon; For why should I be as one veiled Beside the flocks of thy companions?",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17546,
+        "text": "If thou know not, thou fairest among women, Go thy way forth by the footsteps of the flock, And feed thy kids beside the shepherds’ booths.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17547,
+        "text": "I compare thee, my love, To a steed in Pharaoh’s chariots.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17548,
+        "text": "Thy cheeks are comely with bead-rows, Thy neck with ornamental chains.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17549,
+        "text": "We will make thee bead-rows of gold With studs of silver.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17550,
+        "text": "While the king is at his table, My spikenard sendeth forth its fragrance.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17551,
+        "text": "A bundle of myrrh is my beloved unto me; He shall pass the night between my breasts.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17552,
+        "text": "My beloved is unto me a cluster of henna-flowers In the vineyards of Engedi.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17553,
+        "text": "Behold, thou art fair, my love; Behold, thou art fair: thine eyes are doves.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17554,
+        "text": "Behold, thou art fair, my beloved, yea, pleasant; Also our bed is green.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17555,
+        "text": "The beams of our houses are cedars, Our rafters are cypresses.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

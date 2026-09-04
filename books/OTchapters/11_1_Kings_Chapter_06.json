@@ -1,0 +1,278 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 297,
+    "MaxVerses": 38,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8898,
+        "text": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of Jehovah.",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8899,
+        "text": "And the house that king Solomon built for Jehovah was sixty cubits in length, and twenty in breadth, and thirty cubits in height.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8900,
+        "text": "And the porch, in front of the temple of the house, was twenty cubits in length, in front of the house broadways, [and] ten cubits was its breadth, in front of the house.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8901,
+        "text": "And for the house he made closed windows with fixed lattices.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8902,
+        "text": "And against the wall of the house he built floors round about, [against] the walls of the house, round about the temple and the oracle; and he made side-chambers round about.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8903,
+        "text": "The lowest floor was five cubits broad, and the middle one was six cubits broad, and the third was seven cubits broad; for in the [thickness of the wall of] the house he made resets round about outside, that nothing should be fastened in the walls of the house.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8904,
+        "text": "And the house, when it was being built, was built of stone entirely made ready before it was brought thither; so that there was neither hammer nor axe nor any tool of iron heard in the house while it was being built.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8905,
+        "text": "The entrance to the side-chambers of the middle [floor] was in the right side of the house; and they went up by winding stairs into the middle [floor], and out of the middle into the third.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8906,
+        "text": "And he built the house, and finished it; and covered the house with beams and boards of cedar.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8907,
+        "text": "And he built the floors against all the house, five cubits high; and they held to the house by the timbers of cedar.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8908,
+        "text": "And the word of Jehovah came to Solomon saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 8909,
+        "text": "As to this house which thou art building, if thou wilt walk in my statutes, and practise mine ordinances, and keep all my commandments to walk in them, then will I perform my word as to thee which I spoke unto David thy father;",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8910,
+        "text": "and I will dwell among the children of Israel, and will not forsake my people Israel.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8911,
+        "text": "And Solomon built the house and finished it.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8912,
+        "text": "And he built the walls of the house within with boards of cedar, from the floor of the house to the walls of the roof; he overlaid [them] on the inside with wood, and overlaid the floor of the house with boards of cypress.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 8913,
+        "text": "And he built twenty cubits of the innermost part of the house, both floor and walls, with boards of cedar; and he built [them] for it within, to [be] the oracle, the most holy place.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8914,
+        "text": "And the house, that is, the temple before it, was forty cubits [long].",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8915,
+        "text": "And the cedar of the house within was carved with colocynths and half-open flowers: all was cedar; there was no stone seen.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8916,
+        "text": "And he prepared the oracle in the midst of the house within, to set there the ark of the covenant of Jehovah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8917,
+        "text": "And the oracle within was twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof; and he overlaid it with pure gold; and he overlaid the cedar-wood altar—",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8918,
+        "text": "and Solomon overlaid the house within with pure gold, and shut off the oracle in front with chains of gold, and overlaid it with gold.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8919,
+        "text": "And the whole house he overlaid with gold, the whole house entirely; also the whole altar that was by the oracle he overlaid with gold.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8920,
+        "text": "And he made in the oracle two cherubim of olive-wood, ten cubits high;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8921,
+        "text": "and one wing of the cherub was five cubits, and five cubits the other wing of the cherub, ten cubits from the end of one wing to the end of the other wing;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8922,
+        "text": "and the other cherub was ten cubits: both the cherubim were of one measure and one form.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8923,
+        "text": "The height of the one cherub was ten cubits, and so of the other cherub.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8924,
+        "text": "And he set the cherubim in the midst of the inner house; and the wings of the cherubim were stretched forth, so that the wing of the one touched the wall, and the wing of the other cherub touched the other wall; and their wings touched, wing to wing, in the midst of the house.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8925,
+        "text": "And he overlaid the cherubim with gold.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8926,
+        "text": "And he carved all the walls of the house round about with carved sculptures of cherubim, and palm-trees, and half-open flowers, within and without.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 8927,
+        "text": "And the floor of the house he overlaid with gold, within and without.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8928,
+        "text": "And for the entrance of the oracle he made doors of olive-wood: the lintel [and] side posts were the fifth part [of the breadth of the house].",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 8929,
+        "text": "The two doors were of olive-wood; and he carved on them carvings of cherubim, and palm-trees and half-open flowers, and overlaid them with gold, and spread gold on the cherubim and on the palm-trees.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 8930,
+        "text": "And he also made for the doorway of the temple posts of olive-wood, of the fourth part [of the breadth of the house].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 8931,
+        "text": "And the two folding-doors were of cypress-wood: the two leaves of the one door were folding, and the two leaves of the other door were folding.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 8932,
+        "text": "And he carved on them cherubim, and palm-trees, and half-open flowers; and overlaid them with gold fitted on the carved work.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 8933,
+        "text": "And he built the inner court of three rows of hewn stone, and a row of cedar-beams.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 8934,
+        "text": "In the fourth year was the foundation of the house of Jehovah laid, in the month Zif;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 8935,
+        "text": "and in the eleventh year, in the month Bul, which is the eighth month, was the house finished in all its parts, and according to all the fashion of it. So he was seven years in building it.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

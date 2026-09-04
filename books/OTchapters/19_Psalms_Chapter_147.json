@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 147,
+    "count": 625,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16353,
+        "text": "Praise ye Jah! for it is good. Sing psalms of our God; for it is pleasant: praise is comely.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16354,
+        "text": "Jehovah doth build up Jerusalem: he gathereth the outcasts of Israel.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16355,
+        "text": "He healeth the broken in heart, and bindeth up their wounds.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16356,
+        "text": "He counteth the number of the stars; he giveth names to them all.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16357,
+        "text": "Great is our Lord, and of great power: his understanding is infinite.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16358,
+        "text": "Jehovah lifteth up the meek; he abaseth the wicked to the earth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16359,
+        "text": "Sing unto Jehovah with thanksgiving; sing psalms upon the harp unto our God:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16360,
+        "text": "Who covereth the heavens with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16361,
+        "text": "Who giveth to the cattle their food, to the young ravens which cry.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16362,
+        "text": "He delighteth not in the strength of the horse, he taketh not pleasure in the legs of a man;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16363,
+        "text": "Jehovah taketh pleasure in those that fear him, in those that hope in his loving-kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16364,
+        "text": "Laud Jehovah, O Jerusalem; praise thy God, O Zion.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16365,
+        "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16366,
+        "text": "He maketh peace in thy borders; he satisfieth thee with the finest of the wheat.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16367,
+        "text": "He sendeth forth his oracles to the earth: his word runneth very swiftly.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16368,
+        "text": "He giveth snow like wool, scattereth the hoar frost like ashes;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16369,
+        "text": "He casteth forth his ice like morsels: who can stand before his cold?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16370,
+        "text": "He sendeth his word, and melteth them; he causeth his wind to blow—the waters flow.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16371,
+        "text": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16372,
+        "text": "He hath not dealt thus with any nation; and as for [his] judgments, they have not known them. Hallelujah!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

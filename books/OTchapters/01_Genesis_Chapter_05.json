@@ -1,0 +1,236 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 5,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 107,
+        "text": "This is the book of Adam’s generations. In the day that God created man, in the likeness of God made he him.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 108,
+        "text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 109,
+        "text": "And Adam lived a hundred and thirty years, and begot [a son] in his likeness, after his image, and called his name Seth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 110,
+        "text": "And the days of Adam after he had begotten Seth were eight hundred years; and he begot sons and daughters.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 111,
+        "text": "And all the days of Adam that he lived were nine hundred and thirty years; and he died.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 112,
+        "text": "And Seth lived a hundred and five years, and begot Enosh.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 113,
+        "text": "And Seth lived after he had begotten Enosh eight hundred and seven years, and begot sons and daughters.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 114,
+        "text": "And all the days of Seth were nine hundred and twelve years; and he died.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 115,
+        "text": "And Enosh lived ninety years, and begot Cainan.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 116,
+        "text": "And Enosh lived after he had begotten Cainan eight hundred and fifteen years, and begot sons and daughters.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 117,
+        "text": "And all the days of Enosh were nine hundred and five years; and he died.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 118,
+        "text": "And Cainan lived seventy years, and begot Mahalaleel.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 119,
+        "text": "And Cainan lived after he had begotten Mahalaleel eight hundred and forty years, and begot sons and daughters.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 120,
+        "text": "And all the days of Cainan were nine hundred and ten years; and he died.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 121,
+        "text": "And Mahalaleel lived sixty-five years, and begot Jared.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 122,
+        "text": "And Mahalaleel lived after he had begotten Jared eight hundred and thirty years, and begot sons and daughters.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 123,
+        "text": "And all the days of Mahalaleel were eight hundred and ninety-five years; and he died.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 124,
+        "text": "And Jared lived a hundred and sixty-two years, and begot Enoch.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 125,
+        "text": "And Jared lived after he had begotten Enoch eight hundred years, and begot sons and daughters.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 126,
+        "text": "And all the days of Jared were nine hundred and sixty-two years; and he died.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 127,
+        "text": "And Enoch lived sixty-five years, and begot Methushelah.",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 128,
+        "text": "And Enoch walked with God after he had begotten Methushelah three hundred years, and begot sons and daughters.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 129,
+        "text": "And all the days of Enoch were three hundred and sixty-five years.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 130,
+        "text": "And Enoch walked with God; and he was not, for God took him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 131,
+        "text": "And Methushelah lived a hundred and eighty-seven years, and begot Lemech.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 132,
+        "text": "And Methushelah lived after he had begotten Lemech seven hundred and eighty-two years, and begot sons and daughters.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 133,
+        "text": "And all the days of Methushelah were nine hundred and sixty-nine years; and he died.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 134,
+        "text": "And Lemech lived a hundred and eighty-two years, and begot a son.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 135,
+        "text": "And he called his name Noah, saying, This [one] shall comfort us concerning our work and concerning the toil of our hands, because of the ground which Jehovah has cursed.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 136,
+        "text": "And Lemech lived after he had begotten Noah five hundred and ninety-five years, and begot sons and daughters.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 137,
+        "text": "And all the days of Lemech were seven hundred and seventy-seven years; and he died.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 138,
+        "text": "And Noah was five hundred years old, and Noah begot Shem, Ham, and Japheth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

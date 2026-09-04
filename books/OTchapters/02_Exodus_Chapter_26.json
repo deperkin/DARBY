@@ -1,0 +1,271 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 76,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2237,
+        "text": "And thou shalt make the tabernacle [with] ten curtains of twined byssus, and blue, and purple, and scarlet: with cherubim of artistic work shalt thou make them.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2238,
+        "text": "The length of one curtain shall be twenty-eight cubits, and the breadth of one curtain four cubits—one measure for all the curtains.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2239,
+        "text": "Five of the curtains shall be coupled one to another, and [the other] five curtains coupled one to another.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2240,
+        "text": "And thou shalt make loops of blue on the edge of the one curtain at the end of the coupling; and likewise shalt thou make [them] in the edge of the outermost curtain in the other coupling.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2241,
+        "text": "Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make at the end of the curtain in the other coupling: the loops shall be opposite to one another.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2242,
+        "text": "And thou shalt make fifty clasps of gold, and couple the curtains together with the clasps, that the tabernacle may be one [whole].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2243,
+        "text": "And thou shalt make curtains of goats’ [hair] for a tent over the tabernacle: eleven curtains shalt thou make them.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 2244,
+        "text": "The length of one curtain shall be thirty cubits, and the breadth of one curtain four cubits—one measure for the eleven curtains.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2245,
+        "text": "And thou shalt couple five of the curtains by themselves, and six of the curtains by themselves, and shalt double the sixth curtain in the front of the tent.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2246,
+        "text": "And thou shalt make fifty loops on the edge of the outermost curtain of the coupling, and fifty loops on the edge of the curtain in the other coupling.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2247,
+        "text": "And thou shalt make fifty clasps of copper, and put the clasps into the loops, and couple the tent, that it may be one [whole].",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2248,
+        "text": "And that which remaineth hanging over of the curtains of the tent, the half curtain that remaineth, shall hang over the rear of the tabernacle.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2249,
+        "text": "And the cubit on the one side, and the cubit on the other side of that which remaineth in the length of the curtains of the tent, shall hang over the sides of the tabernacle on this side and on that side, to cover it.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2250,
+        "text": "And thou shalt make a covering for the tent of rams’ skins dyed red, and a covering of badgers’ skins over [that].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2251,
+        "text": "And the boards for the tabernacle thou shalt make of acacia-wood, standing up;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 2252,
+        "text": "ten cubits the length of the board, and a cubit and a half the breadth of one board.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2253,
+        "text": "One board shall have two tenons, connected one with the other: thus shalt thou make for all the boards of the tabernacle.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2254,
+        "text": "And thou shalt make the boards for the tabernacle, twenty boards on the south side southward.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2255,
+        "text": "And thou shalt make forty bases of silver under the twenty boards; two bases under one board for its two tenons, and two bases under another board for its two tenons.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2256,
+        "text": "And for the other side of the tabernacle on the north side there shall be twenty boards.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2257,
+        "text": "And their forty bases of silver; two bases under one board, and two bases under another board.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2258,
+        "text": "And for the rear of the tabernacle westward thou shalt make six boards.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2259,
+        "text": "And two boards shalt thou make for the corners of the tabernacle at the rear;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2260,
+        "text": "and they shall be joined beneath, and together shall be united at the top thereof to one ring: thus shall it be for them both; they shall be for the two corners.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2261,
+        "text": "And there shall be eight boards, and their bases, of silver, sixteen bases; two bases under one board, and two bases under another board.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2262,
+        "text": "And thou shalt make bars of acacia-wood; five for the boards of the one side of the tabernacle,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2263,
+        "text": "and five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle at the rear westward;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2264,
+        "text": "and the middle bar in the midst of the boards reaching from one end to the other.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2265,
+        "text": "And thou shalt overlay the boards with gold, and make [of] gold their rings, the receptacles of the bars, and shalt overlay the bars with gold.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2266,
+        "text": "And thou shalt set up the tabernacle according to its fashion, as hath been shewn thee on the mountain.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 2267,
+        "text": "And thou shalt make a veil of blue, and purple, and scarlet, and twined byssus; of artistic work shall it be made, with cherubim.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 2268,
+        "text": "And thou shalt attach it to four pillars of acacia-wood overlaid with gold, their hooks of gold; they shall be on four bases of silver.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 2269,
+        "text": "And thou shalt bring the veil under the clasps, and bring in thither, inside the veil, the ark of the testimony; and the curtain shall make a division to you between the holy [place] and the holiest of all.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 2270,
+        "text": "And thou shalt put the mercy-seat on the ark of the testimony in the holiest of all.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 2271,
+        "text": "And thou shalt set the table outside the veil, and the lamp-stand opposite to the table on the side of the tabernacle southward; and thou shalt put the table on the north side.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 2272,
+        "text": "And thou shalt make for the entrance of the tent a curtain of blue, and purple, and scarlet, and twined byssus, of embroidery.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 2273,
+        "text": "And thou shalt make for the curtain five pillars of acacia[-wood], and overlay them with gold; their hooks shall be of gold; and thou shalt cast five bases of copper for them.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

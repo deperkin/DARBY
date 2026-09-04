@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 25,"name": "Lamentations","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 801,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20422,
+        "text": "How is the gold become dim! the most pure gold changed! the stones of the sanctuary poured out at the top of all the streets!",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20423,
+        "text": "The sons of Zion, so precious, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20424,
+        "text": "Even the jackals offer the breast, they give suck to their young; the daughter of my people is become cruel, like the ostriches in the wilderness.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20425,
+        "text": "The tongue of the sucking child cleaveth to the roof of his mouth for thirst; the young children ask bread, no man breaketh it unto them.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20426,
+        "text": "They that fed delicately are desolate in the streets; they that were brought up in scarlet embrace dung-hills.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20427,
+        "text": "And the punishment of the iniquity of the daughter of my people is greater than the reward of the sin of Sodom, which was overthrown as in a moment, and no hands were violently laid upon her.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20428,
+        "text": "Her Nazarites were purer than snow, whiter than milk; they were more ruddy in body than rubies, their figure was as sapphire.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20429,
+        "text": "Their visage is darker than blackness, they are not known in the streets; their skin cleaveth to their bones, it is withered, it is become like a stick.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20430,
+        "text": "The slain with the sword are happier than the slain with hunger; for these pine away, stricken through for want of the fruits of the field.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20431,
+        "text": "The hands of pitiful women have boiled their own children: they were their meat in the ruin of the daughter of my people.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20432,
+        "text": "Jehovah hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, which hath consumed the foundations thereof.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20433,
+        "text": "The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should enter into the gates of Jerusalem.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20434,
+        "text": "[It is] for the sins of her prophets, [and] the iniquities of her priests, who have shed the blood of the righteous in the midst of her.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 20435,
+        "text": "They wandered about blind in the streets; they were polluted with blood, so that men could not touch their garments.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20436,
+        "text": "They cried unto them, Depart! Unclean! Depart! depart, touch not! When they fled away, and wandered about, it was said among the nations, They shall no more sojourn [there].",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20437,
+        "text": "The face of Jehovah hath divided them; he will no more regard them. They respected not the persons of the priests, they favoured not the aged.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20438,
+        "text": "Our eyes still failed for our vain help; in our watching, we have watched for a nation that did not save.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20439,
+        "text": "They hunted our steps, that we could not go in our streets: our end is near, our days are fulfilled; for our end is come.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20440,
+        "text": "Our pursuers were swifter than the eagles of the heavens; they chased us hotly upon the mountains, they laid wait for us in the wilderness.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20441,
+        "text": "The breath of our nostrils, the anointed of Jehovah, was taken in their pits; of whom we said, Under his shadow we shall live among the nations.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20442,
+        "text": "Rejoice and be glad, daughter of Edom, that dwellest in the land of Uz: the cup shall pass also unto thee; thou shalt be drunken, and make thyself naked.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 20443,
+        "text": "The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity. He will visit thine iniquity, O daughter of Edom; he will discover thy sins.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

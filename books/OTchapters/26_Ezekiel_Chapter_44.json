@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 44,
+    "count": 846,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21601,
+        "text": "And he brought me back toward the outer gate of the sanctuary which looked toward the east; and it was shut.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21602,
+        "text": "And Jehovah said unto me, This gate shall be shut; it shall not be opened, and no one shall enter in by it: for Jehovah, the God of Israel, hath entered in by it; and it shall be shut.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21603,
+        "text": "As for the prince, he, the prince, shall sit in it to eat bread before Jehovah: he shall enter by the way of the porch of the gate, and shall go out by the way of the same.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21604,
+        "text": "And he brought me the way of the north gate before the house; and I beheld, and lo, the glory of Jehovah filled the house of Jehovah: and I fell upon my face.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 21605,
+        "text": "And Jehovah said unto me, Son of man, apply thy heart, and behold with thine eyes, and hear with thine ears all that I say unto thee concerning all the statutes of the house of Jehovah, and all the laws thereof; and mark well the entering in of the house, with every going forth of the sanctuary;",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21606,
+        "text": "and say to the rebellious, to the house of Israel, Thus saith the Lord Jehovah: Let it suffice you of all your abominations, O house of Israel,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21607,
+        "text": "in that ye have brought strangers, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, [even] my house, when ye offered my bread, the fat and the blood; and they have broken my covenant besides all your abominations.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21608,
+        "text": "And ye have not kept the charge of my holy things, but have set keepers of my charge in my sanctuary for yourselves.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21609,
+        "text": "Thus saith the Lord Jehovah: No stranger, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any stranger that is among the children of Israel.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21610,
+        "text": "But the Levites who went away far from me, when Israel went astray, going astray from me after their idols, they shall even bear their iniquity;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 21611,
+        "text": "but they shall be ministers in my sanctuary, having oversight at the gates of the house, and doing the service of the house: they shall slaughter the burnt-offering and the sacrifice for the people, and they shall stand before them to minister unto them.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21612,
+        "text": "Because they ministered unto them before their idols, and were unto the house of Israel a stumbling-block of iniquity; therefore have I lifted up my hand against them, saith the Lord Jehovah, that they shall bear their iniquity.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21613,
+        "text": "And they shall not draw near unto me, to do the office of a priest unto me, nor to draw near to any of my holy things, [even] to the most holy; but they shall bear their confusion, and their abominations which they have committed.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21614,
+        "text": "And I will make them keepers of the charge of the house, for all the service thereof, and for all that shall be done therein.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21615,
+        "text": "But the priests, the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall approach unto me to minister unto me, and they shall stand before me to present unto me the fat and the blood, saith the Lord Jehovah.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21616,
+        "text": "They shall enter into my sanctuary, and they shall approach unto my table, to minister unto me, and they shall keep my charge.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21617,
+        "text": "And it shall come to pass when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, when they minister in the gates of the inner court, and towards the house.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 21618,
+        "text": "They shall have linen tires upon their heads, and shall have linen breeches upon their loins; they shall not gird on anything that causeth sweat.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21619,
+        "text": "And when they go forth into the outer court, into the outer court to the people, they shall put off their garments wherein they ministered, and lay them in the holy cells; and they shall put on other garments, that they may not hallow the people with their garments.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21620,
+        "text": "Neither shall they shave their heads, nor suffer their locks to grow long: they shall duly poll their heads.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21621,
+        "text": "Neither shall any priest drink wine when they enter into the inner court.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21622,
+        "text": "And they shall not take for their wives a widow, nor her that is put away; but they shall take maidens of the seed of the house of Israel, or a widow that is the widow of a priest.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21623,
+        "text": "And they shall teach my people [the difference] between holy and profane, and cause them to discern between unclean and clean.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21624,
+        "text": "And in controversy they shall stand to judge: they shall judge it according to my judgments; and they shall keep my laws and my statutes in all my solemnities; and they shall hallow my sabbaths.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21625,
+        "text": "And they shall come at no dead person to become unclean; but for father, or for mother, or for son, or for daughter, for brother, or for sister that hath had no husband, they may become unclean.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21626,
+        "text": "And after he is cleansed, they shall count unto him seven days.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 21627,
+        "text": "And on the day that he goeth into the sanctuary, unto the inner court, to minister in the sanctuary, he shall present his sin-offering, saith the Lord Jehovah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 21628,
+        "text": "And it shall be unto them for an inheritance; I am their inheritance: and ye shall give them no possession in Israel; I am their possession.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 21629,
+        "text": "They shall eat the oblation and the sin-offering and the trespass-offering; and every devoted thing in Israel shall be theirs.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 21630,
+        "text": "And the first of all the first-fruits of every [kind], and every heave-offering of every [kind], of all your heave-offerings, shall be for the priests; ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest on thy house.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 21631,
+        "text": "The priests shall not eat of anything that dieth of itself, or of that which is torn, whether of fowl or of beast.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

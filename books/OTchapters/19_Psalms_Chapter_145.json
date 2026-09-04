@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 145,
+    "count": 623,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16322,
+        "text": "{A Psalm of praise. Of David.} I will extol thee, my God, O King, and I will bless thy name for ever and ever.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16323,
+        "text": "Every day will I bless thee, and I will praise thy name for ever and ever.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16324,
+        "text": "Great is Jehovah, and exceedingly to be praised; and his greatness is unsearchable.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16325,
+        "text": "One generation shall laud thy works to another, and shall declare thy mighty acts.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16326,
+        "text": "I will speak of the glorious splendour of thy majesty, and of thy wondrous works.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16327,
+        "text": "And they shall tell of the might of thy terrible acts; and thy great deeds will I declare.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16328,
+        "text": "They shall abundantly utter the memory of thy great goodness, and shall sing aloud of thy righteousness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16329,
+        "text": "Jehovah is gracious and merciful; slow to anger, and of great loving-kindness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16330,
+        "text": "Jehovah is good to all; and his tender mercies are over all his works.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16331,
+        "text": "All thy works shall praise thee, Jehovah, and thy saints shall bless thee.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16332,
+        "text": "They shall tell of the glory of thy kingdom, and speak of thy power;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16333,
+        "text": "To make known to the children of men his mighty acts, and the glorious splendour of his kingdom.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16334,
+        "text": "Thy kingdom is a kingdom of all ages, and thy dominion is throughout all generations.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16335,
+        "text": "Jehovah upholdeth all that fall, and raiseth up all that are bowed down.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16336,
+        "text": "The eyes of all wait upon thee; and thou givest them their food in its season.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16337,
+        "text": "Thou openest thy hand, and satisfiest the desire of every living thing.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16338,
+        "text": "Jehovah is righteous in all his ways, and kind in all his works.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16339,
+        "text": "Jehovah is nigh unto all that call upon him, unto all that call upon him in truth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16340,
+        "text": "He fulfilleth the desire of them that fear him; he heareth their cry, and saveth them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16341,
+        "text": "Jehovah keepeth all that love him, and all the wicked will he destroy.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16342,
+        "text": "My mouth shall speak the praise of Jehovah; and let all flesh bless his holy name for ever and ever.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

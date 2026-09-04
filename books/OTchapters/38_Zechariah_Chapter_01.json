@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 912,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22880,
+        "text": "In the eighth month, in the second year of Darius, came the word of Jehovah unto Zechariah the prophet, the son of Berechiah, the son of Iddo, saying,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22881,
+        "text": "Jehovah hath been very wroth with your fathers.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22882,
+        "text": "And thou shalt say unto them, Thus saith Jehovah of hosts: Return unto me, saith Jehovah of hosts, and I will return unto you, saith Jehovah of hosts.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22883,
+        "text": "Be ye not as your fathers, unto whom the former prophets cried, saying, Thus saith Jehovah of hosts: Turn ye now from your evil ways, and from your evil doings; but they did not hearken nor attend unto me, saith Jehovah.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22884,
+        "text": "Your fathers, where are they? and the prophets, do they live for ever?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22885,
+        "text": "But my words and my statutes, which I commanded my servants the prophets, did they not overtake your fathers? And they turned and said, Like as Jehovah of hosts thought to do unto us, according to our ways and according to our doings, so hath he dealt with us.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22886,
+        "text": "Upon the four and twentieth day of the eleventh month, which is the month Shebat, in the second year of Darius, came the word of Jehovah unto Zechariah the prophet, the son of Berechiah, the son of Iddo, saying,",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 22887,
+        "text": "I saw by night, and behold, a man riding upon a red horse, and he stood among the myrtle-trees that were in the low valley; and behind him were red, bay, and white horses.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22888,
+        "text": "And I said, My lord, what are these? And the angel that talked with me said unto me, I will shew thee what these are.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22889,
+        "text": "And the man that stood among the myrtle-trees answered and said, These are they whom Jehovah hath sent to walk to and fro through the earth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22890,
+        "text": "And they answered the angel of Jehovah that stood among the myrtle-trees, and said, We have walked to and fro through the earth, and behold, all the earth sitteth still and is at rest.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22891,
+        "text": "And the angel of Jehovah answered and said, Jehovah of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these seventy years?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22892,
+        "text": "And Jehovah answered the angel that talked with me good words, comforting words.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22893,
+        "text": "And the angel that talked with me said unto me, Cry, saying, Thus saith Jehovah of hosts: I am jealous for Jerusalem and for Zion with a great jealousy,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22894,
+        "text": "and I am wroth exceedingly with the nations that are at ease; for I was but a little wroth, and they helped forward the affliction.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22895,
+        "text": "Therefore thus saith Jehovah: I am returned to Jerusalem with mercies: my house shall be built in it, saith Jehovah of hosts, and the line shall be stretched forth upon Jerusalem.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22896,
+        "text": "Cry further, saying, Thus saith Jehovah of hosts: My cities shall yet overflow with prosperity, and Jehovah shall yet comfort Zion, and shall yet choose Jerusalem.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22897,
+        "text": "And I lifted up mine eyes, and saw, and behold four horns.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 22898,
+        "text": "And I said unto the angel that talked with me, What are these? And he said to me, These are the horns which have scattered Judah, Israel, and Jerusalem.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22899,
+        "text": "And Jehovah shewed me four craftsmen.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 22900,
+        "text": "And I said, What come these to do? And he spoke, saying, Those are the horns which scattered Judah, so that no man lifted up his head; but these are come to affright them, to cast out the horns of the nations, which lifted up the horn against the land of Judah to scatter it.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

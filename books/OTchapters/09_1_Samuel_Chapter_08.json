@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 244,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7371,
+        "text": "And it came to pass when Samuel was old, that he made his sons judges over Israel.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7372,
+        "text": "And the name of his firstborn was Joel; and the name of his second, Abijah; they judged in Beer-sheba.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7373,
+        "text": "And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted justice.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7374,
+        "text": "Then all the elders of Israel gathered themselves together, and came to Samuel to Ramah,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 7375,
+        "text": "and said to him, Behold, thou art become old, and thy sons walk not in thy ways: now appoint us a king to judge us, like all the nations.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7376,
+        "text": "And the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed to Jehovah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7377,
+        "text": "And Jehovah said to Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7378,
+        "text": "According to all the deeds that they have done since the day that I brought them up out of Egypt even unto this day, in that they have forsaken me and served other gods, so do they also unto thee.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7379,
+        "text": "And now hearken unto their voice; only, testify solemnly unto them, and declare unto them the manner of the king that shall reign over them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7380,
+        "text": "And Samuel spoke all the words of Jehovah to the people that asked of him a king.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7381,
+        "text": "And he said, This will be the manner of the king that shall reign over you: he will take your sons, and appoint them for himself, on his chariot and among his horsemen, and they shall run before his chariots;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7382,
+        "text": "and [he will take them] that he may appoint for himself captains over thousands, and captains over fifties, and that they may plough his ground, and reap his harvest, and make his instruments of war and instruments of his chariots.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7383,
+        "text": "And he will take your daughters for perfumers, and cooks, and bakers.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7384,
+        "text": "And your fields, and your vineyards, and your oliveyards, the best, will he take and give to his servants.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7385,
+        "text": "And he will take the tenth of your seed and of your vineyards, and give to his chamberlains and to his servants.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7386,
+        "text": "And he will take your bondmen, and your bondwomen, and your comeliest young men, and your asses, and use them for his work.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7387,
+        "text": "He will take the tenth of your sheep. And ye shall be his servants.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7388,
+        "text": "And ye shall cry out in that day because of your king whom ye have chosen; and Jehovah will not answer you in that day.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7389,
+        "text": "And the people refused to hearken to the voice of Samuel; and they said, No, but there shall be a king over us,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7390,
+        "text": "that we also may be like all the nations; and our king shall judge us, and go out before us, and conduct our wars.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7391,
+        "text": "And Samuel heard all the words of the people, and he repeated them in the ears of Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7392,
+        "text": "And Jehovah said to Samuel, Hearken unto their voice, and make them a king. And Samuel said to the men of Israel, Go ye every man to his city.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

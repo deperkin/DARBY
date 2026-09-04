@@ -1,0 +1,502 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 15,"name": "Ezra","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 405,
+    "MaxVerses": 70,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12029,
+        "text": "And these are the children of the province, that went up out of the captivity of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who came again to Jerusalem and to Judah, every one to his city,",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12030,
+        "text": "who came with Zerubbabel, Jeshua, Nehemiah, Saraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12031,
+        "text": "The children of Parosh, two thousand one hundred and seventy-two.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12032,
+        "text": "The children of Shephatiah, three hundred and seventy-two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12033,
+        "text": "The children of Arah, seven hundred and seventy-five.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12034,
+        "text": "The children of Pahath-Moab, of the children of Jeshua [and] Joab, two thousand eight hundred and twelve.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12035,
+        "text": "The children of Elam, a thousand two hundred and fifty-four.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12036,
+        "text": "The children of Zattu, nine hundred and forty-five.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12037,
+        "text": "The children of Zaccai, seven hundred and sixty.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12038,
+        "text": "The children of Bani, six hundred and forty-two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12039,
+        "text": "The children of Bebai, six hundred and twenty-three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12040,
+        "text": "The children of Azgad, a thousand two hundred and twenty-two.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12041,
+        "text": "The children of Adonikam, six hundred and sixty-six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12042,
+        "text": "The children of Bigvai, two thousand and fifty-six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12043,
+        "text": "The children of Adin, four hundred and fifty-four.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12044,
+        "text": "The children of Ater of [the family of] Hezekiah, ninety-eight.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12045,
+        "text": "The children of Bezai, three hundred and twenty-three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12046,
+        "text": "The children of Jorah, a hundred and twelve.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12047,
+        "text": "The children of Hashum, two hundred and twenty-three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12048,
+        "text": "The children of Gibbar, ninety-five.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12049,
+        "text": "The children of Bethlehem, a hundred and twenty-three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12050,
+        "text": "The men of Netophah, fifty-six.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12051,
+        "text": "The men of Anathoth, a hundred and twenty-eight.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12052,
+        "text": "The children of Azmaveth, forty-two.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12053,
+        "text": "The children of Kirjath-arim, Chephirah, and Beeroth, seven hundred and forty-three.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12054,
+        "text": "The children of Ramah and Geba, six hundred and twenty-one.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12055,
+        "text": "The men of Michmas, a hundred and twenty-two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 12056,
+        "text": "The men of Bethel and Ai, two hundred and twenty-three.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12057,
+        "text": "The children of Nebo, fifty-two.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12058,
+        "text": "The children of Magbish, a hundred and fifty-six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12059,
+        "text": "The children of the other Elam, a thousand two hundred and fifty-four.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 12060,
+        "text": "The children of Harim, three hundred and twenty.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 12061,
+        "text": "The children of Lod, Hadid, and Ono, seven hundred and twenty-five.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 12062,
+        "text": "The children of Jericho, three hundred and forty-five.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 12063,
+        "text": "The children of Senaah, three thousand six hundred and thirty.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 12064,
+        "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred and seventy-three.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 12065,
+        "text": "The children of Immer, a thousand and fifty-two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 12066,
+        "text": "The children of Pashhur, a thousand two hundred and forty-seven.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 12067,
+        "text": "The children of Harim, a thousand and seventeen.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 12068,
+        "text": "The Levites: the children of Jeshua and of Kadmiel, of the children of Hodaviah, seventy-four.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 12069,
+        "text": "The singers: the children of Asaph, a hundred and twenty-eight.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 12070,
+        "text": "The children of the doorkeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all a hundred and thirty-nine.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 12071,
+        "text": "The Nethinim: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 12072,
+        "text": "the children of Keros, the children of Siaha, the children of Padon,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 12073,
+        "text": "the children of Lebanah, the children of Hagabah, the children of Akkub,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 12074,
+        "text": "the children of Hagab, the children of Shamlai, the children of Hanan,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 12075,
+        "text": "the children of Giddel, the children of Gahar, the children of Reaiah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 12076,
+        "text": "the children of Rezin, the children of Nekoda, the children of Gazzam,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 12077,
+        "text": "the children of Uzza, the children of Phaseah, the children of Besai,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 12078,
+        "text": "the children of Asnah, the children of Meunim, the children of Nephusim,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 12079,
+        "text": "the children of Bakbuk, the children of Hakupha, the children of Harhur,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 12080,
+        "text": "the children of Bazluth, the children of Mehida, the children of Harsha,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 12081,
+        "text": "the children of Barkos, the children of Sisera, the children of Thamah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 12082,
+        "text": "the children of Neziah, the children of Hatipha.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 12083,
+        "text": "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 12084,
+        "text": "the children of Jaalah, the children of Darkon, the children of Giddel,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 12085,
+        "text": "the children of Shephatiah, the children of Hattil, the children of Pochereth-Hazzebaim, the children of Ami.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 12086,
+        "text": "All the Nethinim and the children of Solomon’s servants, three hundred and ninety-two.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 12087,
+        "text": "And these are they that went up from Tel-melah, Tel-harsha, Cherub-Addan, Immer; but they could not shew their fathers’ house, nor their seed, whether they were of Israel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 12088,
+        "text": "The children of Delaiah, the children of Tobijah, the children of Nekoda, six hundred and fifty-two.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 12089,
+        "text": "And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 12090,
+        "text": "These sought their genealogical register, but they were not found; therefore were they, as polluted, removed from the priesthood.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 12091,
+        "text": "And the Tirshatha said to them that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 12092,
+        "text": "The whole congregation together was forty-two thousand three hundred and sixty,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 65,
+        "count": 12093,
+        "text": "besides their servants and their maids, of whom there were seven thousand three hundred and thirty-seven; and they had two hundred singing men and singing women.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 12094,
+        "text": "Their horses were seven hundred and thirty-six; their mules two hundred and forty-five;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 12095,
+        "text": "their camels four hundred and thirty-five; the asses six thousand seven hundred and twenty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 68,
+        "count": 12096,
+        "text": "And some of the chief fathers, when they came to the house of Jehovah which is at Jerusalem, offered freely for the house of God to set it up in its place.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 69,
+        "count": 12097,
+        "text": "They gave after their ability to the treasure of the work sixty-one thousand darics of gold, and five thousand pounds of silver, and one hundred priests’ coats.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 70,
+        "count": 12098,
+        "text": "And the priests, and the Levites, and [some] of the people, and the singers, and the doorkeepers, and the Nethinim dwelt in their cities, and all Israel in their cities.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

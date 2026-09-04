@@ -1,0 +1,264 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 7,"name": "Judges","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 212,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6511,
+        "text": "And it came to pass after the death of Joshua that the children of Israel asked Jehovah, saying, Which of us shall go up against the Canaanites first, to fight against them?",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6512,
+        "text": "And Jehovah said, Judah shall go up: behold, I have delivered the land into his hand.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6513,
+        "text": "And Judah said to Simeon his brother, Come up with me into my lot, and let us fight against the Canaanites, and I likewise will go with thee into thy lot; and Simeon went with him.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6514,
+        "text": "And Judah went up; and Jehovah delivered the Canaanites and the Perizzites into their hand, and they smote them in Bezek, ten thousand men.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6515,
+        "text": "And they found Adoni-Bezek in Bezek, and fought against him, and they smote the Canaanites and the Perizzites.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6516,
+        "text": "And Adoni-Bezek fled, and they pursued after him, and caught him, and cut off his thumbs and his great toes.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6517,
+        "text": "And Adoni-Bezek said, Seventy kings, with their thumbs and their great toes cut off, gleaned under my table: as I have done, so God has requited me. And they brought him to Jerusalem, and there he died.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 6518,
+        "text": "And the children of Judah fought against Jerusalem, and took it, and smote it with the edge of the sword, and set the city on fire.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6519,
+        "text": "And afterwards the children of Judah went down to fight against the Canaanites, that dwelt in the hill-country, and in the south, and in the lowland.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 6520,
+        "text": "And Judah went against the Canaanites that dwelt in Hebron—the name of Hebron before was Kirjath-Arba; and they slew Sheshai and Ahiman and Talmai.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6521,
+        "text": "And from there he went against the inhabitants of Debir; now the name of Debir before was Kirjath-sepher.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6522,
+        "text": "And Caleb said, He that smites Kirjath-sepher and takes it, to him will I give Achsah my daughter as wife.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6523,
+        "text": "And Othniel the son of Kenaz, Caleb’s younger brother, took it; and he gave him Achsah his daughter as wife.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6524,
+        "text": "And it came to pass as she came, that she urged him to ask of her father the field; and she sprang down from the ass. And Caleb said to her, What wouldest thou?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6525,
+        "text": "And she said to him, Give me a blessing; for thou hast given me a southern land; give me also springs of water. And Caleb gave her the upper springs and the lower springs.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6526,
+        "text": "And the children of the Kenite, Moses’ father-in-law, had gone up out of the city of palm-trees with the children of Judah into the wilderness of Judah, which is in the south of Arad; and they went and dwelt with the people.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6527,
+        "text": "And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it; and they called the name of the city Hormah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6528,
+        "text": "And Judah took Gazah and its border, and Ashkelon and its border, and Ekron and its border.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6529,
+        "text": "And Jehovah was with Judah; and he took possession of the hill-country, for he did not dispossess the inhabitants of the valley, because they had chariots of iron.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6530,
+        "text": "And they gave to Caleb Hebron, as Moses had said; and he dispossessed from thence the three sons of Anak.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6531,
+        "text": "And the children of Benjamin did not dispossess the Jebusites, the inhabitants of Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem to this day.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 6532,
+        "text": "And the house of Joseph, they also went up against Bethel; and Jehovah was with them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6533,
+        "text": "And the house of Joseph sent to search out Bethel; now the name of the city before was Luz.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6534,
+        "text": "And the guards saw a man come forth out of the city, and said unto him, Shew us, we pray thee, how [we] may enter into the city, and we will shew thee kindness.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 6535,
+        "text": "And he shewed them how to enter into the city. And they smote the city with the edge of the sword; but they let go the man and all his family.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6536,
+        "text": "And the man went into the land of the Hittites, and built a city, and called its name Luz, which is its name to this day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6537,
+        "text": "And Manasseh did not dispossess Beth-shean and its dependent villages, nor Taanach and its dependent villages, nor the inhabitants of Dor and its dependent villages, nor the inhabitants of Ibleam and its dependent villages, nor the inhabitants of Megiddo and its dependent villages; and the Canaanites would dwell in that land.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6538,
+        "text": "And it came to pass when Israel became strong, that they made the Canaanites tributary; but they did not utterly dispossess them.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6539,
+        "text": "And Ephraim did not dispossess the Canaanites that dwelt in Gezer; but the Canaanites dwelt among them in Gezer.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6540,
+        "text": "Zebulun did not dispossess the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6541,
+        "text": "Asher did not dispossess the inhabitants of Accho, nor the inhabitants of Zidon, nor Ahlab, nor Achzib, nor Helbah, nor Aphik, nor Rehob;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6542,
+        "text": "and the Asherites dwelt among the Canaanites, the inhabitants of the land; for they did not dispossess them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 6543,
+        "text": "Naphtali did not dispossess the inhabitants of Beth-shemesh, nor the inhabitants of Beth-anath; and he dwelt among the Canaanites, the inhabitants of the land, but the inhabitants of Beth-shemesh and of Beth-anath became tributaries to them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 6544,
+        "text": "And the Amorites forced the children of Dan into the hill-country, for they would not suffer them to come down to the valley.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 6545,
+        "text": "And the Amorites would dwell on mount Heres, in Ajalon and in Shaalbim; but the hand of the house of Joseph prevailed, and they became tributaries.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 6546,
+        "text": "And the border of the Amorites was from the ascent of Akrabbim, from the rock, and upwards.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

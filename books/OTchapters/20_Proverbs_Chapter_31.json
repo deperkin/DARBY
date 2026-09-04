@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 31,
+    "count": 659,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17286,
+        "text": "The words of king Lemuel, the prophecy that his mother taught him:",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17287,
+        "text": "What, my son? and what, O son of my womb? and what, O son of my vows?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17288,
+        "text": "Give not thy strength unto women, nor thy ways to them that destroy kings.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17289,
+        "text": "It is not for kings, Lemuel, it is not for kings to drink wine, nor for rulers [to say], Where is the strong drink?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17290,
+        "text": "lest they drink And forget the law, And pervert the judgment of any of the children of affliction.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17291,
+        "text": "Give strong drink unto him that is ready to perish, and wine unto the bitter of soul:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17292,
+        "text": "let him drink, and forget his poverty, and remember his misery no more.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17293,
+        "text": "Open thy mouth for the dumb, for the cause of all those that are left desolate.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17294,
+        "text": "Open thy mouth, judge righteously, and minister justice to the afflicted and needy.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17295,
+        "text": "Who can find a woman of worth? for her price is far above rubies.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17296,
+        "text": "The heart of her husband confideth in her, and he shall have no lack of spoil.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17297,
+        "text": "She doeth him good, and not evil, all the days of her life.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17298,
+        "text": "She seeketh wool and flax, and worketh willingly with her hands.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17299,
+        "text": "She is like the merchants’ ships: she bringeth her food from afar;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17300,
+        "text": "And she riseth while it is yet night, and giveth meat to her household, and the day’s work to her maidens.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17301,
+        "text": "She considereth a field, and acquireth it; of the fruit of her hands she planteth a vineyard.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17302,
+        "text": "She girdeth her loins with strength, and maketh strong her arms.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17303,
+        "text": "She perceiveth that her earning is good; her lamp goeth not out by night.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17304,
+        "text": "She putteth her hands to the distaff, and her hands hold the spindle.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17305,
+        "text": "She stretcheth out her hand to the afflicted, and she reacheth forth her hands to the needy.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17306,
+        "text": "She is not afraid of the snow for her household; for all her household are clothed with scarlet.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17307,
+        "text": "She maketh herself coverlets; her clothing is byssus and purple.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17308,
+        "text": "Her husband is known in the gates, when he sitteth among the elders of the land.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17309,
+        "text": "She maketh body linen and selleth it, and delivereth girdles unto the merchant.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 17310,
+        "text": "Strength and dignity are her clothing, and she laugheth [at] the coming day.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17311,
+        "text": "She openeth her mouth with wisdom; and upon her tongue is the law of kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17312,
+        "text": "She surveyeth the ways of her household, and eateth not the bread of idleness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 17313,
+        "text": "Her children rise up and call her blessed; her husband [also], and he praiseth her:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 17314,
+        "text": "Many daughters have done worthily, but thou excellest them all.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 17315,
+        "text": "Gracefulness is deceitful and beauty is vain; a woman [that] feareth Jehovah, she shall be praised.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 17316,
+        "text": "Give her of the fruit of her hands, and let her own works praise her in the gates.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

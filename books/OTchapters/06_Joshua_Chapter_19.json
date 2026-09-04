@@ -1,0 +1,369 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 206,
+    "MaxVerses": 51,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6323,
+        "text": "And the second lot came forth to Simeon, for the tribe of the children of Simeon according to their families; and their inheritance was within the inheritance of the children of Judah.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6324,
+        "text": "And they had in their inheritance Beer-sheba, and Sheba, and Moladah,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6325,
+        "text": "and Hazar-Shual, and Balah, and Ezem,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6326,
+        "text": "and Eltolad, and Bethul, and Hormah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6327,
+        "text": "and Ziklag, and Beth-marcaboth, and Hazar-susah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6328,
+        "text": "and Beth-lebaoth, and Sharuhen: thirteen cities and their hamlets;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6329,
+        "text": "Ain, Rimmon, and Ether, and Ashan: four cities and their hamlets;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 6330,
+        "text": "and all the hamlets that are round these cities to Baalath-beer, [that is] Ramah of the south. This is the inheritance of the tribe of the children of Simeon according to their families.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6331,
+        "text": "Out of the lot of the children of Judah was the inheritance of the children of Simeon; for the portion of the children of Judah was too great for them, and the children of Simeon inherited within their inheritance.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6332,
+        "text": "And the third lot came up for the children of Zebulun according to their families. And the border of their inheritance was unto Sarid;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 6333,
+        "text": "and their border went up westwards, and [to] Marealah, and reached to Dabbesheth, and reached to the torrent that is before Jokneam;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6334,
+        "text": "and turned from Sarid eastward, toward the sun-rising, to the border of Chisloth-Tabor, and went out to Dabrath, and went up to Japhia;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6335,
+        "text": "and from thence it passed eastward toward the sun-rising to Gath-Hepher, to Eth-kazin, and went out to Rimmon which reaches to Neah;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6336,
+        "text": "and the border turned round it northwards to Hannathon: and ended in the valley of Jiphthah-el;...",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6337,
+        "text": "and Kattath, and Nahalal, and Shimron, and Jidalah, and Beth-lehem: twelve cities and their hamlets.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6338,
+        "text": "This was the inheritance of the children of Zebulun according to their families, these cities and their hamlets.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6339,
+        "text": "The fourth lot came forth to Issachar, for the children of Issachar according to their families.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 6340,
+        "text": "And their territory was toward Jizreel, and Chesulloth, and Shunem,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6341,
+        "text": "and Hapharaim, and Shion, and Anaharath,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6342,
+        "text": "and Rabbith, and Kishion, and Ebez,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6343,
+        "text": "and Remeth, and En-gannim, and En-haddah, and Beth-pazzez;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6344,
+        "text": "and the border reached to Tabor, and Shahazimah, and Beth-shemesh; and their border ended at the Jordan: sixteen cities and their hamlets.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6345,
+        "text": "This was the inheritance of the tribe of the children of Issachar according to their families, the cities and their hamlets.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6346,
+        "text": "And the fifth lot came forth for the tribe of the children of Asher according to their families.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 6347,
+        "text": "And their territory was Helkath, and Hali, and Beten, and Acshaph,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6348,
+        "text": "and Allammelech, and Amead, and Mishal; and [the border] reached to Carmel westwards, and to Shihor-libnath,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6349,
+        "text": "and turned towards the sun-rising to Beth-Dagon, and reached to Zebulun, and to the valley of Jiphthah-el northward [to] Beth-emek and Neiel, and went out to Cabul on the left,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6350,
+        "text": "and Ebron, and Rehob, and Hammon, and Kanah, as far as great Zidon;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6351,
+        "text": "and the border turned to Ramah, and as far as the fortified city of Tyre; and the border turned to Hosah; and ended at the sea by the tract of country of Achzib;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6352,
+        "text": "and Ummah, and Aphek, and Rehob: twenty-two cities and their hamlets.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6353,
+        "text": "This was the inheritance of the tribe of the children of Asher according to their families, these cities and their hamlets.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6354,
+        "text": "The sixth lot came forth to the children of Naphtali, for the children of Naphtali according to their families.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 6355,
+        "text": "And their border was from Heleph, from the oak of Zaanannim; and Adami-nekeb and Jabneel to Lakkum; and ended at the Jordan;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 6356,
+        "text": "and the border turned westwards to Aznoth-Tabor, and went out from thence to Hukkok, and reached to Zebulun on the south, and reached to Asher on the west, and to Judah upon Jordan towards the sun-rising.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 6357,
+        "text": "And the fortified cities were Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 6358,
+        "text": "and Adamah, and Ramah, and Hazor,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 6359,
+        "text": "and Kedesh, and Edrei, and En-Hazor,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 6360,
+        "text": "and Jiron, and Migdal-el, Horem, and Beth-anath, and Beth-shemesh: nineteen cities and their hamlets.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 6361,
+        "text": "This was the inheritance of the tribe of the children of Naphtali according to their families, the cities and their hamlets.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 6362,
+        "text": "The seventh lot came forth for the tribe of the children of Dan according to their families.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 41,
+        "count": 6363,
+        "text": "And the territory of their inheritance was Zoreah, and Eshtaol, and Ir-shemesh,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 6364,
+        "text": "and Shaalabbin, and Ajalon, and Jithlah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 6365,
+        "text": "and Elon, and Timnathah, and Ekron,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 6366,
+        "text": "and El-tekeh, and Gibbethon, and Baalath,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 6367,
+        "text": "and Jehud, and Beneberak, and Gath-Rimmon,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 6368,
+        "text": "and Me-jarkon, and Rakkon, with the border over against Japho.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 6369,
+        "text": "And the border of the children of Dan ended with these; and the children of Dan went up and fought against Leshem, and took it, and smote it with the edge of the sword, and took possession of it, and dwelt in it, and called Leshem, Dan, after the name of Dan their father.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 6370,
+        "text": "This was the inheritance of the tribe of the children of Dan according to their families, these cities and their hamlets.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 6371,
+        "text": "And they ended dividing the land for inheritance according to its borders. And the children of Israel gave an inheritance to Joshua the son of Nun among them.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 50,
+        "count": 6372,
+        "text": "According to the word of Jehovah they gave him the city that he asked, Timnath-serah in the hill-country of Ephraim; and he built the city, and dwelt in it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 6373,
+        "text": "These were the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel, distributed by lot in Shiloh before Jehovah, at the entrance of the tent of meeting. And they ended dividing the land.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

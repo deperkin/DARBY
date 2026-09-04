@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 74,
+    "count": 552,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15050,
+        "text": "{An instruction: of Asaph.} Why, O God, hast thou cast off for ever? [why] doth thine anger smoke against the sheep of thy pasture?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15051,
+        "text": "Remember thine assembly, which thou hast purchased of old, which thou hast redeemed [to be] the portion of thine inheritance, this mount Zion, wherein thou hast dwelt.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15052,
+        "text": "Lift up thy steps unto the perpetual desolations: everything in the sanctuary hath the enemy destroyed.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15053,
+        "text": "Thine adversaries roar in the midst of thy place of assembly; they set up their signs [for] signs.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15054,
+        "text": "[A man] was known as he could lift up axes in the thicket of trees;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15055,
+        "text": "And now they break down its carved work altogether, with hatchets and hammers.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15056,
+        "text": "They have set on fire thy sanctuary, they have profaned the habitation of thy name to the ground.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15057,
+        "text": "They said in their heart, Let us destroy them together: they have burned up all God’s places of assembly in the land.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15058,
+        "text": "We see not our signs; there is no more any prophet, neither is there among us any that knoweth how long.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15059,
+        "text": "How long, O God, shall the adversary reproach? Shall the enemy contemn thy name for ever?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15060,
+        "text": "Why withdrawest thou thy hand, and thy right hand? [pluck it] out of thy bosom: consume [them].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15061,
+        "text": "But God is my king of old, accomplishing deliverances in the midst of the earth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 15062,
+        "text": "Thou didst divide the sea by thy strength; thou didst break the heads of the monsters on the waters:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15063,
+        "text": "Thou didst break in pieces the heads of leviathan, thou gavest him to be meat to those that people the desert.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15064,
+        "text": "Thou didst cleave fountain and torrent, thou driedst up ever-flowing rivers.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15065,
+        "text": "The day is thine, the night also is thine; thou hast prepared the moon and the sun:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15066,
+        "text": "Thou hast set all the borders of the earth; summer and winter—thou didst form them.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15067,
+        "text": "Remember this, that an enemy hath reproached Jehovah, and a foolish people have contemned thy name.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 15068,
+        "text": "Give not up the soul of thy turtle-dove unto the wild beast; forget not the troop of thine afflicted for ever.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15069,
+        "text": "Have respect unto the covenant; for the dark places of the earth are full of the dwellings of violence.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15070,
+        "text": "Oh let not the oppressed one return ashamed; let the afflicted and needy praise thy name.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15071,
+        "text": "Rise up, O God, plead thine own cause: remember how the foolish man reproacheth thee all the day;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15072,
+        "text": "Forget not the voice of thine adversaries: the tumult of those that rise up against thee ascendeth continually.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

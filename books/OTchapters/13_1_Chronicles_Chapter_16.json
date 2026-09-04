@@ -1,0 +1,313 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 354,
+    "MaxVerses": 43,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10822,
+        "text": "And they brought in the ark of God, and set it in the midst of the tent that David had spread for it; and they presented burnt-offerings and peace-offerings before God.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10823,
+        "text": "And when David had ended offering up the burnt-offerings and the peace-offerings, he blessed the people in the name of Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10824,
+        "text": "And he dealt to every one of Israel, both man and woman, to every one a loaf of bread and a measure [of wine] and a raisin-cake.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10825,
+        "text": "And he appointed certain of the Levites to do the service before the ark of Jehovah, and to celebrate, and to thank and praise Jehovah the God of Israel:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10826,
+        "text": "Asaph the chief, and second to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah and Obed-Edom, and Jeiel, with instruments of lutes and with harps; and Asaph sounding with cymbals;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10827,
+        "text": "and Benaiah and Jahaziel the priests with trumpets continually, before the ark of the covenant of God.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10828,
+        "text": "Then on that day David delivered first [this psalm] to give thanks to Jehovah through Asaph and his brethren.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 10829,
+        "text": "Give thanks unto Jehovah, call upon his name; Make known his acts among the peoples.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10830,
+        "text": "Sing unto him, sing psalms unto him; Meditate upon all his wondrous works.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10831,
+        "text": "Glory in his holy name: Let the heart of them rejoice that seek Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10832,
+        "text": "Seek Jehovah and his strength, Seek his face continually;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10833,
+        "text": "Remember his wondrous works which he hath done; His miracles, and the judgments of his mouth:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10834,
+        "text": "Ye seed of Israel his servant, Ye sons of Jacob, his chosen ones.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10835,
+        "text": "He, Jehovah, is our God; His judgments are in all the earth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10836,
+        "text": "Be ye ever mindful of his covenant, The word which he commanded to a thousand generations,—",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10837,
+        "text": "Which he made with Abraham, And of his oath unto Isaac;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10838,
+        "text": "And he confirmed it unto Jacob for a statute, Unto Israel for an everlasting covenant,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10839,
+        "text": "Saying, Unto thee will I give the land of Canaan, The lot of your inheritance;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10840,
+        "text": "When ye were a few men in number, Of small account, and strangers in it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10841,
+        "text": "And they went from nation to nation, And from one kingdom to another people.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10842,
+        "text": "He suffered no man to oppress them, And reproved kings for their sakes,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10843,
+        "text": "[Saying,] Touch not mine anointed ones, And do my prophets no harm.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10844,
+        "text": "Sing unto Jehovah, all the earth; Publish his salvation from day to day.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10845,
+        "text": "Declare his glory among the nations, His wondrous works among all peoples.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10846,
+        "text": "For Jehovah is great, and exceedingly to be praised; And he is terrible above all gods.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10847,
+        "text": "For all the gods of the peoples are idols; But Jehovah made the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10848,
+        "text": "Majesty and splendour are before him; Strength and gladness in his place.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10849,
+        "text": "Give unto Jehovah, ye families of peoples, Give unto Jehovah glory and strength!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10850,
+        "text": "Give unto Jehovah the glory of his name! Bring an oblation, and come before him: Worship Jehovah in holy splendour.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10851,
+        "text": "Tremble before him, all the earth: The world also is established, it shall not be moved.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10852,
+        "text": "Let the heavens rejoice, and let the earth be glad; And let them say among the nations, Jehovah reigneth!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10853,
+        "text": "Let the sea roar, and the fulness thereof; Let the field exult, and all that is therein.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10854,
+        "text": "Then shall the trees of the forest sing out at the presence of Jehovah, For he cometh to judge the earth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10855,
+        "text": "Give thanks unto Jehovah, for he is good; For his loving-kindness [endureth] for ever.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10856,
+        "text": "And say, Save us, O God of our salvation, And gather us, and deliver us from the nations, To give thanks unto thy holy name, To triumph in thy praise.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10857,
+        "text": "Blessed be Jehovah the God of Israel, from eternity and to eternity! And all the people said, Amen! and praised Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10858,
+        "text": "And he left there, before the ark of the covenant of Jehovah, Asaph and his brethren, to do the service before the ark continually, as every day’s duty required;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 10859,
+        "text": "and Obed-Edom, and their brethren, sixty-eight; Obed-Edom also, the son of Jeduthun, and Hosah as doorkeepers.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10860,
+        "text": "And Zadok the priest, and his brethren the priests, before the tabernacle of Jehovah in the high place that was at Gibeon,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10861,
+        "text": "to offer up burnt-offerings to Jehovah on the altar of burnt-offering continually, morning and evening, and according to all that is written in the law of Jehovah, which he commanded Israel;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 10862,
+        "text": "and with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to Jehovah, because his loving-kindness [endureth] for ever;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 10863,
+        "text": "and with them, [with] Heman and Jeduthun, trumpets and cymbals for those that should sound aloud; and the musical instruments of God. And the sons of Jeduthun were at the gate.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 10864,
+        "text": "And all the people departed every one to his house; and David returned to bless his household.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

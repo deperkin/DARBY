@@ -1,0 +1,201 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 43,
+    "count": 845,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21574,
+        "text": "And he brought me unto the gate, the gate which looked toward the east.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21575,
+        "text": "And behold, the glory of the God of Israel came from the way of the east; and his voice was like the voice of many waters; and the earth was lit up with his glory.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21576,
+        "text": "And the appearance of the vision that I saw was according to the vision that I had seen when I came to destroy the city; and the visions were like the vision that I saw by the river Chebar: and I fell upon my face.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21577,
+        "text": "And the glory of Jehovah came into the house by the way of the gate whose front was toward the east.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21578,
+        "text": "And the Spirit lifted me up, and brought me into the inner court; and behold, the glory of Jehovah filled the house.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21579,
+        "text": "And I heard one speaking unto me out of the house; and a man was standing by me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21580,
+        "text": "And he said unto me, Son of man, [this is] the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever; and the house of Israel shall no more defile my holy name, they nor their kings, with their fornication, and with the carcases of their kings [in] their high places,",
+        "WordCount": 68,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 21581,
+        "text": "in that they set their threshold by my threshold, and their post by my post, and [there was only] a wall between me and them, and they defiled my holy name with their abominations which they committed; and I consumed them in mine anger.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21582,
+        "text": "Now let them put away their fornication, and the carcases of their kings, far from me, and I will dwell in the midst of them for ever.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21583,
+        "text": "Thou, son of man, shew the house to the house of Israel, that they may be confounded at their iniquities; and let them measure the pattern.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21584,
+        "text": "And if they be confounded at all that they have done, make known to them the form of the house, and its fashion, and its goings out, and its comings in, and all its forms, and all its statutes, yea, all the forms thereof, and all the laws thereof; and write it in their sight, that they may keep the whole form thereof, and all the statutes thereof, and do them.",
+        "WordCount": 71,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21585,
+        "text": "This is the law of the house: Upon the top of the mountain all its border round about is most holy. Behold, this is the law of the house.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21586,
+        "text": "And these are the measures of the altar in cubits: the cubit is a cubit and a hand breadth. The bottom was a cubit [in height] and the breadth a cubit, and its border on the edge thereof round about, one span: and this was the base of the altar.",
+        "WordCount": 50,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 21587,
+        "text": "And from the bottom upon the ground to the lower settle was two cubits, and the breadth one cubit; and from the small settle to the great settle, four cubits, and the breadth a cubit.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21588,
+        "text": "And the upper altar was four cubits; and from the hearth of God and upward were four horns.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21589,
+        "text": "And the hearth of God was twelve [cubits] long, by twelve broad, square in the four sides thereof.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21590,
+        "text": "And the settle was fourteen [cubits] long by fourteen broad in the four sides thereof; and the border about it, half a cubit; and the bottom thereof a cubit round about: and its steps looked toward the east.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21591,
+        "text": "And he said unto me, Son of man, thus saith the Lord Jehovah: These are the ordinances of the altar in the day when they shall make it, to offer up burnt-offerings thereon, and to sprinkle blood thereon.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21592,
+        "text": "And thou shalt give to the priests the Levites that are of the seed of Zadok, who come near unto me, to minister unto me, saith the Lord Jehovah, a young bullock for a sin-offering.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21593,
+        "text": "And thou shalt take of its blood, and put it on the four horns thereof, and on the four corners of the settle, and upon the border round about: so shalt thou purge and make atonement for it.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21594,
+        "text": "And thou shalt take the bullock of the sin-offering, and it shall be burned in the appointed place of the house, outside the sanctuary.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21595,
+        "text": "And on the second day thou shalt present a he-goat without blemish for a sin-offering; and they shall purge the altar, as they purged it with the bullock.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21596,
+        "text": "When thou hast ended purging it, thou shalt present a young bullock without blemish, and a ram out of the flock without blemish;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21597,
+        "text": "and thou shalt present them before Jehovah; and the priests shall cast salt upon them, and they shall offer them up for a burnt-offering unto Jehovah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21598,
+        "text": "Seven days shalt thou offer daily a goat for a sin-offering; they shall also offer a young bullock, and a ram out of the flock without blemish.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21599,
+        "text": "Seven days shall they make atonement for the altar and purify it, and consecrate it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 21600,
+        "text": "And when these days are ended, it shall be that upon the eighth day and onwards the priests shall offer your burnt-offerings upon the altar, and your peace-offerings; and I will accept you, saith the Lord Jehovah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

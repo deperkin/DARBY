@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 17,"name": "Esther","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 430,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12764,
+        "text": "And when Mordecai knew all that was done, Mordecai rent his garments, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and bitter cry,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12765,
+        "text": "and came even before the king’s gate; for none might enter into the king’s gate clothed with sackcloth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12766,
+        "text": "And in every province, wherever the king’s commandment and his decree came, there was great mourning among the Jews, and fasting, and weeping, and wailing: many lay in sackcloth and ashes.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12767,
+        "text": "And Esther’s maids and her chamberlains came and told [it] her; and the queen was exceedingly grieved: and she sent raiment to clothe Mordecai, and to take away his sackcloth from him; but he received [it] not.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12768,
+        "text": "Then Esther called for Hatach, [one] of the king’s chamberlains, whom he had appointed to wait upon her, and gave him a commandment to Mordecai, to know what it was, and why it was.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 12769,
+        "text": "And Hatach went forth to Mordecai, unto the public place of the city which was before the king’s gate.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12770,
+        "text": "And Mordecai told him of all that had happened to him, and of the sum of money that Haman had promised to pay to the king’s treasuries for the Jews, to destroy them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12771,
+        "text": "And he gave him a copy of the writing of the decree that had been given at Shushan to destroy them, to shew [it] to Esther, and to declare [it] to her, and to charge her that she should go in unto the king, to make supplication to him, and to make request before him, for her people.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12772,
+        "text": "And Hatach came and told Esther the words of Mordecai.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12773,
+        "text": "And Esther spoke to Hatach, and gave him commandment unto Mordecai:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12774,
+        "text": "All the king’s servants and the people of the king’s provinces do know that whoever, whether man or woman, shall come to the king into the inner court, who is not called, there is one law, to put [him] to death, except [such] to whom the king shall hold out the golden sceptre, that he may live; and I have not been called to come in unto the king these thirty days.",
+        "WordCount": 72,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12775,
+        "text": "And they told Mordecai Esther’s words.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12776,
+        "text": "And Mordecai bade to answer Esther: Imagine not in thy heart that thou shalt escape in the king’s house, more than all the Jews.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12777,
+        "text": "For if thou altogether holdest thy peace at this time, then shall there arise relief and deliverance to the Jews from another place; but thou and thy father’s house shall perish. And who knows whether thou art [not] come to the kingdom for such a time as this?",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12778,
+        "text": "And Esther bade to answer Mordecai:",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12779,
+        "text": "Go, gather together all the Jews that are found in Shushan, and fast for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise, and so will I go in unto the king, which is not according to the law; and if I perish, I perish.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12780,
+        "text": "And Mordecai went his way, and did according to all that Esther had commanded him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 49,
+    "count": 49,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1475,
+        "text": "And Jacob called his sons, and said, Gather yourselves together, and I will tell you what will befall you at the end of days.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1476,
+        "text": "Assemble yourselves, and hear, ye sons of Jacob, And listen to Israel your father.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1477,
+        "text": "Reuben, thou art my firstborn, My might, and the firstfruits of my vigour: Excellency of dignity, and excellency of strength.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1478,
+        "text": "Impetuous as the waters, thou shalt have no pre-eminence; Because thou wentest up to thy father’s couch: Then defiledst thou [it]: he went up to my bed.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1479,
+        "text": "Simeon and Levi are brethren: Instruments of violence their swords.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 1480,
+        "text": "My soul, come not into their council; Mine honour, be not united with their assembly; For in their anger they slew men, And in their wantonness houghed oxen.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1481,
+        "text": "Cursed be their anger, for it [was] violent; And their rage, for it [was] cruel! I will divide them in Jacob, And scatter them in Israel.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1482,
+        "text": "Judah—[as to] thee, thy brethren will praise thee; Thy hand will be upon the neck of thine enemies; Thy father’s children will bow down to thee.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 1483,
+        "text": "Judah is a young lion; From the prey, my son, thou art gone up. He stoopeth, he layeth himself down as a lion, And as a lioness: who will rouse him up?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1484,
+        "text": "The scepter will not depart from Judah, Nor the lawgiver from between his feet, Until Shiloh come, And to him will be the obedience of peoples.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1485,
+        "text": "He bindeth his foal to the vine, And his ass’s colt to the choice vine; He washeth his dress in wine, And his garment in the blood of grapes.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1486,
+        "text": "The eyes are red with wine, And the teeth [are] white with milk.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1487,
+        "text": "Zebulun will dwell at the shore of the seas; Yea, he will be at the shore of the ships, And his side [toucheth] upon Sidon.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 1488,
+        "text": "Issachar is a bony ass, Crouching down between two hurdles.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1489,
+        "text": "And he saw the rest that it was good, And the land that it was pleasant; And he bowed his shoulder to bear, And was a tributary servant.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1490,
+        "text": "Dan will judge his people, As another of the tribes of Israel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1491,
+        "text": "Dan will be a serpent on the way, A horned snake on the path, Which biteth the horse’s heels, So that the rider falleth backwards.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1492,
+        "text": "I wait for thy salvation, O Jehovah.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1493,
+        "text": "Gad—troops will rush upon him; But he will rush upon the heel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1494,
+        "text": "Out of Asher, his bread shall be fat, And he will give royal dainties.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1495,
+        "text": "Naphtali is a hind let loose; He giveth goodly words.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1496,
+        "text": "Joseph is a fruitful bough; A fruitful bough by a well; [His] branches shoot over the wall.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 1497,
+        "text": "The archers have provoked him, And shot at, and hated him;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1498,
+        "text": "But his bow abideth firm, And the arms of his hands are supple By the hands of the Mighty One of Jacob. From thence is the shepherd, the stone of Israel:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1499,
+        "text": "From the God of thy father, and he will help thee; And from the Almighty, and he will bless thee—With blessings of heaven from above, With blessings of the deep that lieth under, With blessings of the breast and of the womb.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1500,
+        "text": "The blessings of thy father surpass the blessings of my ancestors, Unto the bounds of the everlasting hills: They shall be on the head of Joseph, And on the crown of the head of him that was separated from his brethren.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1501,
+        "text": "Benjamin—[as] a wolf will he tear to pieces; In the morning he will devour the prey, And in the evening he will divide the booty.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1502,
+        "text": "All these are the twelve tribes of Israel, and this is what their father spoke to them; and he blessed them: every one according to his blessing he blessed them.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 1503,
+        "text": "And he charged them, and said to them, I am gathered to my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1504,
+        "text": "in the cave that is in the field of Machpelah, which is opposite to Mamre, in the land of Canaan, which Abraham bought of Ephron the Hittite along with the field for a possession of a sepulchre.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1505,
+        "text": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebecca his wife; and there I buried Leah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 1506,
+        "text": "The purchase of the field, and of the cave that is in it, was from the children of Heth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 1507,
+        "text": "And when Jacob had made an end of commanding his sons, he gathered his feet into the bed, and expired, and was gathered to his peoples.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 172,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5408,
+        "text": "When Jehovah thy God hath cut off the nations whose land Jehovah thy God giveth thee, and thou hast dispossessed them, and dwellest in their cities and in their houses,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5409,
+        "text": "thou shalt separate three cities for thyself in the midst of thy land, which Jehovah thy God giveth thee to possess.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5410,
+        "text": "Thou shalt prepare thee the way, and divide the territory of thy land, which Jehovah thy God giveth thee to inherit, into three parts, so that every slayer may flee thither.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5411,
+        "text": "And this is the case of the slayer who shall flee thither that he may live: he that smiteth his neighbour unwittingly, whom he hated not previously;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5412,
+        "text": "as when he goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the iron slippeth from the handle, and lighteth upon his neighbour, that he die; such an one shall flee unto one of these cities, and live;",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5413,
+        "text": "lest the avenger of blood pursue the manslayer, while his heart is hot, and overtake him, because the way is long, and smite him mortally; whereas he was not worthy of death, since he hated him not previously.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5414,
+        "text": "Therefore I command thee, saying, Thou shalt separate three cities for thyself.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5415,
+        "text": "And if Jehovah thy God enlarge thy border, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5416,
+        "text": "(if thou keep all this commandment to do it, which I command thee this day, to love Jehovah thy God, and to walk in his ways continually), then shalt thou add three cities more for thyself to these three,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5417,
+        "text": "that innocent blood be not shed in the midst of thy land which Jehovah thy God giveth thee for an inheritance, and blood come not upon thee.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5418,
+        "text": "But if a man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and he flee into one of these cities,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5419,
+        "text": "then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5420,
+        "text": "Thine eye shall not spare him; and thou shalt put away innocent blood from Israel, that it may be well with thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5421,
+        "text": "Thou shalt not remove thy neighbour’s landmark, which they of old time have fixed in thine inheritance, which thou shalt inherit in the land which Jehovah thy God giveth thee to possess.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 5422,
+        "text": "One witness shall not rise up against a man for any iniquity, and for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5423,
+        "text": "If an unrighteous witness rise up against any man to testify against him of an offence;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5424,
+        "text": "then both the men between whom the controversy is shall stand before Jehovah, before the priests and the judges that shall be in those days;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5425,
+        "text": "and the judges shall make thorough inquiry; and if the witness be a false witness, and he have testified falsely against his brother,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5426,
+        "text": "then shall ye do unto him as he had thought to have done unto his brother; and thou shalt put evil away from thy midst.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5427,
+        "text": "And those that remain shall hear, and fear, and shall henceforth commit no more any such evil in thy midst.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5428,
+        "text": "And thine eye shall not spare: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

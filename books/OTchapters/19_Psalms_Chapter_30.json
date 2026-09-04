@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 508,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14321,
+        "text": "{A Psalm of David: dedication-song of the house.} I will extol thee, Jehovah; for thou hast delivered me, and hast not made mine enemies to rejoice over me.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14322,
+        "text": "Jehovah my God, I cried unto thee, and thou hast healed me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14323,
+        "text": "Jehovah, thou hast brought up my soul from Sheol, thou hast quickened me from among those that go down to the pit.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14324,
+        "text": "Sing psalms unto Jehovah, ye saints of his, and give thanks in remembrance of his holiness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14325,
+        "text": "For a moment [is passed] in his anger, a life in his favour; at even weeping cometh for the night, and at morn there is rejoicing.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14326,
+        "text": "As for me, I said in my prosperity, I shall never be moved.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14327,
+        "text": "Jehovah, by thy favour thou hadst made my mountain to stand strong: thou didst hide thy face; I was troubled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14328,
+        "text": "I called to thee, Jehovah, and unto the Lord did I make supplication:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14329,
+        "text": "What profit is there in my blood, in my going down to the pit? shall the dust praise thee? shall it declare thy truth?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14330,
+        "text": "Hear, O Jehovah, and be gracious unto me; Jehovah, be my helper.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14331,
+        "text": "Thou hast turned for me my mourning into dancing; thou hast loosed my sackcloth, and girded me with gladness;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14332,
+        "text": "That [my] glory may sing psalms of thee, and not be silent. Jehovah my God, I will praise thee for ever.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

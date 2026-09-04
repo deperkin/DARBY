@@ -1,0 +1,47 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 93,
+    "count": 571,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15428,
+        "text": "Jehovah reigneth, he hath clothed himself with majesty: Jehovah hath clothed himself, he hath girded himself with strength; yea, the world is established, it shall not be moved.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15429,
+        "text": "Thy throne is established of old; thou art from eternity.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15430,
+        "text": "The floods lifted up, O Jehovah, the floods lifted up their voice; the floods lifted up their roaring waves.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15431,
+        "text": "Jehovah on high is mightier than the voices of many waters, than the mighty breakers of the sea.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15432,
+        "text": "Thy testimonies are very sure: holiness becometh thy house, O Jehovah, for ever.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

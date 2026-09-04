@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 669,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17495,
+        "text": "Dead flies cause the ointment of the apothecary to stink [and] ferment; [so] a little folly is weightier than wisdom [and] honour.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17496,
+        "text": "The heart of a wise [man] is at his right hand; but a fool’s heart at his left.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17497,
+        "text": "Yea also, when he that is a fool walketh by the way, his sense faileth [him], and he saith to every one [that] he is a fool.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17498,
+        "text": "If the spirit of the ruler rise up against thee, leave not thy place; for quietness pacifieth great offences.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17499,
+        "text": "There is an evil that I have seen under the sun, as an error [that] proceedeth from the ruler:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17500,
+        "text": "folly is set in great dignities, but the rich sit in a low place.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17501,
+        "text": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17502,
+        "text": "He that diggeth a pit falleth into it; and whoso breaketh down a hedge, a serpent biteth him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17503,
+        "text": "Whoso removeth stones is hurt therewith; he that cleaveth wood is endangered thereby.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17504,
+        "text": "If the iron be blunt, and one do not whet the edge, then must he apply more strength; but wisdom is profitable to give success.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17505,
+        "text": "If the serpent bite before enchantment, then the charmer hath no advantage.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17506,
+        "text": "The words of a wise man’s mouth are gracious; but the lips of a fool swallow up himself.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17507,
+        "text": "The beginning of the words of his mouth is folly; and the end of his talk is mischievous madness.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17508,
+        "text": "And the fool multiplieth words: [yet] man knoweth not what shall be; and what shall be after him, who will tell him?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17509,
+        "text": "The labour of fools wearieth them, because they know not how to go to the city.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17510,
+        "text": "Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17511,
+        "text": "Happy art thou, O land, when thy king is a son of nobles, and thy princes eat in [due] season, for strength, and not for drunkenness!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17512,
+        "text": "By much sloth fulness the framework falleth in; and through idleness of the hands the house drippeth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17513,
+        "text": "A feast is made for laughter, and wine maketh life merry; but money answereth everything.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17514,
+        "text": "Curse not the king, no, not in thy thought; and curse not the rich in thy bedchamber: for the bird of the air will carry the voice, and that which hath wings will tell the matter.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

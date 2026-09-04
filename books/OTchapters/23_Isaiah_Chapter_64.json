@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 64,
+    "count": 743,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18887,
+        "text": "Oh, that thou wouldest rend the heavens, that thou wouldest come down,—that the mountains might flow down at thy presence,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18888,
+        "text": "—as fire kindleth brushwood, as the fire causeth water to boil, to make thy name known to thine adversaries, that the nations might tremble at thy presence!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18889,
+        "text": "When thou didst terrible things [which] we looked not for, thou camest down, and the mountains flowed down at thy presence.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18890,
+        "text": "Never have [men] heard, nor perceived by the ear, nor hath eye seen a God beside thee, who acteth for him that waiteth for him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18891,
+        "text": "Thou meetest him that rejoiceth to do righteousness, those that remember thee in thy ways: (behold, thou wast wroth, and we have sinned:) in those is perpetuity, and we shall be saved.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18892,
+        "text": "And we are all become as an unclean [thing], and all our righteousnesses are as filthy rags; and we all fade as a leaf, and our iniquities, like the wind, have carried us away;",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 18893,
+        "text": "and there is none that calleth upon thy name, that stirreth up himself to take hold of thee; for thou hast hidden thy face from us, and hast caused us to melt away through our iniquities.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18894,
+        "text": "And now, Jehovah, thou art our Father; we are the clay, and thou our potter; and we all are the work of thy hand.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18895,
+        "text": "Be not wroth very sore, O Jehovah, neither remember iniquity for ever. Behold, see, we beseech thee, we are all thy people.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18896,
+        "text": "Thy holy cities are become a wilderness, Zion is a wilderness, Jerusalem a desolation.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18897,
+        "text": "Our holy and our beautiful house, where our fathers praised thee, is burnt up with fire, and all our precious things are laid waste.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18898,
+        "text": "Wilt thou restrain thyself in presence of these things, Jehovah? Wilt thou hold thy peace, and afflict us very sore?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

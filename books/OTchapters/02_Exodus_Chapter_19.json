@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 69,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2028,
+        "text": "In the third month after the departure of the children of Israel out of the land of Egypt, the same day came they [into] the wilderness of Sinai:",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2029,
+        "text": "they departed from Rephidim, and came [into] the wilderness of Sinai, and encamped in the wilderness; and Israel encamped there before the mountain.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2030,
+        "text": "And Moses went up to God, and Jehovah called to him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2031,
+        "text": "Ye have seen what I have done to the Egyptians, and [how] I have borne you on eagles’ wings and brought you to myself.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2032,
+        "text": "And now, if ye will hearken to my voice indeed and keep my covenant, then shall ye be my own possession out of all the peoples—for all the earth is mine—",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2033,
+        "text": "and ye shall be to me a kingdom of priests, and a holy nation. These are the words which thou shalt speak to the children of Israel.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2034,
+        "text": "And Moses came and called the elders of the people, and laid before the mall these words which Jehovah had commanded him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2035,
+        "text": "And all the people answered together, and said, All that Jehovah has spoken will we do! And Moses brought the words of the people back to Jehovah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2036,
+        "text": "And Jehovah said to Moses, Lo, I will come to thee in the cloud’s thick darkness, that the people may hear when I speak with thee, and believe thee also for ever. And Moses told the words of the people to Jehovah.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 2037,
+        "text": "And Jehovah said to Moses, Go to the people, and hallow them to-day and to-morrow, and let them wash their clothes;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2038,
+        "text": "and let them be ready for the third day; for on the third day Jehovah will come down before the eyes of all the people on mount Sinai.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2039,
+        "text": "And set bounds round about the people, saying, Take heed to yourselves, [not] to go up unto the mountain nor touch the border of it: whatever toucheth the mountain shall certainly be put to death:",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2040,
+        "text": "not a hand shall touch it, but it shall certainly be stoned, or shot through; whether it be a beast or a man, it shall not live. When the long drawn note of the trumpet soundeth, they shall come up to the mountain.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2041,
+        "text": "And Moses came down from the mountain to the people, and hallowed the people; and they washed their clothes.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2042,
+        "text": "And he said to the people, Be ready for the third day; do not come near [your] wives.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2043,
+        "text": "And it came to pass on the third day, when it was morning, that there were thunders and lightnings and a heavy cloud on the mountain, and the sound of the trumpet exceeding loud; and the whole people that was in the camp trembled.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 2044,
+        "text": "And Moses brought the people out of the camp to meet with God; and they stood at the foot of the mountain.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2045,
+        "text": "And the whole of mount Sinai smoked, because Jehovah descended on it in fire; and its smoke ascended as the smoke of a furnace; and the whole mountain shook greatly.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2046,
+        "text": "And the sound of the trumpet increased and became exceeding loud; Moses spoke, and God answered him by a voice.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2047,
+        "text": "And Jehovah came down on mount Sinai, on the top of the mountain; and Jehovah called Moses to the top of the mountain, and Moses went up.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2048,
+        "text": "And Jehovah said to Moses, Go down, testify to the people that they break not through to Jehovah to gaze, and many of them perish.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2049,
+        "text": "And the priests also, who come near to Jehovah, shall hallow themselves, lest Jehovah break forth on them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2050,
+        "text": "And Moses said to Jehovah, The people cannot come up to mount Sinai; for thou hast testified to us, saying, Set bounds about the mountain, and hallow it.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2051,
+        "text": "And Jehovah said to him, Go, descend, and thou shalt come up, thou, and Aaron with thee; but the priests and the people shall not break through to go up to Jehovah, lest he break forth on them.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2052,
+        "text": "So Moses went down to the people, and told them.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

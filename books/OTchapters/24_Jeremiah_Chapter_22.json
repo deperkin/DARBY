@@ -1,0 +1,222 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 767,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19456,
+        "text": "Thus saith Jehovah: Go down to the house of the king of Judah, and speak there this word,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19457,
+        "text": "and say, Hear the word of Jehovah, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people who enter in through these gates.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19458,
+        "text": "Thus saith Jehovah: Execute judgment and righteousness, and deliver the spoiled out of the hand of the oppressor; and do no wrong, do no violence to the stranger, the fatherless, or the widow, and shed not innocent blood in this place.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19459,
+        "text": "For if ye do this thing indeed, then shall there enter in through the gates of this house kings sitting in the place of David upon his throne, riding in chariots and on horses,—he, and his servants, and his people.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19460,
+        "text": "But if ye will not hear these words, I have sworn by myself, saith Jehovah, that this house shall become a waste.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19461,
+        "text": "For thus saith Jehovah concerning the house of the king of Judah: Thou art a Gilead unto me, the summit of Lebanon: verily I will make thee a wilderness, cities not inhabited.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19462,
+        "text": "And I will prepare destroyers against thee, every one with his weapons; and they shall cut down the choice of thy cedars, and cast [them] into the fire.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 19463,
+        "text": "And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath Jehovah done thus unto this great city?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19464,
+        "text": "And they shall say, Because they have forsaken the covenant of Jehovah their God, and worshipped other gods, and served them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19465,
+        "text": "Weep not for the dead, neither bemoan him; [but] weep sore for him that goeth away, for he shall return no more, nor see his native country.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 19466,
+        "text": "For thus saith Jehovah concerning Shallum the son of Josiah, the king of Judah, who reigned instead of Josiah his father, who went forth out of this place: He shall not return thither any more;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19467,
+        "text": "for he shall die in the place whither they have led him captive, and shall see this land no more.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19468,
+        "text": "Woe unto him that buildeth his house by unrighteousness, and his upper chambers by injustice; that taketh his neighbour’s service without wages, and giveth him not his earning;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19469,
+        "text": "that saith, I will build me a wide house, and spacious upper chambers; and he cutteth out for himself windows; and it is wainscoted with cedar, and painted with vermilion.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19470,
+        "text": "Shalt thou reign, because thou viest with the cedar? Did not thy father eat and drink, and do judgment and justice? Then it was well with him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19471,
+        "text": "He judged the cause of the poor and needy; then it was well. Was not this to know me? saith Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19472,
+        "text": "But thine eyes and thy heart are only on thine extortion, and on the blood of the innocent, to shed it, and on oppression and on violence, to do it.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19473,
+        "text": "Therefore thus saith Jehovah concerning Jehoiakim the son of Josiah, the king of Judah: They shall not lament for him, Ah, my brother! or, Ah, sister! They shall not lament for him, Ah, lord! or Ah, his glory!",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19474,
+        "text": "He shall be buried with the burial of an ass, dragged along and cast forth beyond the gates of Jerusalem.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19475,
+        "text": "Go up to Lebanon, and cry; and give forth thy voice in Bashan, and cry from [the heights of] Abarim: for all thy lovers are destroyed.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 19476,
+        "text": "I spoke unto thee in thy prosperity; [but] thou saidst, I will not hear. This hath been thy way from thy youth, that thou hearkenedst not unto my voice.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 19477,
+        "text": "The wind shall feed on all thy shepherds, and thy lovers shall go into captivity; surely, then shalt thou be ashamed and confounded for all thy wickedness.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 19478,
+        "text": "Thou inhabitress of Lebanon, that makest thy nest in the cedars, how pitiful shalt thou be when pangs come upon thee, pain as of a woman in travail!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 19479,
+        "text": "[As] I live, saith Jehovah, though Coniah the son of Jehoiakim, the king of Judah, were a signet upon my right hand, yet will I pluck thee thence;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 19480,
+        "text": "and I will give thee into the hand of them that seek thy life, and into the hand of them before whom thou art afraid, even into the hand of Nebuchadrezzar king of Babylon, and into the hand of the Chaldeans.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 19481,
+        "text": "And I will cast thee out, and thy mother that bare thee, into another country, where ye were not born; and there shall ye die.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 19482,
+        "text": "And into the land whereunto they lift up their souls to return, thither shall they not return.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 19483,
+        "text": "Is this man Coniah a despised broken vase? a vessel wherein is no delight? Wherefore are they thrown out, he and his seed, and are cast into a land which they know not?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 19484,
+        "text": "O earth, earth, earth, hear the word of Jehovah!",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 19485,
+        "text": "Thus saith Jehovah: Write this man childless, a man that shall not prosper in his days; for no man of his seed shall prosper, sitting upon the throne of David, and ruling any more in Judah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 75,
+    "count": 553,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15073,
+        "text": "{To the chief Musician. ‘Destroy not.’ A Psalm of Asaph: a Song.} Unto thee we give thanks, O God, we give thanks; and thy name is near: thy marvellous works declare it.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15074,
+        "text": "When I shall receive the assembly, I will judge with equity.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15075,
+        "text": "The earth and all the inhabitants thereof are dissolved: I have established its pillars. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15076,
+        "text": "I said unto the boastful, Boast not; and to the wicked, Lift not up the horn:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15077,
+        "text": "Lift not up your horn on high; speak not arrogantly with a [stiff] neck.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15078,
+        "text": "For not from the east nor from the west, nor yet from the south doth exaltation [come]:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15079,
+        "text": "For God is the judge; he putteth down one and exalteth another.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15080,
+        "text": "For in the hand of Jehovah there is a cup, and it foameth with wine, it is full of mixture; and he poureth out of the same; yea, the dregs thereof shall all the wicked of the earth drain off, [and] drink.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15081,
+        "text": "But as for me, I will declare for ever; I will sing psalms to the God of Jacob.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15082,
+        "text": "And all the horns of the wicked will I cut off; [but] the horns of the righteous shall be exalted.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

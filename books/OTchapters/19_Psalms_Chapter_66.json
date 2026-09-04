@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 66,
+    "count": 544,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14875,
+        "text": "{To the chief Musician. A Song: a Psalm.} Shout aloud unto God, all the earth:",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14876,
+        "text": "Sing forth the glory of his name, make his praise glorious;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14877,
+        "text": "Say unto God, How terrible are thy works! because of the greatness of thy strength, thine enemies come cringing unto thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14878,
+        "text": "All the earth shall worship thee, and sing psalms unto thee: they shall sing forth thy name. Selah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14879,
+        "text": "Come and see the works of God: he is terrible in [his] doings toward the children of men.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14880,
+        "text": "He turned the sea into dry [land]; they went through the river on foot: there did we rejoice in him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14881,
+        "text": "He ruleth by his power for ever; his eyes observe the nations: let not the rebellious exalt themselves. Selah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14882,
+        "text": "Bless our God, ye peoples, and make the voice of his praise to be heard;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14883,
+        "text": "Who hath set our soul in life, and suffereth not our feet to be moved.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14884,
+        "text": "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14885,
+        "text": "Thou broughtest us into a net, thou didst lay a heavy burden upon our loins;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14886,
+        "text": "Thou didst cause men to ride over our head; we went through fire and through water: but thou hast brought us out into abundance.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14887,
+        "text": "I will go into thy house with burnt-offerings; I will perform my vows to thee,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 14888,
+        "text": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14889,
+        "text": "I will offer up unto thee burnt-offerings of fatted beasts, with the incense of rams; I will offer bullocks with goats. Selah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14890,
+        "text": "Come, hear, all ye that fear God, and I will declare what he hath done for my soul.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14891,
+        "text": "I called unto him with my mouth, and he was extolled with my tongue.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14892,
+        "text": "Had I regarded iniquity in my heart, the Lord would not hear.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14893,
+        "text": "But God hath heard; he hath attended to the voice of my prayer.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14894,
+        "text": "Blessed be God, who hath not turned away my prayer, nor his loving-kindness from me!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

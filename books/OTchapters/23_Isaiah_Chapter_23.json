@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 702,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18079,
+        "text": "The burden of Tyre. Howl, ye ships of Tarshish! for it is laid waste, so that there is no house, none entering in. From the land of Chittim it is revealed to them.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18080,
+        "text": "Be still, ye inhabitants of the isle! The merchants of Sidon, that pass over the sea, have replenished thee.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18081,
+        "text": "And on great waters, the seed of Shihor, the harvest of the Nile, was her revenue; and she was the market of the nations.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18082,
+        "text": "Be thou ashamed, Sidon, for the sea hath spoken, the strength of the sea, saying, I have not travailed nor brought forth, neither have I nourished young men [nor] brought up virgins.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18083,
+        "text": "when the report came into Egypt, they were sorely pained at the news of Tyre.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18084,
+        "text": "Pass over to Tarshish; howl, ye inhabitants of the coast!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18085,
+        "text": "Is this your joyous [city], whose antiquity is of ancient days? Her feet shall carry her afar off to sojourn.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18086,
+        "text": "Who hath purposed this against Tyre, the distributor of crowns, whose merchants were princes, whose dealers were the honourable of the earth?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18087,
+        "text": "Jehovah of hosts hath purposed it, to profane the pride of all glory, to bring to nought all the honourable of the earth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18088,
+        "text": "Overflow thy land like the Nile, daughter of Tarshish: there is no more restraint.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18089,
+        "text": "He hath stretched out his hand over the sea, he shaketh the kingdoms. Jehovah hath given a commandment concerning Canaan, to destroy the strongholds thereof,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18090,
+        "text": "and hath said, Thou shalt no more exult, [thou] oppressed virgin, daughter of Sidon: get thee up, pass over to Chittim; even there shalt thou have no rest.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18091,
+        "text": "Behold the land of the Chaldeans: this people did not exist; the Assyrian founded it for the dwellers in the desert: they set up their towers, they destroyed the palaces thereof; he brought it to ruin.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18092,
+        "text": "Howl, ships of Tarshish! for your fortress is laid waste.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18093,
+        "text": "And it shall come to pass in that day, that Tyre shall be forgotten seventy years, according to the days of one king. At the end of seventy years it shall be for Tyre as the harlot’s song.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 18094,
+        "text": "Take a harp, go about the city, thou forgotten harlot! Make sweet melody, sing many songs, that thou mayest be remembered.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18095,
+        "text": "And it shall come to pass at the end of seventy years, that Jehovah will visit Tyre; and she will return to her hire, and will commit fornication with all the kingdoms of the earth upon the face of the ground.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18096,
+        "text": "And her merchandise and her hire shall be holy to Jehovah: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before Jehovah, to eat and be sufficed, and for excellent clothing.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

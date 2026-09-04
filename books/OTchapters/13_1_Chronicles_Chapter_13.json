@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 351,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10762,
+        "text": "And David consulted with the captains of thousands and hundreds, with every prince.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10763,
+        "text": "And David said to all the congregation of Israel, If it seem good to you, and it be of Jehovah our God, let us send abroad to our brethren everywhere, that are left in all the lands of Israel, and with them to the priests and Levites in their cities and suburbs, that they may gather themselves to us;",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10764,
+        "text": "and let us bring again the ark of our God to us; for we inquired not of it in the days of Saul.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10765,
+        "text": "And all the congregation said that they should do so; for the thing was right in the eyes of all the people.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10766,
+        "text": "And David assembled all Israel from the Shihor of Egypt unto the entrance of Hamath, to bring the ark of God from Kirjath-jearim.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10767,
+        "text": "And David went up, and all Israel, to Baalah, to Kirjath-jearim, which belonged to Judah, to bring up from thence the ark of God, of Jehovah, who sitteth between the cherubim, whose name is placed [there].",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10768,
+        "text": "And they carried the ark of God on a new cart out of the house of Abinadab; and Uzza and Ahio drove the cart.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10769,
+        "text": "And David and all Israel played before God with all their might, and with singing, and with harps, and with lutes, and with tambours, and with cymbals, and with trumpets.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10770,
+        "text": "And when they came to the threshing-floor of Chidon, Uzza put forth his hand to hold the ark; for the oxen had stumbled.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 10771,
+        "text": "And the anger of Jehovah was kindled against Uzza, and he smote him, because he had put forth his hand to the ark; and there he died before God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10772,
+        "text": "And David was indignant; for Jehovah had made a breach upon Uzza; and he called that place Perez-Uzza to this day.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10773,
+        "text": "And David was afraid of God that day, saying, How shall I bring the ark of God to me?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10774,
+        "text": "And David brought not the ark home unto himself into the city of David, but he carried it aside into the house of Obed-Edom the Gittite.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10775,
+        "text": "And the ark of God remained with the family of Obed-Edom in his house three months. And Jehovah blessed the house of Obed-Edom, and all that he had.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

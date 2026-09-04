@@ -1,0 +1,383 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 313,
+    "MaxVerses": 53,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9482,
+        "text": "And they continued three years without war between Syria and Israel.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9483,
+        "text": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9484,
+        "text": "And the king of Israel said to his servants, Do ye know that Ramoth in Gilead is ours, and we keep quiet without taking it out of the hand of the king of Syria?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9485,
+        "text": "And he said to Jehoshaphat, Wilt thou go with me to battle to Ramoth-Gilead? And Jehoshaphat said to the king of Israel, I am as thou, my people as thy people, my horses as thy horses.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9486,
+        "text": "And Jehoshaphat said to the king of Israel, Inquire, I pray thee, this day of the word of Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9487,
+        "text": "And the king of Israel assembled the prophets, about four hundred men, and said to them, Shall I go against Ramoth-Gilead to battle, or shall I forbear? And they said, Go up, and the Lord will give it into the king’s hand.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9488,
+        "text": "But Jehoshaphat said, Is there not here a prophet of Jehovah besides, that we might inquire of him?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9489,
+        "text": "And the king of Israel said to Jehoshaphat, There is yet one man by whom we may inquire of Jehovah; but I hate him, for he prophesies no good concerning me, but evil: [it is] Micah the son of Imlah. And Jehoshaphat said, Let not the king say so.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9490,
+        "text": "Then the king of Israel called a chamberlain, and said, Fetch quickly Micah the son of Imlah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9491,
+        "text": "And the king of Israel and Jehoshaphat the king of Judah, having put on their robes, sat each on his throne, in the open place at the entrance of the gate of Samaria; and all the prophets prophesied before them.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9492,
+        "text": "And Zedekiah the son of Chenaanah made for himself horns of iron, and he said, Thus saith Jehovah: With these shalt thou push the Syrians, until thou have exterminated them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9493,
+        "text": "And all the prophets prophesied so, saying, Go up to Ramoth-Gilead, and prosper; for Jehovah will give it into the king’s hand.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9494,
+        "text": "And the messenger that went to call Micah spoke to him saying, Behold now, the words of the prophets [declare] good to the king with one assent: let thy word, I pray thee, be like the word of one of them, and speak good.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9495,
+        "text": "And Micah said, As Jehovah liveth, even what Jehovah shall say to me, that will I speak.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9496,
+        "text": "And he came to the king. And the king said to him, Micah, shall we go against Ramoth-Gilead to battle, or shall we forbear? And he said to him, Go up, and prosper; for Jehovah will give it into the hand of the king.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 9497,
+        "text": "And the king said to him, How many times shall I adjure thee that thou tell me nothing but truth in the name of Jehovah?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9498,
+        "text": "And he said, I saw all Israel scattered upon the mountains, as sheep that have no shepherd. And Jehovah said, These have no master: let them return every man to his house in peace.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9499,
+        "text": "And the king of Israel said to Jehoshaphat, Did I not tell thee that he prophesies no good concerning me, but evil?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9500,
+        "text": "And he said, Hear therefore the word of Jehovah: I saw Jehovah sitting upon his throne, and all the host of heaven standing by him, on his right hand and on his left;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9501,
+        "text": "and Jehovah said, Who shall entice Ahab that he may go up and fall at Ramoth-Gilead? And one said after this manner, and another said after that manner.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9502,
+        "text": "And there came forth a spirit, and stood before Jehovah, and said, I will entice him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9503,
+        "text": "And Jehovah said unto him, Wherewith? And he said, I will go forth, and will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt entice [him], and also succeed: go forth, and do so.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9504,
+        "text": "And now, behold, Jehovah has put a lying spirit in the mouth of all these thy prophets, and Jehovah has spoken evil concerning thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9505,
+        "text": "Then Zedekiah the son of Chenaanah went near, and smote Micah upon the cheek, and said, Where now went the Spirit of Jehovah from me to speak to thee?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9506,
+        "text": "And Micah said, Behold, thou shalt see on that day when thou shalt go from chamber to chamber to hide thyself.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9507,
+        "text": "And the king of Israel said, Take Micah and carry him back to Amon the governor of the city, and to Joash the king’s son;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9508,
+        "text": "and thou shalt say, Thus says the king: Put this [man] in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9509,
+        "text": "And Micah said, If thou return at all in peace, Jehovah has not spoken by me. And he said, Hearken, O peoples, all of you!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9510,
+        "text": "And the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-Gilead.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 9511,
+        "text": "And the king of Israel said to Jehoshaphat, I will disguise myself, and will enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 9512,
+        "text": "And the king of Syria commanded the thirty-two captains of his chariots saying, Fight neither with small nor great, but with the king of Israel only.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 9513,
+        "text": "And it came to pass when the captains of the chariots saw Jehoshaphat, that they said, Surely that is the king of Israel; and they turned against him to fight; and Jehoshaphat cried out.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 9514,
+        "text": "And it came to pass that when the captains of the chariots perceived that it was not the king of Israel, they turned back from pursuing him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 9515,
+        "text": "And a man drew a bow at a venture, and smote the king of Israel between the fastenings and the corslet. And he said to his charioteer, Turn thy hand, and drive me out of the camp; for I am wounded.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 9516,
+        "text": "And the battle increased that day; and the king was stayed up in his chariot against the Syrians, and he died at even; and the blood of the wound ran out into the hollow of the chariot.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 9517,
+        "text": "And there went the cry throughout the host at the going down of the sun, saying, Every man to his city, and every man to his own country!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 9518,
+        "text": "And the king died, and was brought to Samaria; and they buried the king in Samaria.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 9519,
+        "text": "And one washed the chariot in the pool of Samaria; and the dogs licked his blood, where the harlots bathed: according to the word of Jehovah, which he had spoken.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 9520,
+        "text": "And the rest of the acts of Ahab, and all that he did, and the ivory house that he built, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 9521,
+        "text": "And Ahab slept with his fathers; and Ahaziah his son reigned in his stead.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 9522,
+        "text": "And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 9523,
+        "text": "Jehoshaphat was thirty-five years old when he began to reign; and he reigned twenty-five years in Jerusalem; and his mother’s name was Azubah, the daughter of Shilhi.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 9524,
+        "text": "And he walked in all the way of Asa his father; he turned not aside from it, doing what was right in the sight of Jehovah. Only, the high places were not removed: the people offered and burned incense still on the high places.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 9525,
+        "text": "And Jehoshaphat was at peace with the king of Israel.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 9526,
+        "text": "And the rest of the acts of Jehoshaphat, and his might which he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 9527,
+        "text": "And the remainder of the sodomites, which were left in the days of his father Asa, he put away from out of the land.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 9528,
+        "text": "And there was no king in Edom: a deputy reigned.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 9529,
+        "text": "Jehoshaphat made Tarshish-ships to go to Ophir for gold; but they went not, for the ships were broken at Ezion-geber.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 9530,
+        "text": "Then said Ahaziah the son of Ahab to Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 9531,
+        "text": "And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father; and Jehoram his son reigned in his stead.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 9532,
+        "text": "Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah; and he reigned two years over Israel.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 9533,
+        "text": "And he did evil in the sight of Jehovah, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 9534,
+        "text": "And he served Baal, and worshipped him, and provoked Jehovah the God of Israel to anger, according to all that his father had done.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

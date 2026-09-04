@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 827,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21085,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21086,
+        "text": "Son of man, set thy face against the children of Ammon, and prophesy against them;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21087,
+        "text": "and say unto the children of Ammon, Hear the word of the Lord Jehovah. Thus saith the Lord Jehovah: Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was made desolate; and against the house of Judah, when they went into captivity:",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21088,
+        "text": "therefore behold, I will give thee to the children of the east for a possession, and they shall set their encampments in thee, and make their dwellings in thee; they shall eat thy fruits, and they shall drink thy milk.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21089,
+        "text": "And I will make Rabbah a pasture for camels, and the children of Ammon a couching-place for flocks: and ye shall know that I [am] Jehovah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21090,
+        "text": "For thus saith the Lord Jehovah: Because thou hast clapped the hands, and stamped with the feet, and rejoiced with all the despite of thy soul against the land of Israel;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21091,
+        "text": "therefore behold, I will stretch out my hand upon thee, and will give thee for a spoil to the nations; and I will cut thee off from the peoples, and I will cause thee to perish out of the countries: I will destroy thee, and thou shalt know that I [am] Jehovah.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21092,
+        "text": "Thus saith the Lord Jehovah: Because Moab and Seir do say, Behold, the house of Judah is like unto all the nations,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 21093,
+        "text": "therefore behold, I will open the side of Moab from the cities, from his cities even to the last of them, the glory of the country, Beth-jeshimoth, Baal-meon, and Kirjathaim,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21094,
+        "text": "unto the children of the east, with [the land of] the children of Ammon; and I will give it them for a possession, that the children of Ammon may not be remembered among the nations:",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21095,
+        "text": "and I will execute judgments upon Moab, and they shall know that I [am] Jehovah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21096,
+        "text": "Thus saith the Lord Jehovah: Because Edom hath dealt against the house of Judah by taking vengeance, and hath made himself very guilty, and revenged himself upon them,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21097,
+        "text": "therefore thus saith the Lord Jehovah: I will also stretch out my hand upon Edom; and will cut off man and beast from it; and I will make it desolate from Teman; and unto Dedan shall they fall by the sword.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21098,
+        "text": "And I will execute my vengeance upon Edom, by the hand of my people Israel; and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord Jehovah.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21099,
+        "text": "Thus saith the Lord Jehovah: Because the Philistines have dealt by revenge, and have taken vengeance with despite of soul, to destroy, from old hatred;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21100,
+        "text": "therefore thus saith the Lord Jehovah: Behold, I stretch out my hands upon the Philistines, and I will cut off the Kerethites, and cause the remnant of the sea-coast to perish.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21101,
+        "text": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I [am] Jehovah, when I shall lay my vengeance upon them.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

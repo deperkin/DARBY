@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 139,
+    "count": 617,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16241,
+        "text": "{To the chief Musician. A Psalm of David.} Jehovah, thou hast searched me, and known [me].",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16242,
+        "text": "Thou knowest my down-sitting and mine uprising, thou understandest my thought afar off;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16243,
+        "text": "Thou searchest out my path and my lying down, and art acquainted with all my ways;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16244,
+        "text": "For there is not yet a word on my tongue, [but] lo, O Jehovah, thou knowest it altogether.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16245,
+        "text": "Thou hast beset me behind and before, and laid thy hand upon me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16246,
+        "text": "O knowledge too wonderful for me! it is high, I cannot [attain] unto it.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16247,
+        "text": "Whither shall I go from thy Spirit? and whither flee from thy presence?",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16248,
+        "text": "If I ascend up into the heavens thou art there; or if I make my bed in Sheol, behold, thou [art there];",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16249,
+        "text": "[If] I take the wings of the dawn [and] dwell in the uttermost parts of the sea,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16250,
+        "text": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16251,
+        "text": "And if I say, Surely darkness shall cover me, and the light about me be night;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16252,
+        "text": "Even darkness hideth not from thee, and the night shineth as the day: the darkness is as the light.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16253,
+        "text": "For thou hast possessed my reins; thou didst cover me in my mother’s womb.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16254,
+        "text": "I will praise thee, for I am fearfully, wonderfully made. Marvellous are thy works; and [that] my soul knoweth right well.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16255,
+        "text": "My bones were not hidden from thee when I was made in secret, curiously wrought in the lower parts of the earth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16256,
+        "text": "Thine eyes did see my unformed substance, and in thy book all [my members] were written; [during many] days were they fashioned, when [as yet] there was none of them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16257,
+        "text": "But how precious are thy thoughts unto me, O God! how great is the sum of them!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16258,
+        "text": "[If] I would count them, they are more in number than the sand. When I awake, I am still with thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16259,
+        "text": "Oh that thou wouldest slay the wicked, O +God! And ye men of blood, depart from me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16260,
+        "text": "For they speak of thee wickedly, they take [thy name] in vain, thine enemies.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16261,
+        "text": "Do not I hate them, O Jehovah, that hate thee? and do not I loathe them that rise up against thee?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16262,
+        "text": "I hate them with perfect hatred; I account them mine enemies.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16263,
+        "text": "Search me, O God, and know my heart; prove me, and know my thoughts;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16264,
+        "text": "And see if there be any grievous way in me; and lead me in the way everlasting.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

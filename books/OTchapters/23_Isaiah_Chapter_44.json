@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 44,
+    "count": 723,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18535,
+        "text": "And now hear, Jacob, my servant, and Israel, whom I have chosen:",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18536,
+        "text": "thus saith Jehovah, that made thee, and formed thee from the womb, who helpeth thee, Fear not, Jacob, my servant, and thou, Jeshurun, whom I have chosen.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18537,
+        "text": "For I will pour water upon him that is thirsty, and floods upon the dry ground; I will pour my Spirit upon thy seed, and my blessing upon thine offspring.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18538,
+        "text": "And they shall spring up among the grass, as willows by the water-courses.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18539,
+        "text": "One shall say, I am Jehovah’s; and another shall call [himself] by the name of Jacob; and another shall write with his hand: [I am] Jehovah’s, and surname [himself] by the name of Israel.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18540,
+        "text": "Thus saith Jehovah, the King of Israel, and his Redeemer, Jehovah of hosts: I [am] the first, and I [am] the last, and beside me there is no God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18541,
+        "text": "And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? And the coming things, and those that shall happen, let them declare unto them.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18542,
+        "text": "Fear not, neither be afraid. Have I not caused thee to hear from that time, and have declared it? and ye are my witnesses. Is there a +God beside me? yea, there is no Rock: I know not any.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18543,
+        "text": "They that form a graven image are all of them vanity, and their delectable things are of no profit; and they are their own witnesses: they see not, nor know;—that they may be ashamed.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18544,
+        "text": "Who hath formed a god, or molten a graven image that is profitable for nothing?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18545,
+        "text": "Behold, all his fellows shall be ashamed; and the workmen are but men. Let them all be gathered together, let them stand up: they shall fear, they shall be ashamed together.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18546,
+        "text": "The iron-smith [hath] a chisel, and he worketh in the coals, and he fashioneth it with hammers, and worketh it with his strong arm;—but he is hungry, and his strength faileth; he hath not drunk water, and he is faint.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18547,
+        "text": "The worker in wood stretcheth out a line; he marketh it out with red chalk; he formeth it with sharp tools, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of man: that it may remain in the house.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18548,
+        "text": "When he heweth him down cedars, he taketh also a holm-oak and a terebinth—he chooseth for himself among the trees of the forest: he planteth a pine, and the rain maketh [it] grow.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18549,
+        "text": "And it shall be for a man to burn, and he taketh thereof, and warmeth himself; he kindleth it also, and baketh bread; he maketh also a god, and worshippeth it; he maketh it a graven image, and falleth down thereto.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18550,
+        "text": "He burneth part thereof in the fire; with part thereof he eateth flesh, he roasteth roast, and is satisfied; yea, he is warm, and saith, Aha, I am become warm, I have seen the fire.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18551,
+        "text": "And with the remainder thereof he maketh a god, his graven image; he falleth down unto it, and worshippeth it, and prayeth unto it, and saith, Deliver me, for thou art my god.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18552,
+        "text": "They have no knowledge, and understand not; for he hath plastered their eyes, that they may not see; and their hearts, that they may not understand.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18553,
+        "text": "And none taketh it to heart, neither is there knowledge nor understanding to say, I have burned part of it in the fire, and have also baked bread upon the coals thereof, I have roasted flesh, and eaten [it], and with the rest thereof shall I make an abomination? shall I bow down to a block of wood?",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18554,
+        "text": "He feedeth on ashes; a deceived heart hath turned him aside, that he cannot deliver his soul, nor say, Is there not a lie in my right hand?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18555,
+        "text": "Remember these things, O Jacob, and Israel, for thou art my servant; I have formed thee: thou art my servant, Israel; thou shalt not be forgotten of me.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 18556,
+        "text": "I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 18557,
+        "text": "Sing, ye heavens; for Jehovah hath done it: shout, ye lower parts of the earth; break forth into singing, ye mountains, the forest, and every tree therein! For Jehovah hath redeemed Jacob, and glorified himself in Israel.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 18558,
+        "text": "Thus saith Jehovah, thy Redeemer, and he that formed thee from the womb: I [am] Jehovah, the maker of all things; who alone stretched out the heavens, who did spread forth the earth by myself;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 18559,
+        "text": "—he that frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise men backward, and maketh their knowledge foolish;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 18560,
+        "text": "that confirmeth the word of his servant, and performeth the counsel of his messengers; that saith to Jerusalem, Thou shalt be inhabited; and to the cities of Judah, Ye shall be built up, and I will raise up their ruins;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 18561,
+        "text": "that saith to the deep, Be dry, and I will dry up thy rivers;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 18562,
+        "text": "that saith of Cyrus, [He is] my shepherd, and he shall perform all my pleasure; even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

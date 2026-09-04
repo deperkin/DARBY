@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 55,
+    "count": 734,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18742,
+        "text": "Ho, every one that thirsteth, come ye to the waters; and he that hath no money, come ye, buy, and eat: yea, come, buy wine and milk without money and without price!",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18743,
+        "text": "Wherefore do ye spend money for [that which is] not bread? and your labour for that which satisfieth not? Hearken diligently unto me, and eat ye [that which is] good, and let your soul delight itself in fatness.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18744,
+        "text": "Incline your ear, and come unto me; hear, and your soul shall live; and I will make an everlasting covenant with you, the sure mercies of David.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18745,
+        "text": "Behold, I have given him [for] a witness to the peoples, a prince and commander to the peoples.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18746,
+        "text": "Behold, thou shalt call a nation thou knowest not, and a nation [that] knew not thee shall run unto thee, because of Jehovah thy God, and the Holy One of Israel; for he hath glorified thee.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18747,
+        "text": "Seek ye Jehovah while he may be found, call ye upon him while he is near.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 18748,
+        "text": "Let the wicked forsake his way, and the unrighteous man his thoughts; and let him return unto Jehovah, and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18749,
+        "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith Jehovah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18750,
+        "text": "For [as] the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18751,
+        "text": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18752,
+        "text": "so shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall do that which I please, and it shall accomplish that for which I send it.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18753,
+        "text": "For ye shall go out with joy, and be led forth with peace; the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18754,
+        "text": "Instead of the thorn shall come up the cypress, and instead of the nettle shall come up the myrtle; and it shall be to Jehovah for a name, for an everlasting sign [that] shall not be cut off.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 254,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7678,
+        "text": "And it came to pass, when he had ended speaking to Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7679,
+        "text": "And Saul took him that day, and would not let him return to his father’s house.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7680,
+        "text": "And Jonathan and David made a covenant, because he loved him as his own soul.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7681,
+        "text": "And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his dress, even to his sword, and to his bow, and to his girdle.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7682,
+        "text": "And David went forth; whithersoever Saul sent him he prospered; and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7683,
+        "text": "And it came to pass as they came, when David returned from the slaughter of the Philistine, that the women came out of all the cities of Israel, singing and dancing, to meet king Saul, with tambours, with joy, and with triangles.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 7684,
+        "text": "And the women answered [one another] as they played, and said, Saul hath smitten his thousands, And David his ten thousands.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7685,
+        "text": "And Saul was very wroth, and that saying was evil in his sight; and he said, They have ascribed to David ten thousands, but to me they have ascribed the thousands; and [what] is there more for him but the kingdom?",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7686,
+        "text": "And Saul eyed David from that day and forward.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7687,
+        "text": "And it came to pass the next day that an evil spirit from God came upon Saul, and he prophesied in the midst of the house, but David played with his hand, as on other days; and the spear was in Saul’s hand.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7688,
+        "text": "And Saul cast the spear, and thought, I will smite David and the wall. But David turned away from him twice.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7689,
+        "text": "And Saul was afraid of David, because Jehovah was with him, and had departed from Saul.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 7690,
+        "text": "And Saul removed him from him, and made him his captain over a thousand; and he went out and came in before the people.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7691,
+        "text": "And David prospered in all his ways; and Jehovah was with him.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7692,
+        "text": "And Saul saw that he prospered well, and he stood in awe of him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7693,
+        "text": "But all Israel and Judah loved David, for he went out and came in before them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7694,
+        "text": "And Saul said to David, Behold my eldest daughter Merab, her will I give thee to wife; only be thou valiant for me, and fight Jehovah’s battles. But Saul thought, My hand shall not be upon him, but the hand of the Philistines shall be upon him.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7695,
+        "text": "And David said to Saul, Who am I? and what is my life, [or] my father’s family in Israel, that I should be son-in-law to the king?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7696,
+        "text": "And it came to pass at the time when Merab Saul’s daughter should have been given to David, that she was given to Adriel the Meholathite as wife.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7697,
+        "text": "And Michal Saul’s daughter loved David; and they told Saul, and the thing was right in his sight.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7698,
+        "text": "And Saul said, I will give him her, that she may be a snare to him, and that the hand of the Philistines may be upon him. And Saul said to David, Thou shalt this day be my son-in-law a second time.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7699,
+        "text": "And Saul commanded his servants, Speak with David secretly, saying, Behold, the king has delight in thee, and all his servants love thee: now therefore be the king’s son-in-law.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 7700,
+        "text": "And Saul’s servants spoke those words in the ears of David. And David said, Is it a light thing in your eyes to be the king’s son-in-law, seeing that I am a poor man, and lightly esteemed?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 7701,
+        "text": "And the servants of Saul told him, saying, On this manner did David speak.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 7702,
+        "text": "And Saul said, Thus shall ye say to David: The king does not desire any dowry, but a hundred foreskins of the Philistines, to be avenged of the king’s enemies. But Saul thought to make David fall by the hand of the Philistines.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 7703,
+        "text": "And his servants told David these words; and the thing was right in David’s sight to be the king’s son-in-law. And the days were not expired,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 7704,
+        "text": "when David arose and went, he and his men, and smote of the Philistines two hundred men; and David brought their foreskins, and they delivered them in full to the king, that he might be the king’s son-in-law. And Saul gave him Michal his daughter as wife.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 7705,
+        "text": "And Saul saw and knew that Jehovah was with David; and Michal Saul’s daughter loved him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 7706,
+        "text": "And Saul was yet the more afraid of David; and Saul was David’s enemy continually.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 7707,
+        "text": "And the princes of the Philistines went forth; and it came to pass, whenever they went forth, that David succeeded better than all the servants of Saul; and his name was much esteemed.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 87,
+    "count": 565,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15303,
+        "text": "{Of the sons of Korah. A Psalm. A Song.} His foundation is in the mountains of holiness.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15304,
+        "text": "Jehovah loveth the gates of Zion more than all the habitations of Jacob.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15305,
+        "text": "Glorious things are spoken of thee, O city of God. Selah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15306,
+        "text": "I will make mention of Rahab and Babylon among them that know me; behold Philistia, and Tyre, with Ethiopia: this [man] was born there.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 15307,
+        "text": "And of Zion it shall be said, This one and that one was born in her; and the Most High himself shall establish her.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15308,
+        "text": "Jehovah will count, when he inscribeth the peoples, This [man] was born there. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15309,
+        "text": "As well the singers as the dancers [shall say], All my springs are in thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

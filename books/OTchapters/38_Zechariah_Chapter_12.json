@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 923,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23047,
+        "text": "The burden of the word of Jehovah concerning Israel. [Thus] saith Jehovah, who stretcheth out the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him:",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23048,
+        "text": "Behold, I will make Jerusalem a cup of bewilderment unto all the peoples round about, and also against Judah shall it be in the siege against Jerusalem.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23049,
+        "text": "And it shall come to pass in that day [that] I will make Jerusalem a burdensome stone unto all peoples: all that burden themselves with it shall certainly be wounded, and all the nations of the earth shall be assembled together against it.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23050,
+        "text": "In that day, saith Jehovah, I will smite every horse with astonishment, and his rider with madness; but I will open mine eyes upon the house of Judah, and will smite every horse of the peoples with blindness.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23051,
+        "text": "And the leaders of Judah shall say in their heart, The inhabitants of Jerusalem shall be my strength through Jehovah of hosts their God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23052,
+        "text": "In that day will I make the leaders of Judah like a hearth of fire among wood, and like a torch of fire in a sheaf; and they shall devour all the peoples round about, on the right hand and on the left; and Jerusalem shall dwell again in her own place, in Jerusalem.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23053,
+        "text": "And Jehovah shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified over Judah.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23054,
+        "text": "In that day will Jehovah defend the inhabitants of Jerusalem; and he that stumbleth among them at that day shall be as David; and the house of David as God, as the Angel of Jehovah before them.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23055,
+        "text": "And it shall come to pass in that day, [that] I will seek to destroy all the nations that come against Jerusalem.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 23056,
+        "text": "And I will pour upon the house of David and upon the inhabitants of Jerusalem the spirit of grace and of supplications; and they shall look on me whom they pierced, and they shall mourn for him, as one mourneth for an only [son], and shall be in bitterness for him, as one that is in bitterness for [his] firstborn.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23057,
+        "text": "In that day shall there be a great mourning in Jerusalem, as the mourning of Hadad-rimmon in the valley of Megiddon.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23058,
+        "text": "And the land shall mourn, every family apart: the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23059,
+        "text": "the family of the house of Levi apart, and their wives apart; the family of Shimei apart, and their wives apart;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23060,
+        "text": "all the families that remain, every family apart, and their wives apart.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

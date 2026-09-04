@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 668,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17477,
+        "text": "For all this I laid to my heart and [indeed] to investigate all this, that the righteous, and the wise, and their works, are in the hand of God; man knoweth neither love nor hatred: all is before them.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17478,
+        "text": "All things [come] alike to all: one event to the righteous and to the wicked, to the good, and to the clean, and to the unclean, to him that sacrificeth and to him that sacrificeth not: as is the good, so is the sinner; he that sweareth, as he that feareth an oath.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17479,
+        "text": "This is an evil among all that is done under the sun, that one thing befalleth all: yea, also the heart of the children of men is full of evil, and madness is in their heart while they live; and after that, [they have to go] to the dead.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17480,
+        "text": "For to him that is joined to all the living there is hope; for a living dog is better than a dead lion.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17481,
+        "text": "For the living know that they shall die; but the dead know not anything, neither have they any more a reward, for the memory of them is forgotten.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17482,
+        "text": "Their love also, and their hatred, and their envy is already perished; neither have they any more for ever a portion in all that is done under the sun.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17483,
+        "text": "Go, eat thy bread with joy, and drink thy wine with a merry heart; for God hath already accepted thy works.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17484,
+        "text": "Let thy garments be always white, and let not thy head lack oil.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17485,
+        "text": "Enjoy life with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity; for that is thy portion in life, and in thy labour wherein thou art labouring under the sun.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17486,
+        "text": "Whatever thy hand findeth to do, do with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in Sheol, whither thou goest.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17487,
+        "text": "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to the intelligent, nor yet favour to men of knowledge; but time and chance happeneth to them all.",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17488,
+        "text": "For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are taken with the snare, like them are the children of men snared in an evil time, when it falleth suddenly upon them.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17489,
+        "text": "This also have I seen as wisdom under the sun, and it was great unto me.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 17490,
+        "text": "There was a little city, and few men within it; and there came a great king against it, and encompassed it, and built great bulwarks against it:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17491,
+        "text": "and there was found in it a poor wise man, who by his wisdom delivered the city; but no man remembered that poor man.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17492,
+        "text": "Then said I, Wisdom is better than strength; but the poor man’s wisdom is despised, and his words are not heard.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17493,
+        "text": "The words of the wise are heard in quiet more than the cry of him that ruleth among fools.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17494,
+        "text": "Wisdom is better than weapons of war; but one sinner destroyeth much good.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

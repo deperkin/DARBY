@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 239,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7278,
+        "text": "And the boy Samuel ministered to Jehovah before Eli. And the word of Jehovah was rare in those days; a vision was not frequent.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7279,
+        "text": "And it came to pass at that time, when Eli lay in his place (now his eyes began to grow dim, he could not see),",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7280,
+        "text": "and the lamp of God had not yet gone out, and Samuel lay in the temple of Jehovah, where the ark of God was,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7281,
+        "text": "that Jehovah called to Samuel. And he said, Here am I.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7282,
+        "text": "And he ran to Eli, and said, Here am I; for thou calledst me. And he said, I did not call: lie down again. And he went and lay down.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7283,
+        "text": "And Jehovah called again, Samuel! And Samuel arose and went to Eli, and said, Here am I; for thou calledst me. And he said, I did not call, my son: lie down again.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7284,
+        "text": "Now Samuel did not yet know Jehovah, neither had the word of Jehovah yet been revealed to him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7285,
+        "text": "And Jehovah called again the third time, Samuel! And he arose and went to Eli, and said, Here am I; for thou calledst me. And Eli perceived that Jehovah was calling the boy.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7286,
+        "text": "And Eli said to Samuel, Go, lie down; and it shall be, if he call thee, that thou shalt say, Speak, Jehovah, for thy servant heareth. So Samuel went and lay down in his place.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7287,
+        "text": "And Jehovah came, and stood, and called as at the other times, Samuel, Samuel! And Samuel said, Speak, for thy servant heareth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7288,
+        "text": "And Jehovah said to Samuel, Behold, I do a thing in Israel, at which both the ears of every one that heareth it shall tingle.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 7289,
+        "text": "In that day I will perform against Eli all that I have spoken concerning his house; I will begin and make an end.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7290,
+        "text": "For I have declared to him that I will judge his house for ever, for the iniquity which he hath known: because his sons made themselves vile, and he restrained them not.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7291,
+        "text": "And therefore I have sworn unto the house of Eli that the iniquity of Eli’s house shall not be expiated with sacrifice or oblation for ever.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7292,
+        "text": "And Samuel lay until the morning, and opened the doors of the house of Jehovah. And Samuel feared to declare the vision to Eli.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7293,
+        "text": "And Eli called Samuel, and said, Samuel, my son. And he said, Here am I.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7294,
+        "text": "And he said, What is the word that he has spoken to thee? I pray thee, keep it not back from me: God do so to thee, and more also, if thou keep back anything from me of all the word that he spoke to thee.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7295,
+        "text": "And Samuel told him all the words, and kept nothing back from him. And he said, It is Jehovah: let him do what is good in his sight.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7296,
+        "text": "And Samuel grew, and Jehovah was with him, and let none of his words fall to the ground.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 7297,
+        "text": "And all Israel, from Dan even to Beer-sheba, knew that Samuel was established a prophet of Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7298,
+        "text": "And Jehovah appeared again at Shiloh; for Jehovah revealed himself to Samuel at Shiloh by the word of Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

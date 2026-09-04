@@ -1,0 +1,89 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 63,
+    "count": 541,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14841,
+        "text": "{A Psalm of David; when he was in the wilderness of Judah.} O God, thou art my God; early will I seek thee. My soul thirsteth for thee, my flesh languisheth for thee, in a dry and weary land without water:",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14842,
+        "text": "To see thy power and thy glory, as I have beheld thee in the sanctuary;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14843,
+        "text": "For thy loving-kindness is better than life: my lips shall praise thee.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 14844,
+        "text": "So will I bless thee while I live; I will lift up my hands in thy name.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14845,
+        "text": "My soul is satisfied as with marrow and fatness, and my mouth shall praise [thee] with joyful lips.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14846,
+        "text": "When I remember thee upon my bed, I meditate on thee in the night-watches:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14847,
+        "text": "For thou hast been my help, and in the shadow of thy wings will I sing for joy.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14848,
+        "text": "My soul followeth hard after thee: thy right hand upholdeth me.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14849,
+        "text": "But those that seek my soul, to destroy [it], shall go into the lower parts of the earth;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14850,
+        "text": "They shall be given over to the power of the sword; they shall be the portion of foxes.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14851,
+        "text": "But the king shall rejoice in God; every one that sweareth by him shall glory: for the mouth of them that speak lies shall be stopped.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 41,
+    "count": 477,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13890,
+        "text": "Wilt thou draw out the leviathan with the hook, and press down his tongue with a cord?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13891,
+        "text": "Wilt thou put a rush-rope into his nose, and pierce his jaw with a spike?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13892,
+        "text": "Will he make many supplications unto thee? or will he speak softly unto thee?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13893,
+        "text": "Will he make a covenant with thee? wilt thou take him as a bondman for ever?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13894,
+        "text": "Wilt thou play with him as with a bird, and wilt thou bind him for thy maidens?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13895,
+        "text": "Shall partners make traffic of him, will they divide him among merchants?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13896,
+        "text": "Wilt thou fill his skin with darts, and his head with fish-spears?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13897,
+        "text": "Lay thy hand upon him; remember the battle,—do no more!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13898,
+        "text": "Lo, hope as to him is belied: is not one cast down even at the sight of him?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13899,
+        "text": "None is so bold as to stir him up; and who is he that will stand before me?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13900,
+        "text": "Who hath first given to me, that I should repay [him]? [Whatsoever is] under the whole heaven is mine.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 13901,
+        "text": "I will not be silent as to his parts, the story of his power, and the beauty of his structure.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13902,
+        "text": "Who can uncover the surface of his garment? who can come within his double jaws?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13903,
+        "text": "Who can open the doors of his face? Round about his teeth is terror.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13904,
+        "text": "The rows of his shields are a pride, shut up together [as with] a close seal.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13905,
+        "text": "One is so near to another that no air can come between them;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13906,
+        "text": "They are joined each to its fellow; they stick together, and cannot be sundered.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13907,
+        "text": "His sneezings flash light, and his eyes are like the eyelids of the morning.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13908,
+        "text": "Out of his mouth go forth flames; sparks of fire leap out:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13909,
+        "text": "Out of his nostrils goeth smoke, as out of a boiling pot and cauldron.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13910,
+        "text": "His breath kindleth coals, and a flame goeth out of his mouth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13911,
+        "text": "In his neck lodgeth strength, and terror danceth before him.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13912,
+        "text": "The flakes of his flesh are joined together: they are fused upon him, they cannot be moved.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13913,
+        "text": "His heart is firm as a stone, yea, firm as the nether [millstone].",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13914,
+        "text": "When he raiseth himself up, the mighty are afraid: they are beside themselves with consternation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13915,
+        "text": "If any reach him with a sword, it cannot hold; neither spear, nor dart, nor harpoon.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13916,
+        "text": "He esteemeth iron as straw, bronze as rotten wood.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13917,
+        "text": "The arrow will not make him flee; slingstones are turned with him into stubble.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13918,
+        "text": "Clubs are counted as stubble; he laugheth at the shaking of a javelin.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13919,
+        "text": "His under parts are sharp potsherds: he spreadeth a threshing-sledge upon the mire.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13920,
+        "text": "He maketh the deep to boil like a pot; he maketh the sea like a pot of ointment;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 13921,
+        "text": "He maketh the path to shine after him: one would think the deep to be hoary.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13922,
+        "text": "Upon earth there is not his like, who is made without fear.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 13923,
+        "text": "He beholdeth all high things; he is king over all the proud beasts.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

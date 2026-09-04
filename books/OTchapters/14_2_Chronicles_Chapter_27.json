@@ -1,0 +1,75 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 394,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11757,
+        "text": "Jotham was twenty-five years old when he began to reign; and he reigned sixteen years in Jerusalem; and his mother’s name was Jerushah, daughter of Zadok.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11758,
+        "text": "And he did what was right in the sight of Jehovah, according to all that his father Uzziah had done; only he entered not into the temple of Jehovah. And the people still acted corruptly.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11759,
+        "text": "It was he who built the upper gate of the house of Jehovah, and on the wall of Ophel he built much.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11760,
+        "text": "And he built cities in the hill-country of Judah, and in the forests he built castles and towers.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11761,
+        "text": "And he fought against the king of the children of Ammon, and overcame them. And the children of Ammon gave him the same year a hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. This the children of Ammon brought again to him also in the second year, and in the third.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11762,
+        "text": "And Jotham became strong, for he prepared his ways before Jehovah his God.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11763,
+        "text": "And the rest of the acts of Jotham, and all his wars, and his ways, behold, they are written in the book of the kings of Israel and Judah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11764,
+        "text": "He was twenty-five years old when he began to reign; and he reigned sixteen years in Jerusalem.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11765,
+        "text": "And Jotham slept with his fathers, and they buried him in the city of David; and Ahaz his son reigned in his stead.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

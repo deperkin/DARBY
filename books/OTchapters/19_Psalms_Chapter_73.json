@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 73,
+    "count": 551,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15022,
+        "text": "{A Psalm of Asaph.} Truly God is good to Israel, to such as are of a pure heart.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15023,
+        "text": "But as for me, my feet were almost gone, my steps had well nigh slipped;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15024,
+        "text": "For I was envious at the arrogant, seeing the prosperity of the wicked.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15025,
+        "text": "For they have no pangs in their death, and their body is well nourished;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15026,
+        "text": "They have not the hardships of mankind, neither are they plagued like [other] men:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15027,
+        "text": "Therefore pride encompasseth them as a neck-chain, violence covereth them [as] a garment;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15028,
+        "text": "Their eyes stand out from fatness, they exceed the imaginations of their heart:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15029,
+        "text": "They mock and speak wickedly of oppression, they speak loftily:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15030,
+        "text": "They set their mouth in the heavens, and their tongue walketh through the earth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15031,
+        "text": "Therefore his people turn hither, and waters in fulness are wrung out to them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15032,
+        "text": "And they say, How can God know, and is there knowledge in the Most High?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15033,
+        "text": "Behold, these are the wicked, and they prosper in the world: they heap up riches.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15034,
+        "text": "Truly have I purified my heart in vain, and washed my hands in innocency:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15035,
+        "text": "For all the day have I been plagued, and chastened every morning.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15036,
+        "text": "If I said, I will speak thus, behold, I should be faithless to the generation of thy children.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 15037,
+        "text": "When I thought to be able to know this, it was a grievous task in mine eyes;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15038,
+        "text": "Until I went into the sanctuaries of God; [then] understood I their end.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15039,
+        "text": "Truly thou settest them in slippery places, thou castest them down in ruins.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15040,
+        "text": "How are they suddenly made desolate! they pass away, consumed with terrors.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15041,
+        "text": "As a dream, when one awaketh, wilt thou, Lord, on arising despise their image.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15042,
+        "text": "When my heart was in a ferment, and I was pricked in my reins,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 15043,
+        "text": "Then I was brutish and knew nothing; I was [as] a beast with thee.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15044,
+        "text": "Nevertheless I am continually with thee: thou hast holden my right hand;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15045,
+        "text": "Thou wilt guide me by thy counsel, and after the glory, thou wilt receive me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15046,
+        "text": "Whom have I in the heavens? and there is none upon earth I desire beside thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15047,
+        "text": "My flesh and my heart faileth: God is the rock of my heart and my portion for ever.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15048,
+        "text": "For behold, they that are far from thee shall perish; thou destroyest every one that goeth a whoring from thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15049,
+        "text": "But as for me, it is good for me to draw near to God: I have put my trust in the Lord Jehovah, that I may declare all thy works.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

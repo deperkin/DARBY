@@ -1,0 +1,75 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 149,
+    "count": 627,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16387,
+        "text": "Hallelujah! Sing unto Jehovah a new song; [sing] his praise in the congregation of the godly.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16388,
+        "text": "Let Israel rejoice in his Maker; let the sons of Zion be joyful in their King.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16389,
+        "text": "Let them praise his name in the dance; let them sing psalms unto him with the tambour and harp.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16390,
+        "text": "For Jehovah taketh pleasure in his people; he beautifieth the meek with salvation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16391,
+        "text": "Let the godly exult in glory; let them shout for joy upon their beds.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16392,
+        "text": "Let the high praises of God be in their mouth, and a two-edged sword in their hand:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16393,
+        "text": "To execute vengeance against the nations, [and] punishment among the peoples;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16394,
+        "text": "To bind their kings with chains, and their nobles with fetters of iron;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16395,
+        "text": "To execute upon them the judgment written. This honour have all his saints. Hallelujah!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

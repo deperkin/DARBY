@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 65,
+    "count": 543,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14862,
+        "text": "{To the chief Musician. A Psalm of David: a Song.} Praise waiteth for thee in silence, O God, in Zion; and unto thee shall the vow be performed.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14863,
+        "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14864,
+        "text": "Iniquities have prevailed against me: our transgressions, thou wilt forgive them.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14865,
+        "text": "Blessed is he whom thou choosest and causest to approach: he shall dwell in thy courts. We shall be satisfied with the goodness of thy house, of thy holy temple.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14866,
+        "text": "By terrible things in righteousness wilt thou answer us, O God of our salvation, thou confidence of all the ends of the earth, and of the distant regions of the sea....",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14867,
+        "text": "Who by his strength established the mountains, being girded with power;",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14868,
+        "text": "Who stilleth the raging of the seas, the raging of their waves, and the tumult of the peoples.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14869,
+        "text": "And they that dwell in the uttermost parts are afraid at thy tokens; thou makest the outgoings of the morning and evening to rejoice.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14870,
+        "text": "Thou hast visited the earth, thou hast watered it; thou greatly enrichest it: the river of God is full of water; thou providest their corn, when thou hast so prepared it:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14871,
+        "text": "Thou dost satiate its furrows, thou smoothest its clods, thou makest it soft with showers; thou blessest the springing thereof.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14872,
+        "text": "Thou crownest the year with thy goodness, and thy paths drop fatness:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14873,
+        "text": "They drop upon the pastures of the wilderness, and the hills are girded with gladness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14874,
+        "text": "The meadows are clothed with flocks, and the valleys are covered over with corn; they shout for joy, yea, they sing.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

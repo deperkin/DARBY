@@ -1,0 +1,404 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 150,
+    "MaxVerses": 56,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4762,
+        "text": "These are the journeys of the children of Israel, who went forth out of the land of Egypt according to their armies under the hand of Moses and Aaron.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4763,
+        "text": "And Moses wrote their goings out according to their journeys by the commandment of Jehovah; and these are their journeys according to their goings out.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4764,
+        "text": "They journeyed from Rameses in the first month, on the fifteenth day of the first month. On the morrow after the passover the children of Israel went out with a high hand in the sight of all the Egyptians.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4765,
+        "text": "And the Egyptians buried those whom Jehovah had smitten among them, all the firstborn; and upon their gods Jehovah executed judgments.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4766,
+        "text": "And the children of Israel removed from Rameses, and encamped in Succoth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4767,
+        "text": "And they removed from Succoth and encamped in Etham, which is at the end of the wilderness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4768,
+        "text": "And they removed from Etham, and turned back to Pi-hahiroth, which is opposite Baal-Zephon, and encamped before Migdol.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4769,
+        "text": "And they removed from before Hahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and encamped in Marah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4770,
+        "text": "And they removed from Marah, and came to Elim; and in Elim were twelve springs of water, and seventy palm-trees, and they encamped there.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4771,
+        "text": "And they removed from Elim, and encamped by the Red sea.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4772,
+        "text": "And they removed from the Red sea, and encamped in the wilderness of Sin.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4773,
+        "text": "And they removed from the wilderness of Sin, and encamped in Dophkah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4774,
+        "text": "And they removed from Dophkah, and encamped in Alush.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4775,
+        "text": "And they removed from Alush, and encamped at Rephidim, where there was no water for the people to drink.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4776,
+        "text": "And they removed from Rephidim, and encamped in the wilderness of Sinai.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4777,
+        "text": "And they removed from the wilderness of Sinai, and encamped at Kibroth-hattaavah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4778,
+        "text": "And they removed from Kibroth-hattaavah, and encamped at Hazeroth.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4779,
+        "text": "And they removed from Hazeroth, and encamped in Rithmah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4780,
+        "text": "And they removed from Rithmah, and encamped at Rimmon-perez.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4781,
+        "text": "And they removed from Rimmon-perez, and encamped in Libnah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4782,
+        "text": "And they removed from Libnah, and encamped at Rissah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4783,
+        "text": "And they removed from Rissah, and encamped in Kehelathah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4784,
+        "text": "And they removed from Kehelathah, and encamped in mount Shapher.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4785,
+        "text": "And they removed from mount Shapher, and encamped in Haradah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4786,
+        "text": "And they removed from Haradah, and encamped in Makheloth.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4787,
+        "text": "And they removed from Makheloth, and encamped at Tahath.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4788,
+        "text": "And they removed from Tahath, and encamped at Terah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4789,
+        "text": "And they removed from Terah, and encamped in Mithcah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4790,
+        "text": "And they removed from Mithcah, and encamped in Hashmonah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4791,
+        "text": "And they removed from Hashmonah, and encamped in Moseroth.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4792,
+        "text": "And they removed from Moseroth, and encamped in Bene-Jaakan.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4793,
+        "text": "And they removed from Bene-Jaakan, and encamped at Hor-hagidgad.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4794,
+        "text": "And they removed from Hor-hagidgad, and encamped in Jotbathah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4795,
+        "text": "And they removed from Jotbathah, and encamped at Abronah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4796,
+        "text": "And they removed from Abronah, and encamped at Ezion-geber.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4797,
+        "text": "And they removed from Ezion-geber, and encamped in the wilderness of Zin, which is Kadesh.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4798,
+        "text": "And they removed from Kadesh, and encamped in mount Hor, in the border of the land of Edom.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4799,
+        "text": "And Aaron the priest went up mount Hor by the commandment of Jehovah, and died there, in the fortieth year after the children of Israel came out of the land of Egypt, in the fifth month, on the first of the month.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4800,
+        "text": "And Aaron was a hundred and twenty-three years old when he died on mount Hor.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4801,
+        "text": "And the Canaanite, the king of Arad who dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4802,
+        "text": "And they removed from mount Hor, and encamped in Zalmonah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 4803,
+        "text": "And they removed from Zalmonah, and encamped in Punon.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 4804,
+        "text": "And they removed from Punon, and encamped in Oboth.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 4805,
+        "text": "And they removed from Oboth, and encamped in Ijim-Abarim, in the border of Moab.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 4806,
+        "text": "And they removed from Ijim, and encamped in Dibon-Gad.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 4807,
+        "text": "And they removed from Dibon-Gad, and encamped in Almon-Diblathaim.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 4808,
+        "text": "And they removed from Almon-Diblathaim, and encamped in the mountains of Abarim, before Nebo.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 4809,
+        "text": "And they removed from the mountains of Abarim, and encamped in the plains of Moab by the Jordan of Jericho.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 4810,
+        "text": "And they encamped by the Jordan, from Beth-jeshimoth unto Abel-Shittim, in the plains of Moab.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 4811,
+        "text": "And Jehovah spoke to Moses in the plains of Moab by the Jordan of Jericho, saying,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 51,
+        "count": 4812,
+        "text": "Speak unto the children of Israel, and say unto them, When ye pass over Jordan into the land of Canaan,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 4813,
+        "text": "then ye shall dispossess all the inhabitants of the land from before you, and ye shall destroy all their figured images, and all their molten images shall ye destroy, and all their high places shall ye lay waste;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 4814,
+        "text": "and ye shall take possession of the land, and dwell therein, for to you have I given the land to possess it.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 4815,
+        "text": "And ye shall take for yourselves the land as an inheritance by lot according to your families: to the many ye shall increase their inheritance, and to the few thou shalt diminish their inheritance: where the lot falleth to him, there shall be each man’s [inheritance]; according to the tribes of your fathers shall ye take for yourselves the inheritance.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 4816,
+        "text": "But if ye will not dispossess the inhabitants of the land from before you, those that ye let remain of them shall be thorns in your eyes, and pricks in your sides, and they shall harass you in the land wherein ye dwell.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 4817,
+        "text": "And it shall come to pass that I will do unto you as I thought to do unto them.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

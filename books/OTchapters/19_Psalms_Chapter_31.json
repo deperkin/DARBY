@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 31,
+    "count": 509,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14333,
+        "text": "{To the chief Musician. A Psalm of David.} In thee, Jehovah, do I trust; let me never be ashamed: deliver me in thy righteousness.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14334,
+        "text": "Incline thine ear to me, deliver me speedily; be a strong rock to me, a house of defence to save me.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14335,
+        "text": "For thou art my rock and my fortress; and, for thy name’s sake, thou wilt lead me and guide me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14336,
+        "text": "Draw me out of the net that they have hidden for me; for thou art my strength.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14337,
+        "text": "Into thy hand I commit my spirit: thou hast redeemed me, Jehovah, [thou] God of truth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14338,
+        "text": "I have hated them that observe lying vanities; and as for me, I have confided in Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14339,
+        "text": "I will be glad and rejoice in thy loving-kindness, for thou hast seen mine affliction; thou hast known the troubles of my soul,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14340,
+        "text": "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large place.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14341,
+        "text": "Be gracious unto me, Jehovah, for I am in trouble: mine eye wasteth away with vexation, my soul and my belly.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 14342,
+        "text": "For my life is spent with sorrow, and my years with sighing; my strength faileth through mine iniquity, and my bones are wasted.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14343,
+        "text": "More than to all mine oppressors, I am become exceedingly a reproach, even to my neighbours, and a fear to mine acquaintance: they that see me without flee from me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14344,
+        "text": "I am forgotten in [their] heart as a dead man; I am become like a broken vessel.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14345,
+        "text": "For I have heard the slander of many—terror on every side—when they take counsel together against me: they plot to take away my life.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14346,
+        "text": "But I confided in thee, Jehovah; I said, thou art my God.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14347,
+        "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from my persecutors.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14348,
+        "text": "Make thy face to shine upon thy servant; save me in thy loving-kindness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14349,
+        "text": "Jehovah, let me not be ashamed; for I have called upon thee: let the wicked be ashamed, let them be silent in Sheol.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14350,
+        "text": "Let the lying lips become dumb, which speak insolently against the righteous in pride and contempt.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14351,
+        "text": "[Oh] how great is thy goodness, which thou hast laid up for them that fear thee, [which] thou hast wrought for them that trust in thee, before the sons of men!",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 14352,
+        "text": "Thou keepest them concealed in the secret of thy presence from the conspiracies of man; thou hidest them in a pavilion from the strife of tongues.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14353,
+        "text": "Blessed be Jehovah; for he hath shewn me wondrously his loving-kindness in a strong city.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14354,
+        "text": "As for me, I said in my haste, I am cut off from before thine eyes; nevertheless thou heardest the voice of my supplications when I cried unto thee.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 14355,
+        "text": "Love Jehovah, all ye his saints. Jehovah preserveth the faithful, and plentifully requiteth the proud doer.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 14356,
+        "text": "Be strong, and let your heart take courage, all ye that hope in Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

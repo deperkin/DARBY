@@ -1,0 +1,264 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 829,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21123,
+        "text": "And the word of Jehovah came unto me, saying:",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21124,
+        "text": "And thou, son of man, take up a lamentation for Tyre,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21125,
+        "text": "and say unto Tyre: O thou that art situate at the entries of the sea, and traffickest with the peoples in many isles, thus saith the Lord Jehovah: Thou, Tyre, hast said, I am perfect in beauty.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21126,
+        "text": "Thy borders are in the heart of the seas, thy builders have perfected thy beauty.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21127,
+        "text": "They made all thy double boards of cypress-trees of Senir; they took cedars from Lebanon to make masts for thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21128,
+        "text": "Of the oaks of Bashan did they make thine oars; they made thy benches of ivory, inlaid in box-wood, out of the isles of Chittim.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21129,
+        "text": "Byssus with broidered work from Egypt was thy sail, to serve thee for a banner; blue and purple from the isles of Elishah was thine awning.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21130,
+        "text": "The inhabitants of Zidon and Arvad were thy rowers; thy wise men, O Tyre, who were in thee, were thy pilots.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21131,
+        "text": "The elders of Gebal and the wise men thereof were in thee repairing thy leaks; all the ships of the sea with their mariners were in thee, to barter with thee.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21132,
+        "text": "Persia and Lud and Phut were in thine army, thy men of war: they hanged shield and helmet in thee; they gave splendour to thee.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21133,
+        "text": "The children of Arvad with thine army were upon thy walls round about, and the Gammadim were on thy towers: they hanged their shields upon thy walls round about; they made thy beauty perfect.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21134,
+        "text": "Tarshish dealt with thee by reason of the abundance of all substance; with silver, iron, tin, and lead, they furnished thy markets.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21135,
+        "text": "Javan, Tubal, and Meshech, they were thy traffickers: they bartered with thee the persons of men, and vessels of bronze.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21136,
+        "text": "They of the house of Togarmah furnished thy markets with horses, and horsemen, and mules.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21137,
+        "text": "The children of Dedan were thy traffickers; many isles were the mart of thy hand: they rendered in payment horns of ivory, and ebony.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21138,
+        "text": "Syria dealt with thee for the multitude of thy handiworks: they traded in thy markets with carbuncles, purple, and broidered work, and fine linen, and corals, and rubies.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21139,
+        "text": "Judah and the land of Israel were thy traffickers: they bartered with thee wheat of Minnith, and sweet cakes, and honey, and oil, and balm.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21140,
+        "text": "Damascus dealt with thee because of the multitude of thy handiworks, by reason of the abundance of all substance, with wine of Helbon, and white wool.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21141,
+        "text": "Vedan and Javan of Uzal traded in thy markets: wrought iron, cassia, and calamus were in thy traffic.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21142,
+        "text": "Dedan was thy trafficker in precious riding-cloths.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21143,
+        "text": "Arabia and all the princes of Kedar were the merchants of thy hand: in lambs, and rams, and goats, in these did they trade with thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21144,
+        "text": "The merchants of Sheba and Raamah were thy traffickers: they furnished thy markets with all the choice spices, and with all precious stones and gold.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21145,
+        "text": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, and Chilmad traded with thee:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21146,
+        "text": "these traded with thee in sumptuous clothes, in wrappings of blue and broidered work, and in chests full of variegated stuffs, bound with cords and made of cedar-wood, amongst thy merchandise.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21147,
+        "text": "The ships of Tarshish were thy caravans for thy traffic; and thou wast replenished, and highly honoured, in the heart of the seas.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21148,
+        "text": "Thy rowers have brought thee into great waters; the east wind hath broken thee in the heart of the seas.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 21149,
+        "text": "Thy substance, and thy markets, thy merchandise, thy mariners, and thy pilots, they that repair thy leaks, and they that barter with thee, and all thy men of war that are in thee, along with all thine assemblage which is in the midst of thee, shall fall into the heart of the seas in the day of thy fall.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 21150,
+        "text": "The open places shall shake at the sound of the cry of thy pilots.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 21151,
+        "text": "And all that handle the oar, the mariners, all the pilots of the sea, shall come down from their ships; they shall stand upon the land,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 21152,
+        "text": "and shall cause their voice to be heard over thee, and shall cry bitterly; and they shall cast up dust upon their heads; they shall wallow themselves in ashes.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 21153,
+        "text": "And they shall make themselves utterly bald for thee, and gird themselves with sackcloth; and they shall weep for thee in bitterness of soul with bitter mourning.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 21154,
+        "text": "And in their wailing they shall take up a lamentation for thee, and lament over thee, [saying,] Who is like Tyre, like her that is destroyed in the midst of the sea?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 21155,
+        "text": "When thy wares went forth over the seas, thou filledst many peoples; thou didst enrich the kings of the earth with the abundance of thy substance and of thy merchandise.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 21156,
+        "text": "In the time [when] thou art broken by the seas, in the depths of the waters, thy merchandise and all thine assemblage in the midst of thee have fallen.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 21157,
+        "text": "All the inhabitants of the isles are amazed at thee, and their kings are horribly afraid, [their] countenance is troubled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 21158,
+        "text": "The merchants among the peoples hiss at thee; thou art become a terror, and thou shalt never be any more.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

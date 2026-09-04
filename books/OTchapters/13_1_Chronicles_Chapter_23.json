@@ -1,0 +1,236 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 361,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10985,
+        "text": "And David was old and full of days; and he made Solomon his son king over Israel.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10986,
+        "text": "And he gathered together all the princes of Israel, with the priests and the Levites.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10987,
+        "text": "And the Levites were numbered from thirty years old and upward; and their number, by their polls, man by man, was thirty-eight thousand.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10988,
+        "text": "Of these, twenty-four thousand were to preside over the work of the house of Jehovah; and six thousand were officers and judges;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10989,
+        "text": "and four thousand were doorkeepers; and four thousand praised Jehovah with the instruments which I made, [said David,] to praise [therewith].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10990,
+        "text": "And David divided them into courses according to the sons of Levi: Gershon, Kohath, and Merari.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10991,
+        "text": "Of the Gershonites: Laadan and Shimei.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10992,
+        "text": "The sons of Laadan: the head was Jehiel, and Zetham, and Joel, three.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10993,
+        "text": "The sons of Shimei: Shelomith, and Haziel, and Haran, three. These were the chief fathers of Laadan.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10994,
+        "text": "And the sons of Shimei: Jahath, Ziza, and Jeush, and Beriah. These were the four sons of Shimei.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10995,
+        "text": "And Jahath was the head, and Ziza the second; and Jeush and Beriah had not many sons: as father’s house, therefore, they were reckoned as one.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10996,
+        "text": "The sons of Kohath: Amram, Jizhar, Hebron, and Uzziel, four.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10997,
+        "text": "The sons of Amram: Aaron and Moses. And Aaron was separated, that he should be hallowed as most holy, he and his sons for ever, to offer before Jehovah, to do service to him, and to bless in his name for ever.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10998,
+        "text": "And as to Moses the man of God, his sons were named of the tribe of Levi.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10999,
+        "text": "The sons of Moses: Gershom and Eliezer.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11000,
+        "text": "The sons of Gershom: Shebuel the head.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11001,
+        "text": "And the sons of Eliezer: Rehabiah the head; and Eliezer had no other sons, but the sons of Rehabiah were very many.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11002,
+        "text": "the sons of Jizhar: Shelomith the head.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11003,
+        "text": "The sons of Hebron: Jeriah the head, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11004,
+        "text": "The sons of Uzziel: Micah the head, and Jishijah the second.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11005,
+        "text": "The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11006,
+        "text": "And Eleazar died, and had no sons, but daughters; and their brethren the sons of Kish took them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 11007,
+        "text": "The sons of Mushi: Mahli, and Eder, and Jeremoth, three.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 11008,
+        "text": "These were the sons of Levi according to their fathers’ houses, the chief fathers, as they were reckoned, by number of names by their polls, who did the work of the service of the house of Jehovah, from twenty years old and upward.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 11009,
+        "text": "For David said, Jehovah the God of Israel has given rest to his people, and he will dwell in Jerusalem for ever;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 11010,
+        "text": "and the Levites also have no more to carry the tabernacle, nor any of its vessels for its service.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 11011,
+        "text": "For by the last words of David was this [done],—the numbering of the sons of Levi from twenty years old and upward.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 11012,
+        "text": "For their place was by the side of the sons of Aaron for the service of the house of Jehovah, over the courts, and over the chambers, and over the purifying of all holy things, and [for] the work of the service of the house of God;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 11013,
+        "text": "and for the loaves to be set in rows, and for the fine flour for the oblation, and for the unleavened cakes, and for [what is baked in] the pan, and for that which is saturated [with oil], and for all measure of capacity and size;",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 11014,
+        "text": "and to stand every morning to thank and praise Jehovah, and likewise at even;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 11015,
+        "text": "and for all burnt-offerings offered up to Jehovah on the sabbaths, on the new moons, and on the set feasts, by number, according to the ordinance concerning them, continually, before Jehovah;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 11016,
+        "text": "and they kept the charge of the tent of meeting, and the charge of the sanctuary, and the charge of the sons of Aaron their brethren, in the service of the house of Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 110,
+    "count": 588,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15788,
+        "text": "{Psalm of David.} Jehovah said unto my Lord, Sit at my right hand, until I put thine enemies [as] footstool of thy feet.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15789,
+        "text": "Jehovah shall send the sceptre of thy might out of Zion: rule in the midst of thine enemies.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15790,
+        "text": "Thy people shall be willing in the day of thy power, in holy splendour: from the womb of the morning [shall come] to thee the dew of thy youth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15791,
+        "text": "Jehovah hath sworn, and will not repent, Thou art priest for ever after the order of Melchisedek.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15792,
+        "text": "The Lord at thy right hand will smite through kings in the day of his anger.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 15793,
+        "text": "He shall judge among the nations; he shall fill [all places] with dead bodies; he shall smite through the head over a great country.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15794,
+        "text": "He shall drink of the brook in the way; therefore shall he lift up the head.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

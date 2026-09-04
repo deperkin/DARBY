@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 303,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9153,
+        "text": "And Rehoboam went to Shechem; for all Israel had come to Shechem to make him king.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9154,
+        "text": "And it came to pass when Jeroboam the son of Nebat heard it (now he was yet in Egypt, whither he had fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9155,
+        "text": "and they sent and called him), that Jeroboam and all the congregation of Israel came and spoke to Rehoboam, saying,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9156,
+        "text": "Thy father made our yoke grievous; and now lighten thou the grievous servitude of thy father and his heavy yoke that he put upon us, and we will serve thee.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9157,
+        "text": "And he said to them, Depart yet for three days, then come again to me. And the people departed.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9158,
+        "text": "And king Rehoboam consulted with the old men, who had stood before Solomon his father while he yet lived, saying, How do ye advise to return answer to this people?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9159,
+        "text": "And they spoke to him saying, If this day thou wilt be a servant to this people, and wilt serve them and answer them and speak good words to them, they will be thy servants for ever.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9160,
+        "text": "But he forsook the advice of the old men which they had given him, and consulted with the young men, who had grown up with him, that stood before him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9161,
+        "text": "And he said to them, What advice give ye that we may return answer to this people who have spoken to me saying, Lighten the yoke which thy father put upon us?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9162,
+        "text": "And the young men that had grown up with him spoke to him saying, Thus shalt thou say to this people that have spoken to thee saying, Thy father made our yoke heavy, and lighten thou it for us,—thus shalt thou say to them: My little [finger] is thicker than my father’s loins;",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9163,
+        "text": "and whereas my father laid a heavy yoke upon you, I will add to your yoke: my father chastised you with whips, but I will chastise you with scorpions.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9164,
+        "text": "And Jeroboam and all the people came to Rehoboam the third day, as the king had appointed saying, Come again to me on the third day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9165,
+        "text": "And the king answered the people roughly, and forsook the advice of the old men which they had given him;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9166,
+        "text": "and he spoke to them according to the advice of the young men, saying, My father made your yoke heavy, but I will add to your yoke: my father chastised you with whips, but I will chastise you with scorpions.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9167,
+        "text": "So the king hearkened not to the people; for it was brought about by Jehovah, that he might give effect to his word, which Jehovah spoke through Ahijah the Shilonite to Jeroboam the son of Nebat.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9168,
+        "text": "And all Israel saw that the king hearkened not to them; and the people answered the king saying, What portion have we in David? And [we have] no inheritance in the son of Jesse: To your tents, O Israel! Now see to thine own house, David! And Israel went to their tents.",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 9169,
+        "text": "But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9170,
+        "text": "And king Rehoboam sent Adoram, who was over the levy; but all Israel stoned him with stones, that he died. And king Rehoboam hastened to mount his chariot, to flee to Jerusalem.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9171,
+        "text": "And Israel rebelled against the house of David, unto this day.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9172,
+        "text": "And it came to pass when all Israel heard that Jeroboam had come back, that they sent and called him to the assembly, and made him king over all Israel: none followed the house of David, but the tribe of Judah only.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9173,
+        "text": "And Rehoboam came to Jerusalem; and he assembled all the house of Judah, with the tribe of Benjamin, a hundred and eighty thousand chosen men apt for war, to fight against the house of Israel, that he might bring the kingdom again to Rehoboam the son of Solomon.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9174,
+        "text": "But the word of God came to Shemaiah the man of God, saying,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9175,
+        "text": "Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remainder of the people, saying,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9176,
+        "text": "Thus saith Jehovah: Go not up, nor fight with your brethren, the children of Israel; return every man to his house, for this thing is from me. And they hearkened to the word of Jehovah, and returned to depart, according to the word of Jehovah.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9177,
+        "text": "And Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 9178,
+        "text": "And Jeroboam said in his heart, Now shall the kingdom return to the house of David.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9179,
+        "text": "If this people go up to do sacrifice in the house of Jehovah at Jerusalem, the heart of this people will turn again to their lord, to Rehoboam king of Judah, and they will kill me, and return to Rehoboam king of Judah.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9180,
+        "text": "And the king took counsel, and made two calves of gold. And he said to them, It is too much for you to go up to Jerusalem: behold thy gods, Israel, which brought thee up out of the land of Egypt!",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9181,
+        "text": "And he set the one in Bethel, and the other he put in Dan.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 9182,
+        "text": "And this thing became a sin; and the people went [to worship] before the one, as far as Dan.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 9183,
+        "text": "And he made a house of high places, and made priests from all classes of the people, who were not of the sons of Levi.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 9184,
+        "text": "And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like the feast that was in Judah, and he offered upon the altar. So did he in Bethel, sacrificing to the calves that he had made; and he placed in Bethel the priests of the high places that he had made.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 9185,
+        "text": "And he offered upon the altar that he had made in Bethel, on the fifteenth day of the eighth month, in the month which he had devised of his own heart; and he made a feast for the children of Israel, and he offered upon the altar, burning incense.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

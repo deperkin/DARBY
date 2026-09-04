@@ -1,0 +1,54 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 479,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13941,
+        "text": "Blessed is the man that walketh not in the counsel of the wicked, and standeth not in the way of sinners, and sitteth not in the seat of scorners;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13942,
+        "text": "But his delight is in Jehovah’s law, and in his law doth he meditate day and night.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13943,
+        "text": "And he [is] as a tree planted by brooks of water, which giveth its fruit in its season, and whose leaf fadeth not; and all that he doeth prospereth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13944,
+        "text": "The wicked are not so; but are as the chaff which the wind driveth away.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 13945,
+        "text": "Therefore the wicked shall not stand in the judgment, nor sinners in the assembly of the righteous.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13946,
+        "text": "For Jehovah knoweth the way of the righteous, but the way of the wicked shall perish.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

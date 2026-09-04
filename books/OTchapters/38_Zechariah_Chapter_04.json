@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 915,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22924,
+        "text": "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22925,
+        "text": "And he said unto me, What seest thou? And I said, I see, and behold, a lamp-stand all of gold, with a bowl upon the top of it, and its seven lamps thereon, seven [lamps] and seven pipes to the lamps, which are upon the top thereof;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22926,
+        "text": "and two olive-trees beside it, one on the right of the bowl, and the other on the left of it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22927,
+        "text": "And I answered and spoke to the angel that talked with me, saying, What are these, my lord?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22928,
+        "text": "And the angel that talked with me answered and said unto me, Knowest thou not what these are? And I said, No, my lord.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22929,
+        "text": "And he answered and spoke unto me, saying, This is the word of Jehovah unto Zerubbabel, saying, Not by might, nor by power, but by my Spirit, saith Jehovah of hosts.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22930,
+        "text": "Who art thou, O great mountain? before Zerubbabel [thou dost become] a plain; and he shall bring forth the head-stone with shoutings: Grace, grace unto it!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22931,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22932,
+        "text": "The hands of Zerubbabel have laid the foundation of this house; and his hands shall finish it: and thou shalt know that Jehovah of hosts hath sent me unto you.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22933,
+        "text": "For who hath despised the day of small things? Yea, they shall rejoice [even] those seven—and shall see the plummet in the hand of Zerubbabel: these are the eyes of Jehovah, which run to and fro in the whole earth.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22934,
+        "text": "And I answered and said unto him, What are these two olive-trees on the right of the lamp-stand and on its left?",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 22935,
+        "text": "And I answered the second time and said unto him, What are the two olive-branches which are beside the two golden tubes that empty the gold out of themselves?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22936,
+        "text": "And he spoke to me, saying, Knowest thou not what these are? And I said, No, my lord.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22937,
+        "text": "And he said, These are the two sons of oil, that stand before the Lord of the whole earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 464,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13506,
+        "text": "Surely there is a vein for the silver, and a place for gold which they refine;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13507,
+        "text": "Iron is taken out of the dust, and copper is molten out of the stone.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13508,
+        "text": "[Man] putteth an end to the darkness, and exploreth to the utmost limit, the stones of darkness and of the shadow of death.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13509,
+        "text": "He openeth a shaft far from the inhabitants [of the earth]: forgotten of the foot, they hang suspended; away below men they hover.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13510,
+        "text": "As for the earth, out of it cometh bread, and underneath it is turned up as by fire;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13511,
+        "text": "The stones of it are the place of sapphires, and it hath dust of gold.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13512,
+        "text": "It is a path no bird of prey knoweth, and the vulture’s eye hath not seen it;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13513,
+        "text": "The proud beasts have not trodden it, nor the fierce lion passed over it.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13514,
+        "text": "[Man] putteth forth his hand upon the flinty rock, he overturneth the mountains by the root.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13515,
+        "text": "He cutteth out channels in the rocks, and his eye seeth every precious thing.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13516,
+        "text": "He bindeth the streams that they drip not, and what is hidden he bringeth forth to light.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13517,
+        "text": "But wisdom, where shall it be found? and where is the place of understanding?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13518,
+        "text": "Man knoweth not the value thereof; and it is not found in the land of the living.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13519,
+        "text": "The deep saith, It is not in me; and the sea saith, It is not with me.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 13520,
+        "text": "Choice gold cannot be given for it, nor silver be weighed for its price.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13521,
+        "text": "It is not set in the balance with gold of Ophir, with the precious onyx, and the sapphire.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13522,
+        "text": "Gold and glass cannot be compared to it, nor vessels of fine gold be its exchange.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13523,
+        "text": "Corals and crystal are no more remembered; yea, the acquisition of wisdom is above rubies.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13524,
+        "text": "The topaz of Ethiopia shall not be compared to it, neither shall it be set in the balance with pure gold.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13525,
+        "text": "Whence then cometh wisdom? and where is the place of understanding?",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 13526,
+        "text": "For it is hidden from the eyes of all living, and concealed from the fowl of the heavens.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13527,
+        "text": "Destruction and death say, We have heard its report with our ears.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13528,
+        "text": "God understandeth the way thereof, and he knoweth its place:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13529,
+        "text": "For he looketh to the ends of the earth, he seeth under the whole heaven.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13530,
+        "text": "In making a weight for the wind, and meting out the waters by measure,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13531,
+        "text": "In appointing a statute for the rain, and a way for the thunder’s flash:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13532,
+        "text": "Then did he see it, and declare it; he established it, yea, and searched it out;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13533,
+        "text": "And unto man he said, Lo, the fear of the Lord, that is wisdom; and to depart from evil is understanding.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

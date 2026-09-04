@@ -1,0 +1,327 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 208,
+    "MaxVerses": 45,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6383,
+        "text": "Then the chief fathers of the Levites drew near to Eleazar the priest, and to Joshua the son of Nun, and to the chief fathers of the tribes of the children of Israel;",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6384,
+        "text": "and they spoke to them at Shiloh in the land of Canaan, saying, Jehovah commanded through Moses to give us cities to dwell in, and their suburbs for our cattle.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6385,
+        "text": "And the children of Israel gave to the Levites out of their inheritance, according to the word of Jehovah, these cities and their suburbs.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6386,
+        "text": "And the lot came forth for the families of the Kohathites. And the children of Aaron the priest, of the Levites, had by lot out of the tribe of Judah, and out of the tribe of the Simeonites, and out of the tribe of Benjamin, thirteen cities.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6387,
+        "text": "And the children of Kohath that remained had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6388,
+        "text": "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6389,
+        "text": "The children of Merari according to their families had by lot out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 6390,
+        "text": "And the children of Israel gave by lot to the Levites these cities and their suburbs, as Jehovah commanded through Moses.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6391,
+        "text": "And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which were mentioned by name,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 6392,
+        "text": "and which the children of Aaron, of the families of the Kohathites, of the children of Levi had (for theirs was the first lot);",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6393,
+        "text": "and they gave them Kirjath-Arba, [which Arba was] the father of Anak, that is, Hebron, in the mountain of Judah, with its suburbs round about it.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6394,
+        "text": "But the fields of the city and the hamlets thereof gave they to Caleb the son of Jephunneh for his possession.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6395,
+        "text": "And they gave to the children of Aaron the priest the city of refuge for the slayer, Hebron and its suburbs; and Libnah and its suburbs,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6396,
+        "text": "and Jattir and its suburbs, and Eshtemoa and its suburbs,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6397,
+        "text": "and Holon and its suburbs, and Debir and its suburbs,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6398,
+        "text": "and Ain and its suburbs, and Juttah and its suburbs, [and] Beth-shemesh and its suburbs: nine cities out of those two tribes;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6399,
+        "text": "and out of the tribe of Benjamin: Gibeon and its suburbs, Geba and its suburbs,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6400,
+        "text": "Anathoth and its suburbs, and Almon and its suburbs; four cities.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6401,
+        "text": "All the cities of the children of Aaron, the priests, were thirteen cities and their suburbs.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6402,
+        "text": "And to the families of the children of Kohath, the Levites that remained of the children of Kohath, [they gave cities]. And the cities of their lot were out of the tribe of Ephraim,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6403,
+        "text": "and they gave them the city of refuge for the slayer, Shechem and its suburbs in mount Ephraim; and Gezer and its suburbs,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6404,
+        "text": "and Kibzaim and its suburbs, and Beth-horon and its suburbs: four cities;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6405,
+        "text": "and out of the tribe of Dan, Eltekeh and its suburbs, Gibbethon and its suburbs,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6406,
+        "text": "Ajalon and its suburbs, Gath-Rimmon and its suburbs: four cities;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 6407,
+        "text": "and out of half the tribe of Manasseh, Taanach and its suburbs and Gath-Rimmon and its suburbs: two cities.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6408,
+        "text": "All the cities were ten and their suburbs, for the families of the children of Kohath that remained.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6409,
+        "text": "And to the children of Gershon, of the families of the Levites, out of half the tribe of Manasseh, [they gave] the city of refuge for the slayer, Golan in Bashan and its suburbs; and Beeshterah and its suburbs: two cities;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6410,
+        "text": "and out of the tribe of Issachar, Kishion and its suburbs, Dabrath and its suburbs,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6411,
+        "text": "Jarmuth and its suburbs, En-gannim and its suburbs: four cities;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6412,
+        "text": "and out of the tribe of Asher, Mishal and its suburbs, Abdon and its suburbs,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6413,
+        "text": "Helkath and its suburbs, and Rehob and its suburbs: four cities;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6414,
+        "text": "and out of the tribe of Naphtali, the city of refuge for the slayer, Kedesh in Galilee, and its suburbs; and Hammoth-Dor and its suburbs, and Kartan and its suburbs: three cities.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 6415,
+        "text": "All the cities of the Gershonites according to their families were thirteen cities and their suburbs.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 6416,
+        "text": "And to the families of the children of Merari, that remained of the Levites, [they gave] out of the tribe of Zebulun, Jokneam and its suburbs, Kartah and its suburbs,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 6417,
+        "text": "Dimnah and its suburbs, Nahalal and its suburbs: four cities;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 6418,
+        "text": "and out of the tribe of Reuben, Bezer and its suburbs, and Jahzah and its suburbs,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 6419,
+        "text": "Kedemoth and its suburbs, and Mephaath and its suburbs: four cities;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 6420,
+        "text": "and out of the tribe of Gad, the city of refuge for the slayer, Ramoth in Gilead and its suburbs; and Mahanaim and its suburbs,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 6421,
+        "text": "Heshbon and its suburbs, Jaazer and its suburbs: four cities in all.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 6422,
+        "text": "[These were] all the cities of the children of Merari according to their families, which remained of the families of the Levites, and their lot was twelve cities.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 6423,
+        "text": "All the cities of the Levites within the possession of the children of Israel were forty-eight cities and their suburbs.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 6424,
+        "text": "Each one of these cities had its suburbs round about it: thus were all these cities.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 6425,
+        "text": "And Jehovah gave to Israel all the land which he swore to give unto their fathers; and they took possession of it, and dwelt in it.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 6426,
+        "text": "And Jehovah gave them rest round about, according to all that he had sworn unto their fathers; and there stood not a man of all their enemies before them: Jehovah gave all their enemies into their hand.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 6427,
+        "text": "There failed nothing of all the good things that Jehovah had spoken to the house of Israel: all came to pass.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

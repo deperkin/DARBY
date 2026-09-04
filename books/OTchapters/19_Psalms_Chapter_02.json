@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 480,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13947,
+        "text": "Why are the nations in tumultuous agitation, and [why] do the peoples meditate a vain thing?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13948,
+        "text": "The kings of the earth set themselves, and the princes plot together, against Jehovah and against his anointed:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13949,
+        "text": "Let us break their bonds asunder, and cast away their cords from us!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13950,
+        "text": "He that dwelleth in the heavens shall laugh, the Lord shall have them in derision.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13951,
+        "text": "Then will he speak to them in his anger, and in his fierce displeasure will he terrify them:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13952,
+        "text": "And I have anointed my king upon Zion, the hill of my holiness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13953,
+        "text": "I will declare the decree: Jehovah hath said unto me, Thou art my Son; I this day have begotten thee.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13954,
+        "text": "Ask of me, and I will give thee nations for an inheritance, and for thy possession the ends of the earth:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13955,
+        "text": "Thou shalt break them with a sceptre of iron, as a potter’s vessel thou shalt dash them in pieces.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13956,
+        "text": "And now, O kings, be ye wise, be admonished, ye judges of the earth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13957,
+        "text": "Serve Jehovah with fear, and rejoice with trembling.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13958,
+        "text": "Kiss the Son, lest he be angry, and ye perish in the way, though his anger burn but a little. Blessed are all who have their trust in him.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

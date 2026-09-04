@@ -1,0 +1,47 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 45,
+    "count": 790,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20042,
+        "text": "The word that Jeremiah the prophet spoke to Baruch the son of Nerijah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, the king of Judah, saying,",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20043,
+        "text": "Thus sayeth Jehovah, the God of Israel, concerning thee, Baruch:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20044,
+        "text": "Thou didst say, Woe unto me! for Jehovah hath added grief to my sorrow; I am weary with my sighing, and I find no rest.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20045,
+        "text": "Thus shalt thou say unto him, Thus saith Jehovah: Behold, what I have built do I overthrow, and what I have planted I pluck up, even this whole land.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20046,
+        "text": "And seekest thou great things for thyself? seek [them] not; for behold, I will bring evil upon all flesh, saith Jehovah; but thy life will I give unto thee for a prey in all places whither thou shalt go.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

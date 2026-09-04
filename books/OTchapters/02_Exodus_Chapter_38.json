@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 38,
+    "count": 88,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2635,
+        "text": "And he made the altar of burnt-offering of acacia-wood; five cubits the length thereof, and five cubits the breadth thereof, square, and three cubits the height thereof.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2636,
+        "text": "And he made its horns on the four corners thereof; its horns were of itself; and he overlaid it with copper.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2637,
+        "text": "And he made all the utensils of the altar: the pots, and the shovels, and the bowls, the forks, and the firepans; all its utensils made he of copper.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2638,
+        "text": "And he made for the altar a grating of network of copper under its ledge from beneath, to the very middle of it.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2639,
+        "text": "And he cast four rings for the four corners of the grating of copper, as receptacles for the staves.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2640,
+        "text": "And he made the staves of acacia-wood, and overlaid them with copper.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2641,
+        "text": "And he put the staves into the rings on the sides of the altar, with which to carry it. Hollow with boards did he make it.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2642,
+        "text": "And he made the laver of copper, and its stand of copper, of the mirrors of the crowds of women who crowded before the entrance of the tent of meeting.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2643,
+        "text": "And he made the court. On the south side southward, the hangings of the court were of twined byssus, a hundred cubits;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 2644,
+        "text": "their pillars twenty, and their bases twenty, of copper; the hooks of the pillars and their connecting-rods of silver.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2645,
+        "text": "And on the north side, a hundred cubits; their pillars twenty, and their bases twenty, of copper; the hooks of the pillars and their connecting-rods of silver.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2646,
+        "text": "And on the west side, hangings of fifty cubits; their pillars ten, and their bases ten; the hooks of the pillars and their connecting-rods of silver.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2647,
+        "text": "And for the east side, eastward, fifty cubits;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2648,
+        "text": "the hangings on the one wing of fifteen cubits, their pillars three, and their bases three;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2649,
+        "text": "and on the other wing, on this side as on that side of the gate of the court, hangings of fifteen cubits, their pillars three, and their bases three.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2650,
+        "text": "All the hangings of the court round about were of twined byssus;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2651,
+        "text": "and the bases of the pillars of copper, the hooks of the pillars and their connecting-rods of silver, and the overlaying of their capitals of silver; and all the pillars of the court were fastened together with [rods of] silver.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2652,
+        "text": "—And the curtain of the gate of the court was of embroidery of blue, and purple, and scarlet, and twined byssus; and the length was twenty cubits, and the height like the breadth, five cubits, just as the hangings of the court;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2653,
+        "text": "and their pillars four, and their bases four, of copper; their hooks of silver, and the overlaying of their capitals and their connecting-rods of silver.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2654,
+        "text": "And all the pegs for the tabernacle and for the court round about were of copper.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2655,
+        "text": "These are the things numbered of the tabernacle, the tabernacle of the testimony, which were counted, according to the commandment of Moses, by the service of the Levites, under the hand of Ithamar, son of Aaron the priest.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 2656,
+        "text": "And Bezaleel the son of Uri, the son of Hur, of the tribe of Judah, made all that Jehovah had commanded Moses;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2657,
+        "text": "and with him Aholiab, son of Ahisamach, of the tribe of Dan, an engraver and artificer, and an embroiderer in blue, and in purple, and in scarlet, and in byssus.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2658,
+        "text": "All the gold that it took for the work in all the work of the sanctuary—the gold of the wave-offering, was twenty-nine talents, and seven hundred and thirty shekels, according to the shekel of the sanctuary.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2659,
+        "text": "And the silver of them that were numbered of the assembly was a hundred talents, and a thousand seven hundred and seventy-five shekels, according to the shekel of the sanctuary:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2660,
+        "text": "a bekah the head—half a shekel, according to the shekel of the sanctuary, for every one that passed the numbering from twenty years old and upward, [of] the six hundred and three thousand five hundred and fifty.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2661,
+        "text": "And there were a hundred talents of silver for casting the bases of the sanctuary, and the bases of the veil; a hundred bases of a hundred talents, a talent for a base.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2662,
+        "text": "And of the thousand seven hundred and seventy-five [shekels] he made the hooks for the pillars, and overlaid their capitals, and fastened them [with rods].",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2663,
+        "text": "And the copper of the wave-offering was seventy talents, and two thousand four hundred shekels.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2664,
+        "text": "And he made with it the bases for the entrance of the tent of meeting, and the copper altar, and the copper grating for it, and all the utensils of the altar.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 2665,
+        "text": "And the bases of the court round about, and the bases of the gate of the court, and all the pegs of the tabernacle, and all the pegs of the court round about.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

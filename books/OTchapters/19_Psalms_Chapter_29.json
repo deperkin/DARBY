@@ -1,0 +1,89 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 29,
+    "count": 507,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14310,
+        "text": "{A Psalm of David.} Give unto Jehovah, ye sons of the mighty ones, give unto Jehovah glory and strength;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14311,
+        "text": "Give unto Jehovah the glory of his name; worship Jehovah in holy splendour.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14312,
+        "text": "The voice of Jehovah is upon the waters: the God of glory thundereth,—Jehovah upon great waters.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14313,
+        "text": "The voice of Jehovah is powerful; the voice of Jehovah is full of majesty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14314,
+        "text": "The voice of Jehovah breaketh cedars; yea, Jehovah breaketh the cedars of Lebanon:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14315,
+        "text": "And he maketh them to skip like a calf, Lebanon and Sirion like a young buffalo.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14316,
+        "text": "The voice of Jehovah cleaveth out flames of fire.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14317,
+        "text": "The voice of Jehovah shaketh the wilderness; Jehovah shaketh the wilderness of Kadesh.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14318,
+        "text": "The voice of Jehovah maketh the hinds to calve, and layeth bare the forests; and in his temple doth every one say, Glory!",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14319,
+        "text": "Jehovah sitteth upon the flood; yea, Jehovah sitteth as king for ever.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14320,
+        "text": "Jehovah will give strength unto his people; Jehovah will bless his people with peace.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

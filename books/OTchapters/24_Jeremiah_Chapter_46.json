@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 46,
+    "count": 791,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20047,
+        "text": "The word of Jehovah that came to Jeremiah the prophet concerning the nations.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20048,
+        "text": "Of Egypt: concerning the army of Pharaoh-Necho king of Egypt, which was by the river Euphrates at Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah, the king of Judah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20049,
+        "text": "Make ready buckler and shield, and draw near to battle!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20050,
+        "text": "Harness the horses, and mount ye horsemen, and stand forth with helmets; polish the spears, put on the coats of mail!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20051,
+        "text": "Why do I see them dismayed, turned away back? And their mighty ones are beaten down, and take to flight, and look not back? Terror [is] on every side, saith Jehovah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20052,
+        "text": "Let not the swift flee away, neither let the mighty man escape!—Toward the north, hard by the river Euphrates, they have stumbled and fallen.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20053,
+        "text": "Who is this [that] riseth up as the Nile, whose waters toss themselves like the rivers?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20054,
+        "text": "It is Egypt that riseth up as the Nile, and [his] waters toss themselves like the rivers; and he saith, I will rise up, I will cover the earth; I will destroy the city and the inhabitants thereof.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20055,
+        "text": "Go up, ye horses, and drive furiously, ye chariots; and let the mighty men go forth: Cush and Phut that handle the shield, and the Ludim that handle the bow [and] bend it.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20056,
+        "text": "For this is the day of the Lord Jehovah of hosts, a day of vengeance, that he may be avenged of his adversaries; and the sword shall devour, and it shall be sated and made drunk with their blood; for the Lord Jehovah of hosts hath a sacrifice in the north country, by the river Euphrates.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20057,
+        "text": "Go up to Gilead, and fetch balm, O virgin-daughter of Egypt! In vain shalt thou multiply remedies: there is no healing for thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20058,
+        "text": "The nations have heard of thy shame, and thy cry hath filled the earth; for the mighty man stumbleth against the mighty, they are both fallen together.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 20059,
+        "text": "The word that Jehovah spoke to Jeremiah the prophet, concerning the coming of Nebuchadrezzar king of Babylon to smite the land of Egypt:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20060,
+        "text": "Declare in Egypt, and publish in Migdol, and publish in Noph, and in Tahpanhes; say, Stand fast, and prepare thee; for the sword devoureth round about thee.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20061,
+        "text": "Why are thy valiants swept away? They stood not, for Jehovah did thrust them down.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20062,
+        "text": "He made many to stumble, yea, one fell upon another; and they said, Arise, and let us return to our own people and to the land of our nativity, from the oppressing sword.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20063,
+        "text": "There did they cry, Pharaoh king of Egypt is but a noise; he hath let the time appointed go by.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20064,
+        "text": "[As] I live, saith the King, whose name is Jehovah of hosts, surely as Tabor among the mountains, and as Carmel by the sea, so shall he come.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20065,
+        "text": "Thou, inhabitress, daughter of Egypt, furnish for thyself a captive’s baggage, for Noph shall be a desolation and shall be ruined, so that none shall dwell therein.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20066,
+        "text": "Egypt is a very fair heifer; the gad-fly cometh, it cometh from the north.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20067,
+        "text": "Also her hired men in the midst of her are like fatted bullocks; for they also have turned back, they have fled away together, they did not stand; for the day of their calamity is come upon them, the time of their visitation.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20068,
+        "text": "Her voice shall go like a serpent’s; for they shall march with an army, and come against her with axes, as hewers of wood.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20069,
+        "text": "They shall cut down her forest, saith Jehovah, though it be impenetrable; for they are more than the locusts, and are innumerable.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20070,
+        "text": "The daughter of Egypt is put to shame; she is delivered into the hand of the people of the north.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20071,
+        "text": "Jehovah of hosts, the God of Israel, saith, Behold, I will punish Amon of No, and Pharaoh, and Egypt, and her gods, and her kings; yea, Pharaoh and them that confide in him.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20072,
+        "text": "And I will give them into the hand of those that seek their life, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants; but afterwards it shall be inhabited, as in the days of old, saith Jehovah.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20073,
+        "text": "But thou, my servant Jacob, fear not, neither be dismayed, Israel: for behold, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make [him] afraid.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 20074,
+        "text": "Fear thou not, my servant Jacob, saith Jehovah: for I am with thee; for I will make a full end of all the nations whither I have driven thee, but I will not make a full end of thee; but I will correct thee with judgment, and I will not hold thee altogether guiltless.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

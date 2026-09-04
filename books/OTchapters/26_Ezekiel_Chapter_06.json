@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 808,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20565,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20566,
+        "text": "Son of man, set thy face toward the mountains of Israel, and prophesy against them,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20567,
+        "text": "and say, Mountains of Israel, hear the word of the Lord Jehovah: thus saith the Lord Jehovah to the mountains and to the hills, to the water-courses and to the valleys: Behold, I, [even] I, do bring a sword upon you, and will destroy your high places.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20568,
+        "text": "And your altars shall be desolate, and your sun-images shall be broken; and I will cast down your slain [men] before your idols;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20569,
+        "text": "and I will lay the dead bodies of the children of Israel before their idols; and I will scatter your bones round about your altars.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20570,
+        "text": "In all your dwelling-places the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your sun-images may be cut down, and your works may be abolished.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20571,
+        "text": "And the slain shall fall in the midst of you, and ye shall know that I [am] Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20572,
+        "text": "Yet will I leave a remnant, in that ye shall have some escaped from the sword among the nations, when ye shall be scattered through the countries.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 20573,
+        "text": "And they that escape of you shall remember me among the nations whither they have been carried captives, when I shall have broken their whorish heart, which hath departed from me, and their eyes, which go a whoring after their idols; and they shall loathe themselves for the evils which they have committed, in all their abominations.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20574,
+        "text": "And they shall know that I [am] Jehovah: I have not said in vain that I would do this evil unto them.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20575,
+        "text": "Thus saith the Lord Jehovah: Smite with thy hand, and stamp with thy foot, and say, Alas for all the abominations of the iniquities of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 20576,
+        "text": "He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that is left, and is besieged, shall die by the famine: and I will accomplish my fury upon them.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20577,
+        "text": "And ye shall know that I [am] Jehovah, when their slain shall be among their idols, round about their altars, upon every high hill, on all the tops of the mountains, and under every green tree, and under every thick terebinth, the places where they offered sweet savour to all their idols.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20578,
+        "text": "And I will stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness of Diblath, in all their dwellings; and they shall know that I [am] Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 273,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8159,
+        "text": "And David again gathered all the chosen men of Israel, thirty thousand.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8160,
+        "text": "And David arose and went with all the people that were with him from Baale-Judah, to bring up from thence the ark of God which is called by the name, the name of Jehovah of hosts who sitteth between the cherubim.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8161,
+        "text": "And they set the ark of God upon a new cart, and brought it out of the house of Abinadab, which was upon the hill; and Uzzah and Ahio, the sons of Abinadab, drove the new cart.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8162,
+        "text": "And they brought it with the ark of God out of the house of Abinadab which was upon the hill; and Ahio went before the ark.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8163,
+        "text": "And David and all the house of Israel played before Jehovah on all manner of [instruments made of] cypress wood, with harps, and with lutes, and with tambours, and with sistra, and with cymbals.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8164,
+        "text": "And when they came to Nachon’s threshing-floor, Uzzah reached after the ark of God, and took hold of it; for the oxen had stumbled.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 8165,
+        "text": "And the anger of Jehovah was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8166,
+        "text": "And David was indignant, because Jehovah had made a breach upon Uzzah; and he called that place Perez-Uzzah to this day.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8167,
+        "text": "And David was afraid of Jehovah that day, and said, How shall the ark of Jehovah come to me?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8168,
+        "text": "So David would not bring the ark of Jehovah home unto himself into the city of David; but David carried it aside into the house of Obed-Edom the Gittite.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8169,
+        "text": "And the ark of Jehovah remained in the house of Obed-Edom the Gittite three months; and Jehovah blessed Obed-Edom and all his household.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8170,
+        "text": "And it was told king David, saying, Jehovah has blessed the house of Obed-Edom, and all that is his, because of the ark of God. And David went and brought up the ark of God from the house of Obed-Edom into the city of David with joy.",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 8171,
+        "text": "And it was so, that when they that bore the ark of Jehovah had gone six paces, he sacrificed an ox and a fatted beast.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8172,
+        "text": "And David danced before Jehovah with all his might; and David was girded with a linen ephod.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8173,
+        "text": "And David and all the house of Israel brought up the ark of Jehovah with shouting, and with the sound of the trumpet.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8174,
+        "text": "And as the ark of Jehovah came into the city of David, Michal the daughter of Saul looked through a window, and saw king David leaping and dancing before Jehovah; and she despised him in her heart.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8175,
+        "text": "And they brought in the ark of Jehovah, and set it in its place, in the midst of the tent that David had spread for it. And David offered up burnt-offerings and peace-offerings before Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8176,
+        "text": "And when David had ended offering up the burnt-offerings and the peace-offerings, he blessed the people in the name of Jehovah of hosts.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8177,
+        "text": "And he dealt to all the people, to the whole multitude of Israel, both men and women, to every one a cake of bread, and a measure [of wine], and a raisin-cake. And all the people departed every one to his house.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8178,
+        "text": "And David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How honourable did the king of Israel make himself to-day, who uncovered himself to-day in the eyes of the handmaids of his servants, as one of the lewd fellows shamelessly uncovers himself!",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 8179,
+        "text": "And David said to Michal, It was before Jehovah, who chose me rather than thy father, and than all his house, to appoint me ruler over the people of Jehovah, over Israel; and I played before Jehovah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8180,
+        "text": "And I will make myself yet more vile than thus, and will be base in mine own sight; and of the handmaids that thou hast spoken of, of them shall I be had in honour.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8181,
+        "text": "And Michal the daughter of Saul had no child to the day of her death.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

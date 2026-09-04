@@ -1,0 +1,299 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 38,
+    "count": 474,
+    "MaxVerses": 41,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13795,
+        "text": "And Jehovah answered Job out of the whirlwind and said,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13796,
+        "text": "Who is this that darkeneth counsel by words without knowledge?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13797,
+        "text": "Gird up now thy loins like a man; and I will demand of thee, and inform thou me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13798,
+        "text": "Where wast thou when I founded the earth? Declare, if thou hast understanding.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 13799,
+        "text": "Who set the measures thereof—if thou knowest? or who stretched a line upon it?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13800,
+        "text": "Whereupon were the foundations thereof sunken? or who laid its corner-stone,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13801,
+        "text": "When the morning stars sang together, and all the sons of God shouted for joy?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13802,
+        "text": "And who shut up the sea with doors, when it burst forth, issuing out of the womb?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13803,
+        "text": "When I made the cloud its garment, and thick darkness a swaddling band for it;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13804,
+        "text": "When I cut out for it my boundary, and set bars and doors,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13805,
+        "text": "And said, Hitherto shalt thou come and no further, and here shall thy proud waves be stayed?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13806,
+        "text": "Hast thou since thy days commanded the morning? hast thou caused the dawn to know its place,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 13807,
+        "text": "That it might take hold of the ends of the earth, and the wicked might be shaken out of it?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13808,
+        "text": "It is changed like the signet-clay; and [all things] stand forth as in a garment:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13809,
+        "text": "And from the wicked their light is withholden, and the uplifted arm is broken.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13810,
+        "text": "Hast thou entered as far as the springs of the sea? and hast thou walked in the recesses of the deep?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13811,
+        "text": "Have the gates of death been revealed unto thee? and hast thou seen the gates of the shadow of death?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13812,
+        "text": "Hath thine understanding compassed the breadths of the earth? Declare if thou knowest it all.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13813,
+        "text": "Where is the way to where light dwelleth? and the darkness, where is its place,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13814,
+        "text": "That thou shouldest take it to its bound, and that thou shouldest know the paths to its house?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13815,
+        "text": "Thou knowest, for thou wast then born, and the number of thy days is great!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13816,
+        "text": "Hast thou entered into the storehouses of the snow, and hast thou seen the treasuries of the hail,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13817,
+        "text": "Which I have reserved for the time of distress, for the day of battle and war?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13818,
+        "text": "By what way is the light parted, [and] the east wind scattered upon the earth?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13819,
+        "text": "Who hath divided a channel for the rain-flood, and a way for the thunder’s flash;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 13820,
+        "text": "To cause it to rain on the earth, where no one is; on the wilderness wherein there is not a man;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13821,
+        "text": "To satisfy the desolate and waste [ground], and to cause the sprout of the grass to spring forth?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13822,
+        "text": "Hath the rain a father? or who begetteth the drops of dew?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13823,
+        "text": "Out of whose womb cometh the ice? and the hoary frost of heaven, who bringeth it forth?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13824,
+        "text": "When the waters lie hidden as in stone, and the face of the deep holdeth fast together.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13825,
+        "text": "Canst thou fasten the bands of the Pleiades, or loosen the cords of Orion?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 13826,
+        "text": "Dost thou bring forth the constellations each in its season? or dost thou guide the Bear with her sons?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13827,
+        "text": "Knowest thou the ordinances of the heavens? dost thou determine their rule over the earth?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 13828,
+        "text": "Dost thou lift up thy voice to the clouds, that floods of waters may cover thee?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 13829,
+        "text": "Dost thou send forth lightnings that they may go, and say unto thee, Here we are?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 13830,
+        "text": "Who hath put wisdom in the inward parts? or who hath given understanding to the mind?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 13831,
+        "text": "Who numbereth the clouds with wisdom? or who poureth out the bottles of the heavens,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 13832,
+        "text": "When the dust runneth as into a molten mass, and the clods cleave fast together?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 13833,
+        "text": "Dost thou hunt the prey for the lioness, and dost thou satisfy the appetite of the young lions,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 13834,
+        "text": "When they crouch in [their] dens, [and] abide in the thicket to lie in wait?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 13835,
+        "text": "Who provideth for the raven his food, when his young ones cry unto God, [and] they wander for lack of meat?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

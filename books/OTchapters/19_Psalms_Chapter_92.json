@@ -1,0 +1,117 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 92,
+    "count": 570,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15413,
+        "text": "{A Psalm, a Song, for the Sabbath day.} It is good to give thanks unto Jehovah, and to sing psalms unto thy name, O Most High;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15414,
+        "text": "To declare thy loving-kindness in the morning, and thy faithfulness in the nights,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15415,
+        "text": "Upon an instrument of ten strings and upon the lute; upon the Higgaion with the harp.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15416,
+        "text": "For thou, Jehovah, hast made me glad through thy work; I will triumph in the works of thy hands.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15417,
+        "text": "Jehovah, how great are thy works! Thy thoughts are very deep:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15418,
+        "text": "A brutish man knoweth not, neither doth a fool understand it.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15419,
+        "text": "When the wicked spring as the grass, and when all the workers of iniquity flourish, it is that they may be destroyed for ever.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 15420,
+        "text": "And thou, Jehovah, art on high for evermore.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15421,
+        "text": "For lo, thine enemies, O Jehovah, for lo, thine enemies shall perish; all the workers of iniquity shall be scattered.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15422,
+        "text": "But my horn shalt thou exalt like a buffalo’s: I shall be anointed with fresh oil.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15423,
+        "text": "And mine eye shall see [its desire] on mine enemies; mine ears shall hear [it] of the evil-doers that rise up against me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15424,
+        "text": "The righteous shall shoot forth like a palm-tree; he shall grow like a cedar on Lebanon.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15425,
+        "text": "Those that are planted in the house of Jehovah shall flourish in the courts of our God:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15426,
+        "text": "They are still vigorous in old age, they are full of sap and green;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15427,
+        "text": "To shew that Jehovah is upright: [he is] my rock, and there is no unrighteousness in him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

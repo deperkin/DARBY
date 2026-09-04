@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 174,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5449,
+        "text": "If one be found slain in the land which Jehovah thy God giveth thee to possess, lying in the field, [and] it be not known who hath smitten him,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5450,
+        "text": "then thine elders and thy judges shall go forth, and they shall measure unto the cities which are round about him that is slain;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5451,
+        "text": "and the city that is nearest unto him that is slain, even the elders of that city shall take a heifer that hath not been wrought with, that hath not drawn in the yoke;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5452,
+        "text": "and the elders of that city shall bring down the heifer unto an ever-flowing watercourse, which is not tilled, nor is it sown, and shall break the heifer’s neck there in the watercourse;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5453,
+        "text": "and the priests the sons of Levi shall come near; for them Jehovah thy God hath chosen to do service unto him, and to bless in the name of Jehovah; and according to their word shall be every controversy and every stroke.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5454,
+        "text": "And all the elders of that city, that are nearest unto him that is slain, shall wash their hands over the heifer whose neck is broken in the watercourse,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5455,
+        "text": "and shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5456,
+        "text": "Forgive thy people Israel, whom thou, Jehovah, hast redeemed, and lay not innocent blood to the charge of thy people Israel; and the blood shall be expiated for them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5457,
+        "text": "So shalt thou put away innocent blood from thy midst, when thou shalt do what is right in the eyes of Jehovah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5458,
+        "text": "When thou goest forth to war against thine enemies, and Jehovah thy God delivereth them into thy hands, and thou hast taken captives of them,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 5459,
+        "text": "and thou seest among the captives a woman of beautiful form, and hast a desire unto her, and takest her as thy wife;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5460,
+        "text": "then thou shalt bring her home to thy house; and she shall shave her head, and pare her nails;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5461,
+        "text": "and she shall put the clothes of her captivity from off her, and shall abide in thy house, and bewail her father and mother a full month, and afterwards thou mayest go in unto her, and be her husband, and she shall be thy wife.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5462,
+        "text": "And it shall be, if thou have no delight in her, then thou shalt let her go according to her desire; but thou shalt in no wise sell her for money; thou shalt not treat her as a slave, because thou hast humbled her.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5463,
+        "text": "If a man have two wives, one beloved, and one hated, and they have borne him children, both the beloved and the hated, and the firstborn son be hers that was hated;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 5464,
+        "text": "then it shall be, in the day that he maketh his sons to inherit what he hath, that he may not make the son of the beloved firstborn before the son of the hated, who is the firstborn;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5465,
+        "text": "but he shall acknowledge as firstborn the son of the hated, by giving him a double portion of all that is found with him; for he is the firstfruits of his vigour: the right of the firstborn is his.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5466,
+        "text": "If a man have an unmanageable and rebellious son, who hearkeneth not unto the voice of his father, nor unto the voice of his mother, and they have chastened him, but he hearkeneth not unto them;",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 5467,
+        "text": "then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5468,
+        "text": "and they shall say unto the elders of his city, This our son is unmanageable and rebellious, he hearkeneth not unto our voice; he is a profligate and a drunkard.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5469,
+        "text": "And all the men of his city shall stone him with stones, that he die. And thou shalt put evil away from thy midst; and all Israel shall hear and fear.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5470,
+        "text": "And if a man have committed a sin worthy of death, and he be put to death, and thou have hanged him on a tree,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5471,
+        "text": "his body shall not remain all night upon the tree, but thou shalt in any wise bury him that day (for he that is hanged is a curse of God); and thou shalt not defile thy land, which Jehovah thy God giveth thee for an inheritance.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

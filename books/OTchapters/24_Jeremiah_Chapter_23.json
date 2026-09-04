@@ -1,0 +1,292 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 768,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19486,
+        "text": "Woe unto the shepherds that destroy and scatter the sheep of my pasture! saith Jehovah.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19487,
+        "text": "Therefore thus saith Jehovah the God of Israel concerning the shepherds that feed my people: Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith Jehovah.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19488,
+        "text": "And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their pastures; and they shall be fruitful and shall multiply.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19489,
+        "text": "And I will raise up shepherds over them, who shall feed them; and they shall fear no more, nor be dismayed, neither shall any be missing, saith Jehovah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19490,
+        "text": "Behold, the days come, saith Jehovah, when I will raise unto David a righteous Branch, who shall reign as king, and act wisely, and shall execute judgment and righteousness in the land.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19491,
+        "text": "In his days Judah shall be saved, and Israel shall dwell in safety; and this is his name whereby he shall be called, Jehovah our Righteousness.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19492,
+        "text": "Therefore behold, days are coming, saith Jehovah, that they shall no more say, [As] Jehovah liveth, who brought up the children of Israel out of the land of Egypt;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 19493,
+        "text": "but, [As] Jehovah liveth, who brought up and who led back the seed of the house of Israel out of the north country, and from all countries whither I had driven them. And they shall dwell in their own land.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19494,
+        "text": "Concerning the prophets: My heart within me is broken; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome; because of Jehovah, and because of the words of his holiness.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 19495,
+        "text": "For the land is full of adulterers; for because of execration the land mourneth. The pastures of the wilderness are dried up; for their course is evil, and their force is not right.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 19496,
+        "text": "For both prophet and priest are profane: even in my house have I found their wickedness, saith Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19497,
+        "text": "Therefore their way shall be unto them as slippery places in the darkness; they shall be driven on, and fall therein: for I will bring evil upon them in the year of their visitation, saith Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19498,
+        "text": "And I have seen folly in the prophets of Samaria: they prophesied by Baal, and caused my people Israel to err.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19499,
+        "text": "And in the prophets of Jerusalem have I seen a horrible thing: they commit adultery, and walk in falsehood, and strengthen the hands of evildoers, so that none doth return from his wickedness. They are all become unto me as Sodom, and the inhabitants thereof as Gomorrah.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19500,
+        "text": "Therefore thus saith Jehovah of hosts concerning the prophets: Behold, I will feed them with wormwood, and make them drink water of gall; for from the prophets of Jerusalem is profaneness gone forth into all the land.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19501,
+        "text": "Thus saith Jehovah of hosts: Hearken not unto the words of the prophets that prophesy unto you: they lead you to vanity; they speak a vision of their own heart, not out of the mouth of Jehovah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19502,
+        "text": "They say constantly unto them that despise me, Jehovah hath said, Ye shall have peace. And they say unto every one that walketh in the stubbornness of his heart, No evil shall come upon you.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19503,
+        "text": "For who hath stood in the council of Jehovah, so that he hath perceived and heard his word? who hath hearkened to his word and listened?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19504,
+        "text": "Behold, a tempest of Jehovah, fury is gone forth, yea, a whirling storm: it shall whirl down upon the head of the wicked.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19505,
+        "text": "The anger of Jehovah shall not return, until he have executed, and until he have performed the purposes of his heart: at the end of the days ye shall understand it clearly.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 19506,
+        "text": "I did not send the prophets, yet they ran; I have not spoken to them, yet they prophesied.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 19507,
+        "text": "But if they had stood in my council, and had caused my people to hear my words, then would they have turned them from their evil way and from the wickedness of their doings.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 19508,
+        "text": "Am I a God at hand, saith Jehovah, and not a God afar off?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 19509,
+        "text": "Can any hide himself in secret places, that I shall not see him? saith Jehovah. Do not I fill the heavens and the earth? saith Jehovah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 19510,
+        "text": "I have heard what the prophets say, who prophesy falsehood in my name, saying, I have dreamed, I have dreamed.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 19511,
+        "text": "How long shall [this] be in the heart of the prophets who prophesy falsehood, and who are prophets of the deceit of their own heart?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 19512,
+        "text": "who think to cause my people to forget my name by their dreams which they tell every man to his neighbour: as their fathers have forgotten my name for Baal.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 19513,
+        "text": "The prophet that hath a dream, let him tell the dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 19514,
+        "text": "Is not my word like a fire, saith Jehovah; and like a hammer [that] breaketh the rock in pieces?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 19515,
+        "text": "Therefore, behold, I am against the prophets, saith Jehovah, that steal my words every one from his neighbour.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 19516,
+        "text": "Behold, I am against the prophets, saith Jehovah, that use their tongues, and say, He hath said.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 19517,
+        "text": "Behold, I am against them that prophesy false dreams, saith Jehovah, and that tell them, and cause my people to err by their lies and by their boasting; and I have not sent them, nor commanded them; and they profit not this people at all, saith Jehovah.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 19518,
+        "text": "And when this people, or a prophet, or a priest, ask thee, saying, What is the burden of Jehovah? thou shalt then say unto them, What burden? I will even cast you off, saith Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 19519,
+        "text": "And as for the prophet, and the priest, and the people, that shall say, The burden of Jehovah, I will even punish that man and his house.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 19520,
+        "text": "Thus shall ye say every one to his neighbour, and every one to his brother: What hath Jehovah answered? and, What hath Jehovah spoken?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 19521,
+        "text": "And the burden of Jehovah shall ye mention no more; for every man’s own word shall be his burden: for ye have perverted the words of the living God, of Jehovah of hosts, our God.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 19522,
+        "text": "Thus shalt thou say to the prophet: What hath Jehovah answered thee? and, What hath Jehovah spoken?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 19523,
+        "text": "But since ye say, The burden of Jehovah, therefore thus saith Jehovah: Because ye say this word, The burden of Jehovah, and I have sent unto you, saying, Ye shall not say, The burden of Jehovah;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 19524,
+        "text": "therefore behold, I will utterly forget you, and I will cast you off, far from my face, and the city that I gave to you and to your fathers.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 19525,
+        "text": "And I will bring everlasting reproach upon you, and everlasting shame, that shall not be forgotten.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

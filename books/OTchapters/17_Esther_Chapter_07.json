@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 17,"name": "Esther","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 433,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12809,
+        "text": "And the king and Haman came to drink with Esther the queen.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12810,
+        "text": "And the king said again to Esther on the second day, at the banquet of wine, What is thy petition, queen Esther? and it shall be granted thee; and what is thy request? even to the half of the kingdom it shall be done.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12811,
+        "text": "And Esther the queen answered and said, If I have found grace in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12812,
+        "text": "for we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the adversary could not compensate the king’s damage.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12813,
+        "text": "And king Ahasuerus spoke and said to Esther the queen, Who is he, and where is he that has filled his heart to do so?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12814,
+        "text": "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was terrified before the king and the queen.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12815,
+        "text": "And the king in his wrath rose up from the banquet of wine, [and went] into the palace garden; but Haman stayed to make request for his life to Esther the queen, for he saw that there was evil determined against him by the king.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 12816,
+        "text": "And the king returned out of the palace garden into the house of the banquet of wine, and Haman was fallen upon the couch on which Esther was. And the king said, Will he even force the queen before me in the house? The word went forth out of the king’s mouth, and they covered Haman’s face.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12817,
+        "text": "And Harbonah, one of the chamberlains, said before the king, Behold, also, the gallows fifty cubits high, that Haman made for Mordecai, who spoke good for the king, stands in the house of Haman. And the king said, Hang him on it!",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12818,
+        "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. And the king’s wrath was appeased.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

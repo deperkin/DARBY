@@ -1,0 +1,292 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 29,
+    "count": 146,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4610,
+        "text": "And in the seventh month, on the first of the month, ye shall have a holy convocation: no manner of servile work shall ye do; a day of blowing the trumpets shall it be unto you.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4611,
+        "text": "And ye shall offer a burnt-offering for a sweet odour to Jehovah: one young bullock, one ram, seven yearling lambs without blemish;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4612,
+        "text": "and their oblation of fine flour mingled with oil, three tenth parts for the bullock, two tenth parts for the ram,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4613,
+        "text": "and one tenth part for each lamb of the seven lambs;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4614,
+        "text": "and one buck of the goats for a sin-offering, to make atonement for you,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4615,
+        "text": "besides the monthly burnt-offering And its oblation, And the continual burnt-offering And its oblation, And their drink-offerings, according to their ordinance, for a sweet odour, an offering by fire to Jehovah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4616,
+        "text": "And on the tenth of this seventh month ye shall have a holy convocation; and ye shall afflict your souls; no manner of work shall ye do.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4617,
+        "text": "And ye shall present a burnt-offering to Jehovah for a sweet odour: one young bullock, one ram, seven yearling lambs (without blemish shall they be unto you);",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4618,
+        "text": "and their oblation of fine flour mingled with oil, three tenth parts for the bullock, two tenth parts for the ram,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4619,
+        "text": "one tenth part for each lamb, of the seven lambs;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4620,
+        "text": "[and] one buck of the goats for a sin-offering,—besides the sin-offering of atonement, and the continual burnt-offering and its oblation, and their drink-offerings.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4621,
+        "text": "And on the fifteenth day of the seventh month ye shall have a holy convocation: no manner of servile work shall ye do; and ye shall celebrate a feast to Jehovah seven days;",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 4622,
+        "text": "and ye shall present a burnt-offering, an offering by fire for a sweet odour to Jehovah: thirteen young bullocks, two rams, fourteen yearling lambs (they shall be without blemish);",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4623,
+        "text": "and their oblation of fine flour mingled with oil: three tenth parts for each bullock of the thirteen bullocks, two tenth parts for each ram of the two rams,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4624,
+        "text": "and one tenth part for each lamb of the fourteen lambs;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4625,
+        "text": "and one buck of the goats for a sin-offering,—besides the continual burnt-offering, its oblation and its drink-offering.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4626,
+        "text": "And on the second day, [ye shall present] twelve young bullocks, two rams, fourteen yearling lambs without blemish;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4627,
+        "text": "and their oblation and their drink-offerings for the bullocks, for the rams, and for the lambs, by their number, according to the ordinance;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4628,
+        "text": "and one buck of the goats for a sin-offering,—besides the continual burnt-offering and its oblation, and their drink-offerings.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4629,
+        "text": "And on the third day, eleven bullocks, two rams, fourteen yearling lambs without blemish;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4630,
+        "text": "and their oblation and their drink-offerings for the bullocks, for the rams, and for the lambs, by their number, according to the ordinance;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4631,
+        "text": "and one he-goat for a sin-offering,—besides the continual burnt-offering and its oblation and its drink-offering.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4632,
+        "text": "And on the fourth day, ten bullocks, two rams, fourteen yearling lambs without blemish;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4633,
+        "text": "their oblation and their drink-offerings for the bullocks, for the rams, and for the lambs, by their number, according to the ordinance;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4634,
+        "text": "and one buck of the goats for a sin-offering,—besides the continual burnt-offering, its oblation and its drink-offering.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4635,
+        "text": "And on the fifth day, nine bullocks, two rams, fourteen yearling lambs without blemish;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4636,
+        "text": "and their oblation and their drink-offerings for the bullocks, for the rams, and for the lambs, by their number, according to the ordinance;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4637,
+        "text": "and one he-goat for a sin-offering,—besides the continual burnt-offering and its oblation and its drink-offering.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4638,
+        "text": "And on the sixth day, eight bullocks, two rams, fourteen yearling lambs without blemish;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4639,
+        "text": "and their oblation and their drink-offerings for the bullocks, for the rams, and for the lambs, by their number, according to the ordinance;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4640,
+        "text": "and one he-goat for a sin-offering,—besides the continual burnt-offering, its oblation and its drink-offerings.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4641,
+        "text": "And on the seventh day, seven bullocks, two rams, fourteen yearling lambs without blemish;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4642,
+        "text": "and their oblation and their drink-offerings for the bullocks, for the rams, and for the lambs, by their number, according to their ordinance;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4643,
+        "text": "and one he-goat for a sin-offering,—besides the continual burnt-offering, its oblation and its drink-offering.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4644,
+        "text": "On the eighth day ye shall have a solemn assembly: no manner of servile work shall ye do.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4645,
+        "text": "And ye shall present a burnt-offering, an offering by fire of a sweet odour to Jehovah: one bullock, one ram, seven yearling lambs without blemish;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4646,
+        "text": "their oblation and their drink-offerings for the bullock, for the ram, and for the lambs, by their number, according to the ordinance;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4647,
+        "text": "and one he-goat for a sin-offering,—besides the continual burnt-offering and its oblation and its drink-offering.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4648,
+        "text": "These shall ye offer to Jehovah in your set feasts, besides your vows, and your voluntary-offerings, for your burnt-offerings, and for your oblations, and for your drink-offerings, and for your peace-offerings.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4649,
+        "text": "And Moses told the children of Israel according to all that Jehovah had commanded Moses.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 16,"name": "Nehemiah","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 415,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12309,
+        "text": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, [that] wine was before him, and I took up the wine and gave it to the king. Now, I had never been sad in his presence.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12310,
+        "text": "And the king said to me, Why is thy face sad, seeing thou art not sick? this is nothing else but sadness of heart. And I was very sore afraid.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12311,
+        "text": "And I said to the king, Let the king live for ever! Why should not my countenance be sad, when the city, the place of my fathers’ sepulchres, lies waste, and its gates are consumed with fire?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12312,
+        "text": "And the king said to me, For what dost thou make request? So I prayed to the God of the heavens.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12313,
+        "text": "And I said to the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me to Judah, to the city of my fathers’ sepulchres, that I may build it.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12314,
+        "text": "And the king said to me—the queen also sitting by him,—For how long shall thy journey be, and when wilt thou return? And it pleased the king to send me; and I set him a time.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12315,
+        "text": "And I said to the king, If it please the king, let letters be given me to the governors beyond the river, that they may set me forward till I come into Judah;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12316,
+        "text": "and a letter to Asaph the keeper of the king’s forest, that he may give me timber to make beams for the gates of the palace which [appertains] to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me.",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12317,
+        "text": "And I came to the governors beyond the river, and gave them the king’s letters. Now the king had sent captains of a force and horsemen with me.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 12318,
+        "text": "And when Sanballat the Horonite, and Tobijah the servant, the Ammonite, heard [of it], it grieved them exceedingly that there had come a man to seek the welfare of the children of Israel.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12319,
+        "text": "And I came to Jerusalem, and was there three days.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12320,
+        "text": "And I arose in the night, I and some few men with me—but I told no man what my God had put in my heart to do for Jerusalem—and there was no beast with me, except the beast that I rode upon.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12321,
+        "text": "And I went out by night by the valley-gate, even toward the jackal-fountain, and to the dung-gate; and I viewed the walls of Jerusalem, which were in ruins, and its gates were consumed with fire.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12322,
+        "text": "And I went on to the fountain-gate, and to the king’s pool; and there was no place for the beast under me to pass.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12323,
+        "text": "And I went up in the night through the valley, and viewed the wall, and turned back, and entered by the valley-gate and returned.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12324,
+        "text": "And the rulers did not know whither I went or what I did, for I had not as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12325,
+        "text": "And I said to them, Ye see the distress that we are in, that Jerusalem lies waste, and its gates are burned with fire. Come, and let us build up the wall of Jerusalem, that we be no more a reproach.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12326,
+        "text": "And I told them of the hand of my God which had been good upon me; as also of the king’s words which he had said unto me. And they said, Let us rise up and build. And they strengthened their hands for the good [work].",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12327,
+        "text": "And Sanballat the Horonite, and Tobijah the servant, the Ammonite, and Geshem the Arabian, heard it; and they mocked us and despised us, and said, What is this thing which ye do? will ye rebel against the king?",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12328,
+        "text": "And I answered them, and said to them, The God of the heavens, he will prosper us, and we his servants will arise and build; but ye have no portion, nor right, nor memorial in Jerusalem.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 102,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3046,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3047,
+        "text": "Speak unto the children of Israel, saying, If a woman conceive seed, and bear a male, then she shall be unclean seven days; as in the days of the separation of her infirmity shall she be unclean.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3048,
+        "text": "And on the eighth day shall the flesh of his foreskin be circumcised.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3049,
+        "text": "And she shall continue thirty-three days in the blood of her cleansing; no holy thing shall she touch, nor come into the sanctuary, until the days of her cleansing are fulfilled.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3050,
+        "text": "And if she bear a female, then she shall be unclean two weeks, as in her separation; and she shall continue sixty-six days in the blood of her cleansing.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3051,
+        "text": "And when the days of her cleansing are fulfilled, for a son or for a daughter, she shall bring a yearling lamb for a burnt-offering, and a young pigeon or a turtle-dove for a sin-offering, to the entrance of the tent of meeting, unto the priest.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 3052,
+        "text": "And he shall present it before Jehovah, and make atonement for her; and she shall be clean from the flux of her blood. This is the law for her that hath borne a male or a female.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3053,
+        "text": "And if her hand cannot find what is sufficient for a sheep, she shall bring two turtle-doves or two young pigeons; one for a burnt-offering, and the other for a sin-offering; and the priest shall make atonement for her; and she shall be clean.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

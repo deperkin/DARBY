@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 177,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5527,
+        "text": "When a man taketh a wife, and marrieth her, it shall be if she find no favour in his eyes, because he hath found some unseemly thing in her, that he shall write her a letter of divorce, and give it into her hand, and send her out of his house.",
+        "WordCount": 51,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5528,
+        "text": "And she shall depart out of his house, and go away, and may become another man’s wife.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5529,
+        "text": "And if the latter husband hate her, and write her a letter of divorce, and give it into her hand, and send her out of his house; or if the latter husband die who took her as his wife;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5530,
+        "text": "her first husband, who sent her away, may not take her again to be his wife, after that she is defiled; for it is an abomination before Jehovah; and thou shalt not cause the land to sin, which Jehovah thy God giveth thee for an inheritance.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5531,
+        "text": "When a man hath newly taken a wife, he shall not go out with the army, neither shall any kind of business be imposed upon him; he shall be free for his house one year, and shall gladden his wife whom he hath taken.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 5532,
+        "text": "No man shall take the hand-mill or the upper millstone in pledge; for it would be taking life in pledge.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5533,
+        "text": "If a man be found who hath stolen one of his brethren of the children of Israel, and who hath treated him as a slave and sold him, that thief shall die; and thou shalt put evil away from thy midst.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5534,
+        "text": "Take heed in the plague of leprosy, that thou take great heed, and do according to all that the priests the Levites shall teach you: as I commanded them shall ye take heed to do.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5535,
+        "text": "Remember what Jehovah thy God did unto Miriam on the way, after that ye came forth out of Egypt.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5536,
+        "text": "When thou dost lend thy brother anything, thou shalt not go into his house to secure his pledge.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5537,
+        "text": "Thou shalt stand outside, and the man to whom thou hast made a loan shall bring out the pledge to thee without.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5538,
+        "text": "And if the man be needy, thou shalt not lie down with his pledge;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5539,
+        "text": "in any case thou shalt return him the pledge at the going down of the sun, that he may sleep in his own upper garment and bless thee; and it shall be righteousness unto thee before Jehovah thy God.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5540,
+        "text": "Thou shalt not oppress a hired servant [who is] poor and needy of thy brethren, or of thy sojourners who are in thy land within thy gates:",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 5541,
+        "text": "on his day thou shalt give him his hire, neither shall the sun go down upon it; for he is poor, and his soul yearneth after it; lest he cry against thee to Jehovah, and it be a sin in thee.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5542,
+        "text": "The fathers shall not be put to death for the sons, neither shall the sons be put to death for the fathers: every man shall be put to death for his own sin.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5543,
+        "text": "Thou shalt not pervert the judgment of the stranger, [or] of the fatherless; and thou shalt not take in pledge a widow’s garment.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5544,
+        "text": "And thou shalt remember that thou wast a bondman in Egypt, and that Jehovah thy God redeemed thee from thence; therefore I command thee to do this thing.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5545,
+        "text": "When thou reapest thy harvest in thy field, and forgettest a sheaf in the field, thou shalt not return to fetch it; it shall be for the stranger, for the fatherless, and for the widow; that Jehovah thy God may bless thee in all the work of thy hands.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5546,
+        "text": "When thou shakest thine olive-tree, thou shalt not go over the boughs again; it shall be for the stranger, for the fatherless, and for the widow.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5547,
+        "text": "When thou gatherest the grapes of thy vineyard, thou shalt not glean it afterwards; it shall be for the stranger, for the fatherless, and for the widow.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5548,
+        "text": "And thou shalt remember that thou wast a bondman in the land of Egypt; therefore I command thee to do this thing.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

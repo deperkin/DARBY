@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 100,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2979,
+        "text": "And the sons of Aaron, Nadab and Abihu, took each of them his censer, and put fire in it, and put incense on it, and presented strange fire before Jehovah, which he had not commanded them.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2980,
+        "text": "And there went out fire from before Jehovah, and devoured them, and they died before Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2981,
+        "text": "And Moses said to Aaron, This is what Jehovah spoke, saying, I will be hallowed in them that come near me, and before all the people I will be glorified. And Aaron was silent.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 2982,
+        "text": "And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, Come near, carry your brethren from before the sanctuary out of the camp.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2983,
+        "text": "And they went near, and carried them in their vests out of the camp, as Moses had said.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2984,
+        "text": "And Moses said to Aaron, and to Eleazar and to Ithamar his sons, Your heads shall ye not uncover, neither rend your clothes; lest ye die, and lest wrath come on all the assembly; but your brethren, the whole house of Israel, shall bewail the burning which Jehovah hath kindled.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2985,
+        "text": "And ye shall not go out from the entrance of the tent of meeting, lest ye die; for the anointing oil of Jehovah is upon you. And they did according to the word of Moses.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2986,
+        "text": "And Jehovah spoke to Aaron, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 2987,
+        "text": "Thou shalt not drink wine nor strong drink, thou, and thy sons with thee, when ye go into the tent of meeting, lest ye die—[it is] an everlasting statute throughout your generations,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2988,
+        "text": "that ye may put difference between the holy and the unholy, and between unclean and clean,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2989,
+        "text": "and that ye may teach the children of Israel all the statutes which Jehovah hath spoken to them by the hand of Moses.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2990,
+        "text": "And Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons that were left, Take the oblation that is left of Jehovah’s offerings by fire, and eat it with unleavened bread beside the altar; for it is most holy.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 2991,
+        "text": "And ye shall eat it in a holy place, because it is thy due, and thy sons’ due, of Jehovah’s offerings by fire; for so I am commanded.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2992,
+        "text": "And the breast of the wave-offering, and the shoulder of the heave-offering shall ye eat in a clean place, thou, and thy sons, and thy daughters with thee; for [as] thy due, and thy sons’ due, are they given of the sacrifices of peace-offerings of the children of Israel.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2993,
+        "text": "The shoulder of the heave-offering and the breast of the wave-offering shall they bring, with the fire-offering of the pieces of fat, to wave [them] as a wave-offering before Jehovah; and they shall be thine, and thy sons’ with thee, for an everlasting statute, as Jehovah has commanded.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2994,
+        "text": "And Moses diligently sought the goat of the sin-offering, and behold, it was burnt up: then he was wroth with Eleazar and Ithamar, the sons of Aaron that were left, saying,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2995,
+        "text": "Why have ye not eaten the sin-offering in a holy place? for it is most holy, and he has given it to you that ye might bear the iniquity of the assembly, to make atonement for them before Jehovah.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2996,
+        "text": "Lo, its blood was not brought in within the sanctuary: ye should certainly have eaten it in the sanctuary, as I commanded.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2997,
+        "text": "And Aaron said to Moses, Behold, to-day have they presented their sin-offering and their burnt-offering before Jehovah; and such things have befallen me; and had I to-day eaten the sin-offering, would it have been good in the sight of Jehovah?",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2998,
+        "text": "And Moses heard it; and it was good in his sight.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

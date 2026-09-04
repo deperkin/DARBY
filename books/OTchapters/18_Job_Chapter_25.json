@@ -1,0 +1,54 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 461,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13463,
+        "text": "And Bildad the Shuhite answered and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13464,
+        "text": "Dominion and fear are with him; he maketh peace in his high places.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13465,
+        "text": "Is there any number of his troops? and upon whom doth not his light arise?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13466,
+        "text": "And how should man be just with God? Or how should he be clean that is born of a woman?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13467,
+        "text": "Lo, even the moon is not bright; and the stars are not pure in his sight:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13468,
+        "text": "How much less man, a worm, and the son of man, a worm!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

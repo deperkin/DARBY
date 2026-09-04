@@ -1,0 +1,376 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 89,
+    "count": 567,
+    "MaxVerses": 52,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15328,
+        "text": "{An instruction. Of Ethan the Ezrahite.} I will sing of the loving-kindness of Jehovah for ever; with my mouth will I make known thy faithfulness from generation to generation.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15329,
+        "text": "For I said, Loving-kindness shall be built up for ever; in the very heavens wilt thou establish thy faithfulness.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15330,
+        "text": "I have made a covenant with mine elect, I have sworn unto David my servant:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15331,
+        "text": "Thy seed will I establish for ever, and build up thy throne from generation to generation. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15332,
+        "text": "And the heavens shall celebrate thy wonders, O Jehovah, and thy faithfulness in the congregation of the saints.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 15333,
+        "text": "For who in the heaven can be compared to Jehovah? [who] among the sons of the mighty shall be likened to Jehovah?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15334,
+        "text": "God is greatly to be feared in the council of the saints, and terrible for all that are round about him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15335,
+        "text": "Jehovah, God of hosts, who is like unto thee, the strong Jah? And thy faithfulness is round about thee.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15336,
+        "text": "Thou rulest the pride of the sea: when its waves arise, thou stillest them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15337,
+        "text": "Thou hast crushed Rahab as one that is slain; thou hast scattered thine enemies with the arm of thy strength.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15338,
+        "text": "Thine are the heavens, the earth also is thine; the world and its fulness, thou hast founded them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15339,
+        "text": "The north and the south, thou hast created them: Tabor and Hermon triumph in thy name.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15340,
+        "text": "Thine is the arm of might: strong is thy hand, high is thy right hand.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15341,
+        "text": "Righteousness and judgment are the foundation of thy throne; loving-kindness and truth go before thy face.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15342,
+        "text": "Blessed is the people that know the shout of joy: they walk, O Jehovah, in the light of thy countenance.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 15343,
+        "text": "In thy name are they joyful all the day, and in thy righteousness are they exalted.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15344,
+        "text": "For thou art the glory of their strength; and in thy favour our horn shall be exalted.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15345,
+        "text": "For Jehovah is our shield, and the Holy One of Israel, our king.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15346,
+        "text": "Then thou spakest in vision of thy Holy One, and saidst, I have laid help upon a mighty one; I have exalted one chosen out of the people.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 15347,
+        "text": "I have found David my servant; with my holy oil have I anointed him:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15348,
+        "text": "With whom my hand shall be established; and mine arm shall strengthen him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15349,
+        "text": "No enemy shall exact upon him, nor the son of wickedness afflict him;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15350,
+        "text": "But I will beat down his adversaries before his face, and will smite them that hate him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15351,
+        "text": "And my faithfulness and my loving-kindness shall be with him, and by my name shall his horn be exalted.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15352,
+        "text": "And I will set his hand in the sea, and his right hand in the rivers.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15353,
+        "text": "He shall call unto me, Thou art my father, my God, and the rock of my salvation;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15354,
+        "text": "And as to me, I will make him firstborn, the highest of the kings of the earth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15355,
+        "text": "My loving-kindness will I keep for him for evermore, and my covenant shall stand fast with him;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15356,
+        "text": "And I will establish his seed for ever, and his throne as the days of heaven.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15357,
+        "text": "If his sons forsake my law, and walk not in mine ordinances;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15358,
+        "text": "If they profane my statutes, and keep not my commandments:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15359,
+        "text": "Then will I visit their transgression with the rod, and their iniquity with stripes.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15360,
+        "text": "Nevertheless my loving-kindness will I not utterly take from him, nor belie my faithfulness;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 15361,
+        "text": "My covenant will I not profane, nor alter the thing that is gone out of my lips.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15362,
+        "text": "Once have I sworn by my holiness; I will not lie unto David:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 15363,
+        "text": "His seed shall endure for ever, and his throne as the sun before me;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15364,
+        "text": "It shall be established for ever as the moon, and the witness in the sky is firm. Selah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 15365,
+        "text": "But thou hast rejected and cast off; thou hast been very wroth with thine anointed:",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 15366,
+        "text": "Thou hast made void the covenant of thy servant; thou hast profaned his crown to the ground:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 15367,
+        "text": "Thou hast broken down all his hedges; thou hast brought his strongholds to ruin.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 15368,
+        "text": "All that pass by the way plunder him; he is become a reproach to his neighbours.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 15369,
+        "text": "Thou hast exalted the right hand of his oppressors; thou hast made all his enemies to rejoice:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15370,
+        "text": "Yea, thou hast turned back the edge of his sword, and hast not made him stand in the battle.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 15371,
+        "text": "Thou hast made his brightness to cease, and cast his throne down to the ground;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 15372,
+        "text": "The days of his youth hast thou shortened; thou hast covered him with shame. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 15373,
+        "text": "How long, Jehovah, wilt thou hide thyself for ever? shall thy fury burn like fire?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 15374,
+        "text": "Remember, as regards me, what life is. Wherefore hast thou created all the children of men to be vanity?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 15375,
+        "text": "What man liveth, and shall not see death? Shall he deliver his soul from the power of Sheol? Selah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 15376,
+        "text": "Where, Lord, are thy former loving-kindnesses, [which] thou swarest unto David in thy faithfulness?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 15377,
+        "text": "Remember, Lord, the reproach of thy servants—that I bear in my bosom [that of] all the mighty peoples—",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 15378,
+        "text": "Wherewith thine enemies, O Jehovah, have reproached, wherewith they have reproached the footsteps of thine anointed.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 15379,
+        "text": "Blessed be Jehovah for evermore! Amen, and Amen.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

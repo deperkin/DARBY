@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 41,
+    "count": 720,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18453,
+        "text": "Keep silence before me, islands; and let the peoples renew [their] strength: let them come near; then let them speak: let us draw near together to judgment.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18454,
+        "text": "Who raised up from the east him whom righteousness calleth to its foot? He gave the nations before him, and caused him to have dominion over kings; he gave them as dust to his sword, as driven stubble to his bow.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18455,
+        "text": "He pursued them, he passed on in safety, by a way he had never come with his feet.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18456,
+        "text": "Who hath wrought and done [it], calling the generations from the beginning? I, Jehovah, the first; and with the last, I [am] HE.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18457,
+        "text": "The isles saw [it], and feared; the ends of the earth trembled: they drew near, and came.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18458,
+        "text": "They helped every one his neighbour, and [each] said to his brother, Take courage.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18459,
+        "text": "And the artizan encouraged the founder, he that smootheth [with] the hammer him that smiteth on the anvil, saying of the soldering, It is good; and he fasteneth it with nails, that it be not moved.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18460,
+        "text": "But thou, Israel, my servant, Jacob, whom I have chosen, the seed of Abraham, my friend",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18461,
+        "text": "—thou whom I have taken from the ends of the earth, and called from the extremities thereof, and to whom I said, Thou art my servant, I have chosen thee and not rejected thee,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18462,
+        "text": "—Fear not, for I [am] with thee; be not dismayed, for I [am] thy God: I will strengthen thee, yea, I will help thee, yea, I will uphold thee with the right hand of my righteousness.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 18463,
+        "text": "Lo, all that are incensed against thee shall be ashamed and confounded; they that strive with thee shall be as nothing, and shall perish.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18464,
+        "text": "Thou shalt seek them, and shalt not find them—them that contend with thee; they that war against thee shall be as nothing, and as a thing of nought.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18465,
+        "text": "For I, Jehovah, thy God, hold thy right hand, saying unto thee, Fear not; I will help thee.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18466,
+        "text": "Fear not, thou worm Jacob, ye men of Israel; I will help thee, saith Jehovah, and thy Redeemer, the Holy One of Israel.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18467,
+        "text": "Behold, I have made of thee a new sharp threshing instrument having double teeth: thou shalt thresh and beat small the mountains, and shalt make the hills as chaff;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18468,
+        "text": "thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them; and thou shalt rejoice in Jehovah, thou shalt glory in the Holy One of Israel.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18469,
+        "text": "The afflicted and the needy seek water, and there is none; their tongue faileth for thirst: I, Jehovah, will answer them, [I], the God of Israel, will not forsake them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18470,
+        "text": "I will open rivers on the bare heights, and fountains in the midst of the valleys; I will make the wilderness into a pool of water, and the dry land into water-springs.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18471,
+        "text": "I will give in the wilderness the cedar, acacia, myrtle, and oleaster; I will set in the desert the cypress, pine, and box-tree together;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18472,
+        "text": "that they may see, and know, and consider, and understand together, that the hand of Jehovah hath done this, and the Holy One of Israel hath created it.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18473,
+        "text": "Produce your cause, saith Jehovah; bring forward your arguments, saith the King of Jacob.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 18474,
+        "text": "Let them bring them forward, and declare to us what shall happen: shew the former things, what they are, that we may give attention to them, and know the end of them;—or let us hear things to come:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 18475,
+        "text": "declare the things that are to happen hereafter, that we may know that ye are gods; yea, do good, or do evil, that we may be astonished, and behold it together.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 18476,
+        "text": "Behold, ye are less than nothing, and your work is of nought; an abomination is he that chooseth you....",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 18477,
+        "text": "I have raised up one from the north, and he shall come,—from the rising of the sun, he who will call upon my name; and he shall come upon princes as on mortar, and as the potter treadeth clay.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 18478,
+        "text": "Who hath declared [it] from the beginning, that we may know? and beforetime, that we may say, [It is] right? Indeed, there is none that declareth; no, none that sheweth; no, none that heareth your words.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 18479,
+        "text": "The first, [I said] to Zion, Behold, behold them! and to Jerusalem, I will give one that bringeth glad tidings.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 18480,
+        "text": "And I beheld, and there was no man; even among them,—and there was no counsellor, that, when I asked of them, could answer a word.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 18481,
+        "text": "Behold, they are all vanity, their works are nought, their molten images are wind and emptiness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

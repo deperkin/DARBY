@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 483,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13975,
+        "text": "{To the chief Musician. Upon Nehiloth. A Psalm of David.} Give ear to my words, O Jehovah; consider my meditation.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13976,
+        "text": "Hearken unto the voice of my crying, my king and my God; for to thee will I pray.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13977,
+        "text": "Jehovah, in the morning shalt thou hear my voice; in the morning will I address myself to thee, and will look up.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13978,
+        "text": "For thou art not a God that hath pleasure in wickedness; evil shall not sojourn with thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13979,
+        "text": "Insolent fools shall not stand before thine eyes; thou hatest all workers of iniquity.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13980,
+        "text": "Thou wilt destroy them that speak lies: Jehovah abhorreth a man of blood and deceit.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13981,
+        "text": "But as for me, in the greatness of thy loving-kindness will I enter thy house; I will bow down toward the temple of thy holiness in thy fear.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13982,
+        "text": "Lead me, Jehovah, in thy righteousness, because of my foes; make thy way plain before me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13983,
+        "text": "For there is no certainty in their mouth; their inward part is perversion, their throat is an open sepulchre; they flatter with their tongue.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13984,
+        "text": "Bring guilt upon them, O God; let them fall by their own counsels: drive them out in the multitude of their transgressions, for they have rebelled against thee.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13985,
+        "text": "And all that trust in thee shall rejoice: for ever shall they shout joyously, and thou wilt protect them; and they that love thy name shall exult in thee.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13986,
+        "text": "For thou, Jehovah, wilt bless the righteous [man]; with favour wilt thou surround him as [with] a shield.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

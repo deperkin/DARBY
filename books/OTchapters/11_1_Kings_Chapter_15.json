@@ -1,0 +1,250 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 306,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9251,
+        "text": "And in the eighteenth year of king Jeroboam the son of Nebat began Abijam to reign over Judah.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9252,
+        "text": "He reigned three years in Jerusalem; and his mother’s name was Maachah, a daughter of Abishalom.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9253,
+        "text": "And he walked in all the sins of his father, which he had done before him; and his heart was not perfect with Jehovah his God, as the heart of David his father.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9254,
+        "text": "But for David’s sake Jehovah his God gave him a lamp in Jerusalem, setting up his son after him, and establishing Jerusalem;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9255,
+        "text": "because David did that which was right in the sight of Jehovah, and turned not aside from anything that he commanded him all the days of his life, except in the matter of Urijah the Hittite.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9256,
+        "text": "And there had been war between Rehoboam and Jeroboam all the days of his life.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9257,
+        "text": "And the rest of the acts of Abijam, and all that he did, are they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9258,
+        "text": "And Abijam slept with his fathers; and they buried him in the city of David. And Asa his son reigned in his stead.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9259,
+        "text": "And in the twentieth year of Jeroboam king of Israel, Asa began to reign over Judah;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 9260,
+        "text": "and he reigned forty-one years in Jerusalem; and his mother’s name was Maachah, daughter of Abishalom.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9261,
+        "text": "And Asa did what was right in the sight of Jehovah, as David his father.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9262,
+        "text": "And he put away the sodomites out of the land, and removed all the idols that his father had made.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9263,
+        "text": "And also Maachah his mother he removed from being queen, because she had made an idol for the Asherah; and Asa cut down her idol, and burned it in the valley of Kidron.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9264,
+        "text": "But the high places were not removed; only, Asa’s heart was perfect with Jehovah all his days.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9265,
+        "text": "And he brought into the house of Jehovah the things which his father had dedicated, and the things which he himself had dedicated, silver and gold and vessels.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9266,
+        "text": "And there was war between Asa and Baasha king of Israel all their days.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9267,
+        "text": "And Baasha king of Israel came up against Judah, and built Ramah, in order to let none go out or come in to Asa king of Judah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9268,
+        "text": "And Asa took all the silver and the gold that were left in the treasures of the house of Jehovah, and in the treasures of the king’s house, and gave them into the hand of his servants; and king Asa sent them to Ben-Hadad, the son of Tabrimmon, the son of Hezion, king of Syria, who dwelt at Damascus, saying,",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9269,
+        "text": "There is a league between me and thee, [as] between my father and thy father; behold, I send thee a present of silver and gold: go, break thy league with Baasha king of Israel, that he may depart from me.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9270,
+        "text": "And Ben-Hadad hearkened to king Asa, and sent the captains of his forces against the cities of Israel, and smote Ijon, and Dan, and Abel-Beth-Maachah, and all Kinneroth, with all the land of Naphtali.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9271,
+        "text": "And it came to pass when Baasha heard of it, that he left off building Ramah, and dwelt in Tirzah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9272,
+        "text": "And king Asa called together all Judah: none was exempted; and they carried away the stones and the timber from Ramah, with which Baasha had been building; and king Asa built with them Geba of Benjamin, and Mizpah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9273,
+        "text": "And the rest of all the acts of Asa, and all his might, and all that he did, and the cities that he built, are they not written in the book of the chronicles of the kings of Judah? Only, in the time of his old age he was diseased in his feet.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9274,
+        "text": "And Asa slept with his fathers, and was buried with his fathers in the city of David his father. And Jehoshaphat his son reigned in his stead.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9275,
+        "text": "And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah; and he reigned over Israel two years.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 9276,
+        "text": "And he did evil in the sight of Jehovah, and walked in the way of his father, and in his sin with which he made Israel sin.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9277,
+        "text": "And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which [belonged] to the Philistines, when Nadab and all Israel were besieging Gibbethon.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9278,
+        "text": "And Baasha slew him in the third year of Asa king of Judah, and reigned in his stead.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9279,
+        "text": "And it came to pass when he was king, he smote all the house of Jeroboam; he left to Jeroboam none that breathed; until he had destroyed him, according to the word of Jehovah which he spoke by his servant Ahijah the Shilonite,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 9280,
+        "text": "because of the sins of Jeroboam which he sinned, and wherewith he made Israel to sin; by his provocation with which he provoked Jehovah the God of Israel to anger.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 9281,
+        "text": "And the rest of the acts of Nadab, and all that he did, are they not written in the book of the chronicles of the kings of Israel?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 9282,
+        "text": "And there was war between Asa and Baasha king of Israel all their days.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 9283,
+        "text": "In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, for twenty-four years.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 9284,
+        "text": "And he did evil in the sight of Jehovah, and walked in the way of Jeroboam, and in his sin where with he made Israel to sin.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 202,
+    "MaxVerses": 63,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6204,
+        "text": "And the lot of the tribe of the children of Judah according to their families was: to the border of Edom, the wilderness of Zin, southward, in the extreme south.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6205,
+        "text": "And their southern border was from the end of the salt sea, from the tongue that turns southward;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6206,
+        "text": "and it went out south of the ascent of Akrabbim, and passed on to Zin, and went up on the south of Kadesh-barnea, and passed to Hezron, and went up toward Addar, and turned toward Karkaah,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6207,
+        "text": "and passed on to Azmon, and went out by the torrent of Egypt; and the border ended at the sea. That shall be your border southward.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6208,
+        "text": "—And the eastern border was the salt sea as far as the end of the Jordan.—And the border on the north side was from the tongue of the salt sea, at the end of the Jordan;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6209,
+        "text": "and the border went up toward Beth-hoglah, and passed north of Beth-Arabah; and the border went up to the stone of Bohan, the son of Reuben;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6210,
+        "text": "and the border went up toward Debir from the valley of Achor, and turned northward to Gilgal, which is opposite to the ascent of Adummim, which is on the south side of the torrent; and the border passed to the waters of En-shemesh, and ended at En-rogel;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 6211,
+        "text": "and the border went up to the valley of the son of Hinnom, toward the south side of the Jebusite, that is, Jerusalem; and the border went up to the top of the mountain that is before the valley of Hinnom westward, which is at the end of the valley of Rephaim northward;",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6212,
+        "text": "and the border reached along from the top of the mountain toward the spring of the waters of Nephtoah, and went out toward the cities of mount Ephron; and the border reached along to Baalah, that is, Kirjath-jearim;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6213,
+        "text": "and the border turned from Baalah westwards toward mount Seir, and passed toward the side of Har-jearim, that is, Chesalon, northwards, and went down to Beth-shemesh, and passed Timnah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6214,
+        "text": "And the border went out to the side of Ekron northwards, and the border reached along toward Shicron, and passed mount Baalah, and went toward Jabneel; and the border ended at the sea.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6215,
+        "text": "—And the west border is the great sea and [its] coast. This is the border of the children of Judah round about, according to their families.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6216,
+        "text": "And to Caleb the son of Jephunneh he gave a portion among the children of Judah according to the commandment of Jehovah to Joshua, the city of Arba, the father of Anak, that is, Hebron.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 6217,
+        "text": "And thence Caleb dispossessed the three sons of Anak, Sheshai and Ahiman and Talmai, who were born of Anak.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6218,
+        "text": "And from there he went up against the inhabitants of Debir; now the name of Debir before was Kirjath-sepher.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6219,
+        "text": "And Caleb said, He that smites Kirjath-sepher and takes it, to him will I give Achsah my daughter as wife.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6220,
+        "text": "And Othniel the son of Kenaz, the brother of Caleb, took it; and he gave him Achsah his daughter as wife.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6221,
+        "text": "And it came to pass as she came, that she urged him to ask of her father a field; and she sprang down from the ass. And Caleb said to her, What wouldest thou?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6222,
+        "text": "And she said, Give me a blessing; for thou hast given me a southern land; give me also springs of water. Then he gave her the upper springs and the lower springs.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6223,
+        "text": "This is the inheritance of the tribe of the children of Judah according to their families.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 6224,
+        "text": "The cities at the extremity of the tribe of the children of Judah, toward the border of Edom in the south, were: Kabzeel, and Eder, and Jagur,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6225,
+        "text": "and Kinah, and Dimonah, and Adadah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6226,
+        "text": "and Kedesh, and Hazor, and Jithnan,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6227,
+        "text": "Ziph, and Telem, and Bealoth,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 6228,
+        "text": "and Hazor-hadattah, and Kerioth-Hezron, that is Hazor,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6229,
+        "text": "Amam, and Shema, and Molada,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6230,
+        "text": "and Hazar-gaddah, and Heshmon, and Beth-Pelet,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6231,
+        "text": "and Hazar-Shual, and Beer-sheba, and Biziothiah;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6232,
+        "text": "Baalah, and Ijim, and Ezem,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6233,
+        "text": "and Eltolad, and Chesil, and Hormah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6234,
+        "text": "and Ziklag, and Madmannah, and Sansanna,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6235,
+        "text": "and Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities twenty-nine, and their hamlets.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 6236,
+        "text": "—In the lowland: Eshtaol, and Zoreah, and Ashnah,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 6237,
+        "text": "and Zanoah, and En-gannim, Tappuah and Enam,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 6238,
+        "text": "Jarmuth and Adullam, Sochoh and Azekah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 6239,
+        "text": "and Shaaraim, and Adithaim, and Gederah, and Gederothaim: fourteen cities and their hamlets.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 6240,
+        "text": "Zenan, and Hadashah, and Migdal-Gad,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 6241,
+        "text": "and Dilean, and Mizpeh, and Joktheel,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 6242,
+        "text": "Lachish, and Bozkath, and Eglon,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 6243,
+        "text": "and Cabbon, and Lahmas, and Chithlish,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 6244,
+        "text": "and Gederoth, Beth-Dagon, and Naamah, and Makkedah: sixteen cities and their hamlets.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 6245,
+        "text": "Libna, and Ether, and Ashan,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 6246,
+        "text": "and Jiphthah, and Ashnah, and Nezib,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 6247,
+        "text": "and Keilah, and Achzib, and Mareshah: nine cities and their hamlets.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 6248,
+        "text": "Ekron and its dependent villages and its hamlets.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 6249,
+        "text": "From Ekron and westward all that are by the side of Ashdod, and their hamlets.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 6250,
+        "text": "Ashdod, its dependent villages and its hamlets; Gazah, its dependent villages and its hamlets, as far as the torrent of Egypt, and the great sea and [its] coast.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 6251,
+        "text": "—And in the hill-country: Shamir, and Jattir, and Sochoh,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 6252,
+        "text": "and Dannah, and Kirjath-sannah, that is, Debir,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 6253,
+        "text": "and Anab, and Eshtemoh, and Anim,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 6254,
+        "text": "and Goshen, and Holon, and Giloh: eleven cities and their hamlets.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 6255,
+        "text": "Arab, and Dumah, and Eshan,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 6256,
+        "text": "and Janum, and Beth-Tappuah, and Aphekah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 6257,
+        "text": "and Humtah, and Kirjath-Arba, that is, Hebron, and Zior: nine cities and their hamlets.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 6258,
+        "text": "Maon, Carmel, and Ziph, and Jutah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 6259,
+        "text": "and Jizreel, and Jokdeam, and Zanoah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 6260,
+        "text": "Kain, Gibeah and Timnah: ten cities and their hamlets.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 6261,
+        "text": "Halhul, Beth-Zur, and Gedor,",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 6262,
+        "text": "and Maarath, and Beth-anoth, and Eltekon: six cities and their hamlets.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 6263,
+        "text": "Kirjath-Baal, that is, Kirjath-jearim, and Rabbah: two cities and their hamlets.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 6264,
+        "text": "—In the wilderness: Beth-Arabah, Middin, and Secacah,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 6265,
+        "text": "and Nibshan, and Ir-Hammelah, and En-gedi: six cities and their hamlets.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 6266,
+        "text": "But as for the Jebusites, the inhabitants of Jerusalem, the children of Judah could not dispossess them; and the Jebusites dwell with the children of Judah at Jerusalem to this day.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 486,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14014,
+        "text": "{To the chief Musician. Upon the Gittith. A Psalm of David.} Jehovah our Lord, how excellent is thy name in all the earth! who hast set thy majesty above the heavens.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14015,
+        "text": "Out of the mouth of babes and sucklings hast thou established praise because of thine adversaries, to still the enemy and the avenger.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14016,
+        "text": "When I see thy heavens, the work of thy fingers, the moon and stars, which thou hast established;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 14017,
+        "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14018,
+        "text": "Thou hast made him a little lower than the angels, and hast crowned him with glory and splendour.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14019,
+        "text": "Thou hast made him to rule over the works of thy hands; thou hast put everything under his feet:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14020,
+        "text": "Sheep and oxen, all of them, and also the beasts of the field;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14021,
+        "text": "The fowl of the heavens, and the fishes of the sea, [whatever] passeth through the paths of the seas.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14022,
+        "text": "Jehovah our Lord, how excellent is thy name in all the earth!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

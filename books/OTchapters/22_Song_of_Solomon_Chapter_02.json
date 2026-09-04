@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 673,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17556,
+        "text": "I am a narcissus of Sharon, A lily of the valleys.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17557,
+        "text": "As the lily among thorns, So is my love among the daughters.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17558,
+        "text": "As the apple-tree among the trees of the wood, So is my beloved among the sons: In his shadow have I rapture and sit down; And his fruit is sweet to my taste.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 17559,
+        "text": "He hath brought me to the house of wine, And his banner over me is love.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17560,
+        "text": "Sustain ye me with raisin-cakes, Refresh me with apples; For I am sick of love.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17561,
+        "text": "His left hand is under my head, And his right hand doth embrace me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17562,
+        "text": "I charge you, daughters of Jerusalem, By the gazelles, or by the hinds of the field, That ye stir not up, nor awake [my] love, till he please.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17563,
+        "text": "The voice of my beloved! Behold, he cometh Leaping upon the mountains, Skipping upon the hills.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 17564,
+        "text": "My beloved is like a gazelle or a young hart. Behold, he standeth behind our wall, He looketh in through the windows, Glancing through the lattice.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17565,
+        "text": "My beloved spake and said unto me, Rise up, my love, my fair one, and come away.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17566,
+        "text": "For behold, the winter is past, The rain is over, it is gone:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17567,
+        "text": "The flowers appear on the earth; The time of singing is come, And the voice of the turtle-dove is heard in our land;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17568,
+        "text": "The fig-tree melloweth her winter figs, And the vines in bloom give forth [their] fragrance. Arise, my love, my fair one, and come away!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17569,
+        "text": "My dove, in the clefts of the rock, In the covert of the precipice, Let me see thy countenance, let me hear thy voice; For sweet is thy voice, and thy countenance is comely.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 17570,
+        "text": "Take us the foxes, The little foxes, that spoil the vineyards; For our vineyards are in bloom.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17571,
+        "text": "My beloved is mine, and I am his; He feedeth [his flock] among the lilies,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17572,
+        "text": "Until the day dawn, and the shadows flee away. Turn, my beloved: be thou like a gazelle or a young hart, Upon the mountains of Bether.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

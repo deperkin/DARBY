@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 680,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17656,
+        "text": "The vision of Isaiah the son of Amos, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, Hezekiah, kings of Judah.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17657,
+        "text": "Hear, [ye] heavens, and give ear, [thou] earth! for Jehovah hath spoken: I have nourished and brought up children; and they have rebelled against me.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17658,
+        "text": "The ox knoweth his owner, and the ass his master’s crib; Israel doth not know, my people hath no intelligence.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17659,
+        "text": "Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that corrupt themselves! They have forsaken Jehovah; they have despised the Holy One of Israel; they are turned away backward.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17660,
+        "text": "Why should ye be smitten any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17661,
+        "text": "From the sole of the foot even unto the head there is no soundness in him; wounds, and weals, and open sores: they have not been dressed, nor bound up, nor mollified with oil.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17662,
+        "text": "Your country is desolate; your cities are burned with fire; your land, strangers eat it up in your presence, and it is desolate, as overthrown by strangers.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17663,
+        "text": "And the daughter of Zion is left, as a booth in a vineyard, as a night-lodge in a cucumber-garden, as a besieged city.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17664,
+        "text": "Unless Jehovah of hosts had left us a very small residue, we should have been as Sodom, we should have been like unto Gomorrah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17665,
+        "text": "Hear the word of Jehovah, rulers of Sodom; give ear unto the law of our God, people of Gomorrah!",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17666,
+        "text": "To what purpose is the multitude of your sacrifices unto me? saith Jehovah. I am sated with burnt-offerings of rams, and the fat of fed beasts; and in the blood of bullocks, and of lambs, and of he-goats I take no pleasure.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17667,
+        "text": "When ye come to appear before me, who hath required this from your hand—to tread my courts?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17668,
+        "text": "Bring no more vain oblations! Incense is an abomination unto me,—new moon and sabbath, the calling of convocations—wickedness and the solemn meeting I cannot bear.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17669,
+        "text": "Your new moons and your set feasts my soul hateth: they are a burden to me; I am wearied of bearing [them].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17670,
+        "text": "And when ye spread forth your hands, I will hide mine eyes from you; yea, when ye make many prayers, I will not hear: your hands are full of blood.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17671,
+        "text": "Wash you, make you clean; put away the evil of your doings from before mine eyes;—cease to do evil,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17672,
+        "text": "learn to do well: seek judgment, gladden the oppressed, do justice to the fatherless, plead for the widow.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17673,
+        "text": "Come now, let us reason together, saith Jehovah: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17674,
+        "text": "If ye be willing and hearken, ye shall eat the good of the land;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17675,
+        "text": "but if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of Jehovah hath spoken.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17676,
+        "text": "How is the faithful city become a harlot! It was full of judgment; righteousness used to lodge in it, but now murderers.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 17677,
+        "text": "Thy silver is become dross, thy wine is mixed with water:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17678,
+        "text": "thy princes are rebellious, and companions of thieves; every one loveth presents, and hunteth after rewards; they judge not the fatherless, and the cause of the widow cometh not unto them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17679,
+        "text": "Therefore saith the Lord, Jehovah of hosts, the Mighty One of Israel: Ah! I will ease me of mine adversaries, and avenge me of mine enemies.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 17680,
+        "text": "And I will turn my hand upon thee, and will thoroughly purge away thy dross, and take away all thine alloy;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17681,
+        "text": "and I will restore thy judges as at the first, and thy counsellors as at the beginning. Afterwards thou shalt be called, Town of righteousness, Faithful city.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17682,
+        "text": "Zion shall be redeemed with judgment, and they that return of her with righteousness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 17683,
+        "text": "But the ruin of the transgressors and of the sinners [shall be] together; and they that forsake Jehovah shall be consumed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 17684,
+        "text": "For they shall be ashamed of the terebinths that ye have desired, and ye shall blush for the gardens that ye have chosen.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 17685,
+        "text": "For ye shall be as a terebinth whose leaf fadeth, and as a garden that hath no water.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 17686,
+        "text": "And the strong shall be for tow, and his work a spark; and they shall both burn together, and there shall be none to quench [them].",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

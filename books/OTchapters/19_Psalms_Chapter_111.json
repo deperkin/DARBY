@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 111,
+    "count": 589,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15795,
+        "text": "Hallelujah! I will celebrate Jehovah with [my] whole heart, in the council of the upright, and in the assembly.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15796,
+        "text": "Great are the works of Jehovah; sought out of all that delight in them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15797,
+        "text": "His work is majesty and splendour, and his righteousness abideth for ever.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15798,
+        "text": "He hath made his wonders to be remembered: Jehovah is gracious and merciful.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15799,
+        "text": "He hath given meat unto them that fear him; he is ever mindful of his covenant.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15800,
+        "text": "He hath shewn his people the power of his works, to give them the heritage of the nations.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15801,
+        "text": "The works of his hands are truth and judgment; all his precepts are faithful:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15802,
+        "text": "Maintained for ever and ever, done in truth and uprightness.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15803,
+        "text": "He sent deliverance unto his people; he hath commanded his covenant for ever: holy and terrible is his name.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15804,
+        "text": "The fear of Jehovah is the beginning of wisdom; a good understanding have all they that do [his precepts]: his praise abideth for ever.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

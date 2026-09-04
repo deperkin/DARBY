@@ -1,0 +1,222 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 56,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1657,
+        "text": "And Jehovah said to Moses, Now shalt thou see what I will do to Pharaoh; for by a strong hand shall he let them go, and by a strong hand shall he drive them out of his land.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1658,
+        "text": "And God spoke to Moses, and said to him, I am Jehovah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1659,
+        "text": "And I appeared unto Abraham, unto Isaac, and unto Jacob, as the Almighty God; but by my name Jehovah I was not made known to them.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1660,
+        "text": "And I established also my covenant with them, to give them the land of Canaan, the land of their pilgrimage, in which they were sojourners.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1661,
+        "text": "And I have heard also the groaning of the children of Israel, whom the Egyptians have forced to serve, and I have remembered my covenant.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1662,
+        "text": "Therefore say unto the children of Israel, I am Jehovah, and I will bring you out from under the burdens of the Egyptians, and I will deliver you from their service, and I will redeem you with a stretched-out arm, and with great judgments.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1663,
+        "text": "And I will take you to me for a people, and will be your God; and ye shall know that I, Jehovah your God, am he who bringeth you out from under the burdens of the Egyptians.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1664,
+        "text": "And I will bring you into the land concerning which I swore to give it unto Abraham, unto Isaac, and unto Jacob; and I will give it you for a possession: I am Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1665,
+        "text": "And Moses spoke thus to the children of Israel; but they did not listen to Moses from anguish of spirit, and from hard service.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1666,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 1667,
+        "text": "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1668,
+        "text": "And Moses spoke before Jehovah, saying, Lo, the children of Israel do not hearken to me: how then should Pharaoh hearken to me, to me of uncircumcised lips?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1669,
+        "text": "And Jehovah spoke to Moses and to Aaron, and gave them a commandment to the children of Israel, and to Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1670,
+        "text": "These are the heads of their fathers’ houses: the sons of Reuben, the firstborn of Israel: Enoch and Phallu, Hezron and Carmi: these are the families of Reuben.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 1671,
+        "text": "And the sons of Simeon: Jemuel, And Jamin, And Ohad, And Jachin, And Zohar, And Saul the son of a Canaanitish woman: these are the families of Simeon.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1672,
+        "text": "And these are the names of the sons of Levi, according to their generations: Gershon, and Kohath, and Merari. And the years of the life of Levi were a hundred and thirty-seven years.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1673,
+        "text": "The sons of Gershon: Libni and Shimei, according to their families.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1674,
+        "text": "And the sons of Kohath: Amram, and Jizhar, and Hebron, and Uzziel. And the years of the life of Kohath were a hundred and thirty-three years.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1675,
+        "text": "And the sons of Merari: Mahli and Mushi: these are the families of Levi according to their generations.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1676,
+        "text": "And Amram took Jochebed his aunt as wife; and she bore him Aaron and Moses. And the years of the life of Amram were a hundred and thirty-seven years.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1677,
+        "text": "And the sons of Jizhar: Korah, and Nepheg, and Zicri.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1678,
+        "text": "And the sons of Uzziel: Mishael, and Elzaphan, and Sithri.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1679,
+        "text": "And Aaron took Elisheba, daughter of Amminadab, sister of Nahshon, as wife; and she bore him Nadab and Abihu, Eleazar and Ithamar.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1680,
+        "text": "And the sons of Korah: Assir, and Elkanah, and Abiasaph: these are the families of the Korahites.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1681,
+        "text": "And Eleazar Aaron’s son took [one] of the daughters of Putiel as wife; and she bore him Phinehas: these are the heads of the fathers of the Levites according to their families.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1682,
+        "text": "This is that Aaron and Moses, to whom Jehovah said, Bring out the children of Israel from the land of Egypt according to their hosts.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1683,
+        "text": "These are they who spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: this is that Moses and Aaron.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1684,
+        "text": "And it came to pass on the day when Jehovah spoke to Moses in the land of Egypt,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1685,
+        "text": "that Jehovah spoke to Moses, saying, I am Jehovah: speak thou unto Pharaoh king of Egypt all that I say unto thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1686,
+        "text": "And Moses said before Jehovah, Behold, I am of uncircumcised lips, and how will Pharaoh hearken unto me?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

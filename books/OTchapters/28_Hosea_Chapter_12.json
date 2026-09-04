@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 874,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22254,
+        "text": "Ephraim feedeth on wind, and pursueth after the east wind: all day long he multiplieth lies and desolation; and they make a covenant with Assyria, and oil is carried into Egypt.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22255,
+        "text": "Jehovah hath also a controversy with Judah, and he will punish Jacob according to his ways; according to his doings will he recompense him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22256,
+        "text": "He took his brother by the heel in the womb, and in his strength he wrestled with God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22257,
+        "text": "Yea, he wrestled with the Angel, and prevailed; he wept, and made supplication unto him: he found him in Bethel, and there he spoke with us,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22258,
+        "text": "—even Jehovah, the God of hosts,—Jehovah is his memorial.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22259,
+        "text": "And thou, return unto thy God: keep loving-kindness and judgment, and wait on thy God continually.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22260,
+        "text": "[He is] a merchant, balances of deceit are in his hand; he loveth to oppress.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 22261,
+        "text": "And Ephraim saith, Nevertheless I am become rich, I have found me out substance; in all my labours they shall find none iniquity in me that were sin.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22262,
+        "text": "But I [that am] Jehovah thy God from the land of Egypt will again make thee to dwell in tents, as in the days of the solemn feast.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22263,
+        "text": "And I have spoken to the prophets, and I have multiplied visions, and by means of the prophets have I used similitudes.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22264,
+        "text": "If Gilead is iniquity, surely they are but vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22265,
+        "text": "And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept [sheep].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22266,
+        "text": "And by a prophet Jehovah brought Israel out of Egypt, and by a prophet was he preserved.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22267,
+        "text": "Ephraim provoked [him] to anger most bitterly; and his Lord shall leave his blood upon him, and recompense unto him his reproach.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 453,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13262,
+        "text": "My breath is corrupt, my days are extinct, the graves are mine.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13263,
+        "text": "Are there not mockers around me? and doth [not] mine eye abide in their provocation?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13264,
+        "text": "Lay down now [a pledge], be thou surety for me with thyself: who is he that striketh hands with me?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13265,
+        "text": "For thou hast hidden their heart from understanding; therefore thou wilt not exalt [them].",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13266,
+        "text": "He that betrayeth friends for a prey—even the eyes of his children shall fail.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13267,
+        "text": "And he hath made me a proverb of the peoples; and I am become one to be spit on in the face.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13268,
+        "text": "And mine eye is dim by reason of grief, and all my members are as a shadow.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13269,
+        "text": "Upright men [shall be] astonished at this, and the innocent shall be stirred up against the ungodly;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13270,
+        "text": "But the righteous shall hold on his way, and he that hath clean hands shall increase in strength.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13271,
+        "text": "But as for you all, pray come on again; and I shall not find one wise man among you.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13272,
+        "text": "My days are past, my purposes are broken off, the cherished thoughts of my heart.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13273,
+        "text": "They change the night into day; the light [they imagine] near in presence of the darkness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13274,
+        "text": "If I wait, Sheol is my house; I spread my bed in the darkness:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13275,
+        "text": "I cry to the grave, Thou art my father! to the worm, My mother, and my sister!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13276,
+        "text": "And where is then my hope? yea, my hope, who shall see it?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13277,
+        "text": "It shall go down to the bars of Sheol, when [our] rest shall be together in the dust.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

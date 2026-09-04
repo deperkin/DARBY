@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 263,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7932,
+        "text": "And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul will despair of me to seek me any more within all the limits of Israel, and I shall escape out of his hand.",
+        "WordCount": 60,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7933,
+        "text": "And David arose and passed over, he and the six hundred men that were with him, to Achish, the son of Maoch, king of Gath.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7934,
+        "text": "And David abode with Achish at Gath, he and his men, every man with his household; David with his two wives, Ahinoam the Jizreelitess, and Abigail the Carmelitess, Nabal’s wife.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7935,
+        "text": "And it was told Saul that David had fled to Gath; and he sought no more for him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7936,
+        "text": "And David said to Achish, If now I have found favour in thine eyes, let them give me a place in some country-town, that I may abide there; for why should thy servant abide in the royal city with thee?",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7937,
+        "text": "And Achish gave him Ziklag that day; therefore Ziklag belongs to the kings of Judah to this day.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7938,
+        "text": "And the time that David abode in the country of the Philistines was a year and four months.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7939,
+        "text": "And David and his men went up and made a raid upon the Geshurites, and the Gerzites, and the Amalekites: for those were of old the inhabitants of the land, as thou goest to Shur, and as far as the land of Egypt.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 7940,
+        "text": "And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7941,
+        "text": "So Achish said, Have ye not made a raid to-day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7942,
+        "text": "And David left neither man nor woman alive, to bring [them] to Gath, for he said, Lest they should tell of us, saying, So did David. And such was his custom as long as he abode in the country of the Philistines.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7943,
+        "text": "And Achish trusted David, saying, He has made himself utterly odious among his people Israel; and he shall be my servant for ever.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

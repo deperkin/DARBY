@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 633,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16519,
+        "text": "My son, attend unto my wisdom, incline thine ear to my understanding;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16520,
+        "text": "that thou mayest keep reflection, and that thy lips may preserve knowledge.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16521,
+        "text": "For the lips of the strange woman drop honey, and her mouth is smoother than oil;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16522,
+        "text": "but her end is bitter as wormwood, sharp as a two-edged sword.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16523,
+        "text": "Her feet go down to death; her steps take hold on Sheol.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16524,
+        "text": "Lest she should ponder the path of life, her ways wander, she knoweth not [whither].",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16525,
+        "text": "And now, children, hearken unto me, and depart not from the words of my mouth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16526,
+        "text": "Remove thy way far from her, and come not nigh the door of her house:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16527,
+        "text": "lest thou give thine honour unto others, and thy years unto the cruel;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16528,
+        "text": "lest strangers be filled with thy wealth, and the fruits of thy toil [come] into the house of a stranger;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16529,
+        "text": "and thou mourn in thine end, when thy flesh and thy body are consumed;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16530,
+        "text": "and thou say, How have I hated instruction, and my heart despised reproof!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16531,
+        "text": "and I have not hearkened unto the voice of my teachers, nor inclined mine ear to those that instructed me;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16532,
+        "text": "I was well nigh in all evil in the midst of the congregation and assembly.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16533,
+        "text": "Drink waters out of thine own cistern, and running waters out of thine own well.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16534,
+        "text": "Thy fountains shall be poured forth, as water-brooks in the broadways.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16535,
+        "text": "Let them be only thine own, and not strangers’ with thee.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16536,
+        "text": "Let thy fountain be blessed; and have joy of the wife of thy youth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16537,
+        "text": "As a lovely hind and a graceful roe, let her breasts satisfy thee at all times: be thou ravished continually with her love.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16538,
+        "text": "And why shouldest thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16539,
+        "text": "For the ways of man are before the eyes of Jehovah, and he pondereth all his paths.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16540,
+        "text": "His own iniquities shall take the wicked, and he shall be holden with the cords of his sin.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16541,
+        "text": "He shall die for want of discipline; and in the greatness of his folly he shall go astray.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

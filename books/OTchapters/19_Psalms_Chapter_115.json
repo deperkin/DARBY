@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 115,
+    "count": 593,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15832,
+        "text": "Not unto us, O Jehovah, not unto us, but unto thy name give glory, for thy loving-kindness and for thy truth’s sake.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15833,
+        "text": "Wherefore should the nations say, Where then is their God?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15834,
+        "text": "But our God is in the heavens: he hath done whatsoever he pleased.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15835,
+        "text": "Their idols are silver and gold, the work of men’s hands:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15836,
+        "text": "They have a mouth, and they speak not; eyes have they, and they see not;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15837,
+        "text": "They have ears, and they hear not; a nose have they, and they smell not;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15838,
+        "text": "They have hands, and they handle not; feet have they, and they walk not; they give no sound through their throat.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15839,
+        "text": "They that make them are like unto them,—every one that confideth in them.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15840,
+        "text": "O Israel, confide thou in Jehovah: he is their help and their shield.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 15841,
+        "text": "House of Aaron, confide in Jehovah: he is their help and their shield.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15842,
+        "text": "Ye that fear Jehovah, confide in Jehovah: he is their help and their shield.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15843,
+        "text": "Jehovah hath been mindful of us: he will bless, he will bless the house of Israel; he will bless the house of Aaron;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15844,
+        "text": "He will bless them that fear Jehovah, both the small and the great.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15845,
+        "text": "Jehovah will add unto you more, unto you and unto your children.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15846,
+        "text": "Ye are blessed of Jehovah, who made the heavens and the earth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15847,
+        "text": "The heavens are the heavens of Jehovah, but the earth hath he given to the children of men.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15848,
+        "text": "The dead praise not Jah, neither any that go down into silence;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15849,
+        "text": "But we will bless Jah from this time forth and for evermore. Hallelujah!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

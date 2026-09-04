@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 41,
+    "count": 519,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14544,
+        "text": "{To the chief Musician. A Psalm of David.} Blessed is he that understandeth the poor: Jehovah will deliver him in the day of evil.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14545,
+        "text": "Jehovah will preserve him, and keep him alive; he shall be made happy in the land; and thou wilt not deliver him to the will of his enemies.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14546,
+        "text": "Jehovah will sustain him upon the bed of languishing: thou turnest all his bed in his sickness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14547,
+        "text": "As for me, I said, Jehovah, be gracious unto me: heal my soul; for I have sinned against thee.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14548,
+        "text": "Mine enemies wish me evil: When will he die, and his name perish?",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 14549,
+        "text": "And if one come to see [me], he speaketh falsehood; his heart gathereth wickedness to itself: he goeth abroad, he telleth [it].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14550,
+        "text": "All that hate me whisper together against me; against me do they devise my hurt.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14551,
+        "text": "A thing of Belial cleaveth fast unto him; and now that he is laid down, he will rise up no more.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14552,
+        "text": "Yea, mine own familiar friend, in whom I confided, who did eat of my bread, hath lifted up [his] heel against me.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14553,
+        "text": "But thou, Jehovah, be gracious unto me, and raise me up, that I may requite them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14554,
+        "text": "By this I know that thou delightest in me, because mine enemy doth not triumph over me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14555,
+        "text": "But as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14556,
+        "text": "Blessed be Jehovah, the God of Israel, from eternity to eternity! Amen, and Amen.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

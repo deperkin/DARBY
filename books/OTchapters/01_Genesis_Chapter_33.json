@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 33,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 962,
+        "text": "And Jacob lifted up his eyes and looked, and behold, Esau was coming, and with him four hundred men. And he distributed the children to Leah, and to Rachel, and to the two maidservants:",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 963,
+        "text": "and he put the maidservants and their children foremost, and Leah and her children after, and Rachel and Joseph hindmost.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 964,
+        "text": "And he passed on before them, and bowed to the earth seven times, until he came near to his brother.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 965,
+        "text": "And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him; and they wept.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 966,
+        "text": "And he lifted up his eyes and saw the women and the children, and said, Who are these with thee? And he said, The children that God has graciously given thy servant.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 967,
+        "text": "And the maidservants drew near, they and their children, and they bowed.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 968,
+        "text": "And Leah also, with her children, drew near, and they bowed. And lastly Joseph drew near, and Rachel, and they bowed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 969,
+        "text": "And he said, What [meanest] thou by all the drove which I met? And he said, To find favour in the eyes of my lord.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 970,
+        "text": "And Esau said, I have enough, my brother; let what thou hast be thine.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 971,
+        "text": "And Jacob said, No, I pray thee; if now I have found favour in thine eyes, then receive my gift from my hand; for therefore have I seen thy face, as though I had seen the face of God, and thou hast received me with pleasure.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 972,
+        "text": "Take, I pray thee, my blessing which has been brought to thee; because God has been gracious to me, and because I have everything. And he urged him, and he took [it].",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 973,
+        "text": "And he said, Let us take our journey, and go on, and I will go before thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 974,
+        "text": "And he said to him, My lord knows that the children are tender, and the suckling sheep and kine are with me; and if they should overdrive them only one day, all the flock would die.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 975,
+        "text": "Let my lord, I pray thee, pass on before his servant, and I will drive on at my ease according to the pace of the cattle that is before me, and according to the pace of the children, until I come to my lord, to Seir.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 976,
+        "text": "And Esau said, Let me now leave with thee [some] of the people that are with me. And he said, What need? Let me find favour in the eyes of my lord.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 977,
+        "text": "And Esau returned that day on his way to Seir.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 978,
+        "text": "And Jacob journeyed to Succoth, and built himself a house, and for his cattle he made booths. Therefore the name of the place was called Succoth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 979,
+        "text": "And Jacob came safely [to the] city Shechem, which is in the land of Canaan, when he came from Padan-Aram; and he encamped before the city.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 980,
+        "text": "And he bought the portion of the field where he had spread his tent, of the hand of the sons of Hamor, Shechem’s father, for a hundred kesitahs.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 981,
+        "text": "And there he set up an altar, and called it El-Elohe-Israel.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

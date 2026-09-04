@@ -1,0 +1,292 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 350,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10722,
+        "text": "Now these are they that came to David to Ziklag, while he kept still close because of Saul the son of Kish; and they were among the mighty men who helped him in the conflict;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10723,
+        "text": "armed with bows, using both the right hand and the left with stones and with arrows on the bow; [they were] of Saul’s brethren of Benjamin:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10724,
+        "text": "the chief Ahiezer, and Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Anathothite,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10725,
+        "text": "and Jishmaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Jozabad the Gederathite.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10726,
+        "text": "Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10727,
+        "text": "Elkanah, and Jishijah, and Azareel, and Joezer, and Jashobeam, the Korahites;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10728,
+        "text": "and Joelah, and Zebadiah, the sons of Jeroham of Gedor.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10729,
+        "text": "And of the Gadites, there separated themselves to David in the stronghold in the wilderness mighty men of valour, men fit for the service of war, armed with shield and spear; whose faces were [like] the faces of lions, and who were swift as the gazelles upon the mountains:",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10730,
+        "text": "Ezer the first, Obadiah the second, Eliab the third,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10731,
+        "text": "Mishmannah the fourth, Jeremiah the fifth,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10732,
+        "text": "Attai the sixth, Eliel the seventh,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10733,
+        "text": "Johanan the eighth, Elzabad the ninth,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10734,
+        "text": "Jeremiah the tenth, Machbannai the eleventh.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10735,
+        "text": "These were of the sons of Gad, captains of the host: one of the least was over a hundred, and the greatest over a thousand.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10736,
+        "text": "These are they that went over Jordan in the first month, when it overflows all its banks, and they put to flight all [them] of the valleys, toward the east and toward the west.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10737,
+        "text": "And there came of the children of Benjamin and Judah to the stronghold to David.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10738,
+        "text": "And David went out to meet them, and answered and said to them, If ye come peaceably to me to help me, my heart shall be knit unto you; but if to betray me to mine enemies, seeing there is no wrong in my hands, the God of our fathers see [it] and rebuke [it].",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10739,
+        "text": "And the Spirit came upon Amasai, the chief of the captains, [and he said,] Thine [are we], David, And with thee, thou son of Jesse: Peace, peace be to thee! And peace be to thy helpers! For thy God helps thee. And David received them, and made them chiefs of bands.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10740,
+        "text": "And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not; for the lords of the Philistines upon deliberation sent him away, saying, He will fall to his master Saul at the peril of our heads.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10741,
+        "text": "As he went away to Ziklag, there fell to him of Manasseh: Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10742,
+        "text": "And they helped David in his expeditions; for they were all mighty men of valour, and were captains in the host.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10743,
+        "text": "For day by day there came [men] to David to help him, until it was a great camp, like the camp of God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10744,
+        "text": "And this is the number of the men equipped for military service, who came to David to Hebron, to transfer the kingdom of Saul to him, according to the word of Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 10745,
+        "text": "The children of Judah that bore shield and spear were six thousand eight hundred, equipped for military service.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10746,
+        "text": "Of the children of Simeon, mighty men of valour for war, seven thousand one hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10747,
+        "text": "Of the children of Levi four thousand six hundred.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10748,
+        "text": "And Jehoiada the prince of Aaron, and with him were three thousand seven hundred;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10749,
+        "text": "and Zadok, a valiant young man, and his father’s house two and twenty chief men.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10750,
+        "text": "And of the children of Benjamin, the brethren of Saul, three thousand; but hitherto the greater part of them had adhered to the house of Saul.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10751,
+        "text": "And of the children of Ephraim twenty thousand eight hundred, mighty men of valour, men of name in their fathers’ houses.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10752,
+        "text": "And of the half tribe of Manasseh eighteen thousand, who were expressed by name, to come and make David king.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10753,
+        "text": "And of the children of Issachar, who had understanding of the times, to know what Israel ought to do, the heads of them were two hundred; and all their brethren were at their bidding.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10754,
+        "text": "Of Zebulun, such as went forth in the host, armed for war with all weapons of war, fifty thousand, keeping rank without double heart.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10755,
+        "text": "And of Naphtali a thousand captains, and with them thirty-seven thousand with shield and spear.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10756,
+        "text": "And of the Danites armed for war twenty-eight thousand six hundred.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10757,
+        "text": "And of Asher such as went forth in the host, to set themselves in battle array, forty thousand.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10758,
+        "text": "And from the other side of the Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of weapons of war for battle, a hundred and twenty thousand.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 10759,
+        "text": "All of them men of war, keeping rank in battle array, came with a perfect heart to Hebron, to make David king over all Israel; and all the rest also of Israel were of one heart to make David king.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10760,
+        "text": "And there they were with David three days, eating and drinking; for their brethren had prepared for them;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10761,
+        "text": "and those too that were near them, as far as Issachar and Zebulun and Naphtali, brought food on asses, and on camels, and on mules, and on oxen; provisions of meal, fig-cakes and raisin-cakes, and wine and oil, and oxen and sheep, abundantly; for there was joy in Israel.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 921,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23018,
+        "text": "Ask of Jehovah rain in the time of the latter rain; Jehovah will make lightnings, and he will give them showers of rain, to every one grass in the field.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23019,
+        "text": "For the teraphim have spoken vanity, and the diviners have seen a lie, and have told false dreams: they comfort in vain. Therefore they have gone away as a flock, they are in distress, because there is no shepherd.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23020,
+        "text": "Mine anger is kindled against the shepherds, and I will punish the he-goats; for Jehovah of hosts visiteth his flock, the house of Judah, and maketh them as his majestic horse in the battle.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23021,
+        "text": "From him shall come forth the corner-stone, from him the nail, from him the battle bow, from him every exactor together.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23022,
+        "text": "And they shall be as mighty men, treading down the mire of the streets in the battle; and they shall fight, for Jehovah is with them, and the riders on horses shall be put to shame.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 23023,
+        "text": "And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them back again; for I will have mercy upon them; and they shall be as though I had not cast them off: for I am Jehovah their God, and I will answer them.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23024,
+        "text": "And [they of] Ephraim shall be like a mighty man, and their hearts shall rejoice as through wine; and their children shall see [it], and rejoice; their heart shall be joyful in Jehovah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23025,
+        "text": "I will hiss for them, and gather them; for I have redeemed them: and they shall multiply as they used to multiply.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23026,
+        "text": "And I will sow them among the peoples, and they shall remember me in far countries; and they shall live with their children and return.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23027,
+        "text": "And I will bring them again out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and [place] shall not be found for them.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23028,
+        "text": "And he shall pass through the sea of affliction, and shall smite the billows in the sea, and all the depths of the Nile shall dry up; and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23029,
+        "text": "And I will strengthen them in Jehovah; and they shall walk in his name, saith Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

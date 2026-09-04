@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 34,
+    "count": 151,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4818,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4819,
+        "text": "Command the children of Israel, and say unto them, When ye come into the land of Canaan, this shall be the land that shall fall to you for an inheritance, the land of Canaan according to the borders thereof.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4820,
+        "text": "Then your south side shall be from the wilderness of Zin alongside of Edom, and your southern border shall be from the end of the salt sea eastward;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4821,
+        "text": "and your border shall turn from the south of the ascent of Akrabbim, and pass on to Zin, and shall end southward at Kadesh-barnea, and shall go on to Hazar-Addar, and pass on to Azmon.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4822,
+        "text": "And the border shall turn from Azmon unto the torrent of Egypt, and shall end at the sea.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4823,
+        "text": "And as west border ye shall have the great sea, and [its] coast. This shall be your west border.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4824,
+        "text": "And this shall be your north border: from the great sea ye shall mark out for you mount Hor;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4825,
+        "text": "from mount Hor ye shall mark out the entrance to Hamath, and the end of the border shall be toward Zedad;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4826,
+        "text": "and the border shall go to Ziphron, and shall end at Hazar-enan. This shall be your north border.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4827,
+        "text": "And ye shall mark out for you as eastern border from Hazar-enan to Shepham:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4828,
+        "text": "and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall strike upon the extremity of the sea of Chinnereth eastward;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4829,
+        "text": "and the border shall go down to the Jordan, and shall end at the salt sea. This shall be your land according to the borders thereof round about.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4830,
+        "text": "And Moses commanded the children of Israel, saying, This is the land which ye shall take for yourselves as inheritance by lot, which Jehovah commanded to give to the nine tribes, and to the half tribe.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4831,
+        "text": "For the tribe of the children of the Reubenites according to their fathers’ houses, and the tribe of the children of the Gadites according to their fathers’ houses, have received, and half the tribe of Manasseh have received their inheritance;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4832,
+        "text": "the two tribes and the half tribe have received their inheritance on this side the Jordan of Jericho eastward, toward the sun-rising.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4833,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 4834,
+        "text": "These are the names of the men who shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4835,
+        "text": "And ye shall take one prince of every tribe, to divide the land.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4836,
+        "text": "And these are the names of the men: for the tribe of Judah, Caleb the son of Jephunneh;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4837,
+        "text": "and for the tribe of the children of Simeon, Samuel the son of Ammihud;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4838,
+        "text": "for the tribe of Benjamin, Elidad the son of Chislon;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4839,
+        "text": "and for the tribe of the children of Dan, a prince, Bukki the son of Jogli;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4840,
+        "text": "for the children of Joseph: for the tribe of the children of Manasseh, a prince, Hanniel the son of Ephod,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4841,
+        "text": "and for the tribe of the children of Ephraim, a prince, Kemuel the son of Shiphtan;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4842,
+        "text": "and for the tribe of the children of Zebulun, a prince, Elizaphan the son of Pharnach;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4843,
+        "text": "and for the tribe of the children of Issachar, a prince, Phaltiel the son of Azzan;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4844,
+        "text": "and for the tribe of the children of Asher, a prince, Ahihud the son of Shelomi;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4845,
+        "text": "and for the tribe of the children of Naphtali, a prince, Phedahel the son of Ammihud.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4846,
+        "text": "These are they whom Jehovah commanded to distribute to the children of Israel their inheritance in the land of Canaan.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

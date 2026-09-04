@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 500,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14206,
+        "text": "{To the chief Musician. Upon Aijeleth-Shahar. A Psalm of David.} My God, my God, why hast thou forsaken me? [why art thou] far from my salvation, from the words of my groaning?",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14207,
+        "text": "My God, I cry by day, and thou answerest not; and by night, and there is no rest for me:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14208,
+        "text": "And thou art holy, thou that dwellest amid the praises of Israel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14209,
+        "text": "Our fathers confided in thee: they confided, and thou didst deliver them.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14210,
+        "text": "They cried unto thee, and were delivered; they confided in thee, and were not confounded.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14211,
+        "text": "But I am a worm, and no man; a reproach of men, and the despised of the people.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14212,
+        "text": "All they that see me laugh me to scorn; they shoot out the lip, they shake the head, [saying:]",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14213,
+        "text": "Commit it to Jehovah—let him rescue him; let him deliver him, because he delighteth in him!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14214,
+        "text": "But thou art he that took me out of the womb; thou didst make me trust, upon my mother’s breasts.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14215,
+        "text": "I was cast upon thee from the womb; thou art my God from my mother’s belly.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14216,
+        "text": "Be not far from me, for trouble is near; for there is none to help.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 14217,
+        "text": "Many bulls have encompassed me; Bashan’s strong ones have beset me round.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14218,
+        "text": "They gape upon me with their mouth, [as] a ravening and a roaring lion.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14219,
+        "text": "I am poured out like water, and all my bones are out of joint: my heart is become like wax; it is melted in the midst of my bowels.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14220,
+        "text": "My strength is dried up like a potsherd, and my tongue cleaveth to my palate; and thou hast laid me in the dust of death.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14221,
+        "text": "For dogs have encompassed me; an assembly of evil-doers have surrounded me: they pierced my hands and my feet.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14222,
+        "text": "I may count all my bones. They look, they stare upon me;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14223,
+        "text": "They part my garments among them, and cast lots upon my vesture.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14224,
+        "text": "But thou, Jehovah, be not far [from me]; O my strength, haste thee to help me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14225,
+        "text": "Deliver my soul from the sword; my only one from the power of the dog;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14226,
+        "text": "Save me from the lion’s mouth. Yea, from the horns of the buffaloes hast thou answered me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14227,
+        "text": "I will declare thy name unto my brethren, in the midst of the congregation will I praise thee.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 14228,
+        "text": "Ye that fear Jehovah, praise him; all ye the seed of Jacob, glorify him; and revere him, all ye the seed of Israel.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 14229,
+        "text": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him: but when he cried unto him, he heard.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 14230,
+        "text": "My praise is from thee, in the great congregation; I will pay my vows before them that fear him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 14231,
+        "text": "The meek shall eat and be satisfied; they shall praise Jehovah that seek him: your heart shall live for ever.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 14232,
+        "text": "All the ends of the earth shall remember and turn unto Jehovah, and all the families of the nations shall worship before thee:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 14233,
+        "text": "For the kingdom is Jehovah’s, and he ruleth among the nations.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 14234,
+        "text": "All the fat ones of the earth shall eat and worship; all they that go down to the dust shall bow before him, and he that cannot keep alive his own soul.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 14235,
+        "text": "A seed shall serve him; it shall be accounted to the Lord for a generation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 14236,
+        "text": "They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done [it].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

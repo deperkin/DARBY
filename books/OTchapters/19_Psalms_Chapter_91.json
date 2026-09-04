@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 91,
+    "count": 569,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15397,
+        "text": "He that dwelleth in the secret place of the Most High shall abide under the shadow of the Almighty.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15398,
+        "text": "I say of Jehovah, My refuge and my fortress; my God, I will confide in him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15399,
+        "text": "Surely he shall deliver thee from the snare of the fowler, [and] from the destructive pestilence.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15400,
+        "text": "He shall cover thee with his feathers, and under his wings shalt thou find refuge: his truth is a shield and buckler.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15401,
+        "text": "Thou shalt not be afraid for the terror by night, for the arrow that flieth by day,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15402,
+        "text": "For the pestilence that walketh in darkness, for the destruction that wasteth at noonday.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15403,
+        "text": "A thousand shall fall at thy side, and ten thousand at thy right hand; [but] it shall not come nigh thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15404,
+        "text": "Only with thine eyes shalt thou behold, and see the reward of the wicked.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15405,
+        "text": "Because thou hast made Jehovah, my refuge, the Most High, thy dwelling-place,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 15406,
+        "text": "There shall no evil befall thee, neither shall any plague come nigh thy tent.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15407,
+        "text": "For he shall give his angels charge concerning thee, to keep thee in all thy ways:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15408,
+        "text": "They shall bear thee up in [their] hands, lest thou dash thy foot against a stone.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15409,
+        "text": "Thou shalt tread upon the lion and the adder; the young lion and the dragon shalt thou trample under foot.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15410,
+        "text": "Because he hath set his love upon me, therefore will I deliver him; I will set him on high, because he hath known my name.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15411,
+        "text": "He shall call upon me, and I will answer him; I will be with him in trouble, I will deliver him and honour him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15412,
+        "text": "With length of days will I satisfy him, and shew him my salvation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

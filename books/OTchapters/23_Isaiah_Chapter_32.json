@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 32,
+    "count": 711,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18261,
+        "text": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18262,
+        "text": "And a man shall be as a hiding-place from the wind, and a covert from the storm; as brooks of water in a dry place, as the shadow of a great rock in a thirsty land.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18263,
+        "text": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18264,
+        "text": "and the heart of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18265,
+        "text": "The vile man shall be no more called noble, nor the churl said to be bountiful:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18266,
+        "text": "for the vile man will speak villainy, and his heart will work iniquity, to practise hypocrisy, and to utter error against Jehovah, to make empty the soul of the hungry, and to cause the drink of the thirsty to fail.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18267,
+        "text": "The instruments also of the churl are evil: he deviseth wicked devices to destroy the meek with lying words, even when the needy speaketh right.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18268,
+        "text": "But the noble deviseth noble things; and to noble things doth he stand.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18269,
+        "text": "Rise up, ye women that are at ease, hear my voice; ye careless daughters, give ear unto my speech.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18270,
+        "text": "In a year and [some] days shall ye be troubled, ye careless women; for the vintage shall fail, the ingathering shall not come.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18271,
+        "text": "Tremble, ye women that are at ease; be troubled, ye careless ones; strip you, and make you bare, and gird [sackcloth] on your loins!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18272,
+        "text": "They shall smite on the breasts [in lamentation] for the pleasant fields, for the fruitful vineyards.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18273,
+        "text": "Upon the land of my people shall come up thistles [and] briars, yea, upon all the houses of joy in the joyous city.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18274,
+        "text": "For the palace shall be deserted, the multitude of the city shall be forsaken; hill and watchtower shall be caves for ever, a joy of wild asses, a pasture of flocks;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18275,
+        "text": "until the Spirit be poured upon us from on high, and the wilderness become a fruitful field, and the fruitful field be counted for a forest.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18276,
+        "text": "And judgment shall inhabit the wilderness, and righteousness dwell in the fruitful field.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18277,
+        "text": "And the work of righteousness shall be peace; and the effect of righteousness, quietness and assurance for ever.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18278,
+        "text": "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting-places.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18279,
+        "text": "And it shall hail, coming down on the forest; and the city shall be low in a low place.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18280,
+        "text": "Blessed are ye that sow beside all waters, that send forth the feet of the ox and the ass.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

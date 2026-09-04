@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 922,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23030,
+        "text": "Open thy doors, O Lebanon, that the fire may devour thy cedars.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23031,
+        "text": "Howl, cypress, for the cedar is fallen; because the noble ones are spoiled. Howl, ye oaks of Bashan; for the strong forest is come down.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23032,
+        "text": "A voice of howling of the shepherds; for their glory is spoiled: a voice of roaring of young lions; for the pride of Jordan is spoiled.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23033,
+        "text": "Thus saith Jehovah my God: Feed the flock of slaughter,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 23034,
+        "text": "whose possessors slay them without being held guilty; and they that sell them say, Blessed be Jehovah! for I am become rich; and their own shepherds pity them not.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23035,
+        "text": "For I will no more pity the inhabitants of the land, saith Jehovah, and behold, I will deliver men, every one into his neighbour’s hand, and into the hand of his king; and they shall smite the land, and I will not deliver out of their hand.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23036,
+        "text": "So I fed the flock of slaughter, truly the poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23037,
+        "text": "And I destroyed three shepherds in one month; and my soul was vexed with them, and their soul also loathed me.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23038,
+        "text": "And I said, I will not feed you: that which dieth, let it die; and that which perisheth let it perish; and let them which are left eat every one the flesh of another.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23039,
+        "text": "And I took my staff, Beauty, and cut it asunder, that I might break my covenant which I had made with all the peoples.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23040,
+        "text": "And it was broken in that day; and so the poor of the flock that gave heed to me knew that it was the word of Jehovah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23041,
+        "text": "And I said unto them, If ye think good, give [me] my hire; and if not, forbear. And they weighed for my hire thirty silver-pieces.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23042,
+        "text": "And Jehovah said unto me, Cast it unto the potter: a goodly price that I was prized at by them. And I took the thirty silver-pieces, and cast them to the potter in the house of Jehovah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23043,
+        "text": "And I cut asunder mine other staff, Bands, to break the brotherhood between Judah and Israel.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23044,
+        "text": "And Jehovah said unto me, Take unto thee yet the instruments of a foolish shepherd.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 23045,
+        "text": "For behold, I will raise up a shepherd in the land, who shall not visit those that are about to perish, neither shall seek that which is strayed away, nor heal that which is wounded, nor feed that which is sound; but he will eat the flesh of the fat, and tear their hoofs in pieces.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23046,
+        "text": "Woe to the worthless shepherd that leaveth the flock! The sword shall be upon his arm, and upon his right eye; his arm shall be clean dried up, and his right eye utterly darkened.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

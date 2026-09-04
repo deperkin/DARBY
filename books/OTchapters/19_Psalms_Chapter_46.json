@@ -1,0 +1,89 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 46,
+    "count": 524,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14616,
+        "text": "{To the chief Musician. Of the sons of Korah. On Alamoth. A song.} God is our refuge and strength, a help in distresses, very readily found.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14617,
+        "text": "Therefore will we not fear though the earth be removed, and though the mountains be carried into the heart of the seas;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14618,
+        "text": "Though the waters thereof roar [and] foam, though the mountains shake with the swelling thereof. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14619,
+        "text": "There is a river the streams whereof make glad the city of God, the sanctuary of the habitations of the Most High.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14620,
+        "text": "God is in the midst of her; she shall not be moved: God shall help her at the dawn of the morning.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14621,
+        "text": "The nations raged, the kingdoms were moved; he uttered his voice, the earth melted.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14622,
+        "text": "Jehovah of hosts is with us; the God of Jacob is our high fortress. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14623,
+        "text": "Come, behold the works of Jehovah, what desolations he hath made in the earth:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14624,
+        "text": "He hath made wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariots in the fire.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14625,
+        "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14626,
+        "text": "Jehovah of hosts is with us; the God of Jacob is our high fortress. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

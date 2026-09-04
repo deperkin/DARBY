@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 449,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13155,
+        "text": "Lo, mine eye hath seen all [this], mine ear hath heard and understood it.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13156,
+        "text": "What ye know, I know also: I am not inferior to you.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13157,
+        "text": "But I will speak to the Almighty, and will find pleasure in reasoning with God;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13158,
+        "text": "For ye indeed are forgers of lies, ye are all physicians of no value.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13159,
+        "text": "Oh that ye would be altogether silent! and it would be your wisdom.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13160,
+        "text": "Hear now my defence, and hearken to the pleadings of my lips.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13161,
+        "text": "Will ye speak unrighteously for God? and for him speak deceit?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13162,
+        "text": "Will ye accept his person? will ye contend for God?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13163,
+        "text": "Will it be well if he should search you out? or as one mocketh at a man, will ye mock at him?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13164,
+        "text": "He will certainly reprove you, if ye do secretly accept persons.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13165,
+        "text": "Shall not his excellency terrify you? and his dread fall upon you?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13166,
+        "text": "Your memorable sayings are proverbs of ashes, your bulwarks are bulwarks of mire.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13167,
+        "text": "Hold your peace from me, and I will speak, and let come on me what [will]!",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 13168,
+        "text": "Wherefore should I take my flesh in my teeth, and put my life in my hand?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13169,
+        "text": "Behold, if he slay me, yet would I trust in him; but I will defend mine own ways before him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13170,
+        "text": "This also shall be my salvation, that a profane man shall not come before his face.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13171,
+        "text": "Hear attentively my speech and my declaration with your ears.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13172,
+        "text": "Behold now, I have ordered the cause; I know that I shall be justified.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13173,
+        "text": "Who is he that contendeth with me? For if I were silent now, I should expire.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13174,
+        "text": "Only do not two things unto me; then will I not hide myself from thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13175,
+        "text": "Withdraw thy hand far from me; and let not thy terror make me afraid:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13176,
+        "text": "Then call, and I will answer; or I will speak, and answer thou me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13177,
+        "text": "How many are mine iniquities and sins? Make me to know my transgression and my sin.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 13178,
+        "text": "Wherefore dost thou hide thy face, and countest me for thine enemy?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13179,
+        "text": "Wilt thou terrify a driven leaf? and wilt thou pursue dry stubble?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13180,
+        "text": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13181,
+        "text": "And thou puttest my feet in the stocks, and markest all my paths; thou settest a bound about the soles of my feet;—",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13182,
+        "text": "One who, as a rotten thing consumeth, as a garment that the moth eateth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

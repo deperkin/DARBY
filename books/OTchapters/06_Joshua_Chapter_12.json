@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 199,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6132,
+        "text": "And these are the kings of the land, whom the children of Israel smote, and of whose land they took possession across the Jordan, toward the sun-rising, from the river Arnon to mount Hermon, and all the plain on the east:",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6133,
+        "text": "Sihon the king of the Amorites, who dwelt at Heshbon, [and] ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the ravine, and over half Gilead, as far as the river Jabbok, [which is] the border of the children of Ammon;",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6134,
+        "text": "and the plain as far as the sea of Chinneroth on the east, and as far as the sea of the plain, the salt sea, on the east, toward Beth-jeshimoth; and on the south, under the slopes of Pisgah;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6135,
+        "text": "and the territory of Og the king of Bashan, of the residue of the giants, who dwelt at Ashtaroth and at Edrei,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6136,
+        "text": "and ruled over mount Hermon, and over Salcah, and over all Bashan, as far as the border of the Geshurites and the Maachathites, and [over] half Gilead [as far as] the border of Sihon the king of Heshbon.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6137,
+        "text": "Moses the servant of Jehovah and the children of Israel smote them, and Moses the servant of Jehovah gave it for a possession to the Reubenites, and to the Gadites, and to half the tribe of Manasseh.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6138,
+        "text": "And these are the kings of the land whom Joshua and the children of Israel smote on this side the Jordan on the west, from Baal-Gad in the valley of Lebanon as far as the smooth mountain, which rises toward Seir. And Joshua gave it to the tribes of Israel for a possession according to their divisions,",
+        "WordCount": 57,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 6139,
+        "text": "in the mountain, and in the lowland, and in the plain, and on the hill-slopes, and in the wilderness, and in the south: the Hittites, and the Amorites, and the Canaanites, the Perizzites, the Hivites and the Jebusites:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6140,
+        "text": "The king of Jericho, one; the king of Ai, which is beside Bethel, one;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6141,
+        "text": "the king of Jerusalem, one; the king of Hebron, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6142,
+        "text": "the king of Jarmuth, one; the king of Lachish, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6143,
+        "text": "the king of Eglon, one; the king of Gezer, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6144,
+        "text": "the king of Debir, one; the king of Geder, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6145,
+        "text": "the king of Hormah, one; the king of Arad, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6146,
+        "text": "the king of Libnah, one; the king of Adullam, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6147,
+        "text": "the king of Makkedah, one; the king of Bethel, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6148,
+        "text": "the king of Tappuah, one; the king of Hepher, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6149,
+        "text": "the king of Aphek, one; the king of Lasharon, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6150,
+        "text": "the king of Madon, one; the king of Hazor, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6151,
+        "text": "the king of Shimron-meron, one; the king of Achshaph, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6152,
+        "text": "the king of Taanach, one; the king of Megiddo, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6153,
+        "text": "the king of Kedesh, one; the king of Jokneam on Carmel, one;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6154,
+        "text": "the king of Dor in the upland of Dor, one; the king of Goim, at Gilgal, one;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6155,
+        "text": "the king of Tirzah, one: all the kings thirty and one.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 134,
+    "count": 612,
+    "MaxVerses": 3,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16174,
+        "text": "{A Song of degrees.} Behold, bless Jehovah, all ye servants of Jehovah, who by night stand in the house of Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16175,
+        "text": "Lift up your hands in the sanctuary, and bless Jehovah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16176,
+        "text": "Jehovah, the maker of heavens and earth, bless thee out of Zion.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

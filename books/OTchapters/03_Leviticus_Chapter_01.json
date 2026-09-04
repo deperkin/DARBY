@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 91,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2747,
+        "text": "And Jehovah called to Moses and spoke to him out of the tent of meeting, saying,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2748,
+        "text": "Speak unto the children of Israel and say unto them, When any man of you presenteth an offering to Jehovah, ye shall present your offering of the cattle, of the herd and of the flock.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2749,
+        "text": "If his offering be a burnt-offering of the herd, he shall present it a male without blemish: at the entrance of the tent of meeting shall he present it, for his acceptance before Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 2750,
+        "text": "And he shall lay his hand on the head of the burnt-offering; and it shall be accepted for him to make atonement for him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2751,
+        "text": "And he shall slaughter the bullock before Jehovah; and Aaron’s sons, the priests, shall present the blood and sprinkle the blood round about on the altar that is at the entrance of the tent of meeting.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2752,
+        "text": "And he shall flay the burnt-offering, and cut it up into its pieces.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2753,
+        "text": "And the sons of Aaron the priest shall put fire on the altar, and lay wood in order on the fire;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2754,
+        "text": "and Aaron’s sons, the priests, shall lay the pieces, the head, and the fat, in order on the wood that is on the fire which is on the altar;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2755,
+        "text": "but its inwards and its legs shall he wash in water; and the priest shall burn all on the altar, a burnt-offering, an offering by fire to Jehovah of a sweet odour.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2756,
+        "text": "And if his offering be of the flock, of the sheep or of the goats, for a burnt-offering, he shall present it a male without blemish.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 2757,
+        "text": "And he shall slaughter it on the side of the altar northward before Jehovah; and Aaron’s sons, the priests, shall sprinkle its blood on the altar round about.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2758,
+        "text": "And he shall cut it into its pieces, and its head, and its fat; and the priest shall lay them in order on the wood that is on the fire which is on the altar;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2759,
+        "text": "but the inwards and the legs shall he wash with water; and the priest shall present [it] all, and burn [it] on the altar: it is a burnt-offering, an offering by fire to Jehovah of a sweet odour.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2760,
+        "text": "And if his offering to Jehovah be a burnt-offering of fowls, then he shall present his offering of turtle-doves, or of young pigeons.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2761,
+        "text": "And the priest shall bring it near to the altar and pinch off its head and burn it on the altar; and its blood shall be pressed out at the side of the altar.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2762,
+        "text": "And he shall remove its crop with its feathers, and cast it beside the altar on the east, into the place of the ashes;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2763,
+        "text": "and he shall split it open at its wings, [but] shall not divide [it] asunder; and the priest shall burn it on the altar on the wood that is on the fire: it is a burnt-offering, an offering by fire to Jehovah of a sweet odour.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

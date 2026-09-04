@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 38,
+    "count": 717,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18392,
+        "text": "In those days Hezekiah was sick unto death. And the prophet Isaiah the son of Amoz came to him, and said to him, Thus saith Jehovah: Set thy house in order; for thou shalt die, and not live.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18393,
+        "text": "And Hezekiah turned his face to the wall, and prayed to Jehovah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18394,
+        "text": "and said, Ah, Jehovah, remember, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept much.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18395,
+        "text": "And the word of Jehovah came to Isaiah, saying,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18396,
+        "text": "Go and say to Hezekiah, Thus saith Jehovah, the God of David thy father: I have heard thy prayer, I have seen thy tears: behold, I will add to thy days fifteen years.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18397,
+        "text": "And I will deliver thee and this city out of the hand of the king of Assyria, and I will defend this city.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18398,
+        "text": "And this [shall be] the sign to thee from Jehovah, that Jehovah will do this thing that he hath spoken:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18399,
+        "text": "behold, I will bring again the shadow of the degrees which hath gone down with the sun on the dial of Ahaz, ten degrees backward. So the sun returned on the dial ten degrees, by which it had gone down.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18400,
+        "text": "The writing of Hezekiah king of Judah, when he had been sick and had recovered from his sickness:",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18401,
+        "text": "I said, In the meridian of my days I shall go to the gates of Sheol: I am deprived of the rest of my years.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18402,
+        "text": "I said, I shall not see Jah, Jah in the land of the living. With those who dwell where all has ceased to be, I shall behold man no more.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18403,
+        "text": "Mine age is departed, and is removed from me as a shepherd’s tent. I have cut off like a weaver my life. He separateth me from the thrum:—from day to night thou wilt make an end of me.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18404,
+        "text": "I kept still until the morning;... as a lion, so doth he break all my bones. From day to night thou wilt make an end of me.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18405,
+        "text": "Like a swallow [or] a crane, so did I chatter; I mourned as a dove; mine eyes failed [with looking] upward: Lord, I am oppressed; undertake for me.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18406,
+        "text": "What shall I say? He hath both spoken unto me, and himself hath done [it]. I shall go softly all my years in the bitterness of my soul.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18407,
+        "text": "Lord, by these things [men] live, and in all these things is the life of my spirit; and thou hast recovered me, and made me to live.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18408,
+        "text": "Behold, instead of peace I had bitterness upon bitterness; but thou hast in love delivered my soul from the pit of destruction; for thou hast cast all my sins behind thy back.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18409,
+        "text": "For not Sheol shall praise thee, nor death celebrate thee; they that go down into the pit do not hope for thy truth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18410,
+        "text": "The living, the living, he shall praise thee, as I this day: the father to the children shall make known thy truth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18411,
+        "text": "Jehovah was [purposed] to save me.—And we will play upon my stringed instruments all the days of our life, in the house of Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18412,
+        "text": "Now Isaiah had said, Let them take a cake of figs, and lay it for a plaster upon the boil, and he shall recover.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 18413,
+        "text": "And Hezekiah had said, What is the sign that I shall go up into the house of Jehovah?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

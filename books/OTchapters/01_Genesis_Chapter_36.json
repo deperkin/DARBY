@@ -1,0 +1,313 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 36,
+    "count": 36,
+    "MaxVerses": 43,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1042,
+        "text": "And these are the generations of Esau, that is Edom.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1043,
+        "text": "Esau took his wives of the daughters of Canaan: Adah the daughter of Elon the Hittite, and Oholibamah the daughter of Anah, daughter of Zibeon the Hivite,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1044,
+        "text": "and Basmath Ishmael’s daughter, the sister of Nebaioth.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1045,
+        "text": "And Adah bore to Esau Eliphaz; and Basmath bore Reuel.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1046,
+        "text": "And Oholibamah bore Jeush and Jaalam and Korah. These are the sons of Esau that were born to him in the land of Canaan.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1047,
+        "text": "And Esau took his wives, and his sons, and his daughters, and all the souls of his house, and his cattle, and all his beasts, and all his possessions, that he had acquired in the land of Canaan, and went into a country away from his brother Jacob.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1048,
+        "text": "For their property was too great for them to dwell together, and the land where they were sojourners could not bear them, because of their cattle.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1049,
+        "text": "Thus Esau dwelt in mount Seir; Esau is Edom.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1050,
+        "text": "And these are the generations of Esau, the father of Edom, in mount Seir.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 1051,
+        "text": "These are the names of Esau’s sons: Eliphaz, the son of Adah the wife of Esau; Reuel, the son of Basmath the wife of Esau.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1052,
+        "text": "And the sons of Eliphaz were Teman, Omar, Zepho, And Gatam, And Kenaz.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1053,
+        "text": "And Timna was concubine to Eliphaz Esau’s son, and she bore Amalek to Eliphaz. These are the sons of Adah Esau’s wife.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1054,
+        "text": "—And these are the sons of Reuel: Nahath and Zerah, Shammah and Mizzah. These are the sons of Basmath Esau’s wife.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1055,
+        "text": "—And these are the sons of Oholibamah, the daughter of Anah, daughter of Zibeon, Esau’s wife: and she bore to Esau Jeush and Jaalam and Korah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1056,
+        "text": "These are the chiefs of the sons of Esau. The sons of Eliphaz, the firstborn of Esau: chief Teman, chief Omar, chief Zepho, chief Kenaz,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1057,
+        "text": "chief Korah, chief Gatam, chief Amalek. These are the chiefs of Eliphaz in the land of Edom; these are the sons of Adah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1058,
+        "text": "And these are the sons of Reuel Esau’s son: chief Nahath, chief Zerah, chief Shammah, chief Mizzah: these are the chiefs of Reuel in the land of Edom; these are the sons of Basmath Esau’s wife.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1059,
+        "text": "—And these are the sons of Oholibamah Esau’s wife: chief Jeush, chief Jaalam, chief Korah; these are the chiefs of Oholibamah the daughter of Anah, Esau’s wife.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1060,
+        "text": "These are the sons of Esau, and these their chiefs: he is Edom.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1061,
+        "text": "These are the sons of Seir the Horite, the inhabitant of the land: Lotan, and Shobal, and Zibeon, and Anah,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 1062,
+        "text": "and Dishon, and Ezer, and Dishan. These are the chiefs of the Horites, the sons of Seir in the land of Edom.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1063,
+        "text": "—And the sons of Lotan were Hori and Hemam; and Lotan’s sister was Timna.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1064,
+        "text": "And these are the sons of Shobal: Alvan, And Manahath, And Ebal, Shepho And Onam.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1065,
+        "text": "And these are the sons of Zibeon: both Ajah And Anah. This is the Anah that found the warm springs in the wilderness as he fed the asses of Zibeon his father.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1066,
+        "text": "And these are the sons of Anah: Dishon, And Oholibamah the daughter of Anah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1067,
+        "text": "And these are the sons of Dishon: Hemdan, And Eshban, And Ithran, And Cheran.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1068,
+        "text": "these are the sons of Ezer: Bilhan, And Zaavan, And Akan.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1069,
+        "text": "these are the sons of Dishan: Uz And Aran.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1070,
+        "text": "These are the chiefs of the Horites: chief Lotan, chief Shobal, chief Zibeon, chief Anah,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1071,
+        "text": "chief Dishon, chief Ezer, chief Dishan. These are the chiefs of the Horites, according to their chiefs in the land of Seir.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1072,
+        "text": "And these are the kings that reigned in the land of Edom before there reigned a king over the children of Israel.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 1073,
+        "text": "And Bela the son of Beor reigned in Edom; and the name of his city was Dinhabah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 1074,
+        "text": "And Bela died; and Jobab the son of Zerah of Bozrah reigned in his stead.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 1075,
+        "text": "And Jobab died; and Husham of the land of the Temanites reigned in his stead.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 1076,
+        "text": "And Husham died; and Hadad the son of Bedad, who smote Midian in the fields of Moab, reigned in his stead. And the name of his city was Avith.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 1077,
+        "text": "And Hadad died; and Samlah of Masrekah reigned in his stead.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 1078,
+        "text": "And Samlah died; and Saul of Rehoboth on the river reigned in his stead.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 1079,
+        "text": "And Saul died; and Baal-hanan the son of Achbor reigned in his stead.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 1080,
+        "text": "And Baal-hanan the son of Achbor died; and Hadar reigned in his stead; and the name of his city was Pau; and his wife’s name was Mehetabel, the daughter of Matred daughter of Mezahab.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 1081,
+        "text": "And these are the names of the chiefs of Esau, according to their families, after their places, with their names: chief Timna, chief Alvah, chief Jetheth,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 1082,
+        "text": "chief Oholibamah, chief Elah, chief Pinon,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 1083,
+        "text": "chief Kenaz, chief Teman, chief Mibzar,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 1084,
+        "text": "chief Magdiel, chief Iram. These are the chiefs of Edom, according to their dwelling-places in the land of their possession. This is Esau, the father of Edom.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

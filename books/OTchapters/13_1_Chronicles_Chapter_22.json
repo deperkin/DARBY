@@ -1,0 +1,145 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 360,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10966,
+        "text": "And David said, This is the house of Jehovah Elohim, and this is the altar of burnt-offering for Israel.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10967,
+        "text": "And David commanded to collect the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10968,
+        "text": "And David prepared iron in abundance for the nails for the doors of the gates, and for the joists, and brass in abundance without weight;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10969,
+        "text": "and cedar-trees innumerable; for the Zidonians and they of Tyre brought cedar-wood in abundance to David.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10970,
+        "text": "For David said, Solomon my son is young and tender, and the house that is to be built for Jehovah must be exceeding great in fame and in beauty in all lands: I will therefore make preparation for it. And David prepared abundantly before his death.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10971,
+        "text": "And he called for Solomon his son, and charged him to build a house for Jehovah the God of Israel.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 10972,
+        "text": "And David said to Solomon, As for me, my son, I was minded to build a house unto the name of Jehovah my God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10973,
+        "text": "But the word of Jehovah came to me saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build a house unto my name, for thou hast shed much blood upon the earth in my sight.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10974,
+        "text": "Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about; for his name shall be Solomon, and in his days I will give peace and quietness unto Israel.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10975,
+        "text": "He shall build a house unto my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10976,
+        "text": "Now, my son, Jehovah be with thee, that thou mayest prosper, and build the house of Jehovah thy God, as he has said of thee.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10977,
+        "text": "Only, Jehovah give thee wisdom and understanding, and place thee over Israel, and to keep the law of Jehovah thy God.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10978,
+        "text": "Then shalt thou prosper, if thou takest heed to perform the statutes and ordinances which Jehovah commanded Moses for Israel: be strong and courageous; fear not, neither be dismayed.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10979,
+        "text": "And behold, in my affliction I have prepared for the house of Jehovah a hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight, for it is in abundance; and timber and stone have I prepared; and thou shalt add to it.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10980,
+        "text": "And there are workmen with thee in abundance, hewers and workers of stone and timber, and all manner of skilful men for every kind of work.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10981,
+        "text": "Of the gold, the silver, and the brass, and the iron, there is no number. Arise and be doing and Jehovah be with thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10982,
+        "text": "And David commanded all the princes of Israel to help Solomon his son, [saying,]",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 10983,
+        "text": "Is not Jehovah your God with you? and has he [not] given you rest on every side? for he has given the inhabitants of the land into my hand; and the land is subdued before Jehovah, and before his people.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10984,
+        "text": "Now set your heart and your soul to seek Jehovah your God; and arise and build the sanctuary of Jehovah Elohim, to bring the ark of the covenant of Jehovah, and the vessels of the sanctuary of God into the house that is to be built unto the name of Jehovah.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

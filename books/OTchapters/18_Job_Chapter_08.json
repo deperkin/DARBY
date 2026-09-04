@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 444,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13031,
+        "text": "And Bildad the Shuhite answered and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13032,
+        "text": "How long wilt thou speak these things? and the words of thy mouth be a strong wind?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13033,
+        "text": "Doth God pervert judgment, and the Almighty pervert justice?",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13034,
+        "text": "If thy children have sinned against him, he hath also given them over into the hand of their transgression.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13035,
+        "text": "If thou seek earnestly unto God, and make thy supplication to the Almighty,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13036,
+        "text": "If thou be pure and upright, surely now he will awake for thee, and make the habitation of thy righteousness prosperous;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13037,
+        "text": "And though thy beginning was small, yet thine end shall be very great.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13038,
+        "text": "For inquire, I pray thee, of the former generation, and attend to the researches of their fathers;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13039,
+        "text": "For we are [but] of yesterday, and know nothing, for our days upon earth are a shadow.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13040,
+        "text": "Shall not they teach thee, [and] tell thee, and utter words out of their heart?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13041,
+        "text": "Doth the papyrus shoot up without mire? doth the reed-grass grow without water?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13042,
+        "text": "Whilst it is yet in its greenness [and] not cut down, it withereth before any [other] grass.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13043,
+        "text": "So are the paths of all that forget God; and the profane man’s hope shall perish,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13044,
+        "text": "Whose confidence shall be cut off, and his reliance is a spider’s web.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13045,
+        "text": "He shall lean upon his house, and it shall not stand; he shall lay hold on it, but it shall not endure.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13046,
+        "text": "He is full of sap before the sun, and his sprout shooteth forth over his garden;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13047,
+        "text": "His roots are entwined about the stoneheap; he seeth the place of stones.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13048,
+        "text": "If he destroy him from his place, then it shall deny him: I have not seen thee!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13049,
+        "text": "Behold, this is the joy of his way, and out of the dust shall others grow.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13050,
+        "text": "Behold, God will not cast off a perfect man, neither will he take evil-doers by the hand.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 13051,
+        "text": "Whilst he would fill thy mouth with laughing and thy lips with shouting,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13052,
+        "text": "They that hate thee shall be clothed with shame, and the tent of the wicked be no more.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

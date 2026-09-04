@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 88,
+    "count": 566,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15310,
+        "text": "{A Song, a Psalm for the sons of Korah. To the chief Musician. Upon Mahalath Leannoth. An instruction. Of Heman the Ezrahite.} Jehovah, God of my salvation, I have cried by day [and] in the night before thee.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15311,
+        "text": "Let my prayer come before thee; incline thine ear unto my cry.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15312,
+        "text": "For my soul is full of troubles, and my life draweth nigh to Sheol.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15313,
+        "text": "I am reckoned with them that go down into the pit; I am as a man that hath no strength:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15314,
+        "text": "Prostrate among the dead, like the slain that lie in the grave; whom thou rememberest no more, and who are cut off from thy hand.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15315,
+        "text": "Thou hast laid me in the lowest pit, in dark places, in the deeps.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15316,
+        "text": "Thy fury lieth hard upon me, and thou hast afflicted [me] with all thy waves. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15317,
+        "text": "Thou hast put my familiar friends far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15318,
+        "text": "Mine eye consumeth by reason of affliction. Upon thee, Jehovah, have I called every day; I have stretched out my hands unto thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15319,
+        "text": "Wilt thou do wonders to the dead? shall the shades arise and praise thee? Selah.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 15320,
+        "text": "Shall thy loving-kindness be declared in the grave? thy faithfulness in Destruction?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15321,
+        "text": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15322,
+        "text": "But as for me, Jehovah, I cry unto thee, and in the morning my prayer cometh before thee.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15323,
+        "text": "Why, O Jehovah, castest thou off my soul? [why] hidest thou thy face from me?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15324,
+        "text": "I am afflicted and expiring from my youth up; I suffer thy terrors, [and] I am distracted.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15325,
+        "text": "Thy fierce anger hath gone over me; thy terrors have brought me to nought:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15326,
+        "text": "They have surrounded me all the day like water; they have compassed me about together.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15327,
+        "text": "Lover and associate hast thou put far from me: my familiar friends are darkness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

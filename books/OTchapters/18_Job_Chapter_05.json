@@ -1,0 +1,201 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 441,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12953,
+        "text": "Call, I pray thee! Is there any that answereth thee? and to which of the holy ones wilt thou turn?",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12954,
+        "text": "For vexation killeth the foolish man, and envy slayeth the simple.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12955,
+        "text": "I myself saw the foolish taking root, but suddenly I cursed his habitation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12956,
+        "text": "His children are far from safety, and they are crushed in the gate, and there is no deliverer:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12957,
+        "text": "Whose harvest the hungry eateth up, and taketh even out of the thorns; and the snare gapeth for his substance.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12958,
+        "text": "For evil cometh not forth from the dust, neither doth trouble spring out of the ground;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 12959,
+        "text": "For man is born to trouble, as the sparks fly upwards.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12960,
+        "text": "But as for me I will seek unto God, and unto God commit my cause;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12961,
+        "text": "Who doeth great things and unsearchable, marvellous things without number;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12962,
+        "text": "Who giveth rain on the face of the earth, and sendeth waters on the face of the fields;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12963,
+        "text": "Setting up on high those that are low; and mourners are exalted to prosperity.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12964,
+        "text": "He disappointeth the devices of the crafty, and their hands carry not out the enterprise.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12965,
+        "text": "He taketh the wise in their own craftiness; and the counsel of the wily is carried headlong:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12966,
+        "text": "They meet with darkness in a the daytime, and grope at midday as in the night.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12967,
+        "text": "And he saveth the needy from the sword, from their mouth, and from the hand of the mighty.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12968,
+        "text": "So the poor hath what he hopeth for, and unrighteousness stoppeth her mouth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12969,
+        "text": "Behold, happy is the man whom +God correcteth; therefore despise not the chastening of the Almighty.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 12970,
+        "text": "For he maketh sore, and bindeth up; he woundeth, and his hands make whole.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12971,
+        "text": "He will deliver thee in six troubles, and in seven there shall no evil touch thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12972,
+        "text": "In famine he will redeem thee from death, and in war from the power of the sword.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12973,
+        "text": "Thou shalt be hidden from the scourge of the tongue; and thou shalt not be afraid of destruction when it cometh.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12974,
+        "text": "At destruction and famine thou shalt laugh, and of the beasts of the earth thou shalt not be afraid.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12975,
+        "text": "For thou shalt be in league with the stones of the field, and the beasts of the field shall be at peace with thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12976,
+        "text": "And thou shalt know that thy tent is in peace; and thou wilt survey thy fold, and miss nothing.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12977,
+        "text": "And thou shalt know that thy seed is numerous, and thine offspring as the herb of the earth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12978,
+        "text": "Thou shalt come to the grave in a ripe age, as a shock of corn is brought in in its season.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12979,
+        "text": "Behold this, we have searched it out, so it is; hear it, and know thou it for thyself.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

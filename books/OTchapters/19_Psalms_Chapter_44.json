@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 44,
+    "count": 522,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14573,
+        "text": "{To the chief Musician. Of the sons of Korah. An instruction.} O God, with our ears have we heard, our fathers have told us, the work thou wroughtest in their days, in the days of old:",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14574,
+        "text": "Thou, by thy hand, didst dispossess the nations, but them thou didst plant; thou didst afflict the peoples, but them didst thou cause to spread out.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14575,
+        "text": "For not by their own sword did they take possession of the land, neither did their own arm save them; but thy right hand, and thine arm, and the light of thy countenance, because thou hadst delight in them.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14576,
+        "text": "Thou thyself art my king, O God: command deliverance for Jacob.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14577,
+        "text": "Through thee will we push down our adversaries; through thy name will we tread them under that rise up against us.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14578,
+        "text": "For I will not put confidence in my bow, neither shall my sword save me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14579,
+        "text": "For thou hast saved us from our adversaries, and hast put them to shame that hate us.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14580,
+        "text": "In God will we boast all the day, and we will praise thy name for ever. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14581,
+        "text": "But thou hast cast off, and put us to confusion, and dost not go forth with our armies;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 14582,
+        "text": "Thou hast made us to turn back from the adversary, and they that hate us spoil for themselves;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14583,
+        "text": "Thou hast given us over like sheep [appointed] for meat, and hast scattered us among the nations;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14584,
+        "text": "Thou hast sold thy people for nought, and hast not increased [thy wealth] by their price;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14585,
+        "text": "Thou makest us a reproach to our neighbours, a mockery and a derision for them that are round about us;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14586,
+        "text": "Thou makest us a byword among the nations, a shaking of the head among the peoples.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14587,
+        "text": "All the day my confusion is before me, and the shame of my face hath covered me,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14588,
+        "text": "Because of the voice of him that reproacheth and blasphemeth; by reason of the enemy and the avenger.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14589,
+        "text": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely against thy covenant:",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 14590,
+        "text": "Our heart is not turned back, neither have our steps declined from thy path;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14591,
+        "text": "Though thou hast crushed us in the place of jackals, and covered us with the shadow of death.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14592,
+        "text": "If we had forgotten the name of our God, and stretched out our hands to a strange god,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14593,
+        "text": "Would not God search this out? for he knoweth the secrets of the heart.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14594,
+        "text": "But for thy sake are we killed all the day long; we are reckoned as sheep for slaughter.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 14595,
+        "text": "Awake, why sleepest thou, Lord? arise, cast [us] not off for ever.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 14596,
+        "text": "Wherefore hidest thou thy face, [and] forgettest our affliction and our oppression?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 14597,
+        "text": "For our soul is bowed down to the dust; our belly cleaveth unto the earth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 14598,
+        "text": "Rise up for our help, and redeem us for thy loving-kindness’ sake.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 389,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11646,
+        "text": "And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead; for the band of men that came in the camp with the Arabians had slain all the elder ones. And Ahaziah the son of Jehoram king of Judah reigned.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11647,
+        "text": "Ahaziah was twenty-two years old when he began to reign; and he reigned one year in Jerusalem; and his mother’s name was Athaliah, daughter of Omri.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11648,
+        "text": "He also walked in the ways of the house of Ahab; for his mother was his counsellor to do wickedly.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11649,
+        "text": "And he did evil in the sight of Jehovah like the house of Ahab; for they were his counsellors after the death of his father, to his destruction.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11650,
+        "text": "He walked also after their counsel, and went with Jehoram the son of Ahab, king of Israel, to the war against Hazael the king of Syria at Ramoth-Gilead; and the Syrians wounded Joram.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11651,
+        "text": "And he returned to be healed in Jizreel because of the wounds that were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram, king of Judah, went down to see Jehoram the son of Ahab at Jizreel; for he was sick.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11652,
+        "text": "But his coming to Joram was from God the complete ruin of Ahaziah. And when he had come, he went out with Jehoram against Jehu the son of Nimshi, whom Jehovah had anointed to cut off the house of Ahab.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11653,
+        "text": "And it came to pass when Jehu was executing judgment upon the house of Ahab, that he found the princes of Judah, and the sons of the brethren of Ahaziah, that attended upon Ahaziah, and he slew them.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11654,
+        "text": "And he sought Ahaziah; and they caught him (for he had hid himself in Samaria), and brought him to Jehu, and slew him; and they buried him, for they said, He is a son of Jehoshaphat, who sought Jehovah with all his heart. And in the house of Ahaziah there was no one who was able to [hold] the kingdom.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11655,
+        "text": "And when Athaliah the mother of Ahaziah saw that her son was dead, she rose up and exterminated all the royal seed of the house of Judah.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 11656,
+        "text": "But Jehoshabeath the daughter of the king took Joash the son of Ahaziah and stole him from among the king’s sons that were slain, and put him and his nurse in the bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest (for she was the sister of Ahaziah), hid him from Athaliah, so that she did not slay him;",
+        "WordCount": 64,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11657,
+        "text": "and he was with them hid in the house of God six years. And Athaliah reigned over the land.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

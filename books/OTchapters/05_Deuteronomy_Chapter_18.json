@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 171,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5386,
+        "text": "The priests, the Levites, [and] the whole tribe of Levi, shall have no portion nor inheritance with Israel: Jehovah’s offerings by fire, and his inheritance shall they eat,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5387,
+        "text": "but they shall have no inheritance among their brethren: Jehovah, he is their inheritance, as he hath said unto them.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5388,
+        "text": "And this shall be the priest’s due from the people, from them that sacrifice a sacrifice, whether ox, or sheep: they shall give unto the priest the shoulder, and the jawbones, and the maw.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5389,
+        "text": "The firstfruits [also] of thy corn, of thy new wine, and of thine oil, and the firstfruits of the shearing of thy sheep, shalt thou give him;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5390,
+        "text": "for Jehovah thy God hath chosen him out of all thy tribes, that he may stand to serve in the name of Jehovah, he and his sons continually.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5391,
+        "text": "And if the Levite shall come from one of thy gates out of all Israel, where he sojourneth, and shall come according to all the desire of his soul unto the place which Jehovah will choose,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5392,
+        "text": "and shall serve in the name of Jehovah his God, as all his brethren the Levites that stand there before Jehovah,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5393,
+        "text": "they shall have like portions to eat, besides that which he hath sold of his patrimony.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5394,
+        "text": "When thou art come into the land which Jehovah thy God giveth thee, thou shalt not learn to do according to the abominations of those nations.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 5395,
+        "text": "There shall not be found among you he that maketh his son or his daughter to pass through the fire, that useth divination, that useth auguries, or an enchanter, or a sorcerer,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5396,
+        "text": "or a charmer, or one that inquireth of a spirit of Python, or a soothsayer, or one that consulteth the dead.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5397,
+        "text": "For every one that doeth these things is an abomination to Jehovah, and because of these abominations Jehovah thy God doth dispossess them from before thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5398,
+        "text": "Thou shalt be perfect with Jehovah thy God.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5399,
+        "text": "For these nations, which thou shalt dispossess, hearkened unto those that use auguries, and that use divination; but as for thee, Jehovah thy God hath not suffered thee [to do] so.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5400,
+        "text": "Jehovah thy God will raise up unto thee a prophet from the midst of thee, of thy brethren, like unto me; unto him shall ye hearken;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 5401,
+        "text": "according to all that thou desiredst of Jehovah thy God at Horeb on the day of the assembly, saying, Let me not hear again the voice of Jehovah my God, neither let me see this great fire any more, that I die not.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5402,
+        "text": "And Jehovah said unto me, They have well spoken that which they have spoken.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5403,
+        "text": "A prophet will I raise up unto them from among their brethren, like unto thee, and will put my words in his mouth, and he shall speak unto them all that I shall command him.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5404,
+        "text": "And it shall come to pass that the man who hearkeneth not unto my words which he shall speak in my name, I will require it of him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5405,
+        "text": "But the prophet who shall presume to speak a word in my name that I have not commanded him to speak, or that shall speak in the name of other gods, that prophet shall die.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5406,
+        "text": "And if thou say in thy heart, How shall we know the word that Jehovah hath not spoken?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5407,
+        "text": "When a prophet speaketh in the name of Jehovah, and the thing followeth not, nor cometh to pass, that is the word which Jehovah hath not spoken; the prophet hath spoken it presumptuously: be not afraid of him.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

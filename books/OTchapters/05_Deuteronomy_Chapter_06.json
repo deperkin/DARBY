@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 159,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5088,
+        "text": "And these are the commandments, the statutes, and the ordinances, which Jehovah your God commanded to teach you, that ye may do them in the land whereunto ye pass over to possess it,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5089,
+        "text": "that thou mayest fear Jehovah thy God, to keep all his statutes and his commandments which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5090,
+        "text": "And thou shalt hear, Israel, and take heed to do [them]; that it may be well with thee, and that ye may increase greatly, as Jehovah the God of thy fathers hath said unto thee, in a land flowing with milk and honey.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5091,
+        "text": "Hear, Israel: Jehovah our God is one Jehovah;",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 5092,
+        "text": "and thou shalt love Jehovah thy God with all thy heart, and with all thy soul, and with all thy strength.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5093,
+        "text": "And these words, which I command thee this day, shall be in thy heart;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5094,
+        "text": "and thou shalt impress them on thy sons, and shalt talk of them when thou sittest in thy house, and when thou goest on the way, and when thou liest down, and when thou risest up.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5095,
+        "text": "And thou shalt bind them for a sign on thy hand, and they shall be for frontlets between thine eyes.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5096,
+        "text": "And thou shalt write them upon the posts of thy house, and upon thy gates.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5097,
+        "text": "And it shall be, when Jehovah thy God bringeth thee into the land which he swore unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee: great and good cities which thou buildedst not,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5098,
+        "text": "and houses full of everything good which thou filledst not, and wells digged which thou diggedst not, vineyards and oliveyards which thou plantedst not, and thou shalt have eaten and shalt be full;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5099,
+        "text": "[then] beware lest thou forget Jehovah who brought thee forth out of the land of Egypt, out of the house of bondage.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5100,
+        "text": "Thou shalt fear Jehovah thy God, and serve him, and shalt swear by his name.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5101,
+        "text": "Ye shall not go after other gods, of the gods of the peoples that are round about you;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5102,
+        "text": "for Jehovah thy God is a jealous God in thy midst; lest the anger of Jehovah thy God be kindled against thee, and he destroy thee from the face of the earth.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5103,
+        "text": "Ye shall not tempt Jehovah your God, as ye tempted him in Massah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5104,
+        "text": "Ye shall diligently keep the commandments of Jehovah your God, and his testimonies, and his statutes, which he hath commanded thee.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 5105,
+        "text": "And thou shalt do what is right and good in the sight of Jehovah, that it may be well with thee, and that thou mayest enter in and possess the good land which Jehovah swore unto thy fathers,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5106,
+        "text": "thrusting out all thine enemies from before thee, as Jehovah hath spoken.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5107,
+        "text": "When thy son shall ask thee in time to come, saying, What are the testimonies, and the statutes, and the ordinances, which Jehovah our God hath commanded you?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5108,
+        "text": "then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and Jehovah brought us out of Egypt with a powerful hand;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5109,
+        "text": "and Jehovah shewed signs and wonders, great and grievous, upon Egypt, upon Pharaoh, and upon all his household, before our eyes;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5110,
+        "text": "and he brought us out thence, that he might bring us in, to give us the land which he swore unto our fathers.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5111,
+        "text": "And Jehovah commanded us to do all these statutes, to fear Jehovah our God, for our good continually, that he might preserve us alive, as it is this day.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5112,
+        "text": "And it shall be our righteousness if we take heed to do all these commandments before Jehovah our God, as he hath commanded us.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 640,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16721,
+        "text": "Whoso loveth discipline loveth knowledge, but he that hateth reproof is brutish.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16722,
+        "text": "A good [man] obtaineth favour of Jehovah; but a man of mischievous devices will he condemn.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16723,
+        "text": "A man shall not be established by wickedness; but the root of the righteous shall not be moved.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16724,
+        "text": "A woman of worth is a crown to her husband; but she that maketh ashamed is as rottenness in his bones.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16725,
+        "text": "The thoughts of the righteous are right; the counsels of the wicked are deceit.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16726,
+        "text": "The words of the wicked are a lying-in-wait for blood; but the mouth of the upright shall deliver them.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16727,
+        "text": "Overthrow the wicked, and they are no [more]; but the house of the righteous shall stand.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16728,
+        "text": "A man is commended according to his wisdom; but he that is of a perverted heart shall be despised.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16729,
+        "text": "Better is he that is lightly esteemed, and hath a servant, than he that honoureth himself, and lacketh bread.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16730,
+        "text": "A righteous man is concerned for the life of his beast; but the tender mercies of the wicked are cruel.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16731,
+        "text": "He that tilleth his land shall be satisfied with bread; but he that followeth the worthless is void of understanding.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16732,
+        "text": "The wicked desireth the net of evil [men]; but the root of the righteous yieldeth [fruit].",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16733,
+        "text": "In the transgression of the lips is an evil snare; but a righteous [man] shall go forth out of trouble.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16734,
+        "text": "A man is satisfied with good by the fruit of his mouth; and the recompense of a man’s hands shall be rendered unto him.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16735,
+        "text": "The way of a fool is right in his own eyes; but he that is wise hearkeneth unto counsel.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16736,
+        "text": "The vexation of the fool is presently known; but a prudent [man] covereth shame.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16737,
+        "text": "He that uttereth truth sheweth forth righteousness; but a false witness deceit.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16738,
+        "text": "There is that babbleth like the piercings of a sword; but the tongue of the wise is health.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16739,
+        "text": "The lip of truth shall be established for ever; but a lying tongue is but for a moment.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16740,
+        "text": "Deceit is in the heart of them that devise evil; but to the counsellors of peace is joy.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16741,
+        "text": "There shall no evil happen to a righteous [man]; but the wicked shall be filled with mischief.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16742,
+        "text": "Lying lips are an abomination to Jehovah; but they that deal truly are his delight.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16743,
+        "text": "A prudent man concealeth knowledge; but the heart of the foolish proclaimeth folly.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16744,
+        "text": "The hand of the diligent shall bear rule; but the slothful [hand] shall be under tribute.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16745,
+        "text": "Heaviness in the heart of man maketh it stoop; but a good word maketh it glad.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16746,
+        "text": "The righteous guideth his neighbour; but the way of the wicked misleadeth them.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16747,
+        "text": "The slothful roasteth not what he took in hunting; but man’s precious substance is to the diligent.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16748,
+        "text": "In the path of righteousness is life, and in the pathway thereof there is no death.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

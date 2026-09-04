@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 502,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14243,
+        "text": "{Of David. A Psalm.} The earth is Jehovah’s, and the fulness thereof; the world, and they that dwell therein.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14244,
+        "text": "For it was he that founded it upon seas, and established it upon floods.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14245,
+        "text": "Who shall ascend into the mount of Jehovah? and who shall stand in his holy place?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 14246,
+        "text": "He that hath blameless hands and a pure heart; who lifteth not up his soul unto vanity, nor sweareth deceitfully:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14247,
+        "text": "He shall receive blessing from Jehovah, and righteousness from the God of his salvation.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14248,
+        "text": "This is the generation of them that seek unto him, that seek thy face, O Jacob. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14249,
+        "text": "Lift up your heads, ye gates, and be ye lifted up, ye everlasting doors, and the King of glory shall come in.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14250,
+        "text": "Who is this King of glory? Jehovah strong and mighty, Jehovah mighty in battle.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14251,
+        "text": "Lift up your heads, ye gates; yea, lift up, ye everlasting doors, and the King of glory shall come in.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14252,
+        "text": "Who is he, this King of glory? Jehovah of hosts, he is the King of glory. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

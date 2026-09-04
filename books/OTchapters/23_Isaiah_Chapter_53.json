@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 53,
+    "count": 732,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18713,
+        "text": "Who hath believed our report? and to whom hath the arm of Jehovah been revealed?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18714,
+        "text": "For he shall grow up before him as a tender sapling, and as a root out of dry ground: he hath no form nor lordliness, and when we see him, there is no beauty that we should desire him.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18715,
+        "text": "He is despised and left alone of men; a man of sorrows, and acquainted with grief, and like one from whom [men] hide their faces;—despised, and we esteemed him not.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18716,
+        "text": "Surely he hath borne our griefs and carried our sorrows; and we, we did regard him stricken, smitten of God, and afflicted.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 18717,
+        "text": "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him, and with his stripes we are healed.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18718,
+        "text": "All we like sheep have gone astray, we have turned every one to his own way; and Jehovah hath laid upon him the iniquity of us all.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18719,
+        "text": "He was oppressed, and he was afflicted, but he opened not his mouth; he was led as a lamb to the slaughter, and was as a sheep dumb before her shearers, and he opened not his mouth.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18720,
+        "text": "He was taken from oppression and from judgment; and who shall declare his generation? for he was cut off out of the land of the living; for the transgression of my people was he stricken.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18721,
+        "text": "And [men] appointed his grave with the wicked, but he was with the rich in his death, because he had done no violence, neither was there guile in his mouth.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18722,
+        "text": "Yet it pleased Jehovah to bruise him; he hath subjected [him] to suffering. When thou shalt make his soul an offering for sin, he shall see a seed, he shall prolong [his] days, and the pleasure of Jehovah shall prosper in his hand.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 18723,
+        "text": "He shall see of [the fruit of] the travail of his soul, [and] shall be satisfied: by his knowledge shall my righteous servant instruct many in righteousness; and he shall bear their iniquities.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18724,
+        "text": "Therefore will I assign him a portion with the great, and he shall divide the spoil with the strong: because he hath poured out his soul unto death, and was reckoned with the transgressors; and he bore the sin of many, and made intercession for the transgressors.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

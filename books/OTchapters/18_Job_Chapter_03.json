@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 439,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12906,
+        "text": "After this, Job opened his mouth and cursed his day.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12907,
+        "text": "And Job answered and said,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12908,
+        "text": "Let the day perish in which I was born, and the night that said, There is a man child conceived.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12909,
+        "text": "That day—let it be darkness, let not +God care for it from above, neither let light shine upon it:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12910,
+        "text": "Let darkness and the shadow of death claim it; let clouds dwell upon it; let darkeners of the day terrify it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12911,
+        "text": "That night—let gloom seize upon it; let it not rejoice among the days of the year; let it not come into the number of the months.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12912,
+        "text": "Behold, let that night be barren; let no joyful sound come therein;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12913,
+        "text": "Let them curse it that curse the day, who are ready to rouse Leviathan;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12914,
+        "text": "Let the stars of its twilight be dark; let it wait for light, and have none, neither let it see the eyelids of the dawn:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12915,
+        "text": "Because it shut not up the doors of the womb that bore me, and hid not trouble from mine eyes.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12916,
+        "text": "Wherefore did I not die from the womb,—come forth from the belly and expire?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 12917,
+        "text": "Why did the knees meet me? and wherefore the breasts, that I should suck?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12918,
+        "text": "For now should I have lain down and been quiet; I should have slept: then had I been at rest,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12919,
+        "text": "With kings and counsellors of the earth, who build desolate places for themselves,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12920,
+        "text": "Or with princes who had gold, who filled their houses with silver;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12921,
+        "text": "Or as a hidden untimely birth I had not been; as infants that have not seen the light.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12922,
+        "text": "There the wicked cease from troubling; and there the wearied are at rest.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12923,
+        "text": "The prisoners together are at ease; they hear not the voice of the taskmaster.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12924,
+        "text": "The small and great are there, and the bondman freed from his master.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12925,
+        "text": "Wherefore is light given to him that is in trouble, and life to those bitter of soul,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 12926,
+        "text": "Who long for death, and it [cometh] not, and dig for it more than for hidden treasures;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12927,
+        "text": "Who rejoice even exultingly and are glad when they find the grave?—",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12928,
+        "text": "To the man whose way is hidden, and whom +God hath hedged in?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12929,
+        "text": "For my sighing cometh before my bread, and my groanings are poured out like the waters.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12930,
+        "text": "For I feared a fear, and it hath come upon me, and that which I dreaded hath come to me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12931,
+        "text": "I was not in safety, neither had I quietness, neither was I at rest, and trouble came.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

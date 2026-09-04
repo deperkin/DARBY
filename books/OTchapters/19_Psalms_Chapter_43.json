@@ -1,0 +1,47 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 43,
+    "count": 521,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14568,
+        "text": "Judge me, O God, and plead my cause against an ungodly nation; deliver me from the deceitful and unrighteous man.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14569,
+        "text": "For thou art the God of my strength: why hast thou cast me off? why go I about mourning because of the oppression of the enemy?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14570,
+        "text": "Send out thy light and thy truth: they shall lead me, they shall bring me to thy holy mount, and unto thy habitations.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14571,
+        "text": "Then will I go unto the altar of God, unto the God of the gladness of my joy: yea, upon the harp will I praise thee, O God, my God.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14572,
+        "text": "Why art thou cast down, my soul? and why art thou disquieted within me? hope in God; for I shall yet praise him, [who is] the health of my countenance, and my God.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

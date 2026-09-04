@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 804,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20494,
+        "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak with thee.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20495,
+        "text": "And the Spirit entered into me when he spoke unto me, and set me upon my feet; and I heard him that spoke unto me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20496,
+        "text": "And he said unto me, Son of man, I send thee to the children of Israel, to nations that are rebellious, which have rebelled against me: they and their fathers have transgressed against me unto this very day;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20497,
+        "text": "and these children are impudent and hard-hearted: I am sending thee unto them; and thou shalt say unto them, Thus saith the Lord Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20498,
+        "text": "And they, whether they will hear or whether they will forbear—for they are a rebellious house—yet shall they know that there hath been a prophet among them.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20499,
+        "text": "And thou, son of man, be not afraid of them, and be not afraid of their words; for briars and thorns are with thee, and thou dwellest among scorpions: be not afraid of their words, and be not dismayed at their faces; for they are a rebellious house.",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 20500,
+        "text": "And thou shalt speak my words unto them, whether they will hear or whether they will forbear; for they are rebellious.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20501,
+        "text": "And thou, son of man, hear what I say unto thee; be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20502,
+        "text": "And I looked, and behold, a hand was put forth toward me; and behold, a roll of a book therein.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20503,
+        "text": "And he spread it out before me; and it was written within and without; and there were written in it lamentations, and mourning, and woe.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

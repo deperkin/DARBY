@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 356,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10892,
+        "text": "And after this it came to pass that David smote the Philistines, and subdued them, and took Gath and its towns out of the hand of the Philistines.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10893,
+        "text": "And he smote the Moabites; and the Moabites became David’s servants, [and] brought gifts.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10894,
+        "text": "And David smote Hadarezer king of Zobah, at Hamath, as he went to establish his dominion by the river Euphrates.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10895,
+        "text": "And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen; and David houghed all the chariot [horses], but reserved of them [for] a hundred chariots.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10896,
+        "text": "And the Syrians of Damascus came to help Hadarezer king of Zobah, and David smote of the Syrians twenty-two thousand men.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10897,
+        "text": "And David put [garrisons] in Syria of Damascus; and the Syrians became servants to David, [and] brought gifts. And Jehovah preserved David whithersoever he went.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10898,
+        "text": "And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10899,
+        "text": "And from Tibhath, and from Chun, cities of Hadarezer, David took very much brass, of which Solomon made the brazen sea, and the pillars, and the vessels of brass.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10900,
+        "text": "And Tou king of Hamath heard that David had smitten all the forces of Hadarezer king of Zobah;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 10901,
+        "text": "and he sent Hadoram his son to king David to inquire of his welfare, and to congratulate him, because he had fought against Hadarezer and smitten him; for Hadarezer was continually at war with Tou; [he sent] also all manner of vessels of gold and silver and bronze.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10902,
+        "text": "Them also king David dedicated to Jehovah, with the silver and the gold that he had brought from all the nations: from the Edomites, and from the Moabites, and from the children of Ammon, and from the Philistines, and from the Amalekites.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10903,
+        "text": "And Abishai the son of Zeruiah smote of the Edomites in the valley of salt eighteen thousand.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10904,
+        "text": "And he put garrisons in Edom; and all they of Edom became servants to David. And Jehovah preserved David whithersoever he went.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10905,
+        "text": "And David reigned over all Israel, and executed judgment and justice to all his people.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10906,
+        "text": "And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was chronicler;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10907,
+        "text": "and Zadok the son of Ahitub, and Abimelech the son of Abiathar, were the priests; and Shavsha was scribe;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10908,
+        "text": "and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were the first at the king’s hand.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

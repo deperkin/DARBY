@@ -1,0 +1,264 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 16,"name": "Nehemiah","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 424,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12590,
+        "text": "And the princes of the people dwelt in Jerusalem; and the rest of the people cast lots, to bring one of ten to dwell in Jerusalem, the holy city, and nine parts in the cities.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12591,
+        "text": "And the people blessed all the men that willingly offered themselves to dwell in Jerusalem.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12592,
+        "text": "And these are the chiefs of the province that dwelt in Jerusalem; but in the cities of Judah dwelt every one in his possession in their cities, Israel, the priests, and the Levites, and the Nethinim, and the children of Solomon’s servants.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12593,
+        "text": "And in Jerusalem dwelt some of the children of Judah and of the children of Benjamin. Of the children of Judah: Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Pherez;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12594,
+        "text": "and Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12595,
+        "text": "All the children of Pherez that dwelt in Jerusalem were four hundred and sixty-eight valiant men.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12596,
+        "text": "And these are the children of Benjamin: Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Isaiah;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12597,
+        "text": "and after him, Gabbai, Sallai, nine hundred and twenty-eight:",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12598,
+        "text": "and Joel the son of Zicri was their overseer, and Judah the son of Senuah was second over the city.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12599,
+        "text": "Of the priests: Jedaiah [the son of] Joiarib, Jachin,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12600,
+        "text": "Seraiah the son of Hilkijah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12601,
+        "text": "And their brethren that did the work of the house, eight hundred and twenty-two; and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malchijah;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12602,
+        "text": "and his brethren, chief fathers, two hundred and forty-two; and Amassai the son of Azareel, the son of Ahzai, the son of Meshillemoth, the son of Immer;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12603,
+        "text": "and their brethren, mighty men of valour, a hundred and twenty-eight: and their overseer was Zabdiel the son of Gedolim.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12604,
+        "text": "And of the Levites: Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12605,
+        "text": "and Shabbethai and Jozabad, of the chiefs of the Levites, [who were] over the outward work of the house of God;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12606,
+        "text": "and Mattaniah the son of Mica, the son of Zabdi, the son of Asaph, [who was] the principal to begin the thanksgiving in prayer; and Bakbukiah, the second among his brethren; and Abda the son of Shammua, the son of Galal, the son of Jeduthun:",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12607,
+        "text": "all the Levites in the holy city were two hundred and eighty-four.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12608,
+        "text": "And the doorkeepers, Akkub, Talmon, and their brethren, that kept watch at the gates, were a hundred and seventy-two.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12609,
+        "text": "And the residue of Israel, the priests, [and] the Levites, were in all the cities of Judah, every one in his inheritance.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 12610,
+        "text": "And the Nethinim dwelt in Ophel; and Ziha and Gispa were over the Nethinim.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12611,
+        "text": "And the overseer of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica, of the sons of Asaph, the singers, for the work of the house of God.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12612,
+        "text": "For it was the king’s commandment concerning them, and there was a settled portion for the singers, due for each day.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12613,
+        "text": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king’s hand in all matters concerning the people.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12614,
+        "text": "And as to the hamlets in their fields, [some] of the children of Judah dwelt in Kirjath-Arba and its dependent villages, and in Dibon and its dependent villages, and in Jekabzeel and its dependent villages,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12615,
+        "text": "and in Jeshua, and in Moladah, and in Beth-phelet,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12616,
+        "text": "and in Hazar-Shual, and in Beer-sheba and its dependent villages,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 12617,
+        "text": "and in Ziklag, and in Meconah and its dependent villages;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12618,
+        "text": "and in En-Rimmon, and in Zorah, and in Jarmuth,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12619,
+        "text": "Zanoah, Adullam, and their hamlets, in Lachish and its fields, in Azekah and its dependent villages: and they encamped from Beer-sheba unto the valley of Hinnom.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12620,
+        "text": "And the children of Benjamin from Geba [dwelt] in Michmash and Aija and Bethel, and their dependent villages,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 12621,
+        "text": "in Anathoth, Nob, Ananiah,",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 12622,
+        "text": "Hazor, Ramah, Gittaim,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 12623,
+        "text": "Hadid, Zeboim, Neballat,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 12624,
+        "text": "Lod, and Ono, the valley of craftsmen.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 12625,
+        "text": "And of the Levites there were divisions of Judah [dwelling] in Benjamin.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

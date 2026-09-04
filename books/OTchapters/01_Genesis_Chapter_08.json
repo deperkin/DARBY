@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 8,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 185,
+        "text": "And God remembered Noah, and all the animals, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters subsided.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 186,
+        "text": "And the fountains of the deep and the windows of heaven were closed, and the pour of rain from heaven was stopped.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 187,
+        "text": "And the waters retired from the earth, continually retiring; and in the course of a hundred and fifty days the waters abated.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 188,
+        "text": "And the ark rested in the seventh month, on the seventeenth day of the month, on the mountains of Ararat.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 189,
+        "text": "And the waters abated continually until the tenth month: in the tenth [month], on the first of the month, the tops of the mountains were seen.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 190,
+        "text": "And it came to pass at the end of forty days that Noah opened the window of the ark which he had made.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 191,
+        "text": "And he sent out the raven, which went forth going to and fro, until the waters were dried from the earth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 192,
+        "text": "And he sent out the dove from him, to see if the waters had become low on the ground.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 193,
+        "text": "But the dove found no resting-place for the sole of her foot, and returned to him into the ark; for the waters were on the whole earth; and he put forth his hand, and took her, and brought her to him into the ark.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 194,
+        "text": "And he waited yet other seven days, and again he sent forth the dove out of the ark.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 195,
+        "text": "And the dove came to him at eventide; and behold, in her beak was an olive-leaf plucked off; and Noah knew that the waters had become low on the earth.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 196,
+        "text": "And he waited yet other seven days, and sent forth the dove; but she returned no more to him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 197,
+        "text": "And it came to pass in the six hundred and first year, in the first [month], on the first of the month, that the waters were dried up from the earth. And Noah removed the covering of the ark, and looked, and behold, the surface of the ground was dried.",
+        "WordCount": 50,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 198,
+        "text": "And in the second month, on the twenty-seventh day of the month, the earth was dry.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 199,
+        "text": "And God spoke to Noah, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 200,
+        "text": "Go out of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 201,
+        "text": "Bring forth with thee every animal which is with thee, of all flesh, fowl as well as cattle, and all the creeping things which creep on the earth, that they may swarm on the earth, and may be fruitful and multiply on the earth.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 202,
+        "text": "And Noah went out, and his sons, and his wife, and his sons’ wives with him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 203,
+        "text": "All the animals, all the creeping things, and all the fowl—everything that moves on the earth, after their kinds, went out of the ark.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 204,
+        "text": "And Noah built an altar to Jehovah; and took of every clean animal, and of all clean fowl, and offered up burnt-offerings on the altar.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 205,
+        "text": "And Jehovah smelled the sweet odour. And Jehovah said in his heart, I will no more henceforth curse the ground on account of Man, for the thought of Man’s heart is evil from his youth; and I will no more smite every living thing, as I have done.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 206,
+        "text": "Henceforth, all the days of the earth, seed [time] and harvest, and cold and heat, and summer and winter, and day and night, shall not cease.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

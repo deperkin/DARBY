@@ -1,0 +1,320 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 113,
+    "MaxVerses": 44,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3404,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3405,
+        "text": "Speak unto the children of Israel, and say unto them, [Concerning] the set feasts of Jehovah, which ye shall proclaim as holy convocations—these are my set feasts.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3406,
+        "text": "Six days shall work be done; but on the seventh day is the sabbath of rest, a holy convocation; no manner of work shall ye do: it is the sabbath to Jehovah in all your dwellings.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3407,
+        "text": "These are the set feasts of Jehovah, holy convocations, which ye shall proclaim in their seasons:",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 3408,
+        "text": "In the first month, on the fourteenth of the month, between the two evenings, is the passover to Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3409,
+        "text": "And on the fifteenth day of this month is the feast of unleavened bread to Jehovah; seven days shall ye eat unleavened bread.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3410,
+        "text": "On the first day ye shall have a holy convocation: no manner of servile work shall ye do.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3411,
+        "text": "And ye shall present to Jehovah an offering by fire seven days; on the seventh day is a holy convocation: no manner of servile work shall ye do.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3412,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3413,
+        "text": "Speak unto the children of Israel and say unto them, When ye come into the land that I give unto you, and ye reap the harvest thereof, then ye shall bring a sheaf of the first-fruits of your harvest unto the priest.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3414,
+        "text": "And he shall wave the sheaf before Jehovah, to be accepted for you; on the next day after the sabbath the priest shall wave it.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3415,
+        "text": "And ye shall offer that day when ye wave the sheaf, a he-lamb without blemish, a yearling, for a burnt-offering to Jehovah;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3416,
+        "text": "and the oblation thereof: two tenths of fine flour mingled with oil, an offering by fire to Jehovah for a sweet odour; and the drink-offering thereof, of wine, a fourth part of a hin.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3417,
+        "text": "And ye shall not eat bread, or roast corn, or green ears, until the same day that ye have brought the offering of your God: [it is] an everlasting statute throughout your generations in all your dwellings.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3418,
+        "text": "And ye shall count from the morning after the sabbath, from the day that ye brought the sheaf of the wave-offering, seven weeks; they shall be complete;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 3419,
+        "text": "even unto the morning after the seventh sabbath shall ye count fifty days; and ye shall present a new oblation to Jehovah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3420,
+        "text": "Out of your dwellings shall ye bring two wave-loaves, of two tenths of fine flour; with leaven shall they be baken; [as] first-fruits to Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3421,
+        "text": "And ye shall present with the bread seven he-lambs without blemish, yearlings, and one young bullock, and two rams: they shall be a burnt-offering to Jehovah with their oblation, and their drink-offerings, an offering by fire of a sweet odour to Jehovah.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3422,
+        "text": "And ye shall sacrifice one buck of the goats for a sin-offering, and two he-lambs, yearlings, for a sacrifice of peace-offering.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3423,
+        "text": "And the priest shall wave them with the bread of the first-fruits as a wave-offering before Jehovah, with the two he-lambs; they shall be holy to Jehovah, for the priest.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3424,
+        "text": "And ye shall make proclamation on that same day—a holy convocation shall it be unto you: no manner of servile work shall ye do: [it is] an everlasting statute in all your dwellings throughout your generations.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3425,
+        "text": "And when ye reap the harvest of your land, thou shalt not in thy harvest entirely reap the corners of thy field, and the gleaning of thy harvest shalt thou not gather: thou shalt leave them unto the poor and to the stranger: I am Jehovah your God.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3426,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 3427,
+        "text": "Speak unto the children of Israel, saying, In the seventh month, on the first of the month, shall ye have a rest, a memorial of blowing of trumpets, a holy convocation.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3428,
+        "text": "No manner of servile work shall ye do; and ye shall present an offering by fire to Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3429,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3430,
+        "text": "Also on the tenth of this seventh month is the day of the atonement: a holy convocation shall it be unto you; and ye shall afflict your souls, and present an offering by fire to Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3431,
+        "text": "And ye shall do no manner of work on that same day; for it is a day of atonement, to make atonement for you before Jehovah your God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3432,
+        "text": "For every soul that is not afflicted on that same day, shall be cut off from among his peoples.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3433,
+        "text": "And every soul that doeth any manner of work on that same day, the same soul will I destroy from among his people.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3434,
+        "text": "No manner of work shall ye do: [it is] an everlasting statute throughout your generations in all your dwellings.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3435,
+        "text": "A sabbath of rest shall it be unto you; and ye shall afflict your souls. On the ninth of the month at even, from even unto even, shall ye celebrate your sabbath.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3436,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 3437,
+        "text": "Speak unto the children of Israel, saying, On the fifteenth day of this seventh month is the feast of booths seven days to Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3438,
+        "text": "On the first day there shall be a holy convocation: no manner of servile work shall ye do.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3439,
+        "text": "Seven days ye shall present an offering by fire to Jehovah; on the eighth day shall be a holy convocation unto you; and ye shall present an offering by fire to Jehovah: it is a solemn assembly; no manner of servile work shall ye do.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3440,
+        "text": "These are the set feasts of Jehovah, which ye shall proclaim as holy convocations, to present an offering by fire to Jehovah, a burnt-offering, and an oblation, a sacrifice, and drink-offerings, everything upon its day;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3441,
+        "text": "besides the sabbaths of Jehovah, and besides your gifts, and besides all your vows, and besides all your voluntary offerings, which ye give to Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3442,
+        "text": "But on the fifteenth day of the seventh month, when ye have gathered in the produce of the land, ye shall celebrate the feast of Jehovah seven days: on the first day there shall be rest, and on the eighth day there shall be rest.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3443,
+        "text": "And ye shall take on the first day the fruit of beautiful trees, palm branches and the boughs of leafy trees, and willows of the brook; and ye shall rejoice before Jehovah your God seven days.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 3444,
+        "text": "And ye shall celebrate it as a feast to Jehovah seven days in the year: [it is] an everlasting statute throughout your generations; in the seventh month shall ye celebrate it.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3445,
+        "text": "In booths shall ye dwell seven days; all born in Israel shall dwell in booths;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3446,
+        "text": "that your generations may know that I caused the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am Jehovah your God.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3447,
+        "text": "And Moses declared the set feasts of Jehovah to the children of Israel.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

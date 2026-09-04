@@ -1,0 +1,229 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 649,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16986,
+        "text": "The king’s heart in the hand of Jehovah is [as] brooks of water: he turneth it whithersoever he will.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16987,
+        "text": "Every way of a man is right in his own eyes; but Jehovah weigheth the hearts.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16988,
+        "text": "To exercise justice and judgment is more acceptable to Jehovah than sacrifice.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16989,
+        "text": "Lofty eyes, and a proud heart, the lamp of the wicked, is sin.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16990,
+        "text": "The thoughts of the diligent [tend] only to plenteousness; but of every one that is hasty, only to want.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16991,
+        "text": "The getting of treasures by a lying tongue is a fleeting breath of them that seek death.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16992,
+        "text": "The devastation of the wicked sweepeth them away, because they refuse to do what is right.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16993,
+        "text": "Very crooked is the way of a guilty man; but as for the pure, his work is upright.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16994,
+        "text": "It is better to dwell in a corner of the housetop, than with a contentious woman, and a house in common.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16995,
+        "text": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16996,
+        "text": "When the scorner is punished, the simple becometh wise; and when the wise is instructed, he receiveth knowledge.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16997,
+        "text": "One that is righteous wisely considereth the house of the wicked: he overthroweth the wicked to [their] ruin.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16998,
+        "text": "Whoso stoppeth his ears at the cry of the poor, he also himself shall cry, and shall not be heard.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16999,
+        "text": "A gift in secret pacifieth anger; and a present in the bosom, vehement fury.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 17000,
+        "text": "It is joy to a righteous [man] to do what is right; but it is ruin for the workers of iniquity.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17001,
+        "text": "The man that wandereth out of the way of wisdom shall abide in the congregation of the dead.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17002,
+        "text": "He that loveth mirth shall be a poor man; he that loveth wine and oil shall not be rich.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17003,
+        "text": "The wicked is a ransom for the righteous, and a treacherous [man] in the stead of the upright.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 17004,
+        "text": "It is better to dwell in a desert land. than with a contentious and irritable woman.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 17005,
+        "text": "There is costly store and oil in the dwelling of a wise [man]; but a foolish man swalloweth it up.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 17006,
+        "text": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 17007,
+        "text": "A wise [man] scaleth the city of the mighty, and casteth down the strength of the confidence thereof.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 17008,
+        "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 17009,
+        "text": "Proud, arrogant, scorner is his name who dealeth in proud wrath.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 17010,
+        "text": "The desire of the sluggard killeth him; for his hands refuse to work:",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 17011,
+        "text": "He coveteth greedily all the day long; but the righteous giveth and spareth not.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17012,
+        "text": "The sacrifice of the wicked is abomination: how much more when they bring it with a wicked purpose!",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 17013,
+        "text": "A lying witness shall perish; and a man that heareth shall speak constantly.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 17014,
+        "text": "A wicked man hardeneth his face; but as for the upright, he establisheth his way.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 17015,
+        "text": "There is no wisdom, nor understanding, nor counsel against Jehovah.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 17016,
+        "text": "The horse is prepared for the day of battle; but safety is of Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

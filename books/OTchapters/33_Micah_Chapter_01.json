@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 33,"name": "Micah","MaxChapters": 7},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 894,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22581,
+        "text": "The word of Jehovah that came to Micah the Morasthite in the days of Jotham, Ahaz, [and] Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22582,
+        "text": "Hear, ye peoples, all of you; hearken, O earth, and all that is therein: and let the Lord Jehovah be witness against you, the Lord from his holy temple!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22583,
+        "text": "For behold, Jehovah cometh forth out of his place, and will come down, and tread upon the high places of the earth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22584,
+        "text": "And the mountains shall be melted under him, and the valleys shall be cleft, as wax before the fire, as waters poured down a steep place.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22585,
+        "text": "For the transgression of Jacob is all this, and for the sins of the house of Israel. Whence is the transgression of Jacob? is it not [from] Samaria? And whence are the high places of Judah? are they not [from] Jerusalem?",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22586,
+        "text": "Therefore will I make Samaria as a heap of the field, as plantings of a vineyard; and I will pour down the stones thereof into the valley, and I will lay bare the foundations thereof.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22587,
+        "text": "And all her graven images shall be beaten to pieces, and all her harlot-gifts shall be burned with fire, and all her idols will I make a desolation; for of the hire of a harlot hath she gathered [them], and to a harlot’s hire shall they return.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22588,
+        "text": "For this will I lament, and I will howl; I will go stripped and naked: I will make a wailing like the jackals, and mourning like the ostriches.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22589,
+        "text": "For her wounds are incurable; for it is come even unto Judah, it reacheth unto the gate of my people, even to Jerusalem.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22590,
+        "text": "Tell it not in Gath, weep not at all; at Beth-le-aphrah roll thyself in the dust.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22591,
+        "text": "Pass away, inhabitress of Shaphir, in nakedness [and] shame. The inhabitress of Zaanan is not come forth for the lamentation of Beth-ezel: he will take from you its shelter.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22592,
+        "text": "For the inhabitress of Maroth waited anxiously for good; but evil hath come down from Jehovah unto the gate of Jerusalem.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22593,
+        "text": "Bind the chariot to the swift steed, O inhabitress of Lachish: she was the beginning of sin to the daughter of Zion; for in thee were found the transgressions of Israel.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22594,
+        "text": "Therefore shalt thou give parting-gifts to Moresheth-Gath: the houses of Achzib shall be a lie to the kings of Israel.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22595,
+        "text": "I will yet bring unto thee an heir, O inhabitress of Mareshah; the glory of Israel shall come even unto Adullam.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22596,
+        "text": "Make thee bald, and poll thee for the children of thy delights; enlarge thy baldness as the eagle, for they are gone into captivity from thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

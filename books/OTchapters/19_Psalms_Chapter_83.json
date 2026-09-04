@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 83,
+    "count": 561,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15243,
+        "text": "{A Song; a Psalm of Asaph.} O God, keep not silence; hold not thy peace, and be not still, O God:",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15244,
+        "text": "For behold, thine enemies make a tumult; and they that hate thee lift up the head.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15245,
+        "text": "They take crafty counsel against thy people, and consult against thy hidden ones:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15246,
+        "text": "They say, Come, and let us cut them off from being a nation, and let the name of Israel be mentioned no more.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15247,
+        "text": "For they have consulted together with one heart: they have made an alliance together against thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15248,
+        "text": "The tents of Edom and the Ishmaelites, Moab and the Hagarites;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15249,
+        "text": "Gebal, and Ammon, and Amalek; Philistia, with the inhabitants of Tyre;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15250,
+        "text": "Asshur also is joined with them: they are an arm to the sons of Lot. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15251,
+        "text": "Do unto them as to Midian; as to Sisera, as to Jabin, at the torrent of Kishon:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 15252,
+        "text": "Who were destroyed at Endor; they became as dung for the ground.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15253,
+        "text": "Make their nobles as Oreb and as Zeeb; and all their chiefs as Zebah and as Zalmunna.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15254,
+        "text": "For they have said, Let us take to ourselves God’s dwelling-places in possession.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15255,
+        "text": "O my God, make them like a whirling thing, like stubble before the wind.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15256,
+        "text": "As fire burneth a forest, and as the flame setteth the mountains on fire,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15257,
+        "text": "So pursue them with thy tempest, and terrify them with thy whirlwind.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15258,
+        "text": "Fill their faces with shame, that they may seek thy name, O Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15259,
+        "text": "Let them be put to shame and be dismayed for ever, and let them be confounded and perish:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15260,
+        "text": "That they may know that thou alone, whose name is Jehovah, art the Most High over all the earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

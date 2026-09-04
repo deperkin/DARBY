@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 249,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7487,
+        "text": "Saul was... years old when he became king; and he reigned two years over Israel.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7488,
+        "text": "And Saul chose him three thousand men out of Israel: there were with Saul two thousand in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin; and the rest of the people he sent every man to his tent.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7489,
+        "text": "And Jonathan smote the outpost of the Philistines that was in Geba, and the Philistines heard [of it]. And Saul blew the trumpet throughout the land, saying, Let the Hebrews hear.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7490,
+        "text": "And all Israel heard say, Saul has smitten the garrison of the Philistines, and Israel also has become odious to the Philistines. And the people were called together after Saul to Gilgal.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7491,
+        "text": "And the Philistines were assembled together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which is on the sea-shore in multitude; and they came up, and encamped in Michmash, eastward from Beth-Aven.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7492,
+        "text": "And the men of Israel saw that they were in a strait (for the people were distressed); and the people hid themselves in caves, and in thickets, and in cliffs, and in strongholds, and in pits.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7493,
+        "text": "And the Hebrews went over the Jordan into the land of Gad and Gilead. And Saul was yet in Gilgal, and all the people followed him trembling.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7494,
+        "text": "And he waited seven days, according to the set time that Samuel [had appointed]; but Samuel did not come to Gilgal; and the people were scattered from him.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 7495,
+        "text": "And Saul said, Bring hither to me the burnt-offering and the peace-offerings. And he offered up the burnt-offering.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7496,
+        "text": "And it came to pass, as soon as he had ended offering up the burnt-offering, behold, Samuel came; and Saul went out to meet him, that he might salute him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7497,
+        "text": "And Samuel said, What hast thou done? And Saul said, Because I saw that the people were scattered from me, and that thou didst not come within the days appointed, and that the Philistines were assembled at Michmash,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7498,
+        "text": "I said, The Philistines will come down now upon me to Gilgal, and I have not made supplication to Jehovah; and I forced myself, and offered up the burnt-offering.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7499,
+        "text": "And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of Jehovah thy God which he commanded thee; for now would Jehovah have established thy kingdom over Israel for ever.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7500,
+        "text": "But now thy kingdom shall not continue: Jehovah has sought him a man after his own heart, and Jehovah has appointed him ruler over his people; for thou hast not kept what Jehovah commanded thee.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7501,
+        "text": "And Samuel arose and went up from Gilgal to Gibeah of Benjamin. And Saul numbered the people that were found with him, about six hundred men.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 7502,
+        "text": "And Saul, and Jonathan his son, and the people that were found with them, abode in Geba of Benjamin; and the Philistines encamped in Michmash.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7503,
+        "text": "And the ravagers came out of the camp of the Philistines in three companies: one company turned the way of Ophrah, into the land of Shual;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7504,
+        "text": "and another company turned the way to Beth-horon; and the other company turned the way to the district that looks over the ravine of Zeboim toward the wilderness.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7505,
+        "text": "Now there was no smith found throughout the land of Israel; for the Philistines said, Lest the Hebrews make them swords or spears.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7506,
+        "text": "And all Israel went down to the Philistines, every man to get his ploughshare, and his hoe, and his axe, and his sickle sharpened,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7507,
+        "text": "when the edges of the sickles, and the hoes, and the forks, and the axes were blunted; and to set the goads.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7508,
+        "text": "And it came to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people that were with Saul and Jonathan; but with Saul and with Jonathan his son there was found.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 7509,
+        "text": "And a garrison of the Philistines went out to the passage of Michmash.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

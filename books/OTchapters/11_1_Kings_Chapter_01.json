@@ -1,0 +1,383 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 292,
+    "MaxVerses": 53,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8719,
+        "text": "And king David was old [and] advanced in age; and they covered him with clothes, but he obtained no warmth.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8720,
+        "text": "And his servants said to him, Let there be found for my lord the king a young virgin; and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get warm.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8721,
+        "text": "And they sought for a fair damsel throughout the territory of Israel, and found Abishag a Shunammite, and brought her to the king.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8722,
+        "text": "And the damsel was very fair; and cherished the king, and ministered to him; but the king knew her not.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8723,
+        "text": "And Adonijah the son of Haggith exalted himself, saying, I will be king; and he provided himself chariots and horsemen, and fifty men to run before him.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 8724,
+        "text": "And his father had not grieved him at any time in saying, Why doest thou so? and he was also a very comely man; and [his mother] bore him after Absalom.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8725,
+        "text": "And he conferred with Joab the son of Zeruiah, and with Abiathar the priest; and they helped Adonijah and followed [him].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8726,
+        "text": "But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men whom David had, were not with Adonijah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8727,
+        "text": "And Adonijah sacrificed sheep and oxen and fatted cattle by the stone of Zoheleth, which is by En-rogel, and invited all his brethren, the king’s sons, and all the men of Judah, the king’s servants;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8728,
+        "text": "but Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he did not invite.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8729,
+        "text": "And Nathan spoke to Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith is king, and David our lord does not know [it]?",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 8730,
+        "text": "And now, come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8731,
+        "text": "Go and get thee in to king David, and say to him, Didst not thou, my lord, O king, swear to thy handmaid saying, Solomon thy son shall reign after me, and he shall sit on my throne? why then does Adonijah reign?",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8732,
+        "text": "Behold, while thou yet talkest there with the king, I also will come in after thee and confirm thy words.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8733,
+        "text": "And Bathsheba went in to the king into the chamber; and the king was very old; and Abishag the Shunammite ministered to the king.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8734,
+        "text": "And Bathsheba bowed and did obeisance to the king. And the king said, What wouldest thou?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8735,
+        "text": "And she said to him, My lord, thou hast sworn by Jehovah thy God to thy handmaid, [saying,] Solomon thy son shall reign after me, and he shall sit on my throne.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8736,
+        "text": "And now behold, Adonijah is king; and now, my lord the king, thou knowest it not.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8737,
+        "text": "And he has sacrificed oxen and fatted cattle and sheep in abundance, and has invited all the sons of the king and Abiathar the priest and Joab the captain of the host; but Solomon thy servant has he not invited.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8738,
+        "text": "And thou, my lord the king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8739,
+        "text": "Otherwise it shall come to pass when my lord the king shall sleep with his fathers, that I and my son Solomon will be counted offenders.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8740,
+        "text": "And behold, while she yet talked with the king, Nathan the prophet also came in.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8741,
+        "text": "And they told the king saying, Behold, Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8742,
+        "text": "And Nathan said, My lord, O king, hast thou said, Adonijah shall reign after me, and he shall sit on my throne?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8743,
+        "text": "For he is gone down this day, and has sacrificed oxen and fatted cattle and sheep in abundance, and has invited all the king’s sons, and the captains of the host, and Abiathar the priest; and behold, they eat and drink before him, and say, God save king Adonijah!",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8744,
+        "text": "But me, [even] me thy servant, and Zadok the priest, and Benaiah the son of Jehoiada, and thy servant Solomon, he has not invited.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8745,
+        "text": "Is this thing done by my lord the king, and thou hast not shewn to thy servants who should sit on the throne of my lord the king after him?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8746,
+        "text": "Then king David answered and said, Call me Bathsheba. And she came into the king’s presence, and stood before the king.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8747,
+        "text": "And the king swore, and said, [As] Jehovah liveth, who has redeemed my soul out of all distress,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 8748,
+        "text": "even as I swore to thee by Jehovah the God of Israel, saying, Solomon thy son shall reign after me, and he shall sit on my throne in my stead; even so will I certainly do this day.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8749,
+        "text": "And Bathsheba bowed with her face to the earth, and did reverence to the king, and said, Let my lord king David live for ever.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 8750,
+        "text": "And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 8751,
+        "text": "And the king said to them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 8752,
+        "text": "and let Zadok the priest and Nathan the prophet anoint him there king over Israel; and blow ye with the trumpet, and say, Long live king Solomon!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 8753,
+        "text": "And ye shall come up after him, that he may come and sit on my throne; for he shall reign in my stead, and I have appointed him to be ruler over Israel and over Judah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 8754,
+        "text": "And Benaiah the son of Jehoiada answered the king and said, Amen: Jehovah, the God of my lord the king, say so too.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 8755,
+        "text": "As Jehovah has been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 8756,
+        "text": "And Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites and the Pelethites went down, and caused Solomon to ride upon king David’s mule, and brought him to Gihon.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 8757,
+        "text": "And Zadok the priest took the horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, Long live king Solomon!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 8758,
+        "text": "And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 8759,
+        "text": "And Adonijah and all the guests that were with him heard [it] as they were finishing their repast; and Joab heard the sound of the trumpet, and he said, Wherefore this noise of the city in an uproar?",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 8760,
+        "text": "While he yet spoke, behold, Jonathan the son of Abiathar the priest came; and Adonijah said [to him], Come in; for thou art a valiant man, and bringest good news.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 8761,
+        "text": "And Jonathan answered and said to Adonijah, Indeed, our lord king David has made Solomon king.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 8762,
+        "text": "And the king has sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites and the Pelethites, and they have caused him to ride upon the king’s mule;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 8763,
+        "text": "and Zadok the priest and Nathan the prophet have anointed him king at Gihon; and they are come up from thence rejoicing, so that the city is in an uproar. This is the noise which ye have heard.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 8764,
+        "text": "And also Solomon is sitting on the throne of the kingdom.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 8765,
+        "text": "And moreover the king’s servants came to bless our lord king David, saying, Thy God make the name of Solomon more excellent than thy name, and make his throne greater than thy throne! And the king bowed himself on the bed.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 8766,
+        "text": "And also thus said the king: Blessed be Jehovah, the God of Israel, who has given one to sit on my throne this day, mine eyes even seeing it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 8767,
+        "text": "And all Adonijah’s guests were afraid, and rose up and went every man his way.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 8768,
+        "text": "And Adonijah feared because of Solomon, and arose and went and caught hold of the horns of the altar.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 8769,
+        "text": "And it was told Solomon saying, Behold, Adonijah fears king Solomon; for behold, he has caught hold of the horns of the altar, saying, Let king Solomon swear to me this day that he will not put his servant to death with the sword.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 8770,
+        "text": "And Solomon said, If he be a worthy man, there shall not one of his hairs fall to the earth; but if wickedness be found in him, he shall die.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 8771,
+        "text": "And king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon; and Solomon said to him, Go to thy house.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

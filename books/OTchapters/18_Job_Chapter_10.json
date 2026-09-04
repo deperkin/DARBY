@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 446,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13088,
+        "text": "My soul is weary of my life: I will give free course to my complaint; I will speak in the bitterness of my soul.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13089,
+        "text": "I will say unto +God, Do not condemn me; shew me wherefore thou strivest with me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13090,
+        "text": "Doth it please thee to oppress, that thou shouldest despise the work of thy hands, and shine upon the counsel of the wicked?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13091,
+        "text": "Hast thou eyes of flesh? or seest thou as man seeth?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13092,
+        "text": "Are thy days as the days of a mortal? are thy years as a man’s days,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13093,
+        "text": "That thou searchest after mine iniquity, and inquirest into my sin;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13094,
+        "text": "Since thou knowest that I am not wicked, and that there is none that delivereth out of thy hand?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13095,
+        "text": "Thy hands have bound me together and made me as one, round about; yet dost thou swallow me up!",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13096,
+        "text": "Remember, I beseech thee, that thou hast made me as clay, and wilt bring me into dust again.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13097,
+        "text": "Hast thou not poured me out as milk, and curdled me like cheese?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13098,
+        "text": "Thou hast clothed me with skin and flesh, and knit me together with bones and sinews;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13099,
+        "text": "Thou hast granted me life and favour, and thy care hath preserved my spirit;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13100,
+        "text": "And these things didst thou hide in thy heart; I know that this was with thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13101,
+        "text": "If I sinned, thou wouldest mark me, and thou wouldest not acquit me of mine iniquity.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 13102,
+        "text": "If I were wicked, woe unto me! and righteous, I will not lift up my head, being [so] full of shame, and beholding mine affliction;—",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13103,
+        "text": "And it increaseth: thou huntest me as a fierce lion; and ever again thou shewest thy marvellous power upon me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13104,
+        "text": "Thou renewest thy witnesses before me and increasest thy displeasure against me; successions [of evil] and a time of toil are with me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13105,
+        "text": "And wherefore didst thou bring me forth out of the womb? I had expired, and no eye had seen me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13106,
+        "text": "I should be as though I had not been; I should have been carried from the womb to the grave.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13107,
+        "text": "Are not my days few? cease then and let me alone, that I may revive a little,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13108,
+        "text": "Before I go, and never to return,—to the land of darkness and the shadow of death;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13109,
+        "text": "A land of gloom, as darkness itself; of the shadow of death, without any order, where the light is as thick darkness.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

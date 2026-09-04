@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 817,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20756,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20757,
+        "text": "Son of man, what is the wood of the vine more than any wood, the vine-branch, which is among the trees of the forest?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20758,
+        "text": "Shall wood be taken thereof to do any work? or will [men] take a pin of it to hang any vessel thereon?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20759,
+        "text": "Behold, it is given to the fire for fuel: the fire consumeth both the ends of it, and the midst of it is burned; is it fit for [any] work?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20760,
+        "text": "Behold, when it was whole, it was used for no work; how much less when the fire hath consumed it, and it is burned, should it yet be used for any work?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20761,
+        "text": "Therefore thus saith the Lord Jehovah: As the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20762,
+        "text": "And I will set my face against them: they shall go forth from [one] fire, and [another] fire shall devour them; and ye shall know that I [am] Jehovah when I set my face against them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20763,
+        "text": "And I will make the land a desolation, because they have wrought unfaithfulness, saith the Lord Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

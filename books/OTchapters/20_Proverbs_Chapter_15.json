@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 643,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16809,
+        "text": "A soft answer turneth away fury; but a grievous word stirreth up anger.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16810,
+        "text": "The tongue of the wise useth knowledge aright; but the mouth of the foolish poureth out folly.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16811,
+        "text": "The eyes of Jehovah are in every place, beholding the evil and the good.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16812,
+        "text": "Gentleness of tongue is a tree of life; but crookedness therein is a breaking of the spirit.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16813,
+        "text": "A fool despiseth his father’s instruction; but he that regardeth reproof becometh prudent.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16814,
+        "text": "In the house of a righteous [man] is much treasure; but in the revenue of a wicked [man] is disturbance.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16815,
+        "text": "The lips of the wise disperse knowledge, but not so the heart of the foolish.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16816,
+        "text": "The sacrifice of the wicked is an abomination to Jehovah; but the prayer of the upright is his delight.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16817,
+        "text": "The way of a wicked [man] is an abomination to Jehovah; but him that pursueth righteousness he loveth.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16818,
+        "text": "Grievous correction is for him that forsaketh the path; he that hateth reproof shall die.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16819,
+        "text": "Sheol and destruction are before Jehovah; how much more then the hearts of the children of men!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16820,
+        "text": "A scorner loveth not one that reproveth him; he will not go unto the wise.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16821,
+        "text": "A joyful heart maketh a cheerful countenance; but by sorrow of heart the spirit is broken.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16822,
+        "text": "The heart of an intelligent [man] seeketh knowledge; but the mouth of the foolish feedeth on folly.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16823,
+        "text": "All the days of the afflicted are evil; but a cheerful heart is a continual feast.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16824,
+        "text": "Better is little with the fear of Jehovah than great store and disquietude therewith.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16825,
+        "text": "Better is a meal of herbs where love is, than a fatted ox and hatred therewith.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16826,
+        "text": "A furious man stirreth up contention; but he that is slow to anger appeaseth strife.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16827,
+        "text": "The way of the sluggard is as a hedge of thorns; but the path of the upright is made plain.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16828,
+        "text": "A wise son maketh a glad father; but a foolish man despiseth his mother.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16829,
+        "text": "Folly is joy to him that is void of sense; but a man of understanding regulateth his walk.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16830,
+        "text": "Without counsel purposes are disappointed; but in the multitude of counsellors they are established.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16831,
+        "text": "A man hath joy by the answer of his mouth; and a word in its season, how good is it!",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16832,
+        "text": "The path of life is upwards for the wise, that he may depart from Sheol beneath.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16833,
+        "text": "Jehovah plucketh up the house of the proud; but he establisheth the boundary of the widow.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16834,
+        "text": "The thoughts of the evil [man] are an abomination to Jehovah; but pure words are pleasant.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16835,
+        "text": "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16836,
+        "text": "The heart of a righteous [man] studieth to answer; but the mouth of the wicked poureth out evil things.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 16837,
+        "text": "Jehovah is far from the wicked; but he heareth the prayer of the righteous.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 16838,
+        "text": "That which enlighteneth the eyes rejoiceth the heart; good tidings make the bones fat.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 16839,
+        "text": "The ear that heareth the reproof of life shall abide among the wise.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 16840,
+        "text": "He that refuseth instruction despiseth his own soul; but he that heareth reproof getteth sense.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 16841,
+        "text": "The fear of Jehovah is the discipline of wisdom, and before honour [goeth] humility.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 505,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14287,
+        "text": "{[A Psalm] of David.} Jehovah is my light and my salvation; whom shall I fear? Jehovah is the strength of my life; of whom shall I be afraid?",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14288,
+        "text": "When evil-doers, mine adversaries and mine enemies, came upon me to eat up my flesh, they stumbled and fell.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14289,
+        "text": "If a host encamp against me, my heart shall not fear; if war rise against me, in this will I be confident.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14290,
+        "text": "One [thing] have I asked of Jehovah, that will I seek after: that I may dwell in the house of Jehovah all the days of my life, to behold the beauty of Jehovah, and to inquire [of him] in his temple.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14291,
+        "text": "For in the day of evil he will hide me in his pavilion; in the secret of his tent will he keep me concealed: he will set me high upon a rock.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14292,
+        "text": "And now shall my head be lifted up above mine enemies round about me; and I will offer in his tent sacrifices of shouts of joy: I will sing, yea, I will sing psalms unto Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14293,
+        "text": "Hear, Jehovah; with my voice do I call; be gracious unto me, and answer me.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14294,
+        "text": "My heart said for thee, Seek ye my face. Thy face, O Jehovah, will I seek.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14295,
+        "text": "Hide not thy face from me; put not thy servant away in anger: thou hast been my help; cast me not off, neither forsake me, O God of my salvation.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14296,
+        "text": "For had my father and my mother forsaken me, then had Jehovah taken me up.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14297,
+        "text": "Teach me thy way, Jehovah, and lead me in an even path, because of mine enemies.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14298,
+        "text": "Deliver me not over to the will of mine adversaries; for false witnesses are risen up against me, and such as breathe out violence.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14299,
+        "text": "Unless I had believed to see the goodness of Jehovah in the land of the living...!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14300,
+        "text": "Wait for Jehovah; be strong and let thy heart take courage: yea, wait for Jehovah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 61,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1808,
+        "text": "And Jehovah said to Moses, Yet one plague will I bring upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let [you] go altogether, he shall utterly drive you out hence.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1809,
+        "text": "Speak now in the ears of the people, that they ask every man of his neighbour, and every woman of her neighbour, utensils of silver and utensils of gold.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1810,
+        "text": "And Jehovah gave the people favour in the eyes of the Egyptians. Moreover the man Moses was very great in the land of Egypt—in the eyes of Pharaoh’s bondmen, and in the eyes of the people.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1811,
+        "text": "And Moses said, Thus saith Jehovah: About midnight I will go out into the midst of Egypt.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 1812,
+        "text": "And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sitteth on his throne, even unto the firstborn of the bondwoman that is behind the mill; and all the firstborn of cattle.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1813,
+        "text": "And there shall be a great cry throughout the land of Egypt, such as there hath been none like it, nor shall be like it any more.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1814,
+        "text": "But against any of the children of Israel shall not a dog move his tongue, against man or beast; that ye may know that Jehovah distinguisheth between the Egyptians and Israel.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1815,
+        "text": "And all these thy bondmen shall come down unto me, and bow down to me, saying, Go out, thou, and all the people that follow thee; and after that I will go out. And he went out from Pharaoh in a glowing anger.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1816,
+        "text": "And Jehovah had said to Moses, Pharaoh shall not hearken to you; that my wonders may be multiplied in the land of Egypt.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1817,
+        "text": "And Moses and Aaron did all these wonders before Pharaoh; but Jehovah made Pharaoh’s heart stubborn, and he did not let the children of Israel go out of his land.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

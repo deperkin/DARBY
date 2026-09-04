@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 146,
+    "count": 624,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16343,
+        "text": "Hallelujah! Praise Jehovah, O my soul.",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16344,
+        "text": "As long as I live will I praise Jehovah; I will sing psalms unto my God while I have my being.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16345,
+        "text": "Put not confidence in nobles, in a son of man, in whom there is no salvation.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16346,
+        "text": "His breath goeth forth, he returneth to his earth; in that very day his purposes perish.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16347,
+        "text": "Blessed is he who hath the God of Jacob for his help, whose hope is in Jehovah his God,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16348,
+        "text": "Who made the heavens and the earth, the sea and all that is therein; who keepeth truth for ever;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16349,
+        "text": "Who executeth judgment for the oppressed, who giveth bread to the hungry. Jehovah looseth the prisoners;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16350,
+        "text": "Jehovah openeth [the eyes of] the blind; Jehovah raiseth up them that are bowed down; Jehovah loveth the righteous;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16351,
+        "text": "Jehovah preserveth the strangers; he lifteth up the fatherless and the widow; but the way of the wicked doth he subvert.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16352,
+        "text": "Jehovah will reign for ever, [even] thy God, O Zion, from generation to generation. Halleluiah!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

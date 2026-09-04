@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 337,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10204,
+        "text": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim was his servant three years; then he turned and rebelled against him.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10205,
+        "text": "And Jehovah sent against him the bands of the Chaldeans, and the bands of the Syrians, and the bands of the Moabites, and the bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of Jehovah, which he spoke through his servants the prophets.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10206,
+        "text": "Verily, at the commandment of Jehovah it came to pass against Judah, that they should be removed out of his sight, for the sins of Manasseh, according to all that he had done;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10207,
+        "text": "and also [because of] the innocent blood that he had shed; for he had filled Jerusalem with innocent blood, and Jehovah would not pardon.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10208,
+        "text": "And the rest of the acts of Jehoiakim, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10209,
+        "text": "And Jehoiakim slept with his fathers, and Jehoiachin his son reigned in his stead.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10210,
+        "text": "And the king of Egypt came not again any more out of his land, for the king of Babylon had taken all that belonged to the king of Egypt, from the torrent of Egypt to the river Euphrates.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10211,
+        "text": "Jehoiachin was eighteen years old when he began to reign; and he reigned three months in Jerusalem; and his mother’s name was Nehushta, daughter of Elnathan of Jerusalem.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 10212,
+        "text": "And he did evil in the sight of Jehovah, according to all that his father had done.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10213,
+        "text": "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10214,
+        "text": "And Nebuchadnezzar king of Babylon came against the city, while his servants were besieging it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10215,
+        "text": "And Jehoiachin king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his chamberlains; and the king of Babylon took him in the eighth year of his reign.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10216,
+        "text": "And he brought out thence all the treasures of the house of Jehovah, and the treasures of the king’s house, and cut in pieces all the vessels of gold that Solomon king of Israel had made in the temple of Jehovah, as Jehovah had said.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10217,
+        "text": "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, ten thousand captives, and all the craftsmen and smiths: none remained but the poorest sort of the people of the land.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10218,
+        "text": "And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his chamberlains, and the mighty of the land, he led into captivity from Jerusalem to Babylon;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10219,
+        "text": "and all the men of valour, seven thousand, and the craftsmen and smiths a thousand, all strong men apt for war, and the king of Babylon brought them captive to Babylon.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10220,
+        "text": "And the king of Babylon made Mattaniah his uncle king in his stead, and changed his name to Zedekiah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10221,
+        "text": "Zedekiah was twenty-one years old when he began to reign; and he reigned eleven years in Jerusalem; and his mother’s name was Hamutal, daughter of Jeremiah of Libnah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10222,
+        "text": "And he did evil in the sight of Jehovah, according to all that Jehoiakim had done.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10223,
+        "text": "For, because the anger of Jehovah was against Jerusalem and against Judah, until he had cast them out from his presence, Zedekiah rebelled against the king of Babylon.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

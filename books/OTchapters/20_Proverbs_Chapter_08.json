@@ -1,0 +1,264 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 636,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16604,
+        "text": "Doth not wisdom cry? and understanding give forth her voice?",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16605,
+        "text": "On the top of high places by the way, at the cross-paths she taketh her stand.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16606,
+        "text": "Beside the gates, at the entry of the city, at the coming in at the doors, she crieth aloud.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16607,
+        "text": "Unto you, men, I call, and my voice is to the sons of man:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16608,
+        "text": "O ye simple, understand prudence; and ye foolish, understand sense.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16609,
+        "text": "Hear, for I will speak excellent things, and the opening of my lips shall be right things.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16610,
+        "text": "For my palate shall meditate truth, and wickedness is an abomination to my lips.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16611,
+        "text": "All the words of my mouth are in righteousness; there is nothing tortuous or perverse in them.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16612,
+        "text": "They are all plain to him that understandeth, and right to them that find knowledge.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16613,
+        "text": "Receive my instruction, and not silver; and knowledge rather than choice gold:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16614,
+        "text": "for wisdom is better than rubies, and all the things that may be desired are not equal to it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16615,
+        "text": "I wisdom dwell [with] prudence, and find the knowledge [which cometh] of reflection.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16616,
+        "text": "The fear of Jehovah is to hate evil; pride, and arrogancy, and the evil way, and the froward mouth do I hate.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16617,
+        "text": "Counsel is mine, and sound wisdom: I am intelligence; I have strength.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16618,
+        "text": "By me kings reign, and rulers make just decrees;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16619,
+        "text": "by me princes rule, and nobles, all the judges of the earth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16620,
+        "text": "I love those that love me; and they that seek me early shall find me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16621,
+        "text": "Riches and honour are with me; durable wealth and righteousness.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16622,
+        "text": "My fruit is better than fine gold, yea, than pure gold; and my revenue than choice silver.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16623,
+        "text": "I walk in the path of righteousness, in the midst of the paths of judgment:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16624,
+        "text": "that I may cause those that love me to inherit substance; and I will fill their treasuries.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16625,
+        "text": "Jehovah possessed me in the beginning of his way, before his works of old.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16626,
+        "text": "I was set up from eternity, from the beginning, before the earth was.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16627,
+        "text": "When there were no depths, I was brought forth, when there were no fountains abounding with water.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 16628,
+        "text": "Before the mountains were settled, before the hills was I brought forth;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 16629,
+        "text": "while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 16630,
+        "text": "When he prepared the heavens I was there; when he ordained the circle upon the face of the deep;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 16631,
+        "text": "when he established the skies above, when the fountains of the deep became strong;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 16632,
+        "text": "when he imposed on the sea his decree that the waters should not pass his commandment, when he appointed the foundations of the earth:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 16633,
+        "text": "then I was by him [his] nursling, and I was daily his delight, rejoicing always before him;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 16634,
+        "text": "rejoicing in the habitable part of his earth, and my delights [were] with the sons of men.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 16635,
+        "text": "And now, sons, hearken unto me, and blessed are they that keep my ways:",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 16636,
+        "text": "hear instruction and be wise, and refuse it not.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 16637,
+        "text": "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 16638,
+        "text": "For whoso findeth me findeth life, and obtaineth favour of Jehovah;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 16639,
+        "text": "but he that sinneth against me doeth violence to his own soul: all they that hate me love death.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

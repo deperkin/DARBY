@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 646,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16903,
+        "text": "He that separateth himself seeketh [his] pleasure, he is vehement against all sound wisdom.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16904,
+        "text": "A fool hath no delight in understanding, but only that his heart may reveal itself.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16905,
+        "text": "When the wicked cometh, there cometh also contempt, and with ignominy reproach.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16906,
+        "text": "The words of a man’s mouth are deep waters, [and] the fountain of wisdom is a gushing brook.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16907,
+        "text": "It is not good to accept the person of the wicked, to wrong the righteous in judgment.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16908,
+        "text": "A fool’s lips enter into contention, and his mouth calleth for stripes.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16909,
+        "text": "A fool’s mouth is destruction to him, and his lips are a snare to his soul.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16910,
+        "text": "The words of a talebearer are as dainty morsels, and they go down into the innermost parts of the belly.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16911,
+        "text": "He also who is indolent in his work is brother of the destroyer.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16912,
+        "text": "The name of Jehovah is a strong tower: the righteous runneth into it, and is safe.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16913,
+        "text": "The rich man’s wealth is his strong city, and as a high wall in his own imagination.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16914,
+        "text": "Before destruction the heart of man is haughty; and before honour [goeth] humility.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16915,
+        "text": "He that giveth answer before he heareth, it is folly and shame unto him.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16916,
+        "text": "The spirit of a man sustaineth his infirmity; but a broken spirit who can bear?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16917,
+        "text": "The heart of an intelligent [man] getteth knowledge, and the ear of the wise seeketh knowledge.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16918,
+        "text": "A man’s gift maketh room for him, and bringeth him before great men.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16919,
+        "text": "He that is first in his own cause [seemeth] just; but his neighbour cometh and searcheth him.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16920,
+        "text": "The lot causeth contentions to cease, and parteth between the mighty.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16921,
+        "text": "A brother offended is [harder to be won] than a strong city; and contentions are as the bars of a palace.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16922,
+        "text": "A man’s belly is satisfied with the fruit of his mouth; with the increase of his lips is he satisfied.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16923,
+        "text": "Death and life are in the power of the tongue, and they that love it shall eat the fruit thereof.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16924,
+        "text": "Whoso hath found a wife hath found a good thing, and hath obtained favour from Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16925,
+        "text": "He that is poor speaketh with supplications, but the rich answereth roughly.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16926,
+        "text": "A man of [many] friends will come to ruin but there is a friend [that] sticketh closer than a brother.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

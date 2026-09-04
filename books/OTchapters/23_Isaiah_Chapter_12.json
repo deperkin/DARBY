@@ -1,0 +1,54 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 691,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17902,
+        "text": "And in that day thou shalt say, Jehovah, I will praise thee; for though thou wast angry with me, thine anger is turned away, and thou hast comforted me.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17903,
+        "text": "Behold, God is my salvation: I will trust, and not be afraid; for Jah, Jehovah, is my strength and song, and he is become my salvation.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17904,
+        "text": "And with joy shall ye draw water out of the wells of salvation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17905,
+        "text": "And in that day shall ye say, Give ye thanks to Jehovah, call upon his name, declare his deeds among the peoples, make mention that his name is exalted.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17906,
+        "text": "Sing psalms of Jehovah, for he hath done excellent things: this is known in all the earth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17907,
+        "text": "Cry out and shout, thou inhabitress of Zion; for great is the Holy One of Israel in the midst of thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

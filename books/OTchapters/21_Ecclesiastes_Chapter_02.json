@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 661,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17335,
+        "text": "I said in my heart, Come now, I will try thee with mirth, therefore enjoy pleasure. But behold, this also is vanity.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17336,
+        "text": "I said of laughter, Madness! and of mirth, What availeth it?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17337,
+        "text": "I searched in my heart how to cherish my flesh with wine, while practising my heart with wisdom; and how to lay hold on folly, till I should see what was that good for the children of men which they should do under the heavens all the days of their life.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17338,
+        "text": "I made me great works; I builded me houses; I planted me vineyards;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17339,
+        "text": "I made me gardens and parks, and I planted trees in them of every kind of fruit;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17340,
+        "text": "I made me ponds of water, to water therewith the wood, where the trees are reared.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17341,
+        "text": "I acquired servants and maidens, and had servants born in my house; also I had great possessions of herds and flocks, above all that had been in Jerusalem before me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17342,
+        "text": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces; I got me men-singers and women-singers, and the delights of the children of men, a wife and concubines.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17343,
+        "text": "And I became great, and increased more than all that had been before me in Jerusalem: also my wisdom remained with me.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17344,
+        "text": "And whatsoever mine eyes desired I kept not from them: I withheld not my heart from any joy; for my heart rejoiced in all my labour, and this was my portion from all my labour.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17345,
+        "text": "Then I looked on all the works that my hands had wrought, and on the labour that it had cost me to do [them]; and behold, all was vanity and pursuit of the wind, and there was no profit under the sun.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17346,
+        "text": "And I turned myself to behold wisdom, and madness, and folly; for what shall the man [do] that cometh after the king?—that which hath already been done.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17347,
+        "text": "And I saw that wisdom excelleth folly, as light excelleth darkness.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17348,
+        "text": "The wise man’s eyes are in his head, and the fool walketh in darkness; but I myself also perceived that one event happeneth to them all.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17349,
+        "text": "And I said in my heart, As it happeneth to the fool so will it happen even to me; and why was I then so wise? Then I said in my heart that this also is vanity.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17350,
+        "text": "For there shall be no remembrance of the wise more than of the fool for ever; because everything is already forgotten in the days which come. And how dieth the wise even as the fool?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17351,
+        "text": "And I hated life; for the work that is wrought under the sun was grievous unto me; for all is vanity and pursuit of the wind.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17352,
+        "text": "And I hated all my labour wherewith I had been toiling under the sun, because I should leave it unto the man that shall be after me.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17353,
+        "text": "And who knoweth whether he will be a wise [man] or a fool? yet shall he have rule over all my labour at which I have laboured, and wherein I have been wise under the sun. This also is vanity.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17354,
+        "text": "Then I went about to cause my heart to despair of all the labour wherewith I had laboured under the sun.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17355,
+        "text": "For there is a man whose labour hath been with wisdom, and with knowledge, and with skill, and who leaveth it to a man that hath not laboured therein, to be his portion. This also is vanity and a great evil.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17356,
+        "text": "For what will man have of all his labour and of the striving of his heart, wherewith he hath wearied himself under the sun?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17357,
+        "text": "For all his days are sorrows, and his travail vexation: even in the night his heart taketh no rest. This also is vanity.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17358,
+        "text": "There is nothing good for man, but that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 17359,
+        "text": "For who can eat, or who be eager, more than I?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17360,
+        "text": "For he giveth to a man that is good in his sight wisdom, and knowledge, and joy; but to the sinner he giveth travail to gather and to heap up, that he may give to him that is good in God’s sight. This also is vanity and pursuit of the wind.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

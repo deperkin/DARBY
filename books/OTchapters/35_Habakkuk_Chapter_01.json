@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 35,"name": "Habakkuk","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 904,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22733,
+        "text": "The burden which Habakkuk the prophet did see.",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22734,
+        "text": "Jehovah, how long shall I cry and thou wilt not hear? I cry out unto thee, Violence! and thou dost not save.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22735,
+        "text": "Why dost thou cause me to see iniquity, and lookest thou upon grievance? For spoiling and violence are before me; and there is strife, and contention riseth up.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22736,
+        "text": "Therefore the law is powerless, and justice doth never go forth; for the wicked encompasseth the righteous; therefore judgment goeth forth perverted.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22737,
+        "text": "See ye among the nations, and behold, and wonder marvellously; for [I] work a work in your days, which ye will not believe, though it be declared [to you].",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22738,
+        "text": "For behold, I raise up the Chaldeans, that bitter and impetuous nation, which marcheth through the breadth of the earth, to possess dwelling-places that are not theirs.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22739,
+        "text": "They are terrible and dreadful: their judgment and their dignity proceed from themselves.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22740,
+        "text": "And their horses are swifter than the leopards, and are more agile than the evening wolves; and their horsemen prance proudly, and their horsemen come from afar: they fly as an eagle that hasteth to devour.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22741,
+        "text": "They come all of them for violence: the crowd of their faces is forwards, and they gather captives as the sand.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22742,
+        "text": "Yea, he scoffeth at kings, and princes are a scorn unto him; he derideth every stronghold: for he heapeth up dust, and taketh it.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22743,
+        "text": "Then will his mind change, and he will pass on, and become guilty: this his power is become his +god.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22744,
+        "text": "—Art thou not from everlasting, Jehovah my God, my Holy One? We shall not die. Jehovah, thou hast ordained him for judgment; and thou, O Rock, hast appointed him for correction.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 22745,
+        "text": "[Thou art] of purer eyes than to behold evil, and canst not look on mischief: wherefore lookest thou upon them that deal treacherously, [and] keepest silence when the wicked swalloweth up a [man] more righteous than he?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22746,
+        "text": "And thou makest men as the fishes of the sea, as the creeping things, that have no ruler over them.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22747,
+        "text": "He taketh up all of them with the hook, he catcheth them in his net, and gathereth them into his drag; therefore he rejoiceth and is glad:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22748,
+        "text": "therefore he sacrificeth unto his net, and burneth incense unto his drag; for by them his portion is become fat, and his meat dainty.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22749,
+        "text": "Shall he therefore empty his net, and not spare to slay the nations continually?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

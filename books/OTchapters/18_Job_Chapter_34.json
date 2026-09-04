@@ -1,0 +1,271 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 34,
+    "count": 470,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13685,
+        "text": "Moreover Elihu answered and said,",
+        "WordCount": 5,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13686,
+        "text": "Hear my words, ye wise [men]; and give ear unto me, ye that have knowledge.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13687,
+        "text": "For the ear trieth words, as the palate tasteth food.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13688,
+        "text": "Let us choose for ourselves what is right; let us know among ourselves what is good!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13689,
+        "text": "For Job hath said, I am righteous, and God hath taken away my judgment:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13690,
+        "text": "Should I lie against my right? My wound is incurable without transgression.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13691,
+        "text": "What man is like Job? he drinketh up scorning like water,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13692,
+        "text": "And goeth in company with workers of iniquity, and walketh with wicked men.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13693,
+        "text": "For he hath said, It profiteth not a man if he delight himself in God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13694,
+        "text": "Therefore hearken unto me, ye men of understanding: Far be wickedness from God, and wrong from the Almighty!",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13695,
+        "text": "For a man’s work will he render to him, and cause every one to find according to [his] way.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13696,
+        "text": "Yea, surely, God acteth not wickedly, and the Almighty perverteth not judgment.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13697,
+        "text": "Who hath entrusted to him the earth? and who hath disposed the whole world?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13698,
+        "text": "If he only thought of himself, [and] gathered unto him his spirit and his breath,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13699,
+        "text": "All flesh would expire together, and man would return to the dust.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13700,
+        "text": "If now [thou hast] understanding, hear this: give ear to the voice of my words!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 13701,
+        "text": "Should he that hateth right indeed govern? and wilt thou condemn the All-just?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13702,
+        "text": "Shall one say to a king, Belial? to nobles, Wicked?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13703,
+        "text": "[How then to him] that accepteth not the persons of princes, nor regardeth the rich man more than the poor? for they are all the work of his hands.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13704,
+        "text": "In a moment they die, even at midnight the people are convulsed and pass away; and the strong are taken away without hand.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13705,
+        "text": "For his eyes are upon the ways of man, and he seeth all his steps.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13706,
+        "text": "There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13707,
+        "text": "For he doth not long consider a man, to bring him before God in judgment.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13708,
+        "text": "He breaketh in pieces mighty men without inquiry, and setteth others in their stead;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13709,
+        "text": "Since he knoweth their actions; and he overthroweth [them] in the night, and they are crushed.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13710,
+        "text": "He striketh them as wicked men in the open sight of others,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13711,
+        "text": "Because they have turned back from him, and would consider none of his ways;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13712,
+        "text": "So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13713,
+        "text": "When he giveth quietness, who then will disturb? and when he hideth [his] face, who shall behold him? and this towards a nation, or towards a man alike;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13714,
+        "text": "That the ungodly man reign not, that the people be not ensnared.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13715,
+        "text": "For hath he said unto God, I bear [chastisement], I will not offend;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 13716,
+        "text": "What I see not, teach thou me; if I have done wrong, I will do so no more?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13717,
+        "text": "Shall he recompense according to thy mind? for thou hast refused [his judgment]; for thou so choosest, and not I; speak then what thou knowest.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 13718,
+        "text": "Men of understanding will say to me, and a wise man who heareth me:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 13719,
+        "text": "Job hath spoken without knowledge, and his words were not with intelligence.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 13720,
+        "text": "Would that Job may be tried unto the end, because of [his] answers after the manner of evil men!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 13721,
+        "text": "For he addeth rebellion unto his sin, he clappeth [his hands] among us, and multiplieth his words against God.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

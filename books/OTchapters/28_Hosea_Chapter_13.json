@@ -1,0 +1,124 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 875,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22268,
+        "text": "When Ephraim spoke, there was trembling; he exalted himself in Israel: but he trespassed through Baal, and he died.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22269,
+        "text": "And now they sin more and more, and have made them molten images of their silver, idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22270,
+        "text": "Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff driven with the whirlwind out of the threshing-floor, and as the smoke out of the lattice.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22271,
+        "text": "Yet I [am] Jehovah thy God from the land of Egypt, and thou hast known no God but me; and there is no saviour besides me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22272,
+        "text": "I knew thee in the wilderness, in the land of drought.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22273,
+        "text": "According to their pasture, they became full; they became full, and their heart was exalted: therefore have they forgotten me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22274,
+        "text": "And I will be unto them as a lion; as a leopard I will lurk for them by the way;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22275,
+        "text": "I will meet them as a bear bereaved of her [whelps], and will rend the covering of their heart, and there will I devour them like a lioness: the beast of the field shall tear them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22276,
+        "text": "It is thy destruction, O Israel, that [thou art] against me, against thy help.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 22277,
+        "text": "Where then is thy king, that he may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?—",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22278,
+        "text": "I gave thee a king in mine anger, and took him away in my wrath.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22279,
+        "text": "The iniquity of Ephraim is bound up; his sin is laid by in store.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22280,
+        "text": "The pangs of a woman in travail shall come upon him: he is a son not wise; for at the time of the breaking forth of children, he was not there.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22281,
+        "text": "I will ransom them from the power of Sheol. I will redeem them from death: where, O death, are thy plagues? where, O Sheol, is thy destruction? Repentance shall be hid from mine eyes.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22282,
+        "text": "Though he be fruitful among [his] brethren, an east wind shall come, a wind of Jehovah [that] cometh up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22283,
+        "text": "Samaria shall bear her guilt; for she hath rebelled against her God: they shall fall by the sword; their infants shall be dashed in pieces, and their women with child shall be ripped up.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

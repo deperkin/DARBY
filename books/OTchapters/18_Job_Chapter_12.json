@@ -1,0 +1,187 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 448,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13130,
+        "text": "And Job answered and said,",
+        "WordCount": 5,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13131,
+        "text": "Truly ye are the people, and wisdom shall die with you!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13132,
+        "text": "I also have understanding as well as you; I am not inferior to you; and who knoweth not such things as these?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13133,
+        "text": "I am to be one that is a derision to his friend, I who call upon +God, and whom he will answer: a derision is the just upright [man].",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13134,
+        "text": "He that is ready to stumble with the foot is a lamp despised in the thought of him that is at ease.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13135,
+        "text": "The tents of desolators are in peace, and they that provoke God are secure; into whose hand +God bringeth.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 13136,
+        "text": "But ask now the beasts, and they shall teach thee; and the fowl of the heavens, and they shall tell thee;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13137,
+        "text": "Or speak to the earth, and it shall teach thee; and the fishes of the sea shall declare unto thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13138,
+        "text": "Who knoweth not in all these, that the hand of Jehovah hath wrought this?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13139,
+        "text": "In whose hand is the soul of every living thing, and the spirit of all flesh of man.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13140,
+        "text": "Doth not the ear try words, as the palate tasteth food?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13141,
+        "text": "With the aged is wisdom, and in length of days understanding.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 13142,
+        "text": "With him is wisdom and might; he hath counsel and understanding.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13143,
+        "text": "Behold, he breaketh down, and it is not built again; he shutteth up a man, and there is no opening.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13144,
+        "text": "Behold, he withholdeth the waters, and they dry up; and he sendeth them out, and they overturn the earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13145,
+        "text": "With him is strength and effectual knowledge; the deceived and the deceiver are his.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13146,
+        "text": "He leadeth counsellors away spoiled, and judges maketh he fools;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13147,
+        "text": "He weakeneth the government of kings, and bindeth their loins with a fetter;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13148,
+        "text": "He leadeth priests away spoiled, and overthroweth the mighty;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13149,
+        "text": "He depriveth of speech the trusty, and taketh away the judgment of the elders;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13150,
+        "text": "He poureth contempt upon nobles, and slackeneth the girdle of the mighty;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13151,
+        "text": "He discovereth deep things out of darkness, and bringeth out into light the shadow of death;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13152,
+        "text": "He increaseth the nations, and destroyeth them; he spreadeth out the nations, and bringeth them in;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13153,
+        "text": "He taketh away the understanding of the chiefs of the people of the earth, and causeth them to wander in a pathless waste.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13154,
+        "text": "They grope in the dark without light, and he maketh them to stagger like a drunkard.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

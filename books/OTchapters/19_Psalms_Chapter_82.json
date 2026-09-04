@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 82,
+    "count": 560,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15235,
+        "text": "{A Psalm of Asaph.} God standeth in the assembly of God, he judgeth among the gods.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15236,
+        "text": "How long will ye judge unrighteously, and accept the person of the wicked? Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15237,
+        "text": "Judge the poor and the fatherless, do justice to the afflicted and the destitute;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15238,
+        "text": "Rescue the poor and needy, deliver them out of the hand of the wicked.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15239,
+        "text": "They know not, neither do they understand; they walk on in darkness: all the foundations of the earth are moved.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15240,
+        "text": "I have said, Ye are gods, and all of you are children of the Most High;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15241,
+        "text": "But ye shall die like men, and fall like one of the princes.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15242,
+        "text": "Arise, O God, judge the earth; for thou shalt inherit all the nations.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 276,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8229,
+        "text": "And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8230,
+        "text": "And there was of the house of Saul a servant whose name was Ziba; and they called him to David. And the king said to him, Art thou Ziba? And he said, Thy servant!",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8231,
+        "text": "And the king said, Is there not yet any of the house of Saul, that I may shew the kindness of God to him? And Ziba said to the king, Jonathan has yet a son, who is lame on [his] feet.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8232,
+        "text": "And the king said to him, Where is he? And Ziba said to the king, Behold, he is in the house of Machir the son of Ammiel, in Lodebar.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8233,
+        "text": "And king David sent, and fetched him out of the house of Machir the son of Ammiel, from Lodebar.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8234,
+        "text": "And Mephibosheth, the son of Jonathan, the son of Saul, came to David, and fell on his face and did obeisance. And David said, Mephibosheth. And he said, Behold thy servant!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8235,
+        "text": "And David said to him, Fear not; for I will certainly shew thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8236,
+        "text": "And he bowed himself, and said, What is thy servant, that thou shouldest look upon such a dead dog as I am?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8237,
+        "text": "Then the king called Ziba, Saul’s servant, and said to him, I have given to thy master’s son all that belonged to Saul and to all his house.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 8238,
+        "text": "And thou, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in [the fruits], that thy master’s son may have food to eat. And Mephibosheth thy master’s son shall eat bread at my table continually. Now Ziba had fifteen sons and twenty servants.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8239,
+        "text": "And Ziba said to the king, According to all that my lord the king has commanded his servant, so will thy servant do. And Mephibosheth [said David] shall eat at my table, as one of the king’s sons.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8240,
+        "text": "And Mephibosheth had a young son, whose name was Mica. And all who dwelt in the house of Ziba were servants to Mephibosheth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8241,
+        "text": "So Mephibosheth dwelt in Jerusalem; for he did eat continually at the king’s table. And he was lame on both his feet.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

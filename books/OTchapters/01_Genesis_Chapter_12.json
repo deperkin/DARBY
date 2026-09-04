@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 12,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 300,
+        "text": "And Jehovah had said to Abram, Go out of thy land, and from thy kindred, and from thy father’s house, to the land that I will shew thee.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 301,
+        "text": "And I will make of thee a great nation, and bless thee, and make thy name great; and thou shalt be a blessing.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 302,
+        "text": "And I will bless them that bless thee, and curse him that curseth thee; and in thee shall all families of the earth be blessed.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 303,
+        "text": "And Abram departed as Jehovah had said to him. And Lot went with him. And Abram was seventy-five years old when he departed out of Haran.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 304,
+        "text": "And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had acquired, and the souls that they had obtained in Haran, and they went out to go into the land of Canaan; and into the land of Canaan they came.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 305,
+        "text": "And Abram passed through the land to the place of Shechem, to the oak of Moreh. And the Canaanite was then in the land.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 306,
+        "text": "And Jehovah appeared to Abram, and said, Unto thy seed will I give this land. And there he built an altar to Jehovah who had appeared to him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 307,
+        "text": "And he removed thence towards the mountain on the east of Bethel, and pitched his tent, [having] Bethel toward the west, and Ai toward the east; and there he built an altar to Jehovah, and called on the name of Jehovah.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 308,
+        "text": "And Abram moved onward, going on still toward the south.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 309,
+        "text": "And there was a famine in the land. And Abram went down to Egypt to sojourn there, for the famine was grievous in the land.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 310,
+        "text": "And it came to pass when he was come near to enter into Egypt, that he said to Sarai his wife, Behold now, I know that thou art a woman fair to look upon.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 311,
+        "text": "And it will come to pass when the Egyptians see thee, that they will say, She is his wife; and they will slay me, and save thee alive.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 312,
+        "text": "Say, I pray thee, thou art my sister, that it may be well with me on thy account, and my soul may live because of thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 313,
+        "text": "And it came to pass when Abram came into Egypt, that the Egyptians beheld the woman that she was very fair.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 314,
+        "text": "And the princes of Pharaoh saw her, and praised her to Pharaoh; and the woman was taken into Pharaoh’s house.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 315,
+        "text": "And he treated Abram well on her account; and he had sheep, and oxen, and he-asses, and bondmen, and bondwomen, and she-asses, and camels.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 316,
+        "text": "And Jehovah plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 317,
+        "text": "And Pharaoh called Abram, and said, What is this thou hast done to me? Why didst thou not tell me that she was thy wife?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 318,
+        "text": "Why didst thou say, She is my sister, so that I took her as my wife. And now, behold, there is thy wife: take [her], and go away.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 319,
+        "text": "And Pharaoh commanded [his] men concerning him, and they sent him away, and his wife, and all that he had.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

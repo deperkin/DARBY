@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 7,"name": "Judges","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 228,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6982,
+        "text": "And there was a man of mount Ephraim, whose name was Micah.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6983,
+        "text": "And he said to his mother, The eleven hundred silver-pieces that were taken from thee, and about which thou didst curse and speak of in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be my son of Jehovah!",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6984,
+        "text": "And he restored the eleven hundred silver-pieces to his mother; and his mother said, I had dedicated the silver to Jehovah from my hand for my son, to make a graven image and a molten image; and now I will restore it to thee.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6985,
+        "text": "Now he restored the silver to his mother; and his mother took two hundred silver-pieces and gave them to the founder, and he made of them a graven image and a molten image; and they were in the house of Micah.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6986,
+        "text": "And the man Micah had a house of gods, and made an ephod and teraphim, and consecrated one of his sons, who became his priest.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6987,
+        "text": "In those days there was no king in Israel; every man did what was right in his own eyes.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6988,
+        "text": "And there was a young man out of Bethlehem-Judah of the family of Judah, who was a Levite, and he sojourned there.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 6989,
+        "text": "And the man departed from the city, from Bethlehem-Judah, to sojourn where he might find [a place]. And as he journeyed, he came to mount Ephraim, to the house of Micah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6990,
+        "text": "And Micah said to him, Whence comest thou? And he said to him, I am a Levite of Bethlehem-Judah, and I go to sojourn where I may find [a place].",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6991,
+        "text": "And Micah said to him, Dwell with me, and be to me a father and a priest, and I will give thee yearly ten silver-pieces, and a suit of garments, and thy victuals. And the Levite went in.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6992,
+        "text": "And the Levite was content to dwell with the man; and the young man was to him as one of his sons.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6993,
+        "text": "And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6994,
+        "text": "Then said Micah, Now I know that Jehovah will do me good, because I have the Levite for priest.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

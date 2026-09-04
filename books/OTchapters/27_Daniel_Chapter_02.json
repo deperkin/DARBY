@@ -1,0 +1,355 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 27,"name": "Daniel","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 852,
+    "MaxVerses": 49,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21760,
+        "text": "And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams, and his spirit was troubled, and his sleep went from him.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21761,
+        "text": "And the king commanded to call the scribes, and the magicians, and the sorcerers, and the Chaldeans, to shew the king his dreams; and they came and stood before the king.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21762,
+        "text": "And the king said unto them, I have dreamed a dream, and my spirit is troubled to know the dream.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21763,
+        "text": "And the Chaldeans spoke to the king in Aramaic, O king, live for ever! tell thy servants the dream, and we will shew the interpretation.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21764,
+        "text": "The king answered and said to the Chaldeans, The command is gone forth from me: If ye do not make known unto me the dream, and its interpretation, ye shall be cut in pieces, and your houses shall be made a dunghill.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21765,
+        "text": "But if ye shew the dream and its interpretation, ye shall receive of me gifts and rewards and great honour; therefore shew me the dream and its interpretation.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21766,
+        "text": "They answered the second time and said, Let the king tell his servants the dream, and we will shew the interpretation.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21767,
+        "text": "The king answered and said, I know of a certainty that ye would gain time, because ye see the word is gone forth from me;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21768,
+        "text": "but if ye do not make known unto me the dream, there is but one decree for you; for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me its interpretation.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21769,
+        "text": "The Chaldeans answered before the king and said, There is not a man upon the earth that can shew the king’s matter; therefore there is no king, however great and powerful, that hath asked such a thing of any scribe, or magician, or Chaldean.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21770,
+        "text": "For the thing that the king demandeth is extraordinary, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21771,
+        "text": "For this cause the king was irritated and very wroth, and commanded to destroy all the wise men of Babylon.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21772,
+        "text": "And the decree went forth that the wise men were to be slain; and they sought Daniel and his companions to slay them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21773,
+        "text": "Then Daniel answered with counsel and prudence to Arioch the chief of the king’s bodyguard, who had gone forth to slay the wise men of Babylon:",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 21774,
+        "text": "he answered and said to Arioch the king’s captain, Why is the decree so rigorous from the king? Then Arioch made the thing known to Daniel.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21775,
+        "text": "And Daniel went in, and requested of the king that he would give him time, that he might shew the king the interpretation.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21776,
+        "text": "Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21777,
+        "text": "that they would desire mercies of the God of the heavens concerning this secret; that Daniel and his companions should not perish with the rest of the wise men of Babylon.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21778,
+        "text": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of the heavens.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21779,
+        "text": "Daniel answered and said, Blessed be the name of God for ever and ever; For wisdom and might are his.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21780,
+        "text": "And it is he that changeth times and seasons; He deposeth kings, and setteth up kings; He giveth wisdom to the wise, And knowledge to them that know understanding.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21781,
+        "text": "It is he that revealeth the deep and secret things; He knoweth what is in the darkness, and the light dwelleth with him.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21782,
+        "text": "I thank thee, and I praise thee, O God of my fathers, Who hast given me wisdom and might, And hast made known unto me already what we desired of thee; For thou hast made known unto us the king’s matter.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21783,
+        "text": "Therefore Daniel went in unto Arioch, whom the king had appointed to destroy the wise men of Babylon; he went and said thus unto him: Destroy not the wise men of Babylon; bring me in before the king, and I will shew unto the king the interpretation.",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 21784,
+        "text": "Then Arioch brought in Daniel before the king in haste, and said thus unto him: I have found a man of the sons of the captivity of Judah that will make known unto the king the interpretation.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21785,
+        "text": "The king answered and said unto Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream that I have seen, and its interpretation?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 21786,
+        "text": "Daniel answered in the presence of the king and said, The secret that the king hath demanded cannot the wise men, the magicians, the scribes, the astrologers, shew unto the king;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 21787,
+        "text": "but there is a God in the heavens, who revealeth secrets, and maketh known to king Nebuchadnezzar what shall be at the end of days. Thy dream, and the visions of thy head upon thy bed are these:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 21788,
+        "text": "—as for thee, O king, thy thoughts arose upon thy bed, what should come to pass hereafter; and he that revealeth secrets hath made known to thee what shall come to pass.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 21789,
+        "text": "And as for me, this secret is revealed to me, not by [any] wisdom that I have more than any living, but to the intent that the interpretation should be made known to the king, and that thou mightest know the thoughts of thy heart.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 21790,
+        "text": "Thou, O king, sawest, and behold, a great image. This image was mighty and its brightness excellent; it stood before thee, and its appearance was terrible.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 21791,
+        "text": "This image’s head was of fine gold, its breast and its arms of silver, its belly and its thighs of brass,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 21792,
+        "text": "its legs of iron, its feet part of iron and part of clay.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 21793,
+        "text": "Thou sawest till a stone was cut out without hands; and it smote the image upon its feet of iron and clay, and broke them to pieces.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 21794,
+        "text": "Then was the iron, the clay, the brass, the silver, and the gold broken in pieces together, and they became like the chaff of the summer threshing-floors; and the wind carried them away, and no place was found for them. And the stone that smote the image became a great mountain, and filled the whole earth.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 21795,
+        "text": "This is the dream; and we will tell the interpretation of it before the king.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 21796,
+        "text": "Thou, O king, art a king of kings, unto whom the God of the heavens hath given the kingdom, the power, and the strength, and the glory;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 21797,
+        "text": "and wheresoever the children of men, the beasts of the field, and the fowl of the heavens dwell, he hath given them into thy hand, and hath made thee ruler over them all: thou art this head of gold.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 21798,
+        "text": "And after thee shall arise another kingdom inferior to thee; then another third kingdom of brass, which shall bear rule over all the earth.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 21799,
+        "text": "And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth everything, and as iron that breaketh all these, so shall it break in pieces and bruise.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 21800,
+        "text": "And whereas thou sawest the feet and toes, part of potter’s clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 21801,
+        "text": "And [as] the toes of the feet were part of iron and part of clay, the kingdom shall be partly strong and partly fragile.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 21802,
+        "text": "And whereas thou sawest the iron mixed with miry clay, they shall mingle themselves with the seed of men; but they shall not cleave one to another, even as iron doth not mingle with clay.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 21803,
+        "text": "And in the days of these kings shall the God of the heavens set up a kingdom which shall never be destroyed; and the sovereignty thereof shall not be left to another people: it shall break in pieces and consume all these kingdoms, but itself shall stand for ever.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 21804,
+        "text": "Forasmuch as thou sawest that a stone was cut out of the mountain without hands, and that it broke in pieces the iron, the brass, the clay, the silver, and the gold,—the great God hath made known to the king what shall come to pass hereafter. And the dream is certain, and the interpretation of it sure.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 21805,
+        "text": "Then king Nebuchadnezzar fell on his face and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 47,
+        "count": 21806,
+        "text": "The king answered Daniel and said, Of a truth it is that your God is the God of gods, and the Lord of kings, and a revealer of secrets, because thou wast able to reveal this secret.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 21807,
+        "text": "Then the king made Daniel great, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 21808,
+        "text": "And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abed-nego over the administration of the province of Babylon. And Daniel was in the gate of the king.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

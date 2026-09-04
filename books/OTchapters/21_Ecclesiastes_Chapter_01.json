@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 660,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17317,
+        "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17318,
+        "text": "Vanity of vanities, saith the Preacher, vanity of vanities! all is vanity.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17319,
+        "text": "What profit hath man of all his labour wherewith he laboureth under the sun?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17320,
+        "text": "[One] generation passeth away, and [another] generation cometh, but the earth standeth for ever.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17321,
+        "text": "The sun also riseth, and the sun goeth down, and hasteth to its place where it ariseth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17322,
+        "text": "The wind goeth towards the south, and turneth about towards the north: it turneth about continually, and the wind returneth again to its circuits.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17323,
+        "text": "All the rivers run into the sea, yet the sea is not full: unto the place whither the rivers go, thither they go again.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17324,
+        "text": "All things are full of toil; none can express it. The eye is not satisfied with seeing, nor the ear filled with hearing.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17325,
+        "text": "That which hath been is that which shall be; and that which hath been done is that which will be done: and there is nothing new under the sun.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17326,
+        "text": "Is there a thing whereof it may be said, See, this is new? It hath been already in the ages which were before us.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17327,
+        "text": "There is no remembrance of former things; neither shall there be remembrance of things that are to come with those who shall live afterwards.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17328,
+        "text": "I, the Preacher, was king over Israel in Jerusalem.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17329,
+        "text": "And I applied my heart to seek and search out by wisdom concerning all that is done under the heavens: this grievous occupation hath God given to the children of men to weary themselves therewith.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17330,
+        "text": "I have seen all the works that are done under the sun, and behold, all is vanity and pursuit of the wind.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17331,
+        "text": "That which is crooked cannot be made straight; and that which is wanting cannot be numbered.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17332,
+        "text": "I communed with mine own heart, saying, Lo, I have become great and have acquired wisdom more than all they that have been before me over Jerusalem; and my heart hath seen much of wisdom and knowledge.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17333,
+        "text": "And I applied my heart to the knowledge of wisdom, and to the knowledge of madness and folly: I perceived that this also is a striving after the wind.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17334,
+        "text": "For in much wisdom is much vexation, and he that increaseth knowledge increaseth sorrow.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

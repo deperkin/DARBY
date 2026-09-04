@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 447,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13110,
+        "text": "And Zophar the Naamathite answered and said,",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13111,
+        "text": "Should not the multitude of words be answered? and should a man of much talk be justified?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13112,
+        "text": "Should thy fictions make men hold their peace? and shouldest thou mock, and no one make [thee] ashamed?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13113,
+        "text": "For thou sayest, My doctrine is pure, and I am clean in thine eyes.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13114,
+        "text": "But oh that +God would speak, and open his lips against thee;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13115,
+        "text": "And that he would shew thee the secrets of wisdom, how that they are the double of what is realised; and know that +God passeth by [much] of thine iniquity!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13116,
+        "text": "Canst thou by searching find out +God? canst thou find out the Almighty to perfection?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13117,
+        "text": "[It is as] the heights of heaven; what wilt thou do? deeper than Sheol; what canst thou know?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13118,
+        "text": "The measure thereof is longer than the earth, and broader than the sea.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13119,
+        "text": "If he pass by, and shut up, and call to judgment, who can hinder him?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13120,
+        "text": "For he knoweth vain men, and seeth wickedness when [man] doth not consider it;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13121,
+        "text": "Yet a senseless man will make bold, though man be born [like] the foal of a wild ass.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13122,
+        "text": "If thou prepare thy heart and stretch out thy hands toward him,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 13123,
+        "text": "If thou put far away the iniquity which is in thy hand, and let not wrong dwell in thy tents;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13124,
+        "text": "Surely then shalt thou lift up thy face without spot, and thou shalt be stedfast and shalt not fear:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13125,
+        "text": "For thou shalt forget misery; as waters that are passed away shalt thou remember it;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13126,
+        "text": "And life shall arise brighter than noonday; though thou be enshrouded in darkness, thou shalt be as the morning,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13127,
+        "text": "And thou shalt have confidence, because there shall be hope; and having searched about [thee], thou shalt take rest in safety.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13128,
+        "text": "Yea, thou shalt lie down, and none shall make thee afraid; and many shall seek thy favour.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13129,
+        "text": "But the eyes of the wicked shall fail, and [all] refuge shall vanish from them, and their hope [shall be] the breathing out of life.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 491,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14076,
+        "text": "{To the chief Musician. A Psalm of David.} How long, Jehovah, wilt thou forget me for ever? how long wilt thou hide thy face from me?",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14077,
+        "text": "How long shall I take counsel in my soul, with sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14078,
+        "text": "Consider, answer me, O Jehovah my God! lighten mine eyes, lest I sleep the [sleep of] death;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14079,
+        "text": "Lest mine enemy say, I have prevailed against him! [lest] mine adversaries be joyful when I am moved.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14080,
+        "text": "As for me, I have confided in thy loving-kindness; my heart shall be joyful in thy salvation.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14081,
+        "text": "I will sing unto Jehovah, for he hath dealt bountifully with me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

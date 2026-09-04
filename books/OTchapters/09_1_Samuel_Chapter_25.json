@@ -1,0 +1,320 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 261,
+    "MaxVerses": 44,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7863,
+        "text": "And Samuel died; and all Israel were gathered together, and lamented him; and they buried him in his house at Ramah. And David arose and went down to the wilderness of Paran.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7864,
+        "text": "And there was a man at Maon, whose business was at Carmel; and the man was very great, and he had three thousand sheep and a thousand goats; and he was shearing his sheep at Carmel.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 7865,
+        "text": "And the name of the man was Nabal, and the name of his wife Abigail; and the woman was of good understanding, and of a beautiful countenance; but the man was churlish and evil in his doings; and he was a Calebite.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7866,
+        "text": "And David heard in the wilderness that Nabal was shearing his sheep.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7867,
+        "text": "Then David sent out ten young men; and David said to the young men, Go up to Carmel, and go to Nabal, and greet him in my name.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7868,
+        "text": "And thus shall ye say: Long life [to thee]! and peace be to thee, and peace be to thy house, and peace be to all that thou hast!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7869,
+        "text": "And now I have heard that thou hast shearers; now thy shepherds who were with us, we hurt them not, neither was there aught missed by them, all the while they were in Carmel.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7870,
+        "text": "Ask thy young men, and they will tell thee. Therefore let the young men find favour in thine eyes; for we come in a good day: give, I pray thee, what thy hand may find to thy servants, and to thy son David.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7871,
+        "text": "And David’s young men came, and spoke to Nabal according to all those words in the name of David, and ceased.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7872,
+        "text": "And Nabal answered David’s servants and said, Who is David? and who is the son of Jesse? there are many servants now-a-days that break away every man from his master.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7873,
+        "text": "And shall I take my bread, and my water, and my flesh which I have killed for my shearers, and give [it] to men whom I know not whence they are?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7874,
+        "text": "And David’s young men turned their way, and went back, and came and reported to him according to all those words.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 7875,
+        "text": "And David said to his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword; and there went up after David about four hundred men; and two hundred abode by the baggage.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7876,
+        "text": "And one of [Nabal’s] young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to bless our master; and he has insulted them.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7877,
+        "text": "And the men were very good to us, and we were not hurt, neither missed we anything, as long as we companied with them, when we were in the fields.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7878,
+        "text": "They were a wall to us both by night and day, all the while we were with them feeding the sheep.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7879,
+        "text": "And now know and consider what thou wilt do, for evil is determined against our master, and against all his household; and he is such a son of Belial, that one cannot speak to him.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7880,
+        "text": "And Abigail made haste, and took two hundred loaves, and two skin-bottles of wine, and five sheep ready dressed, and five measures of parched [corn], and a hundred raisin-cakes, and two hundred fig-cakes, and laid them on asses.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 7881,
+        "text": "And she said to her young men, Go on before me; behold, I come after you. But she did not tell her husband Nabal.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7882,
+        "text": "And as she was riding on the ass, and coming down by the covert of the hill, behold, David and his men came down opposite to her; and she met them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7883,
+        "text": "Now David had said, Surely, in vain have I kept all that this [man] had in the wilderness, so that nothing was missed of all that was his; and he has requited me evil for good.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7884,
+        "text": "So and more also do God to the enemies of David, if I leave of all that is his by the morning light any male.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 7885,
+        "text": "And when Abigail saw David, she hasted and lighted off the ass, and fell before David on her face, and bowed herself to the ground,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 7886,
+        "text": "and fell at his feet, and said, Upon me, my lord, [upon] me let the iniquity be; but let thy handmaid, I pray thee, speak in thine ears, and hear the words of thy handmaid.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 7887,
+        "text": "Let not my lord, I pray thee, regard this man of Belial, Nabal; for as his name is, so is he: Nabal is his name, and folly is with him; and I thy handmaid did not see the young men of my lord, whom thou didst send.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 7888,
+        "text": "And now, my lord, [as] Jehovah liveth, and [as] thy soul liveth, seeing Jehovah has restrained thee from coming with bloodshed, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 7889,
+        "text": "And now this blessing which thy bondmaid has brought to my lord, let it be given to the young men that follow my lord.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 7890,
+        "text": "I pray thee, forgive the transgression of thy handmaid: for Jehovah will certainly make my lord a lasting house; because my lord fights the battles of Jehovah, and evil has not been found in thee all thy days.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 7891,
+        "text": "And if a man is risen up to pursue thee and to seek thy life, the soul of my lord shall be bound in the bundle of the living with Jehovah thy God; and the souls of thine enemies, them shall he sling out from the hollow of the sling.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 7892,
+        "text": "And it shall come to pass, when Jehovah shall do to my lord according to all the good that he has spoken concerning thee, and shall appoint thee ruler over Israel,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 7893,
+        "text": "that this shall be no stumbling-block to thee, nor offence of heart for my lord, either that thou hast shed blood without cause, or that my lord has avenged himself. And when Jehovah shall deal well with my lord, then remember thy handmaid.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 7894,
+        "text": "And David said to Abigail, Blessed be Jehovah, the God of Israel, who sent thee this day to meet me.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 7895,
+        "text": "And blessed be thy discernment, and blessed be thou, who hast kept me this day from coming with bloodshed, and from avenging myself with mine own hand.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 7896,
+        "text": "But indeed, as Jehovah the God of Israel liveth, who has restrained me from hurting thee, except thou hadst hasted and come to meet me, there had not been left to Nabal by the morning light any male.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 7897,
+        "text": "So David received of her hand what she had brought him, and said to her, Go up in peace to thy house; see, I have hearkened to thy voice, and have accepted thy person.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 7898,
+        "text": "And Abigail came to Nabal; and behold, he held a feast in his house, like the feast of a king; and Nabal’s heart was merry within him, for he was drunken to excess; so she told him nothing, less or more, until the morning light.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 7899,
+        "text": "And it came to pass in the morning, when the wine was gone out of Nabal, that his wife told him these things; and his heart died within him, and he became [as] a stone.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 7900,
+        "text": "And it came to pass in about ten days that Jehovah smote Nabal, and he died.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 7901,
+        "text": "And when David heard that Nabal was dead, he said, Blessed be Jehovah, who has pleaded the cause of my reproach from the hand of Nabal, and has kept back his servant from evil; but Jehovah has returned Nabal’s evil upon his own head. And David sent and communed with Abigail, to take her as his wife.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 7902,
+        "text": "And the servants of David came to Abigail to Carmel, and spoke to her, saying, David has sent us to thee, to take thee as his wife.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 7903,
+        "text": "And she arose and bowed herself on her face to the earth, and said, Behold, let thy handmaid be a bondwoman to wash the feet of the servants of my lord.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 7904,
+        "text": "And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that followed her; and she went after the messengers of David, and became his wife.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 7905,
+        "text": "David had also taken Ahinoam of Jizreel; and they became, even both of them, his wives.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 7906,
+        "text": "But Saul had given Michal his daughter, David’s wife, to Phalti the son of Laish, who was of Gallim.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

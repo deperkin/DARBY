@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 96,
+    "count": 574,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15467,
+        "text": "Sing ye unto Jehovah a new song: sing unto Jehovah, all the earth.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15468,
+        "text": "Sing unto Jehovah, bless his name; publish his salvation from day to day.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15469,
+        "text": "Declare his glory among the nations, his wondrous works among all the peoples.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15470,
+        "text": "For Jehovah is great and exceedingly to be praised; he is terrible above all gods.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15471,
+        "text": "For all the gods of the peoples are idols; but Jehovah made the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15472,
+        "text": "Majesty and splendour are before him; strength and beauty are in his sanctuary.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15473,
+        "text": "Give unto Jehovah, ye families of peoples, give unto Jehovah glory and strength;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15474,
+        "text": "Give unto Jehovah the glory of his name; bring an oblation and come into his courts;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15475,
+        "text": "Worship Jehovah in holy splendour; tremble before him, all the earth.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15476,
+        "text": "Say among the nations, Jehovah reigneth! yea, the world is established, it shall not be moved; he will execute judgment upon the peoples with equity.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 15477,
+        "text": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15478,
+        "text": "Let the field exult and all that is therein. Then shall all the trees of the forest sing for joy,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15479,
+        "text": "Before Jehovah, for he cometh; for he cometh to judge the earth: he will judge the world with righteousness, and the peoples in his faithfulness.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

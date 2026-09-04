@@ -1,0 +1,341 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 349,
+    "MaxVerses": 47,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10675,
+        "text": "And all Israel assembled themselves to David to Hebron, saying, Behold, we are thy bone and thy flesh.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10676,
+        "text": "Even aforetime, even when Saul was king, thou wast he that leddest out and broughtest in Israel; and Jehovah thy God said to thee, Thou shalt feed my people Israel, and thou shalt be prince over my people Israel.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10677,
+        "text": "And all the elders of Israel came to the king to Hebron; and David made a covenant with them in Hebron before Jehovah; and they anointed David king over Israel according to the word of Jehovah through Samuel.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10678,
+        "text": "And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10679,
+        "text": "And the inhabitants of Jebus said to David, Thou shalt not come in hither. But David took the stronghold of Zion, which is the city of David.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10680,
+        "text": "And David said, Whoever smites the Jebusites first shall be chief and captain. And Joab the son of Zeruiah went first up, and was chief.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10681,
+        "text": "And David dwelt in the stronghold; therefore they called it the city of David.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10682,
+        "text": "And he built the city round about, even from the Millo round about; and Joab renewed the rest of the city.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10683,
+        "text": "And David became continually greater; and Jehovah of hosts was with him.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10684,
+        "text": "And these are the chief of the mighty men whom David had, who shewed themselves valiant with him in his kingdom, with all Israel, to make him king, according to the word of Jehovah concerning Israel.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 10685,
+        "text": "And this is the number of the mighty men whom David had: Jashobeam, the son of Hachmoni, the chief of the captains; he brandished his spear against three hundred, slain [by him] at one time.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10686,
+        "text": "And after him, Eleazar the son of Dodo, the Ahohite; he was one of the three mighty men.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10687,
+        "text": "He was with David at Pas-dammim, where the Philistines were gathered together to battle; and there was [there] a plot of ground full of barley; and the people had fled from before the Philistines.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10688,
+        "text": "And they stood in the midst of the plot and delivered it, and smote the Philistines; and Jehovah wrought a great deliverance.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10689,
+        "text": "And three of the thirty chiefs went down to the rock to David, to the cave of Adullam, when the army of the Philistines was encamped in the valley of Rephaim.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10690,
+        "text": "And David was then in the stronghold; and the Philistines’ garrison was then at Bethlehem.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10691,
+        "text": "And David longed, and said, Oh that one would give me to drink of the water of the well of Bethlehem, which is in the gate!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10692,
+        "text": "And the three broke through the camp of the Philistines, and drew water out of the well of Bethlehem, which is in the gate, and took it, and brought it to David; David however would not drink of it, but poured it out to Jehovah.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10693,
+        "text": "And he said, My God forbid it me, that I should do this thing! should I drink the blood of these men [who went] at the risk of their lives? for at the risk of their lives they brought it. Therefore he would not drink it. These things did the three mighty men.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10694,
+        "text": "And Abishai the brother of Joab, he was the chief of three; and he brandished his spear against three hundred and slew them; and he had a name among the three.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10695,
+        "text": "Of the three he was more honourable than the two, and he was their captain; but he did not attain to the [first] three.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10696,
+        "text": "Benaiah the son of Jehoiada, the son of a valiant man, great in exploits, of Kabzeel: he it was that smote two lions of Moab; and he went down and smote a lion in the midst of a pit on a snowy day.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10697,
+        "text": "He also smote the Egyptian, a man of stature, five cubits high: and in the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10698,
+        "text": "These things did Benaiah the son of Jehoiada, and he had a name among the three mighty men.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10699,
+        "text": "Behold, he was honoured above the thirty, but he did not attain to the [first] three. And David set him in his council.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10700,
+        "text": "And the valiant men of the forces were: Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10701,
+        "text": "Shammoth the Harorite, Helez the Pelonite,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10702,
+        "text": "Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10703,
+        "text": "Sibbechai the Hushathite, Ilai the Ahohite,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10704,
+        "text": "Maharai the Netophathite, Heled the son of Baanah the Netophathite,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10705,
+        "text": "Ittai the son of Ribai of Gibeah of the children of Benjamin, Benaiah the Pirathonite,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10706,
+        "text": "Hurai of the brooks of Gaash, Abiel the Arbathite,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10707,
+        "text": "Azmaveth the Baharumite, Eliahba the Shaalbonite,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10708,
+        "text": "Bene-Hashem the Gizonite, Jonathan the son of Shage the Hararite,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10709,
+        "text": "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10710,
+        "text": "Hepher the Mecherathite, Ahijah the Pelonite,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10711,
+        "text": "Hezro the Carmelite, Naarai the son of Ezbai,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 10712,
+        "text": "Joel the brother of Nathan, Mibhar the son of Hagri,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10713,
+        "text": "Zelek the Ammonite, Naharai the Berothite, the armour-bearer of Joab the son of Zeruiah,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10714,
+        "text": "Ira the Ithrite, Gareb the Ithrite,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 10715,
+        "text": "Uriah the Hittite, Zabad the son of Ahlai,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 10716,
+        "text": "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 10717,
+        "text": "Hanan the son of Maachah, and Joshaphat the Mithnite,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 10718,
+        "text": "Uzzia the Ashtarothite, Shama and Jeiel the sons of Hotham the Aroerite,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 10719,
+        "text": "Jediael the son of Shimri, and Joha his brother, the Tizite,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 10720,
+        "text": "Eliel of Mahavim, and Jeribai, and Joshaviah, the sons of Elnaam, and Jithmah the Moabite,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 10721,
+        "text": "Eliel, and Obed, and Jaasiel the Mezobaite.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

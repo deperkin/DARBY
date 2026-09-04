@@ -1,0 +1,236 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 10,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 236,
+        "text": "And these are the generations of the sons of Noah: Shem, Ham, and Japheth; and to them were sons born after the flood.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 237,
+        "text": "The sons of Japheth: Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 238,
+        "text": "And the sons of Gomer: Ashkenaz, and Riphath, and Togarmah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 239,
+        "text": "And the sons of Javan: Elishah, and Tarshish, Kittim, and Dodanim.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 240,
+        "text": "From these came the distribution of the isles of the nations, according to their lands, every one after his tongue, after their families, in their nations.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 241,
+        "text": "And the sons of Ham: Cush, and Mizraim, and Phut, and Canaan.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 242,
+        "text": "And the sons of Cush: Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha. And the sons of Raamah: Sheba and Dedan.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 243,
+        "text": "And Cush begot Nimrod: he began to be mighty on the earth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 244,
+        "text": "He was a mighty hunter before Jehovah; therefore it is said, As Nimrod, the mighty hunter before Jehovah!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 245,
+        "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 246,
+        "text": "From that land went out Asshur, and built Nineveh, and Rehoboth-Ir, and Calah,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 247,
+        "text": "and Resen, between Nineveh and Calah: this is the great city.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 248,
+        "text": "—And Mizraim begot the Ludim, and the Anamim, and the Lehabim, and the Naphtuhim,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 249,
+        "text": "and the Pathrusim, and the Casluhim, out of whom came the Philistines, and the Caphtorim.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 250,
+        "text": "—And Canaan begot Sidon, his firstborn, and Heth,",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 251,
+        "text": "and the Jebusite, and the Amorite, and the Girgashite,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 252,
+        "text": "and the Hivite, and the Arkite, and the Sinite,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 253,
+        "text": "and the Arvadite, and the Zemarite, and the Hamathite. And afterwards the families of the Canaanites spread themselves abroad.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 254,
+        "text": "And the border of the Canaanite was from Sidon, as one goes to Gerar, up to Gazah; as one goes to Sodom, and Gomorrah, and Admah, and Zeboim, up to Lesha.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 255,
+        "text": "These are the sons of Ham, after their families, after their tongues, in their lands, in their nations.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 256,
+        "text": "And to Shem—to him also were [sons] born; he is the father of all the sons of Eber, the brother of Japheth the elder.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 257,
+        "text": "The sons of Shem: Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 258,
+        "text": "And the sons of Aram: Uz, and Hul, and Gether, and Mash.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 259,
+        "text": "—And Arphaxad begot Shelah; and Shelah begot Eber.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 260,
+        "text": "And to Eber were born two sons: the name of the one was Peleg, for in his days was the earth divided; and his brother’s name was Joktan.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 261,
+        "text": "And Joktan begot Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 262,
+        "text": "and Hadoram, and Uzal, and Diklah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 263,
+        "text": "and Obal, and Abimael, and Sheba,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 264,
+        "text": "and Ophir, and Havilah, and Jobab: all these were sons of Joktan.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 265,
+        "text": "And their dwelling was from Mesha, as one goes to Sephar, the eastern mountain.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 266,
+        "text": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 267,
+        "text": "These are the families of the sons of Noah, after their generations, in their nations. And from these came the distribution of the nations on the earth after the flood.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

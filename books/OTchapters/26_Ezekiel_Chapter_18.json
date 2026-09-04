@@ -1,0 +1,236 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 820,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20851,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20852,
+        "text": "What mean ye, ye who use this proverb of the land of Israel, saying, [The] fathers eat sour grapes, and the children’s teeth are set on edge?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20853,
+        "text": "[As] I live, saith the Lord Jehovah, ye shall not have any more to use this proverb in Israel.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20854,
+        "text": "Behold, all the souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20855,
+        "text": "And if a man be righteous, and do judgment and justice:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20856,
+        "text": "—he hath not eaten upon the mountains, nor lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, nor come near to a woman in her separation,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20857,
+        "text": "and hath not oppressed any; he hath restored to the debtor his pledge, hath not exercised robbery, hath given his bread to the hungry, and covered the naked with a garment;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20858,
+        "text": "he hath not given forth upon usury, nor taken increase; he hath withdrawn his hand from unrighteousness, hath executed true judgment between man and man,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20859,
+        "text": "hath walked in my statutes, and kept mine ordinances, to deal faithfully: he is righteous, he shall certainly live, saith the Lord Jehovah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20860,
+        "text": "And if he have begotten a son that is violent, a shedder of blood, and that doeth only one of any of these [things],",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 20861,
+        "text": "and that doeth not any of those [duties], but also hath eaten upon the mountains, and defiled his neighbour’s wife,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20862,
+        "text": "hath oppressed the poor and needy, exercised robbery, hath not restored the pledge, and hath lifted up his eyes to the idols, committed abomination,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20863,
+        "text": "given forth upon usury, and taken increase; shall he then live? He shall not live: he hath done all these abominations; he shall certainly die; his blood shall be upon him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20864,
+        "text": "But lo, if he have begotten a son that seeth all his father’s sins which he hath done, and considereth, and doeth not such like:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20865,
+        "text": "—he hath not eaten upon the mountains, nor lifted up his eyes to the idols of the house of Israel; he hath not defiled his neighbour’s wife,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20866,
+        "text": "and hath not oppressed any, nor withholden the pledge, neither hath exercised robbery; he hath given his bread to the hungry, and covered the naked with a garment;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20867,
+        "text": "he hath withdrawn his hand from the poor, hath not received usury nor increase, hath executed my judgments, [and] walked in my statutes: he shall not die for the iniquity of his father, he shall certainly live.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20868,
+        "text": "As for his father, because he practised oppression, exercised robbery upon his brother, and did what was not good among his people, behold, he shall die in his iniquity.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20869,
+        "text": "And ye say, Why doth not the son bear the iniquity of the father? But the son hath done judgment and justice, hath kept all my statutes, and hath done them; he shall certainly live.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20870,
+        "text": "The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son; the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20871,
+        "text": "And the wicked, if he turn from all his sins which he hath committed, and keep all my statutes, and do judgment and justice, he shall certainly live, he shall not die.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 20872,
+        "text": "None of his transgressions which he hath committed shall be remembered against him; in his righteousness which he hath done shall he live.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20873,
+        "text": "Have I any pleasure at all in the death of the wicked? saith the Lord Jehovah; is it not in his turning from his way, that he may live?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20874,
+        "text": "And when the righteous turneth from his righteousness and practiseth what is wrong, [and] doeth according to all the abominations that the wicked doeth, shall he live? None of his righteous acts which he hath done shall be remembered: in his unfaithfulness which he hath wrought, and in his sin which he hath sinned, in them shall he die.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20875,
+        "text": "And ye say, The way of the Lord is not equal. Hear then, house of Israel. Is not my way equal? are not your ways unequal?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20876,
+        "text": "When the righteous turneth away from his righteousness, and practiseth what is wrong, and dieth for it; in his wrong that he hath done shall he die.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20877,
+        "text": "And when the wicked turneth from his wickedness which he hath committed, and doeth judgment and justice, he shall keep his soul alive.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 20878,
+        "text": "Because he considereth, and turneth from all his transgressions which he hath committed, he shall certainly live, he shall not die.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 20879,
+        "text": "But the house of Israel say, The way of the Lord is not equal. O house of Israel, are not my ways equal? Is it not your ways that are unequal?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 20880,
+        "text": "Therefore I will judge you, house of Israel, every one according to his ways, saith the Lord Jehovah. Return ye, and turn from all your transgressions; so iniquity shall not be your snare.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 20881,
+        "text": "Cast away from you all your transgressions wherewith ye have transgressed, and make you a new heart and a new spirit: why then will ye die, house of Israel?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 20882,
+        "text": "For I have no pleasure in the death of him that dieth, saith the Lord Jehovah; therefore turn ye and live.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

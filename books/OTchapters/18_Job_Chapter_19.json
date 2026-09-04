@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 455,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13299,
+        "text": "And Job answered and said,",
+        "WordCount": 5,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13300,
+        "text": "How long will ye vex my soul, and crush me with words?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13301,
+        "text": "These ten times have ye reproached me; ye are not ashamed to stupefy me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13302,
+        "text": "And be it [that] I have erred, mine error remaineth with myself.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13303,
+        "text": "If indeed ye will magnify yourselves against me, and prove against me my reproach,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13304,
+        "text": "Know now that +God hath overthrown me, and hath surrounded me with his net.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13305,
+        "text": "Behold, I cry out of wrong, and I am not heard; I cry aloud, but there is no judgment.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13306,
+        "text": "He hath hedged up my way that I cannot pass, and he hath set darkness in my paths.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13307,
+        "text": "He hath stripped me of my glory, and taken the crown from my head.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13308,
+        "text": "He breaketh me down on every side, and I am gone; and my hope hath he torn up as a tree.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13309,
+        "text": "And he hath kindled his anger against me, and hath counted me unto him as one of his enemies.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13310,
+        "text": "His troops have come together and cast up their way against me, and have encamped round about my tent.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13311,
+        "text": "He hath put my brethren far from me, and mine acquaintance are quite estranged from me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13312,
+        "text": "My kinsfolk have failed, and my known friends have forgotten me.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13313,
+        "text": "The sojourners in my house and my maids count me as a stranger; I am an alien in their sight.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13314,
+        "text": "I called my servant, and he answered not; I entreated him with my mouth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13315,
+        "text": "My breath is strange to my wife, and my entreaties to the children of my [mother’s] womb.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13316,
+        "text": "Even young children despise me; I rise up, and they speak against me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13317,
+        "text": "All my intimate friends abhor me, and they whom I loved are turned against me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13318,
+        "text": "My bones cleave to my skin and to my flesh, and I am escaped with the skin of my teeth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13319,
+        "text": "Have pity upon me, have pity upon me, ye my friends; for the hand of +God hath touched me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13320,
+        "text": "Why do ye persecute me as God, and are not satisfied with my flesh?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13321,
+        "text": "Oh would that my words were written! oh that they were inscribed in a book!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 13322,
+        "text": "That with an iron style and lead they were graven in the rock for ever!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13323,
+        "text": "And [as for] me, I know that my Redeemer liveth, and the Last, he shall stand upon the earth;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13324,
+        "text": "And [if] after my skin this shall be destroyed, yet from out of my flesh shall I see +God;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13325,
+        "text": "Whom I shall see for myself, and mine eyes shall behold, and not another:—my reins are consumed within me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13326,
+        "text": "If ye say, How shall we persecute him? when the root of the matter is found in me,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13327,
+        "text": "Be ye yourselves afraid of the sword! for the sword is fury against misdeeds, that ye may know there is a judgment.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

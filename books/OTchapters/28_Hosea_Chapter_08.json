@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 870,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22196,
+        "text": "Set the trumpet to thy mouth. [He cometh] as an eagle against the house of Jehovah, because they have transgressed my covenant, and rebelled against my law.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22197,
+        "text": "They shall cry unto me, My God, we know thee; [we], Israel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22198,
+        "text": "Israel hath cast off good: the enemy shall pursue him.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22199,
+        "text": "They have set up kings, but not by me; they have made princes, and I knew it not; of their silver and their gold have they made them idols, that they may be cut off.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22200,
+        "text": "Thy calf, O Samaria, hath cast [thee] off; mine anger is kindled against them: how long will they be incapable of purity?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22201,
+        "text": "For from Israel is this also:—a workman made it, and it is no God: for the calf of Samaria shall be [broken in] pieces.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22202,
+        "text": "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk; should it sprout, it would yield no meal; if so be it yield, strangers shall swallow it up.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22203,
+        "text": "Israel is swallowed up: now are they become among the nations as a vessel wherein is no pleasure.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22204,
+        "text": "For they are gone up [to] Assyria [as] a wild ass alone by himself: Ephraim hath hired lovers.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22205,
+        "text": "Although they hire among the nations, now will I gather them, and they shall begin to be straitened under the burden of the king of princes.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22206,
+        "text": "Because Ephraim hath multiplied altars to sin, altars shall be unto him to sin.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22207,
+        "text": "I have prescribed unto him the manifold things of my law: they are counted [as] a strange thing.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22208,
+        "text": "They sacrifice flesh [for] the sacrifices of mine offerings, and eat it; Jehovah hath no delight in them. Now will he remember their iniquity, and visit their sins: they shall return to Egypt.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22209,
+        "text": "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

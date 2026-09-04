@@ -1,0 +1,208 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 35,
+    "count": 513,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14412,
+        "text": "{[A Psalm] of David.} Strive, O Jehovah, with them that strive with me; fight against them that fight against me:",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14413,
+        "text": "Take hold of shield and buckler, and stand up for my help;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14414,
+        "text": "And draw out the spear, and stop [the way] against my pursuers: say unto my soul, I am thy salvation.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14415,
+        "text": "Let them be put to shame and confounded that seek after my life; let them be turned backward and brought to confusion that devise my hurt:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14416,
+        "text": "Let them be as chaff before the wind, and let the angel of Jehovah drive [them] away;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14417,
+        "text": "Let their way be dark and slippery, and let the angel of Jehovah pursue them.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14418,
+        "text": "For without cause have they hidden for me their net [in] a pit; without cause they have digged [it] for my soul.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14419,
+        "text": "Let destruction come upon him unawares, and let his net which he hath hidden catch himself: for destruction let him fall therein.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14420,
+        "text": "And my soul shall be joyful in Jehovah; it shall rejoice in his salvation.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14421,
+        "text": "All my bones shall say, Jehovah, who is like unto thee, who deliverest the afflicted from one stronger than he, yea, the afflicted and the needy from him that spoileth him!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14422,
+        "text": "Unrighteous witnesses rise up; they lay to my charge things which I know not.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 14423,
+        "text": "They reward me evil for good, [to] the bereavement of my soul.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14424,
+        "text": "But as for me, when they were sick, my clothing was sackcloth; I chastened my soul with fasting, and my prayer returned into mine own bosom:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14425,
+        "text": "I behaved myself as though [he had been] a friend, a brother to me; I bowed down in sadness, as one that mourneth [for] a mother.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14426,
+        "text": "But at my halting they rejoiced, and gathered together: the slanderers gathered themselves together against me, and I knew [it] not; they did tear [me], and ceased not:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14427,
+        "text": "With profane jesters for bread, they have gnashed their teeth against me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14428,
+        "text": "Lord, how long wilt thou look on? Rescue my soul from their destructions, my only one from the young lions.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 14429,
+        "text": "I will give thee thanks in the great congregation; I will praise thee among much people.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14430,
+        "text": "Let not them that are wrongfully mine enemies rejoice over me; let them not wink with the eye that hate me without cause.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14431,
+        "text": "For they speak not peace; and they devise deceitful words against the quiet in the land.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14432,
+        "text": "And they opened their mouth wide against me; they said, Aha! aha! our eye hath seen [it].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14433,
+        "text": "Thou hast seen [it], Jehovah: keep not silence; O Lord, be not far from me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 14434,
+        "text": "Stir up thyself, and awake for my right, for my cause, my God and Lord!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 14435,
+        "text": "Judge me, Jehovah my God, according to thy righteousness, and let them not rejoice over me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 14436,
+        "text": "Let them not say in their heart, Aha! so would we have it. Let them not say, We have swallowed him up.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 14437,
+        "text": "Let them be ashamed and brought to confusion together that rejoice at mine adversity; let them be clothed with shame and dishonour that magnify themselves against me.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 14438,
+        "text": "Let them exult and rejoice that delight in my righteousness; and let them say continually, Jehovah be magnified, who delighteth in the prosperity of his servant.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 14439,
+        "text": "And my tongue shall talk of thy righteousness, [and] of thy praise, all the day.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

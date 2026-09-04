@@ -1,0 +1,61 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 120,
+    "count": 598,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16076,
+        "text": "{A Song of degrees.} In my trouble I called unto Jehovah, and he answered me.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16077,
+        "text": "Jehovah, deliver my soul from the lying lip, from the deceitful tongue.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16078,
+        "text": "What shall be given unto thee, what shall be added unto thee, thou deceitful tongue?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16079,
+        "text": "Sharp arrows of a mighty one, with burning coals of broom-wood.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16080,
+        "text": "Woe is me, that I sojourn in Meshech, that I dwell among the tents of Kedar!",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16081,
+        "text": "My soul hath long dwelt with them that hate peace.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16082,
+        "text": "I [am for] peace; but when I speak, they [are] for war.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

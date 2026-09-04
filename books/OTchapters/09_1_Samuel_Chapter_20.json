@@ -1,0 +1,306 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 256,
+    "MaxVerses": 42,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7732,
+        "text": "And David fled from Naioth by Ramah, and came and said before Jonathan, What have I done? what is mine iniquity, and what is my sin before thy father, that he seeks my life?",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7733,
+        "text": "And he said to him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, and not apprise me; and why should my father hide this thing from me? it is not so.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7734,
+        "text": "And David swore again and again, and said, Thy father certainly knows that I have found favour in thy sight: and he has thought, Jonathan shall not know this, lest he be grieved; but truly [as] Jehovah liveth, and [as] thy soul liveth, there is but a step between me and death.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7735,
+        "text": "And Jonathan said to David, What thy soul may say, I will even do it for thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7736,
+        "text": "And David said to Jonathan, Behold, to-morrow is new moon, and I should not fail to sit with the king at meat; but let me go, that I may hide myself in the field until the third evening.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7737,
+        "text": "If thy father should actually miss me, then say, David earnestly asked leave of me that he might run to Bethlehem his city; for there is a yearly sacrifice there for all the family.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7738,
+        "text": "If he say thus, It is well,—thy servant shall have peace; but if he be very wroth, be sure that evil is determined by him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7739,
+        "text": "Deal kindly then with thy servant; for thou hast brought thy servant into a covenant of Jehovah with thee; but if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7740,
+        "text": "And Jonathan said, Far be it from thee; for, if I knew with certainty that evil were determined by my father to come upon thee, would I not tell it thee?",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 7741,
+        "text": "Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7742,
+        "text": "And Jonathan said to David, Come and let us go out into the field. And they went out both of them into the field.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7743,
+        "text": "And Jonathan said to David, Jehovah, God of Israel, when I sound my father about this time to-morrow, [or] the next day, and behold, there be good toward David, and I then send not to thee, and apprise thee of it,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7744,
+        "text": "Jehovah do so and much more to Jonathan. Should it please my father [to do] thee evil, then I will apprise thee of it, and send thee away, that thou mayest go in peace; and Jehovah be with thee, as he has been with my father.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7745,
+        "text": "And thou shalt not only while yet I live shew me the kindness of Jehovah, that I die not,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7746,
+        "text": "but thou shalt not cut off thy kindness from my house for ever, no, not when Jehovah cuts off the enemies of David, every one from the face of the earth.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7747,
+        "text": "And Jonathan made [a covenant] with the house of David, [saying,] Let Jehovah even require [it] at the hand of David’s enemies!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7748,
+        "text": "And Jonathan caused David to swear again, by the love he had for him, for he loved him as he loved his own soul.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7749,
+        "text": "And Jonathan said to him, To-morrow is the new moon; and thou wilt be missed, for thy seat will be empty;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7750,
+        "text": "but on the third day thou shalt go down quickly, and come to the place where thou didst hide thyself on the day of the business, and abide by the stone Ezel.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7751,
+        "text": "And I will shoot three arrows on the side of it, as though I shot at a mark.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7752,
+        "text": "And behold, I will send the lad, [saying,] Go, find the arrows. If I expressly say to the lad, Behold, the arrows are on this side of thee, take them; then come, for there is peace for thee, and it is nothing; [as] Jehovah liveth.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7753,
+        "text": "But if I say thus to the youth: Behold, the arrows are beyond thee,—go thy way; for Jehovah sends thee away.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 7754,
+        "text": "And as to the matter which thou and I have spoken of, behold, Jehovah is between me and thee for ever.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 7755,
+        "text": "And David hid himself in the field; and it was the new moon, and the king sat at table to eat.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 7756,
+        "text": "And the king sat on his seat, as at other times, on the seat by the wall; and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 7757,
+        "text": "And Saul said nothing that day; for he thought, Something has befallen [him], that he is not clean: surely he is not clean.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 7758,
+        "text": "And it came to pass the next day after the new moon, the second [day of the month], as David’s place was empty, that Saul said to Jonathan his son, Why has not the son of Jesse come to table, neither yesterday nor to-day?",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 7759,
+        "text": "And Jonathan answered Saul, David earnestly asked leave of me [to go] to Bethlehem,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 7760,
+        "text": "and said, Let me go, I pray thee; for we have a family sacrifice in the city; and my brother himself has commanded me [to be there]; and now, if I have found favour in thy sight, let me go away, I pray thee, and see my brethren. He has therefore not come to the king’s table.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 7761,
+        "text": "And Saul’s anger was kindled against Jonathan, and he said to him, Son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own shame and to the shame of thy mother’s nakedness?",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 7762,
+        "text": "For as long as the son of Jesse lives upon earth, thou shalt not be established, nor thy kingdom. And now send and fetch him to me, for he must die.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 7763,
+        "text": "And Jonathan answered Saul his father, and said to him, Why should he be put to death? what has he done?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 7764,
+        "text": "Then Saul cast the spear at him to smite him; and Jonathan knew that it was determined by his father to put David to death.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 7765,
+        "text": "And Jonathan arose from the table in fierce anger, and ate no meat the second day of the new moon; for he was grieved for David, because his father had done him shame.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 7766,
+        "text": "And it came to pass in the morning that Jonathan went out into the field, to the place agreed on with David, and a little lad with him.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 7767,
+        "text": "And he said to his lad, Run, find now the arrows which I shoot. The lad ran, and he shot the arrow beyond him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 7768,
+        "text": "And when the lad came to the place of the arrow which Jonathan had shot, Jonathan cried after the lad and said, Is not the arrow away beyond thee?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 7769,
+        "text": "And Jonathan cried after the lad, Make speed, haste, stay not! And Jonathan’s lad gathered up the arrows, and came to his master.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 7770,
+        "text": "And the lad knew nothing: only Jonathan and David knew the matter.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 7771,
+        "text": "And Jonathan gave his weapons to his lad, and said to him, Go, carry them to the city.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 7772,
+        "text": "The lad went, and David arose from the side of the south, and fell on his face to the ground, and bowed himself three times; and they kissed one another, and wept one with another, until David exceeded.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 7773,
+        "text": "And Jonathan said to David, Go in peace, forasmuch as we have both of us sworn in the name of Jehovah, saying, Jehovah be between me and thee, and between my seed and thy seed for ever! And he arose and departed; and Jonathan went into the city.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

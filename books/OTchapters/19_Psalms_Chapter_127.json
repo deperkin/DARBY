@@ -1,0 +1,47 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 127,
+    "count": 605,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16123,
+        "text": "{A Song of degrees. Of Solomon.} Unless Jehovah build the house, in vain do its builders labour in it; unless Jehovah keep the city, the keeper watcheth in vain:",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16124,
+        "text": "It is vain for you to rise up early, to lie down late, to eat the bread of sorrows: so to his beloved one he giveth sleep.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16125,
+        "text": "Lo, children are an inheritance from Jehovah, [and] the fruit of the womb a reward.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16126,
+        "text": "As arrows in the hand of a mighty man, so are the children of youth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16127,
+        "text": "Happy is the man that hath filled his quiver with them. They shall not be ashamed when they speak with enemies in the gate.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

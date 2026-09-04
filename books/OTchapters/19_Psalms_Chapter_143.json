@@ -1,0 +1,96 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 143,
+    "count": 621,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16295,
+        "text": "{A Psalm of David.} Jehovah, hear my prayer; give ear to my supplications: in thy faithfulness answer me, in thy righteousness.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16296,
+        "text": "And enter not into judgment with thy servant; for in thy sight no man living shall be justified.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16297,
+        "text": "For the enemy persecuteth my soul: he hath crushed my life down to the earth; he hath made me to dwell in dark places, as those that have been long dead.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16298,
+        "text": "And my spirit is overwhelmed within me; my heart within me is desolate.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16299,
+        "text": "I remember the days of old: I meditate on all thy doing; I muse on the work of thy hands.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16300,
+        "text": "I stretch forth my hands unto thee: my soul, as a parched land, [thirsteth] after thee. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16301,
+        "text": "Answer me speedily, O Jehovah; my spirit faileth: hide not thy face from me, or I shall be like unto them that go down into the pit.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16302,
+        "text": "Cause me to hear thy loving-kindness in the morning, for in thee do I confide; make me to know the way wherein I should walk, for unto thee do I lift up my soul.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16303,
+        "text": "Deliver me, O Jehovah, from mine enemies: unto thee do I flee for refuge.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16304,
+        "text": "Teach me to do thy will; for thou art my God: let thy good Spirit lead me in a plain country.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16305,
+        "text": "Revive me, O Jehovah, for thy name’s sake; in thy righteousness bring my soul out of trouble;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16306,
+        "text": "And in thy loving-kindness cut off mine enemies, and destroy all them that oppress my soul: for I am thy servant.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

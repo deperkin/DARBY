@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 77,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2274,
+        "text": "And thou shalt make the altar of acacia-wood, five cubits the length, and five cubits the breadth; the altar shall be square; and the height thereof three cubits.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2275,
+        "text": "And thou shalt make its horns at the four corners thereof; its horns shall be of itself; and thou shalt overlay it with copper.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2276,
+        "text": "And thou shalt make its pots to cleanse it of the fat, its shovels, and its bowls, and its forks, and its firepans; for all the utensils thereof thou shalt employ copper.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2277,
+        "text": "And thou shalt make for it a grating of network of copper; and on the net shalt thou make four copper rings at its four corners;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2278,
+        "text": "and thou shalt put it under the ledge of the altar beneath, and the net shall be to the very middle of the altar.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2279,
+        "text": "And thou shalt make staves for the altar, staves of acacia-wood, and overlay them with copper.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2280,
+        "text": "And its staves shall be put into the rings, that the staves may be on both sides of the altar, when it is carried.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2281,
+        "text": "Hollow with boards shalt thou make it: as it hath been shewn thee on the mountain, so shall they make [it].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2282,
+        "text": "And thou shalt make the court of the tabernacle. On the south side, southward, hangings for the court of twined byssus; a hundred cubits the length for the one side,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 2283,
+        "text": "and the twenty pillars thereof, and their twenty bases of copper, the hooks of the pillars and their connecting-rods of silver.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2284,
+        "text": "And likewise on the north side in length, hangings a hundred [cubits] long, and its twenty pillars, and their twenty bases of copper; the hooks of the pillars and their connecting-rods of silver.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2285,
+        "text": "—And the breadth of the court on the west side, hangings of fifty cubits; their pillars ten, and their bases ten.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2286,
+        "text": "—And the breadth of the court on the east side, eastward, fifty cubits;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2287,
+        "text": "the hangings on the one wing, of fifteen cubits; their pillars three, and their bases three.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2288,
+        "text": "And on the other wing hangings of fifteen [cubits]; their pillars three, and their bases three.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2289,
+        "text": "—And for the gate of the court a curtain of twenty cubits, of blue, and purple, and scarlet, and twined byssus, embroidered with needlework; their pillars four, and their bases four.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2290,
+        "text": "All the pillars of the court round about shall be fastened together with [rods of] silver; their hooks of silver, and their bases of copper.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2291,
+        "text": "The length of the court shall be a hundred cubits, and the breadth fifty everywhere, and the height five cubits of twined byssus; and their bases of copper.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2292,
+        "text": "All the utensils of the tabernacle for the service thereof and all the pegs thereof, and all the pegs of the court shall be of copper.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2293,
+        "text": "And thou shalt command the children of Israel, that they bring thee olive oil, pure, beaten, for the light, to light the lamp continually.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 2294,
+        "text": "In the tent of meeting outside the veil, which is before the testimony, Aaron and his sons shall dress them from evening to morning before Jehovah: [it is] an everlasting statute, for their generations, on the part of the children of Israel.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

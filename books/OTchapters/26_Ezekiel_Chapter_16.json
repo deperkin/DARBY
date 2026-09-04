@@ -1,0 +1,453 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 818,
+    "MaxVerses": 63,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20764,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20765,
+        "text": "Son of man, cause Jerusalem to know her abominations,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20766,
+        "text": "and say, Thus saith the Lord Jehovah unto Jerusalem: Thy birth and thy nativity is of the land of the Canaanite: thy father was an Amorite, and thy mother a Hittite.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20767,
+        "text": "And as for thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water for cleansing; thou wast not rubbed with salt at all, nor swaddled at all.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20768,
+        "text": "No eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, from abhorrence of thy person, in the day that thou wast born.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20769,
+        "text": "And I passed by thee, and saw thee weltering in thy blood, and I said unto thee, in thy blood, Live! yea, I said unto thee, in thy blood, Live!",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 20770,
+        "text": "I caused thee to multiply, as the bud of the field; and thou didst increase and grow great, and thou camest to fulness of beauty; [thy] breasts were fashioned, and thy hair grew: but thou wast naked and bare.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20771,
+        "text": "And I passed by thee, and looked upon thee, and behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness; and I swore unto thee, and entered into a covenant with thee, saith the Lord Jehovah, and thou becamest mine.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20772,
+        "text": "And I washed thee with water, and thoroughly washed away thy blood from thee, and I anointed thee with oil;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20773,
+        "text": "and I clothed thee with embroidered work, and shod thee with badgers’ skin, and I bound thee about with byssus, and covered thee with silk.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20774,
+        "text": "And I decked thee with ornaments, and I put bracelets upon thy hands, and a chain on thy neck;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20775,
+        "text": "and I put a ring on thy nose, and earrings in thine ears, and a beautiful crown upon thy head.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20776,
+        "text": "Thus wast thou decked with gold and silver, and thy raiment was byssus, and silk, and embroidered work. Thou didst eat fine flour, and honey, and oil; and thou becamest exceedingly beautiful, and thou didst prosper into a kingdom.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20777,
+        "text": "And thy fame went forth among the nations for thy beauty; for it was perfect through my magnificence, which I had put upon thee, saith the Lord Jehovah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20778,
+        "text": "But thou didst confide in thy beauty, and playedst the harlot because of thy renown, and pouredst out thy whoredoms on every one that passed by: his it was.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 20779,
+        "text": "And of thy garments thou didst take, and madest for thyself high places decked with divers colours, and didst play the harlot thereupon: [the like] hath not come to pass, and shall be no more.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20780,
+        "text": "And thou didst take thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of males, and didst commit fornication with them.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20781,
+        "text": "And thou tookest thine embroidered garments, and coveredst them; and thou didst set mine oil and mine incense before them.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20782,
+        "text": "And my bread which I had given thee, the fine flour and the oil and the honey wherewith I fed thee, thou didst even set it before them for a sweet savour: thus it was, saith the Lord Jehovah.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20783,
+        "text": "And thou didst take thy sons and thy daughters, whom thou hadst borne unto me, and these didst thou sacrifice unto them, to be devoured. Were thy whoredoms a small matter,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20784,
+        "text": "that thou didst slay my children and give them up in passing them over to them?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20785,
+        "text": "And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, when thou wast weltering in thy blood.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20786,
+        "text": "And it came to pass after all thy wickedness (woe, woe unto thee! saith the Lord Jehovah),",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20787,
+        "text": "that thou didst also build unto thee a place of debauchery, and didst make thee a high place in every street:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20788,
+        "text": "thou didst build thy high place at every head of the way, and madest thy beauty to be abhorred, and thou didst open thy feet to every one that passed by, and multiply thy whoredom.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20789,
+        "text": "And thou didst commit fornication with the Egyptians thy neighbours, great of flesh; and didst multiply thy whoredom to provoke me to anger.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20790,
+        "text": "And behold, I stretched out my hand over thee, and diminished thine appointed portion; and I gave thee over unto the will of them that hate thee, the daughters of the Philistines, who were confounded at thy lewd way.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 20791,
+        "text": "And thou didst commit fornication with the Assyrians, because thou wast insatiable; yea, thou didst commit fornication with them, and yet couldest not be satisfied.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 20792,
+        "text": "And thou didst multiply thy whoredom with the land of merchants, Chaldea, and yet thou wast not satisfied herewith.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 20793,
+        "text": "How weak is thy heart, saith the Lord Jehovah, seeing thou doest all these [things], the work of a whorish woman, under no restraint;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 20794,
+        "text": "in that thou buildest thy place of debauchery at the head of every way, and makest thy high place in every street! And thou hast not been as a harlot, in that thou scornest reward,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 20795,
+        "text": "O adulterous wife, that taketh strangers instead of her husband.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 20796,
+        "text": "They give rewards to all harlots; but thou gavest thy rewards to all thy lovers, and rewardedst them, that they might come unto thee on every side for thy whoredoms.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 20797,
+        "text": "And in thee is the contrary from [other] women, in thy whoredoms, in that none followeth thee to commit fornication; and whereas thou givest a reward, and no reward is given unto thee, so art thou contrary.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 20798,
+        "text": "Therefore, O harlot, hear the word of Jehovah.",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 20799,
+        "text": "Thus saith the Lord Jehovah: Because thy money hath been poured out, and thy nakedness discovered through thy fornications with thy lovers, and with all the idols of thine abominations, and because of the blood of thy children which thou didst give unto them;",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 20800,
+        "text": "therefore, behold, I will gather all thy lovers with whom thou hast taken pleasure, and all that thou hast loved, with all that thou hast hated,—I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 20801,
+        "text": "And I will judge thee with the judgments of women that commit adultery and shed blood; and I will give thee up to the blood of fury and jealousy;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 20802,
+        "text": "and I will give thee into their hand, and they shall throw down thy place of debauchery, and shall break down thy high places; and they shall strip thee of thy garments, and shall take thy fair jewels, and leave thee naked and bare.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 20803,
+        "text": "And they shall bring up an assemblage against thee, and they shall stone thee with stones, and thrust thee through with their swords.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 20804,
+        "text": "And they shall burn thy houses with fire, and execute judgments upon thee in the sight of many women; and I will cause thee to cease from being a harlot, and thou also shalt give no more any reward.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 20805,
+        "text": "And I will appease my fury against thee, and my jealousy shall depart from thee; and I will be quiet, and will be no more angry.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 20806,
+        "text": "Because thou hast not remembered the days of thy youth, but hast raged against me in all these [things], behold, therefore, I also will recompense thy way upon [thy] head, saith the Lord Jehovah, and thou shalt not commit this lewdness besides all thine abominations.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 20807,
+        "text": "Behold, every one that useth proverbs shall speak in a proverb against thee, saying, As the mother, [so is] her daughter!",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 45,
+        "count": 20808,
+        "text": "Thou art the daughter of thy mother that loathed her husband and her children; and thou art the sister of thy sisters, who loathed their husbands and their children. Your mother was a Hittite, and your father an Amorite.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 20809,
+        "text": "And thine elder sister is Samaria that dwelleth at thy left hand, she and her daughters; and thy younger sister, that dwelleth at thy right hand, is Sodom and her daughters.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 20810,
+        "text": "And thou hast not walked in their ways, nor done according to their abominations; but as though that were a very little, thou hast been more corrupt than they in all thy ways.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 20811,
+        "text": "[As] I live, saith the Lord Jehovah, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 20812,
+        "text": "Behold, this was the iniquity of thy sister Sodom: pride, fulness of bread, and careless ease was in her and in her daughters, but she did not strengthen the hand of the poor and needy.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 20813,
+        "text": "And they were haughty, and committed abomination before me, and I took them away when I saw [it].",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 20814,
+        "text": "And Samaria hath not sinned according to the half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters by all thine abominations which thou hast done.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 20815,
+        "text": "Thou also, who hast judged thy sisters, bear thine own confusion, because of thy sins in which thou hast acted more abominably than they: they are more righteous than thou. So be thou ashamed also, and bear thy confusion, in that thou hast justified thy sisters.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 20816,
+        "text": "And I will bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, and the captivity of thy captives in the midst of them;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 20817,
+        "text": "that thou mayest bear thy confusion, and mayest be confounded for all that thou hast done, in that thou comfortest them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 20818,
+        "text": "And thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate; thou also and thy daughters, ye shall return to your former estate.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 20819,
+        "text": "Yea, Sodom thy sister was not mentioned by thy mouth in the day of thy pride,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 20820,
+        "text": "before thy wickedness was discovered, as at the time of the reproach of the daughters of Syria, and of all that are round about her, the daughters of the Philistines, who despise thee on every side.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 20821,
+        "text": "Thy lewdness and thine abominations, thou bearest them, saith Jehovah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 20822,
+        "text": "For thus saith the Lord Jehovah: I will even deal with thee as thou hast done, who hast despised the oath, and broken the covenant.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 20823,
+        "text": "Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 61,
+        "count": 20824,
+        "text": "And thou shalt remember thy ways, and be confounded, when thou shalt receive thy sisters who are older than thou, together with those who are younger than thou; for I will give them unto thee for daughters, but not by virtue of thy covenant.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 20825,
+        "text": "And I will establish my covenant with thee, and thou shalt know that I [am] Jehovah;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 20826,
+        "text": "that thou mayest remember, and be ashamed, and no more open thy mouth because of thy confusion, when I forgive thee all that thou hast done, saith the Lord Jehovah.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

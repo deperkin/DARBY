@@ -1,0 +1,145 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 382,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11492,
+        "text": "And the Spirit of God came upon Azariah the son of Oded.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11493,
+        "text": "And he went out to meet Asa, and said to him, Hear ye me, Asa, and all Judah and Benjamin: Jehovah is with you while ye are with him; and if ye seek him he will be found of you, but if ye forsake him he will forsake you.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11494,
+        "text": "Now for a long while Israel [was] without the true God, and without a teaching priest, and without law;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11495,
+        "text": "but in their trouble they turned to Jehovah the God of Israel, and sought him, and he was found of them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11496,
+        "text": "And in those times there [was] no peace to him that went out nor to him that came in, but great disturbances were amongst all the inhabitants of the countries.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11497,
+        "text": "And nation was broken against nation, and city against city; for God disturbed them with all manner of distress.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11498,
+        "text": "But as for you, be firm and let not your hands be weak; for there is a reward for your deeds.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11499,
+        "text": "And when Asa heard these words and the prophecy of Oded the prophet, he took courage, and put away the abominations out of all the land of Judah and Benjamin, and out of the cities that he had taken from mount Ephraim, and renewed the altar of Jehovah, that was before the porch of Jehovah.",
+        "WordCount": 55,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 11500,
+        "text": "And he assembled all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon; for they fell away to him out of Israel in abundance, when they saw that Jehovah his God was with him.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11501,
+        "text": "And they assembled themselves at Jerusalem in the third month of the fifteenth year of the reign of Asa.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11502,
+        "text": "And they sacrificed to Jehovah in that day, of the spoil that they had brought, seven hundred oxen and seven thousand sheep.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11503,
+        "text": "And they entered into a covenant to seek Jehovah the God of their fathers, with all their heart, and with all their soul,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11504,
+        "text": "and that whoever would not seek Jehovah the God of Israel should be put to death, whether small or great, whether man or woman.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11505,
+        "text": "And they swore to Jehovah with a loud voice, and with shouting, and with trumpets, and with cornets.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11506,
+        "text": "And all Judah rejoiced at the oath; for they took the oath with all their heart, and sought him with their whole desire; and he was found of them. And Jehovah gave them rest round about.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11507,
+        "text": "And also Maachah, the mother of Asa the king, he removed from being queen, because she had made an idol for the Asherah; and Asa cut down her idol, and stamped it, and burned it in the valley Kidron.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11508,
+        "text": "But the high places were not removed from Israel; only, Asa’s heart was perfect all his days.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11509,
+        "text": "And he brought into the house of God the things which his father had dedicated, and the things which he himself had dedicated, silver, and gold, and vessels.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11510,
+        "text": "And there was no war until the thirty-fifth year of the reign of Asa.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

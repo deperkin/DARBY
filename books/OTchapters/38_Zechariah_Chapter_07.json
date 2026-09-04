@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 918,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22964,
+        "text": "And it came to pass in the fourth year of king Darius, that the word of Jehovah came unto Zechariah on the fourth [day] of the ninth month, [even] in Chislev,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22965,
+        "text": "when Bethel had sent Sherezer and Regem-melech, and his men, to supplicate Jehovah,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22966,
+        "text": "[and] to speak unto the priests that were in the house of Jehovah of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done now so many years?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22967,
+        "text": "And the word of Jehovah of hosts came unto me, saying,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22968,
+        "text": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and in the seventh [month], even those seventy years, did ye really fast unto me, [even] unto me?",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22969,
+        "text": "And when ye ate, and when ye drank, was it not you that were eating and drinking?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22970,
+        "text": "Are not these the words that Jehovah cried by the former prophets, when Jerusalem was inhabited and at peace, and her cities round about her, when the south and the lowland were inhabited?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22971,
+        "text": "And the word of Jehovah came unto Zechariah, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22972,
+        "text": "Thus speaketh Jehovah of hosts, saying, Execute true judgment, and shew loving-kindness and mercies one to another,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22973,
+        "text": "and oppress not the widow and the fatherless, the stranger and the afflicted; and let none of you imagine evil against his brother in your heart.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22974,
+        "text": "But they refused to hearken, and turned a rebellious shoulder, and made their ears heavy, that they should not hear.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22975,
+        "text": "And they made their heart [as] an adamant, that they should not hear the law, and the words that Jehovah of hosts sent by his Spirit by the hand of the former prophets: therefore was there great wrath from Jehovah of hosts.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22976,
+        "text": "And it came to pass, like as he called, and they would not hear, so they called, and I would not hear, saith Jehovah of hosts;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22977,
+        "text": "and I scattered them with a whirlwind among all the nations whom they knew not, and the land was desolate after them, so that no one passed through nor returned; and they laid the pleasant land desolate.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 245,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7393,
+        "text": "And there was a man of Benjamin whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, the son of a Benjaminite, a mighty man of wealth.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7394,
+        "text": "And he had a son whose name was Saul, choice and comely; and there was not among the children of Israel a comelier person than he; from his shoulders and upward he was higher than any of the people.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7395,
+        "text": "And the asses of Kish Saul’s father were lost; and Kish said to Saul his son, Take, I pray, one of the young men with thee, and arise, go seek the asses.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 7396,
+        "text": "And he passed through mount Ephraim, and passed through the land of Shalishah, but they found [them] not; and they passed through the land of Shaalim, and they were not there; and they passed through the land of Benjamin, and they found [them] not.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7397,
+        "text": "They had come to the land of Zuph when Saul said to his servant that was with him, Come and let us return; lest my father give up the asses, and be anxious about us.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7398,
+        "text": "And he said to him, Behold now, a man of God is in this city, and the man is held in honour; all that he says comes surely to pass. Let us now go thither: perhaps he will shew us the way that we should go.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7399,
+        "text": "And Saul said to his servant, But if we go, what shall we bring the man? for the bread is spent in our vessels, and we have no present to give to the man of God: what have we?",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7400,
+        "text": "And the servant answered Saul again and said, Behold, I have here at hand the fourth part of a shekel of silver; that will I give to the man of God, to tell us our way.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7401,
+        "text": "(In former time in Israel, when a man went to ask counsel of God, he said, Come and let us go to the seer; for he that is now called a Prophet was in former time called a Seer.)",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7402,
+        "text": "And Saul said to his servant, Well said: come, let us go. So they went to the city where the man of God was.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7403,
+        "text": "As they went up the ascent to the city, they met maidens going forth to draw water; and they said to them, Is the seer here?",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 7404,
+        "text": "And they answered them and said, He is; behold, he is before thee: make haste now, for he came to-day to the city; for the people have a sacrifice to-day in the high place.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7405,
+        "text": "As soon as ye come into the city, ye shall straightway find him, before he goes up to the high place to eat; for the people eat not until he has come, because he blesses the sacrifice; afterwards they eat that are invited. And now go up; for this very day shall ye find him.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7406,
+        "text": "And they went up into the city. As they were coming into the midst of the city, behold, Samuel was coming out towards them, to go up to the high place.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7407,
+        "text": "Now Jehovah had apprised Samuel one day before Saul came, saying,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7408,
+        "text": "To-morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him prince over my people Israel; and he will save my people out of the hand of the Philistines; for I have looked upon my people, because their cry is come unto me.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7409,
+        "text": "And as Samuel saw Saul, Jehovah answered him, Behold the man of whom I spoke to thee! this man shall rule over my people.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7410,
+        "text": "And Saul drew near to Samuel in the midst of the gate, and said, Tell me, I pray thee, where the seer’s house is.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 7411,
+        "text": "And Samuel answered Saul and said, I am the seer: go up before me to the high place, and ye shall eat with me to-day; and to-morrow I will let thee go, and will tell thee all that is in thy heart.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7412,
+        "text": "And as for the asses that thou didst lose three days ago, set not thy heart on them; for they are found. And on whom is all the desire of Israel [set]? Is it not on thee, and on all thy father’s house?",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7413,
+        "text": "And Saul answered and said, Am not I a Benjaminite, of the smallest of the tribes of Israel, and my family the least of all the families of the tribe of Benjamin? and why dost thou speak such words to me?",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7414,
+        "text": "And Samuel took Saul and his servant, and brought them into the chamber, and gave them a place at the head of them that were invited; and they were about thirty persons.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 7415,
+        "text": "And Samuel said to the cook, Bring the portion that I gave thee, of which I said to thee, Set it by thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 7416,
+        "text": "And the cook took up the shoulder, and what was on it, and set [it] before Saul. And he said, Behold that which has been reserved! set it before thee, eat; for against the set time has it been kept for thee, since I said, I will invite the people. So Saul ate with Samuel that day.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 7417,
+        "text": "And they came down from the high place into the city, and he spoke with Saul upon the roof.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 7418,
+        "text": "And they arose early; and when it was about the dawning of the day, Samuel called to Saul on the roof, saying, Arise, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, into the street.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 7419,
+        "text": "As they were going down to the end of the city, Samuel said to Saul, Tell the servant to pass on before us (and he passed on), but stand thou still now, that I may cause thee to hear the word of God.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

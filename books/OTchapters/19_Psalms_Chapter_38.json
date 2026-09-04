@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 38,
+    "count": 516,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14492,
+        "text": "{A Psalm of David, to bring to remembrance.} Jehovah, rebuke me not in thy wrath; neither chasten me in thy hot displeasure.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14493,
+        "text": "For thine arrows stick fast in me, and thy hand cometh down upon me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14494,
+        "text": "There is no soundness in my flesh because of thine indignation; no peace in my bones, because of my sin.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14495,
+        "text": "For mine iniquities are gone over my head: as a heavy burden they are too heavy for me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14496,
+        "text": "My wounds stink, they are corrupt, because of my foolishness.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14497,
+        "text": "I am depressed; I am bowed down beyond measure; I go mourning all the day.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14498,
+        "text": "For my loins are full of burning, and there is no soundness in my flesh.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14499,
+        "text": "I am faint and broken beyond measure; I roar by reason of the agitation of my heart.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14500,
+        "text": "Lord, all my desire is before thee, and my sighing is not hid from thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14501,
+        "text": "My heart throbbeth, my strength hath left me; and the light of mine eyes, it also is no more with me.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14502,
+        "text": "My lovers and mine associates stand aloof from my stroke; and my kinsmen stand afar off.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14503,
+        "text": "And they that seek after my life lay snares [for me]; and they that seek my hurt speak mischievous things, and meditate deceits all the day long.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 14504,
+        "text": "But I, as a deaf [man], hear not; and am as a dumb man that openeth not his mouth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14505,
+        "text": "Yea, I am as a man that heareth not, and in whose mouth are no reproofs.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14506,
+        "text": "For in thee, Jehovah, do I hope: thou wilt answer, O Lord my God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14507,
+        "text": "For I said, Let them not rejoice over me! When my foot slipped, they magnified [themselves] against me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14508,
+        "text": "For I am ready to halt, and my pain is continually before me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14509,
+        "text": "For I will declare mine iniquity, I am grieved for my sin.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14510,
+        "text": "But mine enemies are lively, they are strong; and they that hate me wrongfully are multiplied:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14511,
+        "text": "And they that render evil for good are adversaries unto me; because I pursue what is good.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14512,
+        "text": "Forsake me not, Jehovah; O my God, be not far from me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14513,
+        "text": "Make haste to help me, O Lord, my salvation.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

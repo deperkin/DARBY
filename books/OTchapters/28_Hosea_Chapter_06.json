@@ -1,0 +1,89 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 868,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22169,
+        "text": "Come and let us return unto Jehovah: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22170,
+        "text": "After two days will he revive us; on the third day he will raise us up, and we shall live before his face;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22171,
+        "text": "and we shall know,—we shall follow on to know Jehovah: his going forth is assured as the morning dawn; and he will come unto us as the rain, as the latter rain which watereth the earth.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22172,
+        "text": "What shall I do unto thee, Ephraim? What shall I do unto thee, Judah? For your goodness is as a morning cloud, and as the dew that early passeth away.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22173,
+        "text": "Therefore have I hewed [them] by the prophets; I have slain them by the words of my mouth: and my judgment goeth forth as the light.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22174,
+        "text": "For I delight in loving-kindness, and not sacrifice; and the knowledge of God more than burnt-offerings.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22175,
+        "text": "But they like Adam have transgressed the covenant: there have they dealt treacherously against me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22176,
+        "text": "Gilead is a city of them that work iniquity; it is tracked with blood.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22177,
+        "text": "And as troops of robbers lie in wait for a man, so the company of priests murder in the way of Shechem; yea, they commit lewdness.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22178,
+        "text": "In the house of Israel have I seen a horrible thing: the whoredom of Ephraim is there; Israel is defiled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22179,
+        "text": "Also, for thee, Judah, is a harvest appointed, when I shall turn again the captivity of my people.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

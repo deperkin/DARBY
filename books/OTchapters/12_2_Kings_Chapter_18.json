@@ -1,0 +1,271 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 331,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10026,
+        "text": "And it came to pass in the third year of Hoshea the son of Elah, king of Israel, that Hezekiah the son of Ahaz, king of Judah, began to reign.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10027,
+        "text": "He was twenty-five years old when he began to reign; and he reigned twenty-nine years in Jerusalem; and his mother’s name was Abi, daughter of Zechariah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10028,
+        "text": "And he did what was right in the sight of Jehovah, according to all that David his father had done.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10029,
+        "text": "He removed the high places, and broke the columns, and cut down the Asherahs, and broke in pieces the serpent of brass that Moses had made; for to those days the children of Israel burned incense to it: and he called it Nehushtan.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10030,
+        "text": "He trusted in Jehovah the God of Israel; so that after him was none like him among all the kings of Judah, nor [among any] that were before him.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10031,
+        "text": "And he clave to Jehovah, and did not turn aside from following him, but kept his commandments, which Jehovah commanded Moses.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10032,
+        "text": "And Jehovah was with him; he prospered whithersoever he went forth. And he rebelled against the king of Assyria, and served him not.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10033,
+        "text": "He smote the Philistines unto Gazah and its borders, from the watchmen’s tower to the fortified city.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10034,
+        "text": "And it came to pass in the fourth year of king Hezekiah, which was the seventh year of Hoshea the son of Elah, king of Israel, [that] Shalmaneser king of Assyria came up against Samaria and besieged it.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 10035,
+        "text": "And at the end of three years they took it; in the sixth year of Hezekiah, that is, the ninth year of Hoshea king of Israel, Samaria was taken.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10036,
+        "text": "And the king of Assyria carried away Israel to Assyria, and settled them in Halah and by the Habor, the river of Gozan, and in the cities of the Medes;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10037,
+        "text": "because they hearkened not to the voice of Jehovah their God, but transgressed his covenant, all that Moses the servant of Jehovah commanded; and they would not hear nor do it.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10038,
+        "text": "And in the fourteenth year of king Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah, and took them.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10039,
+        "text": "And Hezekiah king of Judah sent to the king of Assyria to Lachish, saying, I have sinned; retire from me: I will bear what thou layest upon me. And the king of Assyria laid upon Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10040,
+        "text": "And Hezekiah gave all the silver that was found in the house of Jehovah, and in the treasures of the king’s house.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10041,
+        "text": "At that time Hezekiah stripped the doors of the temple of Jehovah, and the posts that Hezekiah king of Judah had overlaid, and gave them to the king of Assyria.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10042,
+        "text": "And the king of Assyria sent Tartan and Rabsaris and Rab-shakeh from Lachish, with a strong force, against king Hezekiah, to Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the aqueduct of the upper pool, which is on the highway of the fuller’s field.",
+        "WordCount": 56,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 10043,
+        "text": "And they called to the king. Then came forth to them Eliakim the son of Hilkijah, who was over the household, and Shebnah the scribe, and Joah the son of Asaph, the chronicler.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10044,
+        "text": "And Rab-shakeh said to them, Say now to Hezekiah, Thus says the great king, the king of Assyria: What confidence is this wherein thou trustest?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10045,
+        "text": "Thou sayest—but it is a word of the lips—There is counsel and strength for war. Now on whom dost thou rely, that thou hast revolted against me?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10046,
+        "text": "Now behold, thou reliest upon the staff of that broken reed, upon Egypt, on which if a man lean, it goes into his hand and pierces it: so is Pharaoh king of Egypt to all that rely upon him.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10047,
+        "text": "And if ye say to me, We rely upon Jehovah our God: is it not he whose high places and whose altars Hezekiah has removed, saying to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10048,
+        "text": "And now, engage, I pray thee, with my master the king of Assyria, and I will give thee two thousand horses, if thou canst set the riders upon them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10049,
+        "text": "How then wilt thou turn away the face of one captain of the least of my master’s servants? And thou reliest upon Egypt for chariots and for horsemen!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10050,
+        "text": "Am I now come up without Jehovah against this place to destroy it? Jehovah said to me, Go up against this land and destroy it.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10051,
+        "text": "And Eliakim the son of Hilkijah, and Shebnah and Joah said to Rab-shakeh, Speak, we pray thee, to thy servants in Syriac, for we understand it, and talk not with us in the Jewish [language] in the ears of the people that are on the wall.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10052,
+        "text": "And Rab-shakeh said to them, Is it to thy master and to thee that my master sent me to speak these words? Is it not to the men that sit on the wall, that they may eat their own dung and drink their own urine with you?",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10053,
+        "text": "And Rab-shakeh stood and cried with a loud voice in the Jewish [language], and spoke and said, Hear the word of the great king, the king of Assyria!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10054,
+        "text": "Thus says the king: Let not Hezekiah deceive you; for he will not be able to deliver you out of the [king’s] hand.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10055,
+        "text": "Neither let Hezekiah make you rely upon Jehovah, saying, Jehovah will certainly deliver us, and this city shall not be given into the hand of the king of Assyria.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10056,
+        "text": "Hearken not to Hezekiah; for thus says the king of Assyria: Make peace with me, and come out to me; and eat every one of his vine and every one of his fig-tree, and drink every one the waters of his own cistern;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10057,
+        "text": "until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of olive-trees and of honey, that ye may live and not die; and hearken not to Hezekiah, when he persuades you, saying, Jehovah will deliver us.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10058,
+        "text": "Have any of the gods of the nations delivered at all his land out of the hand of the king of Assyria?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10059,
+        "text": "Where are the gods of Hamath and of Arpad? Where are the gods of Sepharvaim, Hena, and Ivvah? and have they delivered Samaria out of my hand?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10060,
+        "text": "Which are they among all the gods of the countries, who have delivered their country out of my hand, that Jehovah should deliver Jerusalem out of my hand?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10061,
+        "text": "But the people were silent and answered him not a word; for the king’s command was, saying, Answer him not.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10062,
+        "text": "And Eliakim the son of Hilkijah, who was over the household, and Shebna the scribe, and Joah the son of Asaph, the chronicler, came to Hezekiah with their garments rent, and told him the words of Rab-shakeh.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

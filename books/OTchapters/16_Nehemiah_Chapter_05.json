@@ -1,0 +1,145 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 16,"name": "Nehemiah","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 418,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12384,
+        "text": "And there was a great cry of the people and of their wives against their brethren the Jews.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12385,
+        "text": "And there were that said, We, our sons and our daughters, are many, and we must procure corn that we may eat and live.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12386,
+        "text": "And there were that said, We have had to pledge our fields, and our vineyards, and our houses, that we might procure corn in the dearth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12387,
+        "text": "And there were that said, We have borrowed money for the king’s tribute upon our fields and vineyards;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12388,
+        "text": "yet now our flesh is as the flesh of our brethren, our children as their children; and behold, we must bring into bondage our sons and our daughters to be servants, and some of our daughters are brought into bondage [already]; neither is it in the power of our hand [to redeem them], for other men have our fields and our vineyards.",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12389,
+        "text": "And I was very angry when I heard their cry and these words.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 12390,
+        "text": "And I consulted with myself; and I remonstrated with the nobles and the rulers, and said to them, Ye exact usury, every one of his brother! And I set a great assembly against them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12391,
+        "text": "And I said to them, We, according to our ability, have redeemed our brethren the Jews, who were sold to the nations; and will ye even sell your brethren? or shall they be sold unto us? And they were silent and found no answer.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12392,
+        "text": "And I said, The thing that ye do is not good. Ought ye not to walk in the fear of our God, so as not to be the reproach of the nations our enemies?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12393,
+        "text": "I also, my brethren and my servants, we might exact usury of them, money and corn. I pray you, let us leave off this usury.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12394,
+        "text": "Restore, I pray you, to them this very day their fields, their vineyards, their olive-gardens, and their houses, also the hundredth [part] of the money, and of the corn, the wine and the oil, that ye have exacted of them.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12395,
+        "text": "And they said, We will restore [them], and will require nothing of them; so will we do, as thou hast said. And I called the priests, and took an oath of them, that they should do according to this promise.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12396,
+        "text": "Also I shook my lap, and said, So God shake out every man from his house and from his earnings, that performeth not this promise: even thus be he shaken out and emptied! And all the congregation said, Amen! And they praised Jehovah. And the people did according to this promise.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12397,
+        "text": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even to the thirty-second year of Artaxerxes the king, twelve years, I and my brethren have not eaten the bread of the governor.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 12398,
+        "text": "But the former governors that were before me had been chargeable to the people, and had taken of them bread and wine, besides forty shekels of silver: even their servants bore rule over the people. But I did not so, because of the fear of God.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12399,
+        "text": "Yea, also I applied myself to this work of the wall, and we bought no fields; and all my servants were gathered thither for the work.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12400,
+        "text": "And there were at my table a hundred and fifty of the Jews and the rulers, besides those that came to us from among the nations that were about us.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12401,
+        "text": "And that which was prepared daily was one ox [and] six choice sheep; also fowls were prepared for me, and once in ten days all sorts of wine in abundance. Yet for all this I demanded not the bread of the governor; for the service was heavy upon this people.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12402,
+        "text": "Remember for me, my God, for good, all that I have done for this people.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

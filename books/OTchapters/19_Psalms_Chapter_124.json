@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 124,
+    "count": 602,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16104,
+        "text": "{A Song of degrees. Of David.} If it had not been Jehovah who was for us—oh let Israel say—",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16105,
+        "text": "If it had not been Jehovah who was for us, when men rose up against us,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16106,
+        "text": "Then they had swallowed us up alive, when their anger was kindled against us;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16107,
+        "text": "Then the waters had overwhelmed us, a torrent had gone over our soul;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16108,
+        "text": "Then the proud waters had gone over our soul.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16109,
+        "text": "Blessed be Jehovah, who gave us not up a prey to their teeth!",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16110,
+        "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we have escaped.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16111,
+        "text": "Our help is in the name of Jehovah, the maker of heavens and earth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

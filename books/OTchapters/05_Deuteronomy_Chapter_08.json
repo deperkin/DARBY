@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 161,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5139,
+        "text": "Every commandment which I command thee this day shall ye take heed to do, that ye may live, and multiply, and enter in and possess the land which Jehovah swore unto your fathers.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5140,
+        "text": "And thou shalt remember all the way which Jehovah thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thy heart, whether thou wouldest keep his commandments or not.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5141,
+        "text": "And he humbled thee, and suffered thee to hunger, and fed thee with the manna, which thou hadst not known, and which thy fathers knew not; that he might make thee know that man doth not live by bread alone, but by everything that goeth out of the mouth of Jehovah doth man live.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5142,
+        "text": "Thy clothing grew not old upon thee, neither did thy foot swell, these forty years.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5143,
+        "text": "And know in thy heart that, as a man chasteneth his son, so Jehovah thy God chasteneth thee;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5144,
+        "text": "and thou shalt keep the commandments of Jehovah thy God, to walk in his ways, and to fear him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5145,
+        "text": "For Jehovah thy God bringeth thee into a good land, a land of water-brooks, of springs, and of deep waters, that gush forth in the valleys and hills;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5146,
+        "text": "a land of wheat, and barley, and vines, and fig-trees, and pomegranates; a land of olive-trees and honey;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5147,
+        "text": "a land wherein thou shalt eat bread without scarceness, where thou shalt lack nothing; a land whose stones are iron, and out of whose mountains thou wilt dig copper.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5148,
+        "text": "And thou shalt eat and be filled, and shalt bless Jehovah thy God for the good land which he hath given thee.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 5149,
+        "text": "Beware that thou forget not Jehovah thy God, in not keeping his commandments, and his ordinances, and his statutes, which I command thee this day;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5150,
+        "text": "lest when thou hast eaten and art full, and hast built and inhabited fine houses,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5151,
+        "text": "and thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5152,
+        "text": "then thy heart be lifted up, and thou forget Jehovah thy God, who brought thee forth out of the land of Egypt, out of the house of bondage;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5153,
+        "text": "who led thee through the great and terrible wilderness, [a wilderness of] fiery serpents, and scorpions, and drought, where there is no water; who brought thee forth water out of the rock of flint;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5154,
+        "text": "who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5155,
+        "text": "And thou say in thy heart, my power And the might of my hand has procured me This wealth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5156,
+        "text": "But thou shalt remember Jehovah thy God, that it is he who giveth thee power to get wealth, that he may establish his covenant which he swore unto thy fathers, as it is this day.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5157,
+        "text": "And it shall be, if thou do at all forget Jehovah thy God, and go after other gods, and serve them, and bow down to them, I testify against you this day that ye shall utterly perish.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5158,
+        "text": "As the nations which Jehovah is causing to perish before you, so shall ye perish; because ye would not hearken unto the voice of Jehovah your God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 168,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5321,
+        "text": "At the end of seven years thou shalt make a release,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5322,
+        "text": "and this is the manner of the release: Every creditor shall relax his hand from the loan which he hath lent unto his neighbour; he shall not demand it of his neighbour, or of his brother; for a release to Jehovah hath been proclaimed.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5323,
+        "text": "Of the foreigner thou mayest demand it; but what is thine with thy brother thy hand shall release;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5324,
+        "text": "save when there shall be no one in need among you; for Jehovah will greatly bless thee in the land that Jehovah thy God giveth thee for an inheritance to possess it,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5325,
+        "text": "if thou only diligently hearken unto the voice of Jehovah thy God, to take heed to do all this commandment which I command thee this day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5326,
+        "text": "For Jehovah thy God will bless thee, as he promised thee; and thou shalt lend on pledge to many nations, but thou shalt not borrow; and thou shalt rule over many nations, but they shall not rule over thee.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5327,
+        "text": "If there be amongst you a poor man, any one of thy brethren in one of thy gates, in thy land which Jehovah thy God giveth thee, thou shalt not harden thy heart, nor shut thy hand from thy brother in need;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5328,
+        "text": "but thou shalt open thy hand bountifully unto him, and shalt certainly lend him on pledge what is sufficient for his need, [in that] which he lacketh.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5329,
+        "text": "Beware that there be not a wicked thought in thy heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry against thee to Jehovah, and it be sin in thee.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5330,
+        "text": "Thou shalt bountifully give unto him, and thy heart shall not be evil-disposed when thou givest unto him; because for this thing Jehovah thy God will bless thee in all thy works, and in all the business of thy hand.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5331,
+        "text": "For the needy shall never cease from within the land; therefore I command thee, saying, Thou shalt open thy hand bountifully unto thy brother, to thy poor and to thy needy, in thy land.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5332,
+        "text": "If thy brother, a Hebrew man, or a Hebrew woman, have been sold unto thee, he shall serve thee six years, and in the seventh year thou shalt let him go free from thee.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 5333,
+        "text": "And when thou sendest him out free from thee, thou shalt not let him go away empty;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5334,
+        "text": "thou shalt certainly furnish him from thy sheep, and out of thy floor, and out of thy winepress: of what Jehovah thy God hath blessed thee with shalt thou give unto him.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5335,
+        "text": "And thou shalt remember that thou wast a bondman in the land of Egypt, and that Jehovah thy God redeemed thee; therefore I command thee this thing to-day.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5336,
+        "text": "And it shall be, if he say unto thee, I will not go away from thee,—because he loveth thee and thy house, because he is well with thee,—",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5337,
+        "text": "then thou shalt take an awl, and thrust it through his ear and into the door; and he shall be thy bondman for ever. And also unto thy handmaid thou shalt do likewise.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5338,
+        "text": "Let it not seem hard unto thee, when thou sendest him away free from thee; for double the worth of a hired servant hath he been to thee, [in] serving thee six years; and Jehovah thy God will bless thee in all that thou doest.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5339,
+        "text": "Every firstling that is born among thy kine and among thy sheep that is a male, thou shalt hallow to Jehovah thy God: thou shalt do no work with the firstling of thy kine, nor shear the firstling of thy sheep.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 5340,
+        "text": "Thou shalt eat it before Jehovah thy God, year by year, in the place which Jehovah will choose, thou and thy household.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5341,
+        "text": "But if there be a defect therein, [if it be] lame, or blind, [or have] any evil defect, thou shalt not sacrifice it to Jehovah thy God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5342,
+        "text": "In thy gates shalt thou eat it; the unclean and the clean [shall eat it] alike, as the gazelle and as the hart.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5343,
+        "text": "Only thou shalt not eat the blood thereof: thou shalt pour it upon the earth as water.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

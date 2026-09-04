@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 22,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 549,
+        "text": "And it came to pass after these things, that God tried Abraham, and said to him, Abraham! and he said, Here am I.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 550,
+        "text": "And he said, Take now thy son, thine only [son], whom thou lovest, Isaac, and get thee into the land of Moriah, and there offer him up for a burnt-offering on one of the mountains which I will tell thee of.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 551,
+        "text": "And Abraham rose early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son; and he clave the wood for the burnt-offering, and rose up and went to the place that God had told him of.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 552,
+        "text": "On the third day Abraham lifted up his eyes and saw the place from afar.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 553,
+        "text": "And Abraham said to his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 554,
+        "text": "And Abraham took the wood of the burnt-offering, and laid it on Isaac his son; and he took the fire in his hand, and the knife, and they went both of them together.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 555,
+        "text": "And Isaac spoke to Abraham his father, and said, My father! And he said, Here am I, my son. And he said, Behold the fire and the wood; but where is the sheep for a burnt-offering?",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 556,
+        "text": "And Abraham said, My son, God will provide himself with the sheep for a burnt-offering. And they went both of them together.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 557,
+        "text": "And they came to the place of which God had told him. And Abraham built the altar there, and piled the wood; and he bound Isaac his son, and laid him on the altar upon the wood.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 558,
+        "text": "And Abraham stretched out his hand, and took the knife to slaughter his son.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 559,
+        "text": "And the Angel of Jehovah called to him from the heavens, and said, Abraham, Abraham! And he said, Here am I.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 560,
+        "text": "And he said, Stretch not out thy hand against the lad, neither do anything to him; for now I know that thou fearest God, and hast not withheld thy son, thine only [son], from me.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 561,
+        "text": "And Abraham lifted up his eyes, and looked, and behold, behind was a ram caught in the thicket by its horns; and Abraham went and took the ram, and offered it up for a burnt-offering instead of his son.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 562,
+        "text": "And Abraham called the name of that place Jehovah-jireh; as it is said at the present day, On the mount of Jehovah will be provided.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 563,
+        "text": "And the Angel of Jehovah called to Abraham from the heavens a second time,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 564,
+        "text": "and said, By myself I swear, saith Jehovah, that, because thou hast done this, and hast not withheld thy son, thine only [son],",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 565,
+        "text": "I will richly bless thee, and greatly multiply thy seed, as the stars of heaven, and as the sand that is on the sea-shore; and thy seed shall possess the gate of his enemies;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 566,
+        "text": "and in thy seed shall all the nations of the earth bless themselves, because thou hast hearkened to my voice.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 567,
+        "text": "And Abraham returned to his young men, and they rose up and went together to Beer-sheba. And Abraham dwelt at Beer-sheba.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 568,
+        "text": "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she also has borne sons to thy brother Nahor:",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 569,
+        "text": "Uz his first-born, and Buz his brother, and Kemuel the father of Aram,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 570,
+        "text": "and Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 571,
+        "text": "(And Bethuel begot Rebecca.) These eight Milcah bore to Nahor, Abraham’s brother.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 572,
+        "text": "And his concubine, named Reumah, she also bore Tebah, and Gaham, and Thahash, and Maacah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

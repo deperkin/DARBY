@@ -1,0 +1,271 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 282,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8391,
+        "text": "And it came to pass after this, that Absalom prepared for himself chariots and horses, and fifty men to run before him.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8392,
+        "text": "And Absalom rose early, and stood beside the way of the gate; and it was so, that when any man who had a controversy had to come to the king for judgment, then Absalom called him, and said, Of what city art thou? And he said, Thy servant is of one of the tribes of Israel.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8393,
+        "text": "And Absalom said to him, See, thy matters are good and right; but there is no man to hear thee [appointed] by the king.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8394,
+        "text": "And Absalom said, Oh that I were made judge in the land, that every man who has any controversy and cause might come to me, and I would do him justice!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8395,
+        "text": "And it was so, that when any man came near to do him obeisance, he put forth his hand, and took him, and kissed him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8396,
+        "text": "And in this manner did Absalom to all Israel that came to the king for judgment; and Absalom stole the hearts of the men of Israel.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8397,
+        "text": "And it came to pass at the end of forty years, that Absalom said to the king, I pray thee, let me go and pay in Hebron my vow which I have vowed to Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 8398,
+        "text": "For thy servant vowed a vow while I abode in Geshur in Syria, saying, If Jehovah shall bring me again indeed to Jerusalem, then I will serve Jehovah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8399,
+        "text": "And the king said to him, Go in peace. And he rose up and went to Hebron.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8400,
+        "text": "And Absalom sent emissaries into all the tribes of Israel, saying, When ye hear the sound of the trumpet, ye shall say, Absalom reigns in Hebron.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8401,
+        "text": "And with Absalom went two hundred men out of Jerusalem, that were invited; and they went in their simplicity, and they knew nothing.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8402,
+        "text": "And Absalom sent for Ahithophel the Gilonite, David’s counsellor, from his city, from Giloh, while he offered the sacrifices. And the conspiracy gathered strength; and the people increased continually with Absalom.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8403,
+        "text": "And there came one to David who reported saying, The hearts of the men of Israel are after Absalom.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 8404,
+        "text": "And David said to all his servants that were with him at Jerusalem, Rise up and let us flee; for we shall not [else] escape from Absalom. Be quick to depart, lest he overtake us quickly, and bring evil upon us, and smite the city with the edge of the sword.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8405,
+        "text": "And the king’s servants said to the king, Behold, thy servants [will do] whatever my lord the king shall choose.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8406,
+        "text": "And the king went forth, and all his household after him, and the king left ten women, concubines, to keep the house.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8407,
+        "text": "And the king went forth, and all the people after him, and stayed at the remote house.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8408,
+        "text": "And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men that came after him from Gath, passed over before the king.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8409,
+        "text": "And the king said to Ittai the Gittite, Why dost thou also go with us? return to thy place, and abide with the king; for thou art a foreigner, and besides, thou hast emigrated to the place where thou [dwellest].",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8410,
+        "text": "Thou didst come yesterday, and should I this day make thee go up and down with us, seeing I go whither I can? Return and take back thy brethren. Mercy and truth be with thee!",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8411,
+        "text": "And Ittai answered the king and said, [As] Jehovah liveth, and [as] my lord the king liveth, surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8412,
+        "text": "And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that were with him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8413,
+        "text": "And all the country wept with a loud voice, and all the people passed over; the king also himself passed over the torrent Kidron, and all the people passed over, towards the way of the wilderness.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8414,
+        "text": "And behold, Zadok also, and all the Levites with him, bearing the ark of the covenant of God; and they set down the ark of God; and Abiathar went up, until all the people had passed completely out of the city.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 8415,
+        "text": "And the king said to Zadok, Carry back the ark of God into the city. If I shall find favour in the eyes of Jehovah, he will bring me again, and shew me it, and its habitation.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8416,
+        "text": "But if he thus say, I have no delight in thee; behold, [here am] I, let him do to me as seemeth good to him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8417,
+        "text": "And the king said to Zadok the priest, Thou art the seer: return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8418,
+        "text": "See, I will stop in the plains of the desert, until there come word from you to inform me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8419,
+        "text": "And Zadok and Abiathar carried the ark of God again to Jerusalem; and they abode there.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 8420,
+        "text": "But David went up by the ascent of the Olives, and wept as he went up, and had his head covered, and he went barefoot; and all the people that was with him covered every man his head, and they went up, weeping as they went up.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8421,
+        "text": "And one told David saying, Ahithophel is among the conspirators with Absalom. Then said David, Jehovah, I pray thee, turn the counsel of Ahithophel into foolishness.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 8422,
+        "text": "And it came to pass, when David had come to the summit, where he worshipped God, that behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 8423,
+        "text": "And David said to him, If thou passest on with me, thou wilt be a burden to me;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 8424,
+        "text": "but if thou return to the city, and say to Absalom, I will be thy servant, O king; as I have been thy father’s servant hitherto, so now will I be thy servant; then mayest thou for me defeat the counsel of Ahithophel.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 8425,
+        "text": "And hast thou not there with thee Zadok and Abiathar the priests? and it shall be, [that] whatsoever thing thou shalt hear out of the king’s house, thou shalt tell it to Zadok and Abiathar the priests.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 8426,
+        "text": "Behold, they have there with them their two sons, Ahimaaz Zadok’s [son], and Jonathan Abiathar’s son; and by them ye shall send to me everything that ye shall hear.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 8427,
+        "text": "And Hushai David’s friend came into the city, and Absalom came into Jerusalem.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

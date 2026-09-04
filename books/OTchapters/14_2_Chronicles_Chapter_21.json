@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 388,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11626,
+        "text": "And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David; and Jehoram his son reigned in his stead.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11627,
+        "text": "And he had brethren, the sons of Jehoshaphat: Azariah and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were sons of Jehoshaphat king of Israel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11628,
+        "text": "And their father had given them great gifts of silver and of gold and of precious things, besides fortified cities in Judah; but the kingdom he gave to Jehoram, for he was the firstborn.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11629,
+        "text": "And Jehoram established himself over the kingdom of his father, and strengthened himself; and he slew all his brethren with the sword, and [certain] also of the princes of Israel.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11630,
+        "text": "Jehoram was thirty-two years old when he began to reign; and he reigned eight years in Jerusalem.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11631,
+        "text": "And he walked in the way of the kings of Israel, as did the house of Ahab, for the daughter of Ahab was his wife; and he did evil in the sight of Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11632,
+        "text": "But Jehovah would not destroy the house of David, because of the covenant that he had made with David, and as he had promised to give to him always a lamp, and to his sons.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11633,
+        "text": "In his days Edom revolted from under the hand of Judah, and they set a king over themselves.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11634,
+        "text": "And Jehoram went over with his captains, and all the chariots with him; and he rose up by night, and smote the Edomites who had surrounded him, and the captains of the chariots.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11635,
+        "text": "But the Edomites revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time from under his hand, because he had forsaken Jehovah the God of his fathers.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11636,
+        "text": "Moreover he made high places on the mountains of Judah, and caused the inhabitants of Jerusalem to commit fornication, and compelled Judah [thereto].",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11637,
+        "text": "And there came a writing to him from Elijah the prophet saying, Thus saith Jehovah, the God of David thy father: Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 11638,
+        "text": "but hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to commit fornication, like the fornications of the house of Ahab, and also hast slain thy brethren, thy father’s house who were better than thyself:",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11639,
+        "text": "behold, Jehovah will smite with a great stroke thy people, and thy children, and thy wives, and all thy substance,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11640,
+        "text": "and thyself with sore sicknesses, with a disease of thy bowels, until thy bowels fall out by reason of the sickness day by day.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11641,
+        "text": "And Jehovah stirred up against Jehoram the spirit of the Philistines, and of the Arabians, who [are] near the Ethiopians;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11642,
+        "text": "and they came up into Judah, and broke into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was no son left him, except Jehoahaz the youngest of his sons.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11643,
+        "text": "And after all this, Jehovah smote him in his bowels with an incurable sickness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11644,
+        "text": "And it came to pass, from day to day, and at the time when the second year was drawing to a close, that his bowels fell out by reason of his sickness, and he died in cruel sufferings. And his people made no burning for him, like the burning of his fathers.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11645,
+        "text": "He was thirty-two years old when he began to reign, and he reigned in Jerusalem eight years, and departed without being regretted. And they buried him in the city of David, but not in the sepulchres of the kings.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

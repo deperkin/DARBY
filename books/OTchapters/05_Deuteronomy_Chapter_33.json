@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 186,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5812,
+        "text": "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5813,
+        "text": "And he said, Jehovah came from Sinai, And rose up from Seir unto them; He shone forth from mount Paran, And he came from the myriads of the sanctuary; From his right hand [went forth] a law of fire for them.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5814,
+        "text": "Yea, he loveth the peoples, All his saints are in thy hand, And they sit down at thy feet; Each receiveth of thy words.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5815,
+        "text": "Moses commanded us a law, The inheritance of the congregation of Jacob.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5816,
+        "text": "And he was king in Jeshurun, When the heads of the people And the tribes of Israel were gathered together.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5817,
+        "text": "Let Reuben live, and not die; And let his men be few.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 5818,
+        "text": "And this of Judah; and he said, Hear, Jehovah, the voice of Judah, And bring him unto his people; May his hands strive for them; And be thou a help to him against his oppressors.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5819,
+        "text": "And of Levi he said, Thy Thummim and thy Urim are for thy godly one, Whom thou didst prove at Massah, With whom thou didst strive at the waters of Meribah;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 5820,
+        "text": "Who said to his father and to his mother, I see him not, And he acknowledged not his brethren, And knew not his own children; For they have observed thy word, And kept thy covenant.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5821,
+        "text": "They shall teach Jacob thine ordinances, And Israel thy law: They shall put incense before thy nostrils, And whole burnt-offering upon thine altar.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5822,
+        "text": "Bless, Jehovah, his substance! And let the work of his hands please thee; Crush the loins of his adversaries, And of them that hate him, that they may never rise again!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5823,
+        "text": "Of Benjamin he said, The beloved of Jehovah,—he shall dwell in safety by him; He will cover him all the day long, And dwell between his shoulders.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 5824,
+        "text": "And of Joseph he said, Blessed of Jehovah be his land! By the precious things of the heavens, By the dew, and by the deep that lieth beneath,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5825,
+        "text": "And by the precious fruits of the sun, And by the precious things put forth by the months,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5826,
+        "text": "And by the best things of the ancient mountains, And by the precious things of the everlasting hills,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5827,
+        "text": "And by the precious things of the earth and the fulness thereof. And let the good will of him that dwelt in the bush Come upon the head of Joseph, Upon the top of the head of him that was separated from his brethren.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5828,
+        "text": "His majesty is as the firstling of his ox; And his horns are as the horns of a buffalo. With them shall he push the peoples Together to the ends of the earth. These are the myriads of Ephraim, And these are the thousands of Manasseh.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5829,
+        "text": "And of Zebulun he said, Rejoice, Zebulun, in thy going out; And thou, Issachar, in thy tents!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 5830,
+        "text": "They shall invite [the] peoples to the mountain; There they shall offer sacrifices of righteousness; For they will suck the abundance of the seas, And the hidden treasures of the sand.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5831,
+        "text": "And of Gad he said, Blessed be he that enlargeth Gad! As a lion doth he dwell, and teareth the arm, even the top of the head.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5832,
+        "text": "And he provided the first part for himself, For there was reserved the portion of the lawgiver; And he came with the heads of the people; The justice of Jehovah and his judgments Hath he executed with Israel.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5833,
+        "text": "And of Dan he said, Dan is a young lion; He shall spring forth from Bashan.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 5834,
+        "text": "And of Naphtali he said, Naphtali, satisfied with favour, And full of the blessing of Jehovah, Possess thou the west and the south.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5835,
+        "text": "And of Asher he said, Asher shall be blessed with sons; Let him be acceptable to his brethren, And let him dip his foot in oil.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5836,
+        "text": "Iron and brass shall be thy bolts; And thy rest as thy days.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5837,
+        "text": "There is none like unto the God of Jeshurun, Who rideth upon the heavens to thy help, And in his majesty, upon the clouds.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 5838,
+        "text": "[Thy] refuge is the God of old, And underneath are the eternal arms; And he shall drive out the enemy from before thee, And shall say, Destroy [them]!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5839,
+        "text": "And Israel shall dwell in safety alone, The fountain of Jacob, in a land of corn and new wine; Also his heavens shall drop down dew.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5840,
+        "text": "Happy art thou, Israel! Who is like unto thee, a people saved by Jehovah, The shield of thy help, And the sword of thine excellency? And thine enemies shall come cringing to thee; And thou shalt tread upon their high places.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

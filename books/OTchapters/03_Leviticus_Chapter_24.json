@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 114,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3448,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3449,
+        "text": "Command the children of Israel that they bring unto thee pure beaten olive oil for the light, to light the lamp continually.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3450,
+        "text": "Outside the veil of the testimony, in the tent of meeting, shall Aaron dress it from evening to morning before Jehovah continually: [it is] an everlasting statute throughout your generations.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3451,
+        "text": "Upon the pure candlestick shall he arrange the lamps before Jehovah continually.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3452,
+        "text": "And thou shalt take fine wheaten flour, and bake twelve cakes thereof; each cake shall be of two tenths.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3453,
+        "text": "And thou shalt set them in two rows, six in a row, upon the pure table before Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3454,
+        "text": "And thou shalt put pure frankincense upon each row; and it shall be a bread of remembrance, an offering by fire to Jehovah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3455,
+        "text": "Every sabbath day he shall arrange it before Jehovah continually, on the part of the children of Israel: [it is] an everlasting covenant.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3456,
+        "text": "And it shall be Aaron’s and his sons’; and they shall eat it in a holy place; for it is most holy unto him of Jehovah’s offerings by fire: [it is] an everlasting statute.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3457,
+        "text": "And the son of an Israelitish woman—but withal the son of an Egyptian,—went out among the children of Israel; and this son of the Israelitess and a man of Israel strove together in the camp;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 3458,
+        "text": "and the Israelitish woman’s son blasphemed the Name, and cursed; and they brought him to Moses. And his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3459,
+        "text": "And they confined him, that they might decide at the mouth of Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3460,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3461,
+        "text": "Lead the reviler outside the camp; and all that heard [him] shall lay their hands upon his head, and the whole assembly shall stone him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3462,
+        "text": "And thou shalt speak unto the children of Israel, saying, Every one when he revileth his God shall bear his sin.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3463,
+        "text": "And he that blasphemeth the name of Jehovah shall certainly be put to death; all the assembly shall certainly stone him; as well the stranger as he that is home-born, when he blasphemeth the Name, shall be put to death.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3464,
+        "text": "And if any one smiteth any man mortally, he shall certainly be put to death.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3465,
+        "text": "And he that smiteth a beast mortally shall make it good, life for life.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3466,
+        "text": "And if a man cause a blemish in his neighbour, as he hath done, so shall it be done to him;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3467,
+        "text": "breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3468,
+        "text": "He that smiteth a beast [mortally] shall make it good; and he that smiteth a man [mortally] shall be put to death.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3469,
+        "text": "Ye shall have one law: as the stranger, so the home-born; for I am Jehovah your God.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3470,
+        "text": "And Moses spoke to the children of Israel; and they led the reviler outside the camp and stoned him with stones. And the children of Israel did as Jehovah had commanded Moses.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

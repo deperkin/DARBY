@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 144,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4556,
+        "text": "Then drew near the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph; and these were the names of his daughters: Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4557,
+        "text": "And they stood before Moses, and before Eleazar the priest, and before the princes and the whole assembly, at the entrance of the tent of meeting, saying,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4558,
+        "text": "Our father died in the wilderness, and he was not in the band of them that banded themselves together against Jehovah in the band of Korah; but he died in his own sin, and he had no sons.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4559,
+        "text": "Why should the name of our father be taken away from his family, because he has no son? Give unto us a possession among the brethren of our father.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4560,
+        "text": "And Moses brought their cause before Jehovah.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4561,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4562,
+        "text": "The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father’s brethren; and thou shalt cause the inheritance of their father to pass unto them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4563,
+        "text": "And unto the children of Israel shalt thou speak, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4564,
+        "text": "And if he have no daughter, ye shall give his inheritance unto his brethren.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4565,
+        "text": "And if he have no brethren, ye shall give his inheritance unto his father’s brethren.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4566,
+        "text": "And if his father have no brethren, ye shall give his inheritance to his kinsman that is nearest to him in his family, and he shall possess it; and it shall be unto the children of Israel a statute of right, as Jehovah commanded Moses.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4567,
+        "text": "And Jehovah said to Moses, Get thee up into this mount Abarim, and see the land that I have given unto the children of Israel.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 4568,
+        "text": "And when thou hast seen it, thou also shalt be gathered unto thy peoples, as Aaron thy brother was gathered,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4569,
+        "text": "because ye rebelled against my word in the wilderness of Zin, in the strife of the congregation, as to hallowing me in the matter of the water before their eyes. (That is the water of Meribah at Kadesh in the wilderness of Zin.)",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4570,
+        "text": "And Moses spoke to Jehovah, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 4571,
+        "text": "Let Jehovah, the God of the spirits of all flesh, set a man over the assembly,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4572,
+        "text": "who may go out before them, and who may come in before them, and who may lead them out, and who may bring them in, that the assembly of Jehovah be not as sheep that have no shepherd.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4573,
+        "text": "And Jehovah said to Moses, Take Joshua the son of Nun, a man in whom is the Spirit, and thou shalt lay thy hand upon him;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4574,
+        "text": "and thou shalt set him before Eleazar the priest, and before the whole assembly; and give him commandment before their eyes.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4575,
+        "text": "And thou shalt put of thine honour upon him, that the whole assembly of the children of Israel may obey him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4576,
+        "text": "And he shall stand before Eleazar the priest, who shall inquire for him, by the judgment of the Urim before Jehovah: at his word shall they go out, and at his word they shall come in, he, and all the children of Israel with him, even the whole assembly.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4577,
+        "text": "And Moses did as Jehovah had commanded him; and he took Joshua and set him before Eleazar the priest, and before the whole assembly.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4578,
+        "text": "And he laid his hands upon him, and gave him commandment, as Jehovah had said through Moses.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

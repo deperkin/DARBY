@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 334,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10121,
+        "text": "Manasseh was twelve years old when he began to reign; and he reigned fifty-five years in Jerusalem; and his mother’s name was Hephzibah.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10122,
+        "text": "And he did evil in the sight of Jehovah, like the abominations of the nations that Jehovah had dispossessed from before the children of Israel.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10123,
+        "text": "And he built again the high places that Hezekiah his father had destroyed; and he reared up altars to Baal and made an Asherah, as did Ahab king of Israel; and worshipped all the host of heaven, and served them.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10124,
+        "text": "And he built altars in the house of Jehovah, of which Jehovah had said, In Jerusalem will I put my name.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10125,
+        "text": "And he built altars to all the host of heaven in both courts of the house of Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10126,
+        "text": "And he caused his son to pass through the fire, and used magic and divination, and appointed necromancers and soothsayers: he wrought evil beyond measure in the sight of Jehovah, to provoke him to anger.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10127,
+        "text": "And he set the graven image of the Asherah that he had made, in the house of which Jehovah had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, will I put my name for ever;",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10128,
+        "text": "neither will I any more cause the foot of Israel to wander away from the land that I gave their fathers; if they will only take heed to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10129,
+        "text": "But they would not hearken, and Manasseh led them astray to do more evil than the nations that Jehovah had destroyed from before the children of Israel.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10130,
+        "text": "And Jehovah spoke by his servants the prophets saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 10131,
+        "text": "Because Manasseh king of Judah hath done these abominations, and hath done wickedly above all that the Amorites did, who were before him, and hath made Judah also to sin with his idols;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10132,
+        "text": "therefore thus saith Jehovah the God of Israel: Behold, I will bring evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10133,
+        "text": "And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab, and I will wipe Jerusalem as one wipeth a pan, wiping it and turning it upside down.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10134,
+        "text": "And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become a prey and a spoil to all their enemies;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10135,
+        "text": "because they have done evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt even to this day.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10136,
+        "text": "And Manasseh shed very much innocent blood, till he had filled Jerusalem [with it] from one end to another; beside his sin with which he made Judah to sin, in doing evil in the sight of Jehovah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10137,
+        "text": "And the rest of the acts of Manasseh, and all that he did, and his sin which he sinned, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10138,
+        "text": "And Manasseh slept with his fathers, and was buried in the garden of his own house, in the garden of Uzza; and Amon his son reigned in his stead.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10139,
+        "text": "Amon was twenty-two years old when he began to reign; and he reigned two years in Jerusalem; and his mother’s name was Meshullemeth, daughter of Haruz of Jotbah.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 10140,
+        "text": "And he did evil in the sight of Jehovah, as Manasseh his father had done;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10141,
+        "text": "and he walked in all the way that his father had walked in, and served the idols that his father had served, and worshipped them;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10142,
+        "text": "and he forsook Jehovah the God of his fathers, and walked not in the way of Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10143,
+        "text": "And the servants of Amon conspired against him, and slew the king in his own house.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10144,
+        "text": "But the people of the land smote all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10145,
+        "text": "And the rest of the acts of Amon, what he did, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10146,
+        "text": "And he was buried in his sepulchre in the garden of Uzza; and Josiah his son reigned in his stead.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

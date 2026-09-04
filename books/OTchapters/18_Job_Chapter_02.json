@@ -1,0 +1,103 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 438,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12893,
+        "text": "And there was a day when the sons of God came to present themselves before Jehovah, and Satan also came among them to present himself before Jehovah.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12894,
+        "text": "And Jehovah said to Satan, From whence comest thou? And Satan answered Jehovah and said, From going to and fro in the earth, and from walking up and down in it.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12895,
+        "text": "And Jehovah said to Satan, Hast thou considered my servant Job, that there is none like him on the earth, a perfect and an upright man, one that feareth God and abstaineth from evil? and still he remaineth firm in his integrity, though thou movedst me against him, to swallow him up without cause.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12896,
+        "text": "And Satan answered Jehovah and said, Skin for skin, yea, all that a man hath will he give for his life;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12897,
+        "text": "but put forth thy hand now, and touch his bone and his flesh, [and see] if he will not curse thee to thy face!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12898,
+        "text": "And Jehovah said to Satan, Behold, he is in thy hand; only spare his life.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12899,
+        "text": "And Satan went forth from the presence of Jehovah; and he smote Job with a grievous botch from the sole of his foot unto his crown.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 12900,
+        "text": "And he took a potsherd to scrape himself with; and he sat among the ashes.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12901,
+        "text": "And his wife said to him, Dost thou still remain firm in thine integrity? curse God and die.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12902,
+        "text": "But he said to her, Thou speakest as one of the foolish women speaketh. We have also received good from God, and should we not receive evil? In all this Job did not sin with his lips.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12903,
+        "text": "And three friends of Job heard of all this evil that was come upon him. And they came each one from his place: Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite; and they made an appointment together to come to condole with him and to comfort him.",
+        "WordCount": 50,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 12904,
+        "text": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice and wept. And they rent every one his mantle, and sprinkled dust upon their heads toward the heavens.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12905,
+        "text": "And they sat down with him on the ground seven days and seven nights; and none spoke a word to him; for they saw that [his] anguish was very great.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 60,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1779,
+        "text": "And Jehovah said to Moses, Go in unto Pharaoh; for I have hardened his heart, and the heart of his bondmen, that I might do these my signs in their midst,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1780,
+        "text": "and that thou mightest tell in the ears of thy son and thy son’s son what I have wrought in Egypt, and my signs which I have done among them; and ye shall know that I am Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1781,
+        "text": "And Moses and Aaron came to Pharaoh, and said to him, Thus saith Jehovah the God of the Hebrews: How long dost thou refuse to humble thyself before me? let my people go, that they may serve me.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1782,
+        "text": "For, if thou refuse to let my people go, behold, I will to-morrow bring locusts into thy borders;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1783,
+        "text": "and they shall cover the face of the land, so that ye will not be able to see the land; and they shall eat the residue of that which is escaped, which ye have remaining from the hail, and shall eat every tree which ye have growing in the field;",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1784,
+        "text": "and they shall fill thy houses, and the houses of all thy bondmen, and the houses of all the Egyptians; which neither thy fathers nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned and went out from Pharaoh.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1785,
+        "text": "And Pharaoh’s bondmen said to him, How long shall this man be a snare to us? let the men go, that they may serve Jehovah their God: dost thou not yet know that Egypt is ruined?",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1786,
+        "text": "And Moses and Aaron were brought again to Pharaoh. And he said to them, Go, serve Jehovah your God. Who are they that shall go?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1787,
+        "text": "And Moses said, We will go with our young and with our old, with our sons and with our daughters; with our flocks and with our herds will we go; for we have a feast of Jehovah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1788,
+        "text": "And he said to them, Let Jehovah be so with you, as I let you go, and your little ones: see that evil is before you!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1789,
+        "text": "Not so: go now, ye [that are] men, and serve Jehovah! for it is that ye have desired. And they were driven out from Pharaoh’s presence.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1790,
+        "text": "And Jehovah said to Moses, Stretch out thy hand over the land of Egypt for the locusts, that they may come up over the land of Egypt, and eat every herb of the land—all that the hail hath left.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 1791,
+        "text": "And Moses stretched out his staff over the land of Egypt, and Jehovah brought an east wind on the land all that day and all that night. When it was morning, the east wind brought the locusts.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1792,
+        "text": "And the locusts went up over all the land of Egypt, and rested in all the borders of Egypt, very grievous; before them there were no such locusts as they, neither after them will be such.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1793,
+        "text": "And they covered the face of the whole land, so that the land was darkened; and they ate every herb of the land, and all the fruit of the trees that the hail had left; and there remained not any green thing on the trees, and in the herbs of the field, throughout the land of Egypt.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1794,
+        "text": "And Pharaoh called Moses and Aaron in haste; and he said, I have sinned against Jehovah your God, and against you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1795,
+        "text": "And now, forgive, I pray you, my sin only this time, and intreat Jehovah your God that he may take away from me this death only!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1796,
+        "text": "And he went out from Pharaoh, and intreated Jehovah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1797,
+        "text": "And Jehovah turned a very powerful west wind, which took away the locusts, and drove them into the Red Sea: there remained not one locust in all the borders of Egypt.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1798,
+        "text": "And Jehovah made Pharaoh’s heart stubborn, and he did not let the children of Israel go.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1799,
+        "text": "And Jehovah said to Moses, Stretch out thy hand toward the heavens, that there may be darkness in the land of Egypt—so that one may feel darkness.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 1800,
+        "text": "And Moses stretched out his hand toward the heavens; and there was a thick darkness throughout the land of Egypt three days:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1801,
+        "text": "they saw not one another, neither rose any from his place, for three days. But all the children of Israel had light in their dwellings.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1802,
+        "text": "And Pharaoh called Moses and said, Go, serve Jehovah; only, let your flocks and your herds remain; let your little ones also go with you.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1803,
+        "text": "And Moses said, Thou must give also sacrifices and burnt-offerings into our hands, that we may sacrifice to Jehovah our God.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1804,
+        "text": "Our cattle also must go with us: there shall not a hoof be left behind; for we must take thereof to serve Jehovah our God; and we do not know with what we must serve Jehovah, until we come there.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1805,
+        "text": "But Jehovah made Pharaoh’s heart stubborn, and he would not let them go.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1806,
+        "text": "And Pharaoh said to him, Get thee from me, take heed to thyself, see my face no more; for in the day thou seest my face thou shalt die.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1807,
+        "text": "And Moses said, Thou hast spoken rightly: I will see thy face again no more!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

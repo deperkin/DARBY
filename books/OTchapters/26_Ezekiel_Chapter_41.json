@@ -1,0 +1,194 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 41,
+    "count": 843,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21528,
+        "text": "And he brought me to the temple; and he measured the posts, six cubits broad on the one side, and six cubits broad on the other side, the breadth of the tent.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21529,
+        "text": "And the breadth of the entry was ten cubits, and the sides of the entry were five cubits on this side, and five cubits on that side; and he measured its length, forty cubits, and the breadth, twenty cubits.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21530,
+        "text": "And he went inwards, and measured the post of the entry, two cubits; and the entry, six cubits; and the breadth of the entry, seven cubits.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21531,
+        "text": "And he measured its length, twenty cubits; and the breadth, twenty cubits, before the temple: and he said unto me, This is the most holy [place].",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21532,
+        "text": "And he measured the wall of the house, six cubits; and the breadth of the side-chambers, four cubits, round about the house on every side.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21533,
+        "text": "And the side-chambers were three, chamber over chamber, and thirty in order; and they entered into the wall which the house had for the side-chambers round about, that they might have hold; but they had not hold in the wall of the house.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21534,
+        "text": "And for the side-chambers there was an enlarging, and it went round about [the house] increasing upward; for the surrounding of the house increased upward round about the house; therefore the house had width upward, and so ascended [from] the lower [story] to the upper, by the middle one.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21535,
+        "text": "And I saw that the house had an elevation round about: the foundations of the side-chambers, a full reed, six cubits to the joint.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21536,
+        "text": "The thickness of the wall, which was for the side-chambers without, was five cubits, as also what was left free along the building of the side-chambers that pertained to the house.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21537,
+        "text": "And between the cells [and the house] was a width of twenty cubits round about the house on every side.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21538,
+        "text": "And the entry of the side-chambers was toward what was left free, one entry toward the north, and one entry toward the south; and the width of the space left free was five cubits round about.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21539,
+        "text": "And the building that was before the separate place at the end toward the west was seventy cubits broad; and the wall of the building was five cubits thick round about; and its length ninety cubits.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 21540,
+        "text": "And he measured the house: the length a hundred cubits; and the separate place, and the building, and its walls, the length a hundred cubits;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21541,
+        "text": "and the breadth of the front of the house, and of the separate places toward the east, a hundred cubits.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21542,
+        "text": "And he measured the length of the building before the separate place, which was at the back of it, with its galleries on the one side and on the other side, a hundred cubits; and the inner temple, and the porches of the court.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21543,
+        "text": "The thresholds, and the closed windows, and the galleries round about the three of them (opposite the thresholds it was wainscoted with wood round about, and from the ground up to the windows, and the windows were covered),",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21544,
+        "text": "[and] above, over the entry, even unto the inner house, and without, and by all the wall round about, within and without, [all was] by measure.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21545,
+        "text": "And it was made with cherubim and palm-trees, and a palm-tree was between cherub and cherub; and the cherub had two faces:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21546,
+        "text": "the face of a man was toward the palm-tree on the one side, and the face of a young lion toward the palm-tree on the other side: [so] was it made upon all the house round about.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21547,
+        "text": "From the ground unto above the entry were the cherubim and the palm-trees made, and [on] the wall of the temple.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21548,
+        "text": "As for the temple, the door-posts were squared; and the front of the sanctuary had the same appearance.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21549,
+        "text": "The altar was of wood, three cubits high, and its length two cubits; and its corners, and its length, and its walls were of wood. And he said unto me, This is the table which is before Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21550,
+        "text": "And the temple and the sanctuary had two doors.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21551,
+        "text": "And the doors had two leaves, two turning-leaves: two for the one door, and two leaves for the other.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21552,
+        "text": "And there were made on them, on the doors of the temple, cherubim and palm-trees, as there were made upon the walls; and there was a wooden portal in front of the porch without,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21553,
+        "text": "and closed windows and palm-trees on the one side and on the other side, on the sides of the porch and the side chambers of the house and the portals.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

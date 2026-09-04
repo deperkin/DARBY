@@ -1,0 +1,117 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 15,"name": "Ezra","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 412,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12239,
+        "text": "Now when these things were completed, the princes came to me, saying, The people of Israel, and the priests and the Levites, have not separated themselves from the peoples of the lands, according to their abominations, [even] of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites;",
+        "WordCount": 55,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12240,
+        "text": "for they have taken of their daughters for themselves and for their sons, and have mingled the holy seed with the peoples of the lands; and the hand of the princes and rulers has been chief in this unfaithfulness.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12241,
+        "text": "And when I heard this thing, I rent my mantle and my garment, and plucked off the hair of my head and of my beard, and sat down overwhelmed.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12242,
+        "text": "Then were assembled to me every one that trembled at the words of the God of Israel, because of the unfaithfulness of those that had been carried away; and I sat overwhelmed until the evening oblation.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12243,
+        "text": "And at the evening oblation I arose up from my humiliation; and with my mantle and my garment rent, I fell on my knees, and spread out my hands to Jehovah my God,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 12244,
+        "text": "and said: O my God, I am ashamed and blush to lift up my face to thee, my God; for our iniquities are increased over [our] head, and our trespass is grown up to the heavens.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12245,
+        "text": "Since the days of our fathers, we have been in great trespass to this day; and for our iniquities we, our kings, our priests, have been given into the hand of the kings of the lands, to the sword, and to captivity, and to spoil, and to confusion of face, as it is this day.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12246,
+        "text": "And now for a little space there hath been favour from Jehovah our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12247,
+        "text": "For we are bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us before the kings of Persia, to give us a reviving, to set up the house of our God and to repair the ruins thereof, and to give us a wall in Judah and in Jerusalem.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12248,
+        "text": "And now, what shall we say, our God, after this? for we have forsaken thy commandments,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12249,
+        "text": "which thou hast commanded by thy servants the prophets, saying, The land, unto which ye go to possess [it], is an unclean land through the filthiness of the peoples of the lands, through their abominations with which they have filled it from one end to another through their uncleanness.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12250,
+        "text": "Now therefore give not your daughters to their sons, neither take their daughters to your sons, nor seek their peace or their prosperity for ever; that ye may be strong, and eat the good of the land, and leave it for an inheritance to your children for ever.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12251,
+        "text": "And after all that is come upon us for our evil deeds and for our great trespass, seeing that thou our God hast punished us less than our iniquities [deserve], and hast given us such deliverance as this,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12252,
+        "text": "should we again break thy commandments, and join in affinity with the peoples of these abominations? wouldest thou not be angry with us till thou hadst consumed us, so that there should be no remnant nor any to escape?",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12253,
+        "text": "Jehovah, God of Israel, thou art righteous; for we are a remnant that is escaped, as [it is] this day. Behold, we are before thee in our trespasses; for there is no standing before thee because of this.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

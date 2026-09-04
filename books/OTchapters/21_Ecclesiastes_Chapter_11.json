@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 670,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17515,
+        "text": "Cast thy bread upon the waters; for thou shalt find it after many days.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17516,
+        "text": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17517,
+        "text": "If the clouds be full of rain, they empty themselves upon the earth; and if a tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17518,
+        "text": "He that observeth the wind will not sow; and he that regardeth the clouds will not reap.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17519,
+        "text": "As thou knowest not what is the way of the spirit, how the bones [grow] in the womb of her that is with child, even so thou knowest not the work of God who maketh all.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17520,
+        "text": "In the morning sow thy seed, and in the evening withhold not thy hand; for thou knowest not which shall prosper, whether this or that, or whether they both shall be alike good.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17521,
+        "text": "Now the light is sweet, and pleasant is it to the eyes to see the sun;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17522,
+        "text": "but if a man live many years, [and] rejoice in them all, yet let him remember the days of darkness; for they shall be many: all that cometh is vanity.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17523,
+        "text": "Rejoice, young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart, and in the sight of thine eyes; but know that for all these [things] God will bring thee into judgment.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17524,
+        "text": "Then remove discontent from thy heart, and put away evil from thy flesh; for childhood and youth are vanity.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

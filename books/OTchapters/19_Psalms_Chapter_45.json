@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 45,
+    "count": 523,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14599,
+        "text": "{To the chief Musician. Upon Shoshannim. Of the sons of Korah. An instruction;—a song of the Beloved.} My heart is welling forth [with] a good matter: I say what I have composed touching the king. My tongue is the pen of a ready writer.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14600,
+        "text": "Thou art fairer than the sons of men; grace is poured into thy lips: therefore God hath blessed thee for ever.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14601,
+        "text": "Gird thy sword upon [thy] thigh, O mighty one, [in] thy majesty and thy splendour;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14602,
+        "text": "And [in] thy splendour ride prosperously, because of truth and meekness [and] righteousness: and thy right hand shall teach thee terrible things.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14603,
+        "text": "Thine arrows are sharp—peoples fall under thee—in the heart of the king’s enemies.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14604,
+        "text": "Thy throne, O God, is for ever and ever; a sceptre of uprightness is the sceptre of thy kingdom:",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14605,
+        "text": "Thou hast loved righteousness, and hated wickedness; therefore God, thy God, hath anointed thee with the oil of gladness above thy companions.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14606,
+        "text": "Myrrh and aloes, cassia, are all thy garments; out of ivory palaces stringed instruments have made thee glad.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14607,
+        "text": "Kings’ daughters are among thine honourable women; upon thy right hand doth stand the queen in gold of Ophir.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14608,
+        "text": "Hearken, daughter, and see, and incline thine ear; and forget thine own people and thy father’s house:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 14609,
+        "text": "And the king will desire thy beauty; for he is thy Lord, and worship thou him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14610,
+        "text": "And the daughter of Tyre with a gift, the rich ones among the people, shall court thy favour.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14611,
+        "text": "All glorious is the king’s daughter within; her clothing is of wrought gold:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14612,
+        "text": "She shall be brought unto the king in raiment of embroidery; the virgins behind her, her companions, shall be brought in unto thee:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14613,
+        "text": "With joy and gladness shall they be brought; they shall enter into the king’s palace.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14614,
+        "text": "Instead of thy fathers shall be thy sons; princes shalt thou make them in all the earth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14615,
+        "text": "I will make thy name to be remembered throughout all generations; therefore shall the peoples praise thee for ever and ever.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

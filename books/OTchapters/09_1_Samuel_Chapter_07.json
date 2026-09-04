@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 243,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7354,
+        "text": "And the men of Kirjath-jearim came, and fetched up the ark of Jehovah, and brought it into the house of Abinadab on the hill, and hallowed Eleazar his son to keep the ark of Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7355,
+        "text": "And it came to pass, from the day that the ark abode in Kirjath-jearim, that the time was long; for it was twenty years. And all the house of Israel lamented after Jehovah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7356,
+        "text": "And Samuel spoke to all the house of Israel, saying, If ye return to Jehovah with all your heart, put away the strange gods and the Ashtoreths from among you, and apply your hearts unto Jehovah, and serve him only; and he will deliver you out of the hand of the Philistines.",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 7357,
+        "text": "And the children of Israel put away the Baals and the Ashtoreths and served Jehovah only.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7358,
+        "text": "And Samuel said, Gather all Israel to Mizpah, and I will pray Jehovah for you.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7359,
+        "text": "And they gathered together to Mizpah, and drew water, and poured it out before Jehovah, and fasted on that day, and said there, We have sinned against Jehovah. And Samuel judged the children of Israel in Mizpah.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7360,
+        "text": "And the Philistines heard that the children of Israel were gathered together at Mizpah; and the lords of the Philistines went up against Israel; and the children of Israel heard [it], and were afraid of the Philistines.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 7361,
+        "text": "And the children of Israel said to Samuel, Cease not to cry to Jehovah our God for us, that he will save us out of the hand of the Philistines.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7362,
+        "text": "And Samuel took a sucking-lamb, and offered it as a whole burnt-offering to Jehovah; and Samuel cried to Jehovah for Israel, and Jehovah answered him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7363,
+        "text": "And as Samuel was offering up the burnt-offering, the Philistines advanced to battle against Israel. And Jehovah thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were routed before Israel.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7364,
+        "text": "And the men of Israel went out of Mizpah, and pursued the Philistines, and smote them, as far as below Beth-car.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7365,
+        "text": "And Samuel took a stone and set it between Mizpah and Shen, and called the name of it Eben-ezer, and said, Hitherto Jehovah has helped us.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7366,
+        "text": "And the Philistines were subdued, and came no more into the borders of Israel; and the hand of Jehovah was against the Philistines all the days of Samuel.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 7367,
+        "text": "And the cities that the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath; and their territory did Israel deliver out of the hand of the Philistines. And there was peace between Israel and the Amorite.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7368,
+        "text": "And Samuel judged Israel all the days of his life.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7369,
+        "text": "And he went from year to year in circuit to Bethel, and Gilgal, and Mizpah, and judged Israel in all those places.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7370,
+        "text": "And his return was to Ramah; for there was his house, and there he judged Israel; and there he built an altar to Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 169,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5344,
+        "text": "Keep the month of Abib, and celebrate the passover to Jehovah thy God; for in the month of Abib Jehovah thy God brought thee forth out of Egypt by night.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5345,
+        "text": "And thou shalt sacrifice the passover to Jehovah thy God, of the flock and of the herd, in the place which Jehovah will choose to cause his name to dwell there.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5346,
+        "text": "Thou shalt eat no leavened bread along with it; seven days shalt thou eat unleavened bread with it, bread of affliction; for thou camest forth out of the land of Egypt in haste,—that thou mayest remember the day when thou camest forth out of the land of Egypt, all the days of thy life.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5347,
+        "text": "And there shall be no leaven seen with thee in all thy borders seven days; neither shall any of the flesh, which thou sacrificedst at even on the first day, be left over night until the morning.—",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5348,
+        "text": "Thou mayest not sacrifice the passover in one of thy gates, which Jehovah thy God giveth thee;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5349,
+        "text": "but at the place that Jehovah thy God will choose, to cause his name to dwell in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the time that thou camest forth out of Egypt.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5350,
+        "text": "And thou shalt cook and eat it at the place which Jehovah thy God will choose; and in the morning shalt thou turn and go unto thy tents.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5351,
+        "text": "Six days thou shalt eat unleavened bread, and on the seventh day is a solemn assembly to Jehovah thy God; thou shalt do no work.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5352,
+        "text": "Seven weeks shalt thou count: from the beginning of putting the sickle into the corn shalt thou begin to count seven weeks.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5353,
+        "text": "And thou shalt hold the feast of weeks to Jehovah thy God with a tribute of a voluntary-offering of thy hand, which thou shalt give, according as Jehovah thy God hath blessed thee;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5354,
+        "text": "and thou shalt rejoice before Jehovah thy God, thou, and thy son, and thy daughter, and thy bondman, and thy handmaid, and the Levite that is in thy gates, and the stranger, and the fatherless, and the widow that are in thy midst in the place that Jehovah thy God will choose to cause his name to dwell there.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5355,
+        "text": "And thou shalt remember that thou wast a bondman in Egypt, and thou shalt keep and do these statutes.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5356,
+        "text": "The feast of tabernacles shalt thou hold seven days, when thou hast gathered in [the produce] of thy floor and of thy winepress.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5357,
+        "text": "And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy bondman, and thy handmaid, and the Levite, and the stranger, and the fatherless, and the widow, that are in thy gates.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5358,
+        "text": "Seven days shalt thou hold a feast to Jehovah thy God in the place which Jehovah will choose; for Jehovah thy God will bless thee in all thy produce, and in all the work of thy hands, and thou shalt be wholly joyful.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5359,
+        "text": "Three times in the year shall all thy males appear before Jehovah thy God in the place which he will choose, at the feast of unleavened bread, and at the feast of weeks, and at the feast of tabernacles; and they shall not appear before Jehovah empty:",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5360,
+        "text": "each [shall give] according to that which is in his power to give, according to the blessing of Jehovah thy God which he hath given thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5361,
+        "text": "Judges and officers shalt thou make thee in all thy gates, which Jehovah thy God giveth thee, throughout thy tribes, that they may judge the people with just judgment.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 5362,
+        "text": "Thou shalt not wrest judgment; thou shalt not respect persons, neither take a bribe; for the bribe blindeth the eyes of the wise, and perverteth the words of the righteous.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5363,
+        "text": "Perfect justice shalt thou follow, that thou mayest live, and possess the land that Jehovah thy God giveth thee.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5364,
+        "text": "Thou shalt not plant thyself an Asherah of any wood near unto the altar of Jehovah thy God, which thou shalt make thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5365,
+        "text": "Neither shalt thou set thee up a statue, which Jehovah thy God hateth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

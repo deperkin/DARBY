@@ -1,0 +1,250 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 752,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19121,
+        "text": "The word that came to Jeremiah from Jehovah, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19122,
+        "text": "Stand in the gate of Jehovah’s house, and proclaim there this word, and say, Hear ye the word of Jehovah, all Judah, that enter in at these gates to worship Jehovah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19123,
+        "text": "Thus saith Jehovah of hosts, the God of Israel: Amend your ways and your doings, and I will cause you to dwell in this place.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19124,
+        "text": "Confide ye not in words of falsehood, saying, Jehovah’s temple, Jehovah’s temple, Jehovah’s temple is this.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19125,
+        "text": "But if ye thoroughly amend your ways and your doings, if ye really do justice between a man and his neighbour,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19126,
+        "text": "[if] ye oppress not the stranger, the fatherless, and the widow, and shed no innocent blood in this place, neither walk after other gods to your hurt;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19127,
+        "text": "then will I cause you to dwell in this place, in the land that I gave to your fathers from of old even for ever.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 19128,
+        "text": "Behold, ye confide in words of falsehood that cannot profit.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19129,
+        "text": "What? steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not...",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19130,
+        "text": "then ye come and stand before me, in this house which is called by my name, and say, We are delivered,—in order to do all these abominations!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 19131,
+        "text": "Is this house, which is called by my name, a den of robbers in your eyes? Even I, behold, I have seen it, saith Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19132,
+        "text": "For go now unto my place which was in Shiloh, where I caused my name to dwell at the first, and see what I did to it, for the wickedness of my people Israel.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19133,
+        "text": "And now, because ye have done all these works, saith Jehovah, and I spoke unto you, rising up early and speaking, and ye heard not, and I called you, and ye answered not;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19134,
+        "text": "I will even do unto the house which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19135,
+        "text": "and I will cast you out of my sight, as I have cast out all your brethren, all the seed of Ephraim.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19136,
+        "text": "And thou, pray not for this people, neither lift up cry nor prayer for them, and make not intercession to me; for I will not hear thee.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 19137,
+        "text": "Seest thou not what they do in the cities of Judah, and in the streets of Jerusalem?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19138,
+        "text": "The children gather wood, and the fathers kindle the fire, and the women knead dough, to make cakes to the queen of heaven, and to pour out drink-offerings unto other gods, that they may provoke me to anger.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19139,
+        "text": "Is it I whom they provoke to anger? saith Jehovah; is it not themselves, to the shame of their own face?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19140,
+        "text": "Therefore thus saith the Lord Jehovah: Behold, mine anger and my fury shall be poured out upon this place; upon man, and upon beast, and upon the trees of the field, and upon the fruit of the ground; and it shall burn, and shall not be quenched.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 19141,
+        "text": "Thus saith Jehovah of hosts, the God of Israel: Add your burnt-offerings to your sacrifices, and eat the flesh.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 19142,
+        "text": "For I spoke not unto your fathers, nor commanded them concerning burnt-offerings and sacrifices, in the day that I brought them out of the land of Egypt;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 19143,
+        "text": "but I commanded them this thing, saying, Hearken unto my voice, and I will be your God, and ye shall be my people; and walk in all the way that I command you, that it may be well with you.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 19144,
+        "text": "But they hearkened not, nor inclined their ear, but walked in the counsels, in the stubbornness of their evil heart, and went backward and not forward.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 19145,
+        "text": "Since the day that your fathers came forth out of the land of Egypt, unto this day, have I sent unto you all my servants the prophets, daily rising up early and sending them;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 19146,
+        "text": "but they have not hearkened unto me, nor inclined their ear; and they have hardened their neck: they have done worse than their fathers.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 19147,
+        "text": "And thou shalt speak all these words unto them, but they will not hearken unto thee; and thou shalt call unto them, but they will not answer thee.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 19148,
+        "text": "And thou shalt say unto them, This is the nation which hath not hearkened unto the voice of Jehovah their God, nor received correction; fidelity is perished, and is cut off from their mouth.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 19149,
+        "text": "Cut off thy hair, and cast it away, and take up a lamentation on the heights; for Jehovah hath rejected and forsaken the generation of his wrath.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 19150,
+        "text": "For the children of Judah have done evil in my sight, saith Jehovah; they have set their abominations in the house which is called by my name, to defile it.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 19151,
+        "text": "And they have built the high places of Topheth, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded not, neither did it come up into my mind.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 19152,
+        "text": "Therefore, behold, days are coming, saith Jehovah, when it shall no more be said, Topheth, and Valley of the son of Hinnom, but the valley of slaughter; for they shall bury in Topheth, till there be no place.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 19153,
+        "text": "And the carcases of this people shall be food for the fowl of the heavens, and for the beasts of the earth; and none shall scare [them] away.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 19154,
+        "text": "And I will cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth and the voice of joy, the voice of the bridegroom and the voice of the bride; for the land shall become a waste.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

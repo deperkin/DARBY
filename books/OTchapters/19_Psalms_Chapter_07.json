@@ -1,0 +1,131 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 485,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13997,
+        "text": "{Shiggaion of David, which he sang to Jehovah, concerning the words of Cush the Benjaminite.} Jehovah my God, in thee have I trusted: save me from all my pursuers, and deliver me;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13998,
+        "text": "Lest he tear my soul like a lion, crushing it while there is no deliverer.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13999,
+        "text": "Jehovah my God, if I have done this, if there be iniquity in my hands;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14000,
+        "text": "If I have rewarded evil to him that was at peace with me; (indeed I have freed him that without cause oppressed me;)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14001,
+        "text": "Let the enemy pursue after my soul, and take [it], and let him tread down my life to the earth, and lay my glory in the dust. Selah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14002,
+        "text": "Arise, Jehovah, in thine anger; lift thyself up against the raging of mine oppressors, and awake for me: thou hast commanded judgment.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14003,
+        "text": "And the assembly of the peoples shall encompass thee; and for their sakes return thou on high.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14004,
+        "text": "Jehovah shall minister judgment to the peoples. Judge me, Jehovah, according to my righteousness, and according to mine integrity which is in me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14005,
+        "text": "Oh let the wrong of the wicked come to an end, and establish thou the righteous [man]; even thou that triest the hearts and reins, the righteous God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14006,
+        "text": "My shield is with God, who saveth the upright in heart.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 14007,
+        "text": "God is a righteous judge, and a God who is indignant all the day.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14008,
+        "text": "If one turn not, he will sharpen his sword; he hath bent his bow and made it ready,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14009,
+        "text": "And he hath prepared for him instruments of death; his arrows hath he made burning.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14010,
+        "text": "Behold, he travaileth with iniquity, yea, he hath conceived mischief, and brought forth falsehood:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14011,
+        "text": "He digged a pit, and hollowed it out, and is fallen into the hole that he made.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14012,
+        "text": "His mischief shall return upon his own head, and his violence shall come down upon his own pate.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14013,
+        "text": "I will praise Jehovah according to his righteousness, and will sing forth the name of Jehovah the Most High.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

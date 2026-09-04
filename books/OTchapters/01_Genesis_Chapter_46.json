@@ -1,0 +1,250 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 46,
+    "count": 46,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1388,
+        "text": "And Israel took his journey with all that he had, and came to Beer-sheba; and he offered sacrifices to the God of his father Isaac.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1389,
+        "text": "And God spoke to Israel in the visions of the night and said, Jacob, Jacob! And he said, Here am I.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1390,
+        "text": "And he said, I am God, the God of thy father: fear not to go down to Egypt; for I will there make of thee a great nation.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1391,
+        "text": "I will go down with thee to Egypt, and I will also certainly bring thee up; and Joseph shall put his hand on thine eyes.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1392,
+        "text": "And Jacob rose up from Beer-sheba; and the sons of Israel carried Jacob their father, and their little ones, and their wives, on the waggons that Pharaoh had sent to carry him.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 1393,
+        "text": "And they took their cattle, and their goods which they had acquired in the land of Canaan, and came to Egypt, Jacob and all his seed with him;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1394,
+        "text": "his sons and his sons’ sons with him, his daughters and his sons’ daughters and all his seed he brought with him to Egypt.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1395,
+        "text": "And these are the names of the sons of Israel who came into Egypt: Jacob and his sons. Jacob’s firstborn, Reuben.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1396,
+        "text": "And the sons of Reuben: Enoch, and Phallu, and Hezron, and Carmi.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1397,
+        "text": "And the sons of Simeon: Jemuel, And Jamin, And Ohad, And Jachin, And Zohar, And Saul the son of a Canaanitish woman.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1398,
+        "text": "And the sons of Levi: Gershon, Kohath, And Merari.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1399,
+        "text": "—And the sons of Judah: Er, and Onan, and Shelah, and Pherez, and Zerah; but Er and Onan died in the land of Canaan. And the sons of Pherez were Hezron and Hamul.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1400,
+        "text": "And the sons of Issachar: Tola, And Puah, And Job, And Shimron.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1401,
+        "text": "And the sons of Zebulun: Sered, And Elon, And Jahleel.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1402,
+        "text": "—These are the sons of Leah, whom she bore to Jacob in Padan-Aram; and his daughter, Dinah. All the souls of his sons and his daughters were thirty-three.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1403,
+        "text": "And the sons of Gad: Ziphion and Haggi, Shuni and Ezbon, Eri, and Arodi, and Areli.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1404,
+        "text": "—And the sons of Asher: Jimnah, and Jishvah, and Jishvi, and Beriah; and Serah their sister; and the sons of Beriah: Heber and Malchiel.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1405,
+        "text": "—These are the sons of Zilpah, whom Laban gave to Leah his daughter; and she bore these to Jacob: sixteen souls.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1406,
+        "text": "The sons of Rachel Jacob’s wife: Joseph and Benjamin.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1407,
+        "text": "And to Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asnath bore to him, the daughter of Potipherah the priest in On.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1408,
+        "text": "And the sons of Benjamin: Belah, And Becher, And Ashbel, Gera And Naaman, Ehi And Rosh, Muppim, And Huppim, And Ard.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1409,
+        "text": "these are the sons of Rachel who were born to Jacob: all the souls were fourteen.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1410,
+        "text": "And the sons of Dan: Hushim.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1411,
+        "text": "And the sons of Naphtali: Jahzeel, And Guni, And Jezer, And Shillem.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1412,
+        "text": "—These are the sons of Bilhah, whom Laban gave to Rachel his daughter; and she bore these to Jacob: all the souls were seven.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1413,
+        "text": "All the souls that came with Jacob to Egypt, that had come out of his loins, besides Jacob’s sons’ wives: all the souls were sixty-six.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1414,
+        "text": "And the sons of Joseph who were born to him in Egypt, were two souls. All the souls of the house of Jacob that came to Egypt were seventy.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1415,
+        "text": "And he sent Judah before him to Joseph, to give notice before he came to Goshen. And they came into the land of Goshen.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 1416,
+        "text": "Then Joseph yoked his chariot, and went up to meet Israel his father, to Goshen, and he presented himself to him; and he fell on his neck, and wept on his neck a good while.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1417,
+        "text": "And Israel said to Joseph, Now let me die, after I have seen thy face, since thou still livest.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1418,
+        "text": "And Joseph said to his brethren and to his father’s house, I will go up, and tell Pharaoh, and say to him, My brethren and my father’s house, who were in the land of Canaan, are come to me;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 1419,
+        "text": "and the men are shepherds, for they have been occupied with cattle; and they have brought their sheep, and their cattle, and all that they have.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 1420,
+        "text": "And it shall come to pass that when Pharaoh shall call you and say, What is your occupation?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 1421,
+        "text": "then ye shall say, Thy servants are men that have been occupied with cattle from our youth even until now, both we and our fathers; in order that ye may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 27,
+    "MaxVerses": 46,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 729,
+        "text": "And it came to pass when Isaac had become old, and his eyes were dim so that he could not see, that he called Esau his elder son, and said to him, My son! And he said to him, Here am I.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 730,
+        "text": "And he said, Behold now, I am become old; I know not the day of my death.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 731,
+        "text": "And now, I pray thee, take thy weapons, thy quiver and thy bow, and go out to the field and hunt me venison,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 732,
+        "text": "and prepare me a savoury dish such as I love, and bring it to me that I may eat, in order that my soul may bless thee before I die.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 733,
+        "text": "And Rebecca heard when Isaac spoke to Esau his son. And Esau went to the field to hunt venison, to bring it.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 734,
+        "text": "And Rebecca spoke to Jacob her son, saying, Behold, I heard thy father speak to Esau thy brother, saying,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 735,
+        "text": "Bring me venison, and prepare me a savoury dish, that I may eat, and bless thee before Jehovah, before my death.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 736,
+        "text": "And now, my son, hearken to my voice in that which I command thee.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 737,
+        "text": "Go, I pray thee, to the flock, and fetch me thence two good kids of the goats. And I will make of them a savoury dish for thy father, such as he loves.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 738,
+        "text": "And thou shalt bring [it] to thy father, that he may eat, in order that he may bless thee before his death.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 739,
+        "text": "And Jacob said to Rebecca his mother, Behold, Esau my brother is a hairy man, and I am a smooth man.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 740,
+        "text": "My father perhaps will feel me, and I shall be in his sight as one who mocks [him], and I shall bring a curse on me, and not a blessing.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 741,
+        "text": "And his mother said to him, On me [be] thy curse, my son! Only hearken to my voice, and go, fetch [them].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 742,
+        "text": "And he went, and fetched and brought [them] to his mother. And his mother prepared a savoury dish such as his father loved.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 743,
+        "text": "And Rebecca took the clothes of her elder son Esau, the costly ones which were with her in the house, and put them on Jacob her younger son;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 744,
+        "text": "and she put the skins of the kids of the goats on his hands, and on the smooth of his neck;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 745,
+        "text": "and she gave the savoury dishes and the bread that she had prepared into the hand of her son Jacob.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 746,
+        "text": "And he came to his father, and said, My father! And he said, Here am I: who art thou, my son?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 747,
+        "text": "And Jacob said to his father, I am Esau, thy firstborn. I have done according as thou didst say to me. Arise, I pray thee, sit and eat of my venison, in order that thy soul may bless me.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 748,
+        "text": "And Isaac said to his son, How is it that thou hast found [it] so quickly, my son? And he said, Because Jehovah thy God put [it] in my way.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 749,
+        "text": "And Isaac said to Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be really my son Esau or not.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 750,
+        "text": "And Jacob drew near to Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 751,
+        "text": "And he did not discern him, because his hands were hairy, as his brother Esau’s hands; and he blessed him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 752,
+        "text": "And he said, Art thou really my son Esau? And he said, It is I.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 753,
+        "text": "And he said, Bring [it] near to me, that I may eat of my son’s venison, in order that my soul may bless thee. And he brought [it] near to him, and he ate; and he brought him wine, and he drank.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 754,
+        "text": "And his father Isaac said to him, Come near, now, and kiss me, my son.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 755,
+        "text": "And he came near, and kissed him. And he smelt the smell of his clothes, and blessed him, and said, See, the smell of my son is as the smell of a field which Jehovah hath blessed.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 756,
+        "text": "And God give thee of the dew of heaven, And of the fatness of the earth, And plenty of corn and new wine.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 757,
+        "text": "Let peoples serve thee, And races bow down to thee. Be lord over thy brethren, And let thy mother’s sons bow down to thee. Cursed be they that curse thee, And blessed be they that bless thee.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 758,
+        "text": "And it came to pass when Isaac had ended blessing Jacob, and when Jacob was only just gone out from Isaac his father, that Esau his brother came from his hunting.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 759,
+        "text": "And he also had prepared savoury dishes, and he brought [them] in to his father, and said to his father, Let my father arise and eat of his son’s venison, in order that thy soul may bless me.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 760,
+        "text": "And Isaac his father said to him, Who art thou? And he said, I am thy son, thy firstborn, Esau.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 761,
+        "text": "Then Isaac trembled with exceeding great trembling, and said, Who was he, then, that hunted venison and brought [it] to me? And I have eaten of all before thou camest, and have blessed him; also blessed he shall be.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 762,
+        "text": "When Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said to his father, Bless me—me also, my father!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 763,
+        "text": "And he said, Thy brother came with subtilty, and has taken away thy blessing.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 764,
+        "text": "And he said, Is it not therefore he was named Jacob, for he has supplanted me now twice? He took away my birthright, and behold, now he has taken away my blessing. And he said, Hast thou not reserved a blessing for me?",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 765,
+        "text": "And Isaac answered and said to Esau, Behold, I have made him lord over thee, and all his brethren have I given to him for servants, and with corn and new wine have I supplied him—and what can I do now for thee, my son?",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 766,
+        "text": "And Esau said to his father, Hast thou then but one blessing, my father? bless me—me also, my father! And Esau lifted up his voice and wept.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 767,
+        "text": "And Isaac his father answered and said to him, Behold, thy dwelling shall be of the fatness of the earth, And of the dew of heaven from above;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 768,
+        "text": "And by thy sword shalt thou live; And thou shalt serve thy brother; And it shall come to pass when thou rovest about, That thou shalt break his yoke from off thy neck.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 769,
+        "text": "And Esau hated Jacob because of the blessing with which his father had blessed him. And Esau said in his heart, The days of mourning for my father are at hand, and I will slay my brother Jacob.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 770,
+        "text": "And the words of Esau her elder son were told to Rebecca. And she sent and called Jacob her younger son, and said to him, Behold, thy brother Esau, as touching thee, comforts himself that he will kill thee.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 771,
+        "text": "And now, my son, hearken to my voice, and arise, flee to Laban my brother, to Haran;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 772,
+        "text": "and abide with him some days, until thy brother’s fury turn away—",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 773,
+        "text": "until thy brother’s anger turn away from thee, and he forget what thou hast done to him; then I will send and fetch thee thence. Why should I be bereaved even of you both in one day?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 774,
+        "text": "And Rebecca said to Isaac, I am weary of my life because of the daughters of Heth. If Jacob take a wife of the daughters of Heth, such as these, of the daughters of the land, what good should my life do me?",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

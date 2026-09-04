@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 61,
+    "count": 539,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14821,
+        "text": "{To the chief Musician. On a stringed instrument. [A Psalm] of David.} Hear, O God, my cry; attend unto my prayer.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14822,
+        "text": "From the end of the earth will I call unto thee, when my heart is overwhelmed: thou wilt lead me on to a rock which is too high for me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14823,
+        "text": "For thou hast been a refuge for me, a strong tower from before the enemy.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14824,
+        "text": "I will sojourn in thy tent for ever; I will take refuge in the covert of thy wings. Selah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14825,
+        "text": "For thou, O God, hast heard my vows; thou hast given [me] the inheritance of those that fear thy name.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 14826,
+        "text": "Thou wilt add days to the days of the king: his years shall be as many generations.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14827,
+        "text": "He shall abide before God for ever: bestow loving-kindness and truth, that they may preserve him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14828,
+        "text": "So will I sing forth thy name for ever, performing my vows from day to day.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

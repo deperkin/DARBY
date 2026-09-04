@@ -1,0 +1,54 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 683,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17735,
+        "text": "And seven women shall take hold of one man in that day, saying, Our own bread will we eat, and with our own garments will we be clothed; only let us be called by thy name;—take away our reproach!",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17736,
+        "text": "In that day there shall be a sprout of Jehovah for beauty and glory, and the fruit of the earth for excellency and for ornament for those that are escaped of Israel.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17737,
+        "text": "And it shall come to pass that he who remaineth in Zion, and he that is left in Jerusalem, shall be called holy,—every one that is written among the living in Jerusalem;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17738,
+        "text": "when the Lord shall have washed away the filth of the daughters of Zion, and shall have scoured out the blood of Jerusalem from its midst, by the spirit of judgment, and by the spirit of burning.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17739,
+        "text": "And Jehovah will create over every dwelling-place of mount Zion, and over its convocations, a cloud by day and a smoke, and the brightness of a flame of fire by night: for over all the glory shall be a covering.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17740,
+        "text": "And there shall be a tabernacle for shade by day from the heat, and for a shelter and for a covert from storm and from rain.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

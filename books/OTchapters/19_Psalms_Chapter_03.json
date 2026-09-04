@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 481,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13959,
+        "text": "{A Psalm of David, when he fled from Absalom his son.} Jehovah, how many are they that trouble me, many they that rise up against me!",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13960,
+        "text": "Many say of my soul, There is no salvation for him in God. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13961,
+        "text": "But thou, Jehovah, art a shield about me; my glory, and the lifter up of my head.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13962,
+        "text": "With my voice will I call to Jehovah, and he will answer me from the hill of his holiness. Selah.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 13963,
+        "text": "I laid me down and slept; I awaked, for Jehovah sustaineth me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13964,
+        "text": "I will not fear for myriads of the people that have set themselves against me round about.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13965,
+        "text": "Arise, Jehovah; save me, my God! For thou hast smitten all mine enemies upon the cheekbone, thou hast broken the teeth of the wicked.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13966,
+        "text": "Salvation is of Jehovah; thy blessing is upon thy people. Selah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

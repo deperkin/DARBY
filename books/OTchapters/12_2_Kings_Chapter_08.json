@@ -1,0 +1,215 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 321,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9729,
+        "text": "And Elisha had spoken to the woman whose son he had restored to life, saying, Rise up and go, thou and thy household, and sojourn wheresoever thou canst sojourn; for Jehovah has called for a famine, and it shall also come upon the land for seven years.",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9730,
+        "text": "And the woman rose up, and did according to the saying of the man of God, and went, she and her household, and sojourned in the land of the Philistines seven years.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9731,
+        "text": "And it came to pass at the seven years’ end, that the woman returned out of the land of the Philistines; and she went forth to cry to the king for her house and for her land.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9732,
+        "text": "And the king was talking with Gehazi, the servant of the man of God, saying, Tell me, I pray thee, all the great things that Elisha has done.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9733,
+        "text": "And it came to pass as he was telling the king how he had restored a dead body to life, that behold, the woman whose son he had restored to life cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life.",
+        "WordCount": 63,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9734,
+        "text": "And the king asked the woman, and she told him. And the king appointed a certain chamberlain, saying, Restore all that was hers, and all the revenue of the land since the day that she left the country even until now.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9735,
+        "text": "And Elisha came to Damascus; and Ben-Hadad the king of Syria was sick; and it was told him saying, The man of God is come hither.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 9736,
+        "text": "And the king said to Hazael, Take a present in thy hand, and go, meet the man of God, and inquire of Jehovah by him, saying, Shall I recover from this disease?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9737,
+        "text": "And Hazael went to meet him, and took with him a present, even of every good thing of Damascus, forty camels’ burden; and he came and stood before him, and said, Thy son Ben-Hadad king of Syria has sent me to thee, saying, Shall I recover from this disease?",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9738,
+        "text": "And Elisha said to him, Go, say to him, Thou wilt certainly recover. But Jehovah has shewn me that he shall certainly die.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9739,
+        "text": "And he settled his countenance stedfastly, until he was ashamed; and the man of God wept.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9740,
+        "text": "And Hazael said, Why does my lord weep? And he said, Because I know the evil that thou wilt do to the children of Israel: their strongholds wilt thou set on fire, and their young men wilt thou kill with the sword, and wilt dash in pieces their children, and rip up their women with child.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9741,
+        "text": "And Hazael said, But what, is thy servant a dog, that he should do this great thing? And Elisha said, Jehovah has shewn me that thou wilt be king over Syria.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9742,
+        "text": "And he departed from Elisha, and came to his master, who said to him, What did Elisha say to thee? And he said, He told me [that] thou wouldest certainly recover.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9743,
+        "text": "And it came to pass the next day, that he took the coverlet and dipped [it] in water, and spread it over his face, so that he died; and Hazael reigned in his stead.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9744,
+        "text": "And in the fifth year of Joram the son of Ahab, king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat, king of Judah, began to reign.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 9745,
+        "text": "He was thirty-two years old when he began to reign; and he reigned eight years in Jerusalem.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9746,
+        "text": "And he walked in the way of the kings of Israel, as did the house of Ahab, for the daughter of Ahab was his wife; and he did evil in the sight of Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9747,
+        "text": "But Jehovah would not destroy Judah, for David his servant’s sake, as he had promised him to give him always a lamp for his sons.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9748,
+        "text": "In his days Edom revolted from under the hand of Judah, and they set a king over themselves.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9749,
+        "text": "And Joram went over to Zair, and all the chariots with him; and he rose up by night, and smote the Edomites who had surrounded him, and the captains of the chariots; and the people fled into their tents.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9750,
+        "text": "But the Edomites revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9751,
+        "text": "And the rest of the acts of Joram and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9752,
+        "text": "And Joram slept with his fathers, and was buried with his fathers in the city of David; and Ahaziah his son reigned in his stead.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9753,
+        "text": "In the twelfth year of Joram the son of Ahab, king of Israel, Ahaziah the son of Jehoram, king of Judah, began to reign.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 9754,
+        "text": "Ahaziah was twenty-two years old when he began to reign; and he reigned one year in Jerusalem; and his mother’s name was Athaliah, the daughter of Omri king of Israel.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9755,
+        "text": "And he walked in the way of the house of Ahab, and did evil in the sight of Jehovah, like the house of Ahab; for he was the son-in-law of the house of Ahab.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9756,
+        "text": "And he went with Joram the son of Ahab to the war against Hazael the king of Syria at Ramoth-Gilead; and the Syrians wounded Joram.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9757,
+        "text": "And king Joram returned to be healed in Jizreel of the wounds that the Syrians had given him at Ramah, when he fought with Hazael king of Syria. And Ahaziah the son of Jehoram, king of Judah, went down to see Joram the son of Ahab at Jizreel, for he was sick.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

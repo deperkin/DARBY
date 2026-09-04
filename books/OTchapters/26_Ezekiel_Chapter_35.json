@@ -1,0 +1,117 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 35,
+    "count": 837,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21346,
+        "text": "And the word of Jehovah came unto me, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21347,
+        "text": "Son of man, set thy face against mount Seir, and prophesy against it,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21348,
+        "text": "and say unto it, Thus saith the Lord Jehovah: Behold, I am against thee, mount Seir, and I will stretch out my hand upon thee, and I will make thee a desolation and an astonishment.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21349,
+        "text": "I will lay thy cities waste, and thou shalt be a desolation: and thou shalt know that I [am] Jehovah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21350,
+        "text": "Because thou hast had a perpetual hatred, and hast given over the children of Israel to the power of the sword, in the time of their calamity, in the time of the iniquity of the end;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21351,
+        "text": "therefore, [as] I live, saith the Lord Jehovah, I will certainly appoint thee unto blood, and blood shall pursue thee; since thou hast not hated blood, blood shall pursue thee.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21352,
+        "text": "And I will make mount Seir a desolation and an astonishment, and cut off from it him that passeth out and him that returneth;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21353,
+        "text": "and I will fill his mountains with his slain. In thy hills, and in thy valleys, and in all thy water-courses shall they fall that are slain with the sword.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21354,
+        "text": "I will make thee perpetual desolations, and thy cities shall not be inhabited: and ye shall know that I [am] Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21355,
+        "text": "Because thou hast said, These two nations and these two countries shall be mine, and we will possess it, whereas Jehovah was there:",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 21356,
+        "text": "therefore, [as] I live, saith the Lord Jehovah, I will even do according to thine anger and according to thine envy, as thou hast done out of thy hatred against them; and I will make myself known among them, when I shall judge thee.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21357,
+        "text": "And thou shalt know that I Jehovah have heard all thy reproaches, which thou hast uttered against the mountains of Israel, saying, They are laid desolate, they are given us to devour.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21358,
+        "text": "And ye have magnified yourselves against me with your mouth, and have multiplied your words against me: I have heard [them].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21359,
+        "text": "Thus saith the Lord Jehovah: When the whole earth rejoiceth, I will make thee a desolation.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21360,
+        "text": "As thou didst rejoice at the inheritance of the house of Israel, because it was desolated, so will I do unto thee: thou shalt be a desolation, O mount Seir, and all Edom, the whole of it: and they shall know that I [am] Jehovah.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

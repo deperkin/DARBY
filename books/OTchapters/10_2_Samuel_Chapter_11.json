@@ -1,0 +1,201 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 278,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8261,
+        "text": "And it came to pass, at the return of the year, at the time when kings go forth, that David sent Joab, and his servants with him, and all Israel; and they laid waste the [land of the] children of Ammon, and besieged Rabbah. But David abode at Jerusalem.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8262,
+        "text": "And it came to pass at evening time that David arose from off his couch, and walked upon the roof of the king’s house; and from the roof he saw a woman bathing, and the woman was very beautiful;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8263,
+        "text": "and David sent and inquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Urijah the Hittite?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8264,
+        "text": "And David sent messengers, and took her; and she came in to him, and he lay with her; and she had purified herself from her uncleanness; and she returned to her house.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8265,
+        "text": "And the woman conceived, and sent and told David, and said, I am with child.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8266,
+        "text": "And David sent to Joab [saying], Send me Urijah the Hittite. And Joab sent Urijah to David.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 8267,
+        "text": "And when Urijah had come to him, David asked how Joab prospered, and how the people prospered, and how the war prospered.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8268,
+        "text": "And David said to Urijah, Go down to thy house and wash thy feet. And Urijah departed out of the king’s house, and there followed him presents from the king.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8269,
+        "text": "And Urijah slept at the entrance of the king’s house with all the servants of his lord, and went not down to his house.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8270,
+        "text": "And they had told David saying, Urijah did not go down to his house; and David said to Urijah, Art thou not come from a journey? why didst thou not go down to thy house?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8271,
+        "text": "And Urijah said to David, The ark, and Israel, and Judah abide in booths; and my lord Joab, and the servants of my lord, are encamped in the open fields: shall I then go into my house, to eat and to drink, and to lie with my wife? [As] thou livest, and [as] thy soul liveth, I will not do this thing.",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8272,
+        "text": "And David said to Urijah, Abide here to-day also, and to-morrow I will let thee depart. And Urijah abode in Jerusalem that day and the morrow.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8273,
+        "text": "And David invited him, and he ate and drank before him; and he made him drunk. And in the evening he went out to lie on his couch with the servants of his lord, but did not go down to his house.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8274,
+        "text": "And it came to pass in the morning, that David wrote a letter to Joab, and sent it by Urijah.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 8275,
+        "text": "And he wrote in the letter saying, Set Urijah in the front of the thickest fight, and withdraw from him, that he may be smitten and die.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8276,
+        "text": "And it came to pass as Joab watched the city, that he assigned Urijah to a place where he knew that the valiant men were.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8277,
+        "text": "And the men of the city went out and fought with Joab; and there fell some of the people, of the servants of David; and Urijah the Hittite died also.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8278,
+        "text": "Then Joab sent and told David all the matters of the war;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8279,
+        "text": "and charged the messenger, saying, When thou hast ended telling the matters of the war to the king,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8280,
+        "text": "and if so be that the king’s wrath arise, and he say to thee, Why did ye go so near to the city to fight? did ye not know that they would shoot from the wall?",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8281,
+        "text": "Who smote Abimelech the son of Jerubbesheth? did not a woman cast the upper stone of a handmill from the wall, that he died in Thebez? why did ye go near the wall?—then say thou, Thy servant Urijah the Hittite is dead also.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8282,
+        "text": "And the messenger went; and he came and told David all that Joab had sent him for.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8283,
+        "text": "And the messenger said to David, The men prevailed against us, and came out against us into the field, and we were upon them as far as the entrance of the gate.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8284,
+        "text": "And the shooters shot from upon the wall against thy servants; and some of the king’s servants are dead, and thy servant Urijah the Hittite is dead also.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8285,
+        "text": "Then David said to the messenger, Thus shalt thou say to Joab: Let not this thing displease thee, for the sword devours one as well as another: make thy battle strong against the city, and overthrow it;—and encourage him.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8286,
+        "text": "And the wife of Urijah heard that Urijah her husband was dead, and she mourned for her husband.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8287,
+        "text": "And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bore him a son. But the thing that David had done was evil in the sight of Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

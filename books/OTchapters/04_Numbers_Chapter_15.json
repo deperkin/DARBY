@@ -1,0 +1,299 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 132,
+    "MaxVerses": 41,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4155,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4156,
+        "text": "Speak unto the children of Israel, and say unto them, When ye come into the land of your dwellings, which I give unto you,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4157,
+        "text": "and will make an offering by fire to Jehovah, a burnt-offering or a sacrifice for the performance of a vow, or as a voluntary offering, or in your set feasts, to make a sweet odour to Jehovah, of the herd or of the flock,",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4158,
+        "text": "then shall he that presenteth his offering to Jehovah bring as oblation a tenth part of fine flour mingled with a fourth part of a hin of oil;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4159,
+        "text": "and of wine for a drink-offering shalt thou offer the fourth part of a hin with the burnt-offering, or with the sacrifice, for one lamb.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4160,
+        "text": "And for a ram thou shalt offer as oblation two tenth parts of fine flour mingled with oil, a third part of a hin,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4161,
+        "text": "and of wine for a drink-offering shalt thou offer the third part of a hin; for a sweet odour to Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4162,
+        "text": "And when thou offerest a bullock for a burnt-offering, or a sacrifice for the performance of a vow, or for a peace-offering to Jehovah,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4163,
+        "text": "then shall they present with the bullock as oblation three tenth parts of fine flour mingled with half a hin of oil;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4164,
+        "text": "and of wine shalt thou present half a hin, for a drink-offering, as an offering by fire, of a sweet odour to Jehovah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4165,
+        "text": "Thus shall it be done for one ox, or for one ram, or for a lamb, or for a kid;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4166,
+        "text": "according to the number that ye offer, so shall ye do to every one according to their number.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4167,
+        "text": "And all that are born in the land shall do these things thus, in presenting an offering by fire of a sweet odour to Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4168,
+        "text": "And if a stranger sojourn with you, or whoever be among you throughout your generations, and will offer an offering by fire of a sweet odour to Jehovah,—as ye do, so shall he do.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4169,
+        "text": "As to the congregation, there shall be one statute for you, and for the stranger that sojourneth with you, an everlasting statute throughout your generations: as ye are, so shall the stranger be, before Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4170,
+        "text": "One law and one ordinance shall be for you, and for the stranger that sojourneth with you.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4171,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4172,
+        "text": "Speak unto the children of Israel, and say unto them, When ye come into the land whither I bring you,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4173,
+        "text": "then it shall be, when ye eat of the bread of the land, that ye shall offer a heave-offering to Jehovah;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4174,
+        "text": "the first of your dough shall ye offer, a cake, for a heave-offering; as the heave-offering of the threshing-floor, so shall ye offer this.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4175,
+        "text": "Of the first of your dough ye shall give to Jehovah a heave-offering throughout your generations.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4176,
+        "text": "And if ye sin inadvertently, and do not all these commandments, which Jehovah hath spoken unto Moses,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 4177,
+        "text": "all that Jehovah hath commanded you through Moses, from the day that Jehovah gave commandment, and henceforward throughout your generations;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4178,
+        "text": "then it shall be, if ought be committed by inadvertence [hid] from the eyes of the assembly, that the whole assembly shall offer one young bullock for a burnt-offering, for a sweet odour to Jehovah, and its oblation and its drink-offering according to the ordinance, and one buck of the goats for a sin-offering.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4179,
+        "text": "And the priest shall make atonement for the whole assembly of the children of Israel, and it shall be forgiven them; for it was a sin of inadvertence, and they have brought before Jehovah their offering, as an offering by fire to Jehovah, and their sin-offering for their [sin of] inadvertence;",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4180,
+        "text": "and it shall be forgiven the whole assembly of the children of Israel, and the stranger that sojourneth among them; for with all the people there was [a sin of] inadvertence.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4181,
+        "text": "And if one soul sin through inadvertence, then he shall present a yearling she-goat for a sin-offering.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4182,
+        "text": "And the priest shall make atonement for the soul that hath done inadvertently, when he sinneth by inadvertence before Jehovah, to make atonement for him; and it shall be forgiven him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4183,
+        "text": "For him that is born in the land among the children of Israel, and for the stranger that sojourneth among them—there shall be one law for you, for him who doeth anything through inadvertence.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4184,
+        "text": "But the soul that doeth ought with a high hand, whether born in the land, or a stranger, he reproacheth Jehovah; and that soul shall be cut off from among his people.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 4185,
+        "text": "For he hath despised the word of Jehovah, and hath broken his commandment: that soul shall surely be cut off; his iniquity is upon him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4186,
+        "text": "And while the children of Israel were in the wilderness they found a man gathering sticks on the sabbath day.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4187,
+        "text": "And they that found him gathering sticks brought him to Moses and Aaron, and to the whole assembly.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4188,
+        "text": "And they put him in custody, for it was not declared what should be done to him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4189,
+        "text": "And Jehovah said to Moses, The man shall certainly be put to death: the whole assembly shall stone him with stones outside the camp.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4190,
+        "text": "And the whole assembly led him outside the camp, and stoned him with stones, and he died, as Jehovah had commanded Moses.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4191,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 4192,
+        "text": "Speak unto the children of Israel, and bid them that they make them tassels on the corners of their garments, throughout their generations, and that they attach to the tassel of the corners a lace of blue;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4193,
+        "text": "and it shall be unto you for a tassel, that ye may look upon it, and remember all the commandments of Jehovah, and do them; and that ye seek not after [the lusts of] your own heart and your own eyes, after which ye go a whoring;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4194,
+        "text": "that ye may remember and do all my commandments, and be holy unto your God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4195,
+        "text": "I am Jehovah your God, who brought you out of the land of Egypt to be your God: I am Jehovah your God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

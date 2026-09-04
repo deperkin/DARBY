@@ -1,0 +1,75 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 52,
+    "count": 530,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14712,
+        "text": "{To the chief Musician: an instruction. Of David; when Doeg the Edomite came and told Saul, and said unto him, David came to the house of Ahimelech.} Why boastest thou thyself in evil, thou mighty man? The loving-kindness of God [abideth] continually.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14713,
+        "text": "Thy tongue deviseth mischievous things, like a sharp razor, practising deceit.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14714,
+        "text": "Thou hast loved evil rather than good, lying rather than to speak righteousness. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14715,
+        "text": "Thou hast loved all devouring words, O deceitful tongue!",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14716,
+        "text": "God shall likewise destroy thee for ever; he shall take thee away, and pluck thee out of [thy] tent, and root thee out of the land of the living. Selah.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14717,
+        "text": "The righteous also shall see, and fear, and shall laugh at him, [saying,]",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14718,
+        "text": "Behold the man that made not God his strength, but put confidence in the abundance of his riches, [and] strengthened himself in his avarice.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14719,
+        "text": "But as for me, I am like a green olive-tree in the house of God: I will confide in the loving-kindness of God for ever and ever.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14720,
+        "text": "I will praise thee for ever, because thou hast done [it]; and I will wait on thy name, before thy godly ones, for it is good.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

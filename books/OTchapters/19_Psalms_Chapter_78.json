@@ -1,0 +1,516 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 78,
+    "count": 556,
+    "MaxVerses": 72,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15115,
+        "text": "{An instruction. Of Asaph.} Give ear, O my people, to my law; incline your ears to the words of my mouth.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15116,
+        "text": "I will open my mouth in a parable; I will utter riddles from of old,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15117,
+        "text": "Which we have heard and known, and our fathers have told us:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15118,
+        "text": "We will not hide [them] from their sons, shewing forth to the generation to come the praises of Jehovah, and his strength, and his marvellous works which he hath done.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15119,
+        "text": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15120,
+        "text": "That the generation to come might know [them], the children that should be born; that they might rise up and tell [them] to their children,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15121,
+        "text": "And that they might set their hope in God, and not forget the works of God, but observe his commandments;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15122,
+        "text": "And might not be as their fathers, a stubborn and rebellious generation, a generation that prepared not their heart, and whose spirit was not stedfast with God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15123,
+        "text": "The sons of Ephraim, armed bowmen, turned back in the day of battle.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 15124,
+        "text": "They kept not the covenant of God, and refused to walk in his law;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15125,
+        "text": "And forgot his doings, and his marvellous works which he had shewn them.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15126,
+        "text": "In the sight of their fathers had he done wonders, in the land of Egypt, the field of Zoan.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15127,
+        "text": "He clave the sea, and caused them to pass through; and made the waters to stand as a heap;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15128,
+        "text": "And he led them with a cloud in the daytime, and all the night with the light of fire.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15129,
+        "text": "He clave rocks in the wilderness, and gave [them] drink as out of the depths, abundantly;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15130,
+        "text": "And he brought streams out of the rock, and caused waters to run down like rivers.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15131,
+        "text": "Yet they still went on sinning against him, provoking the Most High in the desert;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15132,
+        "text": "And they tempted God in their heart, by asking meat for their lust;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15133,
+        "text": "And they spoke against God: they said, Is God able to prepare a table in the wilderness?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15134,
+        "text": "Behold, he smote the rock, and waters gushed out, and streams overflowed; is he able to give bread also, or provide flesh for his people?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15135,
+        "text": "Therefore Jehovah heard, and was wroth; and fire was kindled against Jacob, and anger also went up against Israel:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15136,
+        "text": "Because they believed not in God, and confided not in his salvation;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15137,
+        "text": "Though he had commanded the clouds from above, and had opened the doors of the heavens,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15138,
+        "text": "And had rained down manna upon them to eat, and had given them the corn of the heavens.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15139,
+        "text": "Man did eat the bread of the mighty; he sent them provision to the full.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15140,
+        "text": "He caused the east wind to rise in the heavens, and by his strength he brought the south wind;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15141,
+        "text": "And he rained flesh upon them as dust, and feathered fowl as the sand of the seas,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15142,
+        "text": "And he let it fall in the midst of their camp, round about their habitations:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15143,
+        "text": "And they did eat, and were well filled; for that they lusted after, he brought to them.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15144,
+        "text": "They were not alienated from their lust, their meat was yet in their mouths,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15145,
+        "text": "When the anger of God went up against them; and he slew the fattest of them, and smote down the chosen men of Israel.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15146,
+        "text": "For all this, they sinned still, and believed not in his marvellous works;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15147,
+        "text": "And he consumed their days in vanity, and their years in terror.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 15148,
+        "text": "When he slew them, then they sought him, and returned and sought early after God;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15149,
+        "text": "And they remembered that God was their rock, and God, the Most High, their redeemer.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 15150,
+        "text": "But they flattered him with their mouth, and lied unto him with their tongue;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15151,
+        "text": "For their heart was not firm toward him, neither were they stedfast in his covenant.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 15152,
+        "text": "But he was merciful: he forgave the iniquity, and destroyed [them] not; but many a time turned he his anger away, and did not stir up all his fury:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 15153,
+        "text": "And he remembered that they were flesh, a breath that passeth away and cometh not again.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 15154,
+        "text": "How oft did they provoke him in the wilderness, and grieve him in the desert!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 41,
+        "count": 15155,
+        "text": "And they turned again and tempted God, and grieved the Holy One of Israel.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 15156,
+        "text": "They remembered not his hand, the day when he delivered them from the oppressor,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15157,
+        "text": "How he set his signs in Egypt, and his miracles in the field of Zoan;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 15158,
+        "text": "And turned their rivers into blood, and their streams, that they could not drink;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 15159,
+        "text": "He sent dog-flies among them, which devoured them, and frogs, which destroyed them;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 15160,
+        "text": "And he gave their increase unto the caterpillar, and their labour unto the locust;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 15161,
+        "text": "He killed their vines with hail, and their sycamore trees with hail-stones;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 15162,
+        "text": "And he delivered up their cattle to the hail, and their flocks to thunderbolts.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 15163,
+        "text": "He cast upon them the fierceness of his anger, wrath, and indignation, and distress,—a mission of angels of woes.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 15164,
+        "text": "He made a way for his anger; he spared not their soul from death, but gave their life over to the pestilence;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 15165,
+        "text": "And he smote all the firstborn in Egypt, the first-fruits of their vigour in the tents of Ham.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 15166,
+        "text": "And he made his own people to go forth like sheep, and guided them in the wilderness like a flock;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 15167,
+        "text": "And he led them safely, so that they were without fear; and the sea covered their enemies.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 15168,
+        "text": "And he brought them to his holy border, this mountain, which his right hand purchased;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 15169,
+        "text": "And he drove out the nations before them, and allotted them for an inheritance by line, and made the tribes of Israel to dwell in their tents.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 15170,
+        "text": "But they tempted and provoked God, the Most High, and kept not his testimonies,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 15171,
+        "text": "And they drew back and dealt treacherously like their fathers: they turned like a deceitful bow.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 15172,
+        "text": "And they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 15173,
+        "text": "God heard, and was wroth, and greatly abhorred Israel:",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 15174,
+        "text": "And he forsook the tabernacle at Shiloh, the tent where he had dwelt among men,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 15175,
+        "text": "And gave his strength into captivity, and his glory into the hand of the oppressor;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 15176,
+        "text": "And delivered up his people unto the sword, and was very wroth with his inheritance:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 15177,
+        "text": "The fire consumed their young men, and their maidens were not praised in [nuptial] song;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 15178,
+        "text": "Their priests fell by the sword, and their widows made no lamentation.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 15179,
+        "text": "Then the Lord awoke as one out of sleep, like a mighty man that shouteth aloud by reason of wine;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 15180,
+        "text": "And he smote his adversaries in the hinder part, and put them to everlasting reproach.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 15181,
+        "text": "And he rejected the tent of Joseph, and chose not the tribe of Ephraim,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 68,
+        "count": 15182,
+        "text": "But chose the tribe of Judah, the mount Zion which he loved;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 69,
+        "count": 15183,
+        "text": "And he built his sanctuary like the heights, like the earth which he hath founded for ever.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 70,
+        "count": 15184,
+        "text": "And he chose David his servant, and took him from the sheepfolds:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 71,
+        "count": 15185,
+        "text": "From following the suckling-ewes, he brought him to feed Jacob his people, and Israel his inheritance.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 72,
+        "count": 15186,
+        "text": "And he fed them according to the integrity of his heart, and led them by the skilfulness of his hands.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

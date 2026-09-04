@@ -1,0 +1,320 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 317,
+    "MaxVerses": 44,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9605,
+        "text": "And a woman of the wives of the sons of the prophets cried to Elisha saying, Thy servant my husband is dead, and thou knowest that thy servant feared Jehovah; and the creditor is come to take my two children to be bondmen.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9606,
+        "text": "And Elisha said to her, What shall I do for thee? Tell me, what hast thou in the house? And she said, Thy handmaid has not anything at all in the house but a pot of oil.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9607,
+        "text": "And he said, Go, borrow for thyself vessels abroad from all thy neighbours, empty vessels; let it not be few;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9608,
+        "text": "and go in, and shut the door upon thee and upon thy sons, and pour out into all those vessels, and set aside what is full.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9609,
+        "text": "And she went from him, and shut the door upon her and upon her sons: they brought [the vessels] to her, and she poured out.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9610,
+        "text": "And it came to pass when the vessels were full, that she said to her son, Bring me yet a vessel. And he said to her, There is not a vessel more. And the oil stayed.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9611,
+        "text": "And she came and told the man of God; and he said, Go, sell the oil, and pay thy debt, and live thou [and] thy sons on the rest.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9612,
+        "text": "And it came to pass on a day, that Elisha passed to Shunem, where was a wealthy woman; and she constrained him to eat bread. And so it was, [that] as oft as he passed by, he turned in thither to eat bread.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 9613,
+        "text": "And she said to her husband, Behold now, I perceive that this is a holy man of God, who passes by us continually.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9614,
+        "text": "Let us make, I pray thee, a small upper chamber with walls, and let us set for him there a bed, and a table, and a seat, and a lampstand; and it shall be when he cometh to us, he shall turn in thither.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9615,
+        "text": "And it came to pass on a day, that he came thither, and he turned into the upper chamber, and lay there.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9616,
+        "text": "And he said to Gehazi his servant, Call this Shunammite. And he called her, and she stood before him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9617,
+        "text": "And he said to him, Say now to her, Behold, thou hast been careful for us with all this care; what is to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she said, I dwell among mine own people.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9618,
+        "text": "And he said, What then is to be done for her? And Gehazi said, Verily, she has no son, and her husband is old.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9619,
+        "text": "And he said, Call her; and he called her; and she stood in the doorway.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9620,
+        "text": "And he said, At this appointed time, when thy term is come, thou shalt embrace a son. And she said, No, my lord, man of God, do not lie to thy handmaid.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9621,
+        "text": "And the woman conceived, and bore a son at that appointed time in the next year as Elisha had said to her.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9622,
+        "text": "And the child grew, and it came to pass one day, that he went out to his father to the reapers.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 9623,
+        "text": "And he said to his father, My head, my head! And he said to the servant, Carry him to his mother.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9624,
+        "text": "And he carried him, and brought him to his mother; and he sat on her knees till noon, and died.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9625,
+        "text": "And she went up, and laid him on the bed of the man of God, and shut [the door] upon him, and went out.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9626,
+        "text": "And she called to her husband, and said, Send me, I pray thee, one of the young men, and one of the asses, and I will run to the man of God, and come again.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9627,
+        "text": "And he said, Why wilt thou go to him to-day? It is neither new moon nor sabbath. And she said, [It is] well.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9628,
+        "text": "Then she saddled the ass, and said to her servant, Drive and go forward; slack not the riding for me, except I bid thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9629,
+        "text": "And she went and came to the man of God, to mount Carmel. And it came to pass when the man of God saw her afar off, that he said to Gehazi his servant, Behold, there is the Shunammite:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9630,
+        "text": "run now, I pray thee, to meet her, and say unto her, Is it well with thee? is it well with thy husband? is it well with the child? And she said, It is well.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9631,
+        "text": "And she came to the man of God to the mountain, and caught him by the feet; and Gehazi drew near to thrust her away; but the man of God said, Let her alone, for her soul is troubled within her, and Jehovah has hidden it from me, and has not told me.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9632,
+        "text": "And she said, Did I desire a son of my lord? did I not say, Do not deceive me?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9633,
+        "text": "And he said to Gehazi, Gird up thy loins, and take my staff in thy hand, and go thy way. If thou meet any man, salute him not, and if any salute thee, answer him not again; and lay my staff upon the face of the lad.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 9634,
+        "text": "And the mother of the lad said, As Jehovah liveth, and as thy soul liveth, I will not leave thee! And he rose up and followed her.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 9635,
+        "text": "And Gehazi passed on before them, and laid the staff upon the face of the lad; but there was neither voice, nor sign of attention. And he returned to meet him, and told him saying, The lad is not awaked.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 9636,
+        "text": "And when Elisha came into the house, behold, the child was dead, [and] laid upon his bed.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 9637,
+        "text": "And he went in and shut the door upon them both, and prayed to Jehovah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 9638,
+        "text": "And he went up, and lay upon the child, and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands, and bent over him; and the flesh of the child grew warm.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 9639,
+        "text": "And he returned, and walked in the house to and fro; and went up, and bent over him. And the lad sneezed seven times, and the lad opened his eyes.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 9640,
+        "text": "And he called Gehazi, and said, Call this Shunammite. And he called her; and she came to him. And he said, Take up thy son.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 9641,
+        "text": "And she came and fell at his feet, and bowed herself to the ground; and she took up her son, and went out.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 9642,
+        "text": "And Elisha came again to Gilgal. And there was a famine in the land; and the sons of the prophets were sitting before him. And he said to his servant, Set on the great pot, and boil pottage for the sons of the prophets.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 9643,
+        "text": "Then one went out into the field to gather herbs, and found a wild vine, and gathered from it his lap full of wild colocynths, and came and shred them into the pot of pottage; for they did not know them.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 9644,
+        "text": "And they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out and said, Man of God, there is death in the pot! And they could not eat [it].",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 9645,
+        "text": "And he said, Then bring meal. And he cast [it] into the pot, and said, Pour out for the people, that they may eat. And there was no harm in the pot.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 9646,
+        "text": "And there came a man from Baal-shalishah, and brought the man of God bread of the first-fruits, twenty loaves of barley, and fresh ears of corn in his sack. And he said, Give to the people that they may eat.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 9647,
+        "text": "And his attendant said, How shall I set this before a hundred men? And he said, Give the people that they may eat; for thus saith Jehovah: They shall eat, and shall have to spare.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 9648,
+        "text": "And he set [it] before them, and they ate and left [thereof], according to the word of Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

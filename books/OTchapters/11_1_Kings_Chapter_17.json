@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 308,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9319,
+        "text": "And Elijah the Tishbite, of the inhabitants of Gilead, said to Ahab, As Jehovah the God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, except by my word.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9320,
+        "text": "And the word of Jehovah came to him saying,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9321,
+        "text": "Get thee hence, and turn thee eastward, and hide thyself by the torrent Cherith, which is before the Jordan.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9322,
+        "text": "And it shall be, that thou shalt drink of the torrent; and I have commanded the ravens to feed thee there.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9323,
+        "text": "And he went and did according to the word of Jehovah; he went and abode by the torrent Cherith, which is before the Jordan.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9324,
+        "text": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the torrent.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9325,
+        "text": "And it came to pass after a while that the torrent dried up, for there had been no rain in the land.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9326,
+        "text": "And the word of Jehovah came to him saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 9327,
+        "text": "Arise, go to Zarephath, which is by Zidon, and abide there: behold, I have commanded a widow woman there to maintain thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9328,
+        "text": "And he arose and went to Zarephath; and when he came to the entrance of the city, behold, a widow woman was there gathering sticks. And he called to her and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9329,
+        "text": "And she went to fetch [it], and he called to her and said, Bring me, I pray thee, a morsel of bread in thy hand.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9330,
+        "text": "And she said, As Jehovah thy God liveth, I have not a cake, but a handful of meal in a barrel, and a little oil in a cruse; and behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9331,
+        "text": "And Elijah said to her, Fear not; go, do as thou hast said; but make me thereof a little cake first; and bring it to me; and afterwards make for thee and for thy son.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9332,
+        "text": "For thus saith Jehovah the God of Israel: The meal in the barrel shall not waste, neither shall the oil in the cruse fail, until the day that Jehovah sendeth rain upon the face of the earth!",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9333,
+        "text": "And she went and did according to the word of Elijah; and she, and he, and her house, ate a whole year.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9334,
+        "text": "The meal in the barrel did not waste, neither did the oil in the cruse fail, according to the word of Jehovah which he had spoken through Elijah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9335,
+        "text": "And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so severe that there was no breath left in him.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 9336,
+        "text": "And she said to Elijah, What have I to do with thee, O thou man of God? art thou come to me to call mine iniquity to remembrance, and to slay my son?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9337,
+        "text": "And he said to her, Give me thy son. And he took him out of her bosom, and carried him up into the upper chamber where he abode, and laid him upon his own bed.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9338,
+        "text": "And he cried to Jehovah and said, Jehovah, my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9339,
+        "text": "And he stretched himself upon the child three times, and cried to Jehovah and said, Jehovah, my God, I pray thee, let this child’s soul come into him again!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9340,
+        "text": "And Jehovah heard the voice of Elijah, and the soul of the child came into him again, and he lived.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9341,
+        "text": "And Elijah took the child, and brought him down from the upper chamber into the house, and delivered him to his mother; and Elijah said, See, thy son lives.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9342,
+        "text": "And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of Jehovah in thy mouth is truth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

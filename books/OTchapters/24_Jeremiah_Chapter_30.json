@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 775,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19669,
+        "text": "The word that came to Jeremiah from Jehovah, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19670,
+        "text": "Thus speaketh Jehovah the God of Israel, saying, Write thee in a book all the words that I have spoken unto thee.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19671,
+        "text": "For behold, the days come, saith Jehovah, when I will turn the captivity of my people Israel and Judah, saith Jehovah; and I will cause them to return to the land that I gave to their fathers, and they shall possess it.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19672,
+        "text": "And these are the words that Jehovah hath spoken concerning Israel and concerning Judah;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19673,
+        "text": "for thus saith Jehovah: We have heard a voice of trembling, there is fear, and no peace.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19674,
+        "text": "Ask ye now, and see, whether a male doth travail with child? Wherefore do I see every man with his hands on his loins, as a woman in travail; and all faces are turned into paleness?",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19675,
+        "text": "Alas! for that day is great, so that none is like it: it is even the time of Jacob’s trouble; but he shall be saved out of it.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 19676,
+        "text": "And it shall come to pass in that day, saith Jehovah of hosts, I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more reduce him to servitude.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19677,
+        "text": "But they shall serve Jehovah their God, and David their king, whom I will raise up unto them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19678,
+        "text": "And thou, my servant Jacob, fear not, saith Jehovah; neither be dismayed, O Israel: for behold, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and at ease, and none shall make [him] afraid.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 19679,
+        "text": "For I am with thee, saith Jehovah, to save thee: for I will make a full end of all the nations whither I have scattered thee; yet of thee will I not make a full end, but I will correct thee with judgment, and will not hold thee altogether guiltless.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19680,
+        "text": "For thus saith Jehovah: Thy bruise is incurable, thy wound is grievous.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19681,
+        "text": "There is none to plead thy cause, to bind up [thy wound]; thou hast no healing medicines.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19682,
+        "text": "All thy lovers have forgotten thee; they seek thee not. For I have smitten thee with the stroke of an enemy, with the chastisement of a cruel one, for the greatness of thine iniquity: thy sins are manifold.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19683,
+        "text": "Why criest thou because of thy bruise? thy sorrow is incurable; for the greatness of thine iniquity, [because] thy sins are manifold, I have done these things unto thee.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19684,
+        "text": "Therefore all that devour thee shall be devoured, and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be for a spoil; and all they that prey upon thee will I give to be a prey.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19685,
+        "text": "For I will apply a bandage unto thee, and I will heal thee of thy wounds, saith Jehovah; for they have called thee an outcast: This is Zion that no man seeketh after.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19686,
+        "text": "Thus saith Jehovah: Behold, I will turn the captivity of Jacob’s tents, and have mercy on his habitations; and the city shall be built upon her own heap; and the palace shall be inhabited after the manner thereof.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 19687,
+        "text": "And out of them shall proceed thanksgiving, and the voice of them that make merry: and I will multiply them, and they shall not be diminished; and I will honour them, and they shall not be small.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19688,
+        "text": "And their sons shall be as aforetime; and their assembly shall be established before me; and I will punish all that oppress them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 19689,
+        "text": "And their prince shall be of themselves, and their ruler shall proceed from the midst of them; and I will cause him to approach, and he shall draw near unto me. For who is this that engageth his heart to draw near unto me? saith Jehovah.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 19690,
+        "text": "And ye shall be my people, and I will be your God.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 19691,
+        "text": "Behold, a tempest of Jehovah, fury is gone forth, a sweeping storm: it shall whirl down upon the head of the wicked.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 19692,
+        "text": "The fierce anger of Jehovah shall not return, until he have executed, and until he have performed the purposes of his heart. At the end of the days ye shall consider it.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

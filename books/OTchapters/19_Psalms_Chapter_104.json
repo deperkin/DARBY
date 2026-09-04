@@ -1,0 +1,257 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 104,
+    "count": 582,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15573,
+        "text": "Bless Jehovah, O my soul! Jehovah my God, thou art very great; thou art clothed with majesty and splendour;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15574,
+        "text": "Covering thyself with light as with a garment, stretching out the heavens like a tent-curtain;—",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15575,
+        "text": "Who layeth the beams of his upper chambers in the waters, who maketh clouds his chariot, who walketh upon the wings of the wind;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15576,
+        "text": "Who maketh his angels spirits; his ministers a flame of fire.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15577,
+        "text": "He laid the earth upon its foundations: it shall not be removed for ever.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15578,
+        "text": "Thou hadst covered it with the deep, as with a vesture; the waters stood above the mountains:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15579,
+        "text": "At thy rebuke they fled, at the voice of thy thunder they hasted away;—",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15580,
+        "text": "The mountains rose, the valleys sank, unto the place which thou hadst founded for them;—",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15581,
+        "text": "Thou hast set a bound which they may not pass over, that they turn not again to cover the earth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15582,
+        "text": "He sendeth the springs into the valleys: they run among the mountains;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 15583,
+        "text": "They give drink to every beast of the field; the wild asses quench their thirst.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15584,
+        "text": "The birds of heaven dwell by them; they give forth their voice from among the branches.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15585,
+        "text": "He watereth the mountains from his upper-chambers: the earth is satisfied with the fruit of thy works.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15586,
+        "text": "He maketh the grass to grow for the cattle, and herb for the service of man; bringing forth bread out of the earth,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15587,
+        "text": "And wine which gladdeneth the heart of man; making [his] face shine with oil; and with bread he strengtheneth man’s heart.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15588,
+        "text": "The trees of Jehovah are satisfied, the cedars of Lebanon, which he hath planted,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15589,
+        "text": "Where the birds make their nests; [as for] the stork, the fir trees are her house.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15590,
+        "text": "The high mountains are for the wild goats; the cliffs, a refuge for the rock-badgers.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15591,
+        "text": "He made the moon for seasons: the sun knoweth its going down.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 15592,
+        "text": "Thou makest darkness, and it is night, wherein all the beasts of the forest creep forth:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15593,
+        "text": "The young lions roar after the prey, and to seek their food from God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15594,
+        "text": "The sun ariseth, they retreat, and lay them down in their dens.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15595,
+        "text": "Man goeth forth unto his work, and to his labour until the evening.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15596,
+        "text": "How manifold are thy works, O Jehovah! in wisdom hast thou made them all: the earth is full of thy riches.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15597,
+        "text": "Yonder is the great and wide sea: therein are moving things innumerable, living creatures small and great.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15598,
+        "text": "There go the ships; [there] that leviathan, which thou hast formed to play therein.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15599,
+        "text": "These all look unto thee, that thou mayest give their food in its season:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15600,
+        "text": "That thou givest unto them, they gather; thou openest thy hand, they are filled with good.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15601,
+        "text": "Thou hidest thy face, they are troubled; thou takest away their breath, they expire and return to their dust.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15602,
+        "text": "Thou sendest forth thy spirit, they are created, and thou renewest the face of the earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15603,
+        "text": "The glory of Jehovah will endure for ever; Jehovah will rejoice in his works.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 15604,
+        "text": "He looketh on the earth, and it trembleth; he toucheth the mountains, and they smoke.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15605,
+        "text": "I will sing unto Jehovah as long as I live; I will sing psalms to my God while I have my being.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 15606,
+        "text": "My meditation shall be pleasant unto him; I will rejoice in Jehovah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15607,
+        "text": "Sinners shall be consumed out of the earth, and the wicked shall be no more. Bless Jehovah, O my soul. Hallelujah!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

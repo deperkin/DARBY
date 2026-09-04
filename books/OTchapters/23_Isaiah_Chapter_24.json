@@ -1,0 +1,173 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 703,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18097,
+        "text": "Behold, Jehovah maketh the land empty, and maketh it waste, and turneth it upside down, and scattereth abroad its inhabitants.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18098,
+        "text": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with him from whom usury is taken.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18099,
+        "text": "The land shall be utterly emptied, and utterly spoiled; for Jehovah hath spoken this word.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18100,
+        "text": "The land mourneth, it fadeth away; the world languisheth, it fadeth away: the haughty people of the land do languish.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18101,
+        "text": "And the land is polluted under the inhabitants thereof; for they have violated the laws, changed the statute, broken the everlasting covenant.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18102,
+        "text": "Therefore doth the curse devour the earth, and they that dwell therein are held guilty; therefore the inhabitants of the earth are consumed, and few men are left.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18103,
+        "text": "The new wine mourneth, the vine languisheth, all that were merry-hearted do sigh;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18104,
+        "text": "the mirth of tambours ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18105,
+        "text": "They do not drink wine with a song; strong drink is bitter to them that drink it.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18106,
+        "text": "The city of solitude is broken down; every house is shut up, so that none entereth in.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18107,
+        "text": "There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18108,
+        "text": "desolation remaineth in the city, and the gate is smitten,—a ruin.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18109,
+        "text": "For so will it be in the midst of the land among the peoples, as the shaking of an olive-tree, as the grape-gleanings when the vintage is done.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 18110,
+        "text": "These shall lift up their voice, they shall shout for the majesty of Jehovah, they shall cry aloud from the sea.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18111,
+        "text": "Therefore glorify Jehovah in the east, the name of Jehovah, the God of Israel, in the isles of the west.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18112,
+        "text": "From the end of the earth have we heard songs: Glory to the righteous! And I said, My leanness, my leanness, woe unto me! The treacherous have dealt treacherously; yea, the treacherous have dealt very treacherously.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 18113,
+        "text": "Fear, and the pit, and the snare are upon thee, inhabitant of the land.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18114,
+        "text": "And it shall come to pass, [that] he who fleeth from the sound of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare; for the windows on high are open, and the foundations of the earth shake.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18115,
+        "text": "The earth is utterly broken down, the earth is completely dissolved, the earth is violently moved.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18116,
+        "text": "The earth reeleth to and fro like a drunkard, and is shaken like a night hut; and its transgression is heavy upon it; and it falleth and shall not rise again.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18117,
+        "text": "And it shall come to pass in that day, [that] Jehovah will punish the host of the high ones on high, and the kings of the earth upon the earth.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 18118,
+        "text": "And they shall be brought together, [as] an assemblage of prisoners for the pit, and shall be shut up in prison, and after many days shall they be visited.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 18119,
+        "text": "And the moon shall be confounded, and the sun ashamed; for Jehovah of hosts shall reign on mount Zion, and in Jerusalem, and before his ancients in glory.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

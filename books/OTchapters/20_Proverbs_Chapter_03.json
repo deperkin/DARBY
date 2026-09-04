@@ -1,0 +1,257 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 631,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16457,
+        "text": "My son, forget not my teaching, and let thy heart observe my commandments;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16458,
+        "text": "for length of days, and years of life, and peace shall they add to thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16459,
+        "text": "Let not loving-kindness and truth forsake thee; bind them about thy neck, write them upon the tablet of thy heart:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16460,
+        "text": "and thou shalt find favour and good understanding in the sight of God and man.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16461,
+        "text": "Confide in Jehovah with all thy heart, and lean not unto thine own intelligence;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16462,
+        "text": "in all thy ways acknowledge him, and he will make plain thy paths.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16463,
+        "text": "Be not wise in thine own eyes; fear Jehovah, and depart from evil:",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16464,
+        "text": "it shall be health for thy navel, and moisture for thy bones.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16465,
+        "text": "Honour Jehovah with thy substance, and with the first-fruits of all thine increase;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16466,
+        "text": "so shall thy barns be filled with plenty, and thy vats shall overflow with new wine.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16467,
+        "text": "My son, despise not the instruction of Jehovah, neither be weary of his chastisement;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16468,
+        "text": "for whom Jehovah loveth he chasteneth, even as a father the son in whom he delighteth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16469,
+        "text": "Blessed is the man that findeth wisdom, and the man that getteth understanding.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16470,
+        "text": "For the gain thereof is better than the gain of silver, and her revenue than fine gold.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16471,
+        "text": "She is more precious than rubies; and all the things thou canst desire are not equal unto her.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16472,
+        "text": "Length of days is in her right hand; in her left hand riches and honour.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16473,
+        "text": "Her ways are ways of pleasantness, and all her paths are peace.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16474,
+        "text": "She is a tree of life to them that lay hold upon her; and happy is he that retaineth her.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16475,
+        "text": "Jehovah by wisdom founded the earth; by understanding he established the heavens.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16476,
+        "text": "By his knowledge the deeps were broken up, and the skies drop down the dew.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16477,
+        "text": "My son, let them not depart from thine eyes; keep sound wisdom and discretion:",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16478,
+        "text": "so shall they be life unto thy soul, and grace unto thy neck.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16479,
+        "text": "Then shalt thou walk in thy way securely, and thy foot shall not stumble;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16480,
+        "text": "when thou liest down, thou shalt not be afraid, but thou shalt lie down and thy sleep shall be sweet.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 16481,
+        "text": "Be not afraid of sudden fear, neither of the destruction of the wicked, when it cometh;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 16482,
+        "text": "for Jehovah shall be thy confidence, and he will keep thy foot from being taken.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 16483,
+        "text": "Withhold not good from them to whom it is due, when it is in the power of thy hand to do it.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16484,
+        "text": "Say not unto thy neighbour, Go, and come again, and to-morrow I will give, when thou hast it by thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 16485,
+        "text": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 16486,
+        "text": "Strive not with a man without cause, if he have done thee no harm.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 16487,
+        "text": "Envy not the man of violence, and choose none of his ways.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 16488,
+        "text": "For the perverse is an abomination to Jehovah; but his secret is with the upright.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 16489,
+        "text": "The curse of Jehovah is in the house of the wicked; but he blesseth the habitation of the righteous.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 16490,
+        "text": "He indeed scorneth the scorners; but he giveth grace unto the lowly.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 16491,
+        "text": "The wise shall inherit glory; but shame shall be the promotion of the foolish.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

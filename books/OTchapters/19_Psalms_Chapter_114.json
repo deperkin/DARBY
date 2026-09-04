@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 114,
+    "count": 592,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15824,
+        "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15825,
+        "text": "Judah was his sanctuary, Israel his dominion.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15826,
+        "text": "The sea saw it and fled, the Jordan turned back;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15827,
+        "text": "The mountains skipped like rams, the hills like lambs.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15828,
+        "text": "What ailed thee, thou sea, that thou fleddest? thou Jordan, that thou turnedst back?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15829,
+        "text": "Ye mountains, that ye skipped like rams? ye hills, like lambs?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15830,
+        "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the +God of Jacob,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15831,
+        "text": "Who turned the rock into a pool of water, the flint into a fountain of waters.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

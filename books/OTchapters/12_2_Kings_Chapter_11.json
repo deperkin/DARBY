@@ -1,0 +1,159 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 324,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9831,
+        "text": "And when Athaliah the mother of Ahaziah saw that her son was dead, she rose up and destroyed all the royal seed.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9832,
+        "text": "But Jehosheba, the daughter of king Joram, the sister of Ahaziah, took Joash the son of Ahaziah and stole him from among the king’s sons that were slain, [and hid] him and his nurse in the bedchamber; and they hid him from Athaliah, so that he was not slain.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9833,
+        "text": "And he was with her hid in the house of Jehovah six years. And Athaliah reigned over the land.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9834,
+        "text": "And in the seventh year Jehoiada sent and fetched the captains of the hundreds, of the bodyguard and the couriers, and brought them to him into the house of Jehovah, and made a covenant with them, and took an oath of them in the house of Jehovah, and shewed them the king’s son.",
+        "WordCount": 53,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 9835,
+        "text": "And he commanded them saying, This is the thing which ye shall do: a third part of you, that come in on the sabbath, shall be keepers of the watch of the king’s house;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9836,
+        "text": "and a third part shall be at the gate of Sur; and a third part at the gate behind the couriers; and ye shall keep the watch of the house for a defence.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9837,
+        "text": "And the two parts of you, all those that go forth on the sabbath, even they shall keep the watch of the house of Jehovah about the king.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9838,
+        "text": "And ye shall encompass the king round about, every man with his weapons in his hand; and he that comes within the ranks shall be put to death; and ye shall be with the king when he goes out and when he comes in.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9839,
+        "text": "And the captains of the hundreds did according to all that Jehoiada the priest commanded; and they took every man his men, those that were to come in on the sabbath, with them that were to go forth on the sabbath, and they came to Jehoiada the priest.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9840,
+        "text": "And the priest gave to the captains of the hundreds king David’s spears and shields which were in the house of Jehovah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9841,
+        "text": "And the couriers stood by the king round about, every man with his weapons in his hand, from the right side of the house to the left side of the house, toward the altar and the house.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9842,
+        "text": "And he brought forth the king’s son, and put the crown upon him, and [gave him] the testimony; and they made him king, and anointed him; and they clapped their hands, and said, Long live the king!",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9843,
+        "text": "And Athaliah heard the noise of the couriers [and] of the people; and she came to the people into the house of Jehovah.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 9844,
+        "text": "And she looked, and behold, the king stood on the dais, according to the custom, and the princes and the trumpeters were by the king; and all the people of the land rejoiced, and blew with trumpets. And Athaliah rent her garments and cried, Conspiracy! Conspiracy!",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9845,
+        "text": "And Jehoiada the priest commanded the captains of the hundreds that were set over the host, and said to them, Lead her forth without the ranks; and whosoever follows her, slay with the sword; for the priest said, Let her not be put to death in the house of Jehovah.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9846,
+        "text": "And they made way for her, and she went by the way by which the horses entered the king’s house, and there was she put to death.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9847,
+        "text": "And Jehoiada made a covenant between Jehovah and the king and the people, that they should be the people of Jehovah; and between the king and the people.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 9848,
+        "text": "Then all the people of the land went into the house of Baal, and broke it down: his altars and his images they broke in pieces completely, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of Jehovah.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9849,
+        "text": "And he took the captains of the hundreds, and the bodyguard, and the couriers, and all the people of the land; and they brought down the king from the house of Jehovah, and came by the way through the gate of the couriers into the king’s house. And he sat upon the throne of the kings.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9850,
+        "text": "And all the people of the land rejoiced, and the city was quiet; and they had slain Athaliah with the sword [beside] the king’s house.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9851,
+        "text": "Jehoash was seven years old when he began to reign.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

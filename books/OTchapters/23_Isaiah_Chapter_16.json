@@ -1,0 +1,110 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 695,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17971,
+        "text": "Send the lamb of the ruler of the land from the rock to the wilderness,—unto the mount of the daughter of Zion.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17972,
+        "text": "And it shall be [that] as a wandering bird, [as] a scattered nest, so shall the daughters of Moab be at the fords of the Arnon.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17973,
+        "text": "Bring in counsel, execute justice; make thy shadow as the night in the midst of noonday; hide the outcasts, discover not the fugitive.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17974,
+        "text": "Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the waster. For the extortioner is at an end, the wasting hath ceased, the oppressors are consumed out of the land.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17975,
+        "text": "And a throne shall be established in mercy: and in the tent of David there shall sit upon it, in truth, one judging and seeking justice and hastening righteousness.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17976,
+        "text": "We have heard of the arrogance of Moab,—[he is] very proud,—of his pride, and his arrogance, and his wrath: his pratings are vain.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17977,
+        "text": "Therefore shall Moab howl for Moab; every one of them shall howl. For the foundations of Kirhareseth shall ye mourn, verily afflicted.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17978,
+        "text": "For the fields of Heshbon languish, the vine of Sibmah; the lords of the nations have broken down its choice plants: they reached unto Jaazer, they wandered [through] the wilderness; its shoots stretched out, they went beyond the sea.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17979,
+        "text": "Therefore I will weep with the weeping of Jaazer for the vine of Sibmah; with my tears will I water thee, Heshbon, and Elealeh, for a cry is fallen upon thy summer fruits and upon thy harvest.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17980,
+        "text": "And joy and gladness is taken away out of the fruitful field; and in the vineyards there is no singing, neither is there shouting: the treaders tread out no wine in the presses, I have made the cry [of the winepress] to cease.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17981,
+        "text": "Therefore my bowels sound like a harp for Moab, and mine inward parts for Kirheres.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17982,
+        "text": "And it shall come to pass, when Moab shall appear, shall weary himself on the high place, and enter into his sanctuary to pray, that he shall not prevail.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17983,
+        "text": "This is the word which Jehovah hath spoken from of old concerning Moab.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17984,
+        "text": "And now Jehovah speaketh saying, Within three years, as the years of a hired servant, and the glory of Moab shall be brought to nothing, with all that great multitude; and the remnant shall be small, few, of no account.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 34,
+    "count": 401,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11935,
+        "text": "Josiah was eight years old when he began to reign; and he reigned thirty-one years in Jerusalem.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11936,
+        "text": "And he did what was right in the sight of Jehovah, and walked in the ways of David his father, and turned not aside to the right hand nor to the left.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11937,
+        "text": "And in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father; and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the Asherahs, and the graven images, and the molten images.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11938,
+        "text": "And they broke down the altars of the Baals in his presence; and the sun-pillars that were on high above them he cut down; and the Asherahs and the graven images and the molten images he broke in pieces, and made dust [of them] and strewed it upon the graves of those that had sacrificed to them;",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11939,
+        "text": "and he burned the bones of the priests upon their altars, and purged Judah and Jerusalem.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11940,
+        "text": "And [so did he] in the cities of Manasseh and Ephraim and Simeon, even to Naphtali, in their ruins round about;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11941,
+        "text": "and he broke down the altars, and beat the Asherahs and the graven images into powder, and cut down all the sun-pillars throughout the land of Israel, and returned to Jerusalem.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11942,
+        "text": "And in the eighteenth year of his reign, when he purged the land and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the chronicler, to repair the house of Jehovah his God.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 11943,
+        "text": "And they came to Hilkijah the high priest, and they delivered [to them] the money that had been brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin, and of the inhabitants of Jerusalem.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11944,
+        "text": "And they gave [it] into the hand of them that did the work, that had the oversight of the house of Jehovah; and they gave it to the workmen who wrought in the house of Jehovah to reinstate and repair the house:",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11945,
+        "text": "they gave [it] to the carpenters and the builders, to buy hewn stone, and timber for the joists, and to floor the houses that the kings of Judah had destroyed.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11946,
+        "text": "And the men did the work faithfully. And over them were appointed Jahath and Obadiah, Levites, of the children of Merari, and Zechariah and Meshullam, of the children of the Kohathites, for the oversight; and all these Levites were skilled in instruments of music.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11947,
+        "text": "They were also over the bearers of burdens, and were overseers of all that worked in any manner of service. And of the Levites were the scribes, and officers, and doorkeepers.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11948,
+        "text": "And when they brought out the money that had been brought into the house of Jehovah, Hilkijah the priest found the book of the law of Jehovah by Moses.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 11949,
+        "text": "Then Hilkijah spoke and said to Shaphan the scribe, I have found the book of the law in the house of Jehovah. And Hilkijah gave the book to Shaphan.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11950,
+        "text": "And Shaphan carried the book to the king. And moreover he brought the king word again saying, All that was committed to the hand of thy servants, they do;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11951,
+        "text": "and they have emptied out the money that was found in the house of Jehovah, and have delivered it into the hand of the overseers, and into the hand of the workmen.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11952,
+        "text": "And Shaphan the scribe informed the king saying, Hilkijah the priest has given me a book. And Shaphan read out of it before the king.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11953,
+        "text": "And it came to pass when the king heard the words of the law, that he rent his garments.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11954,
+        "text": "And the king commanded Hilkijah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe, and Asaiah a servant of the king, saying,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11955,
+        "text": "Go, inquire of Jehovah for me, and for them that are left in Israel and in Judah, concerning the words of the book which is found; for great is the wrath of Jehovah that is poured out upon us, because our fathers have not kept the word of Jehovah, to do according to all that is written in this book.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11956,
+        "text": "And Hilkijah and they that the king [had appointed] went to Huldah the prophetess, the wife of Shallum the son of Tokehath, son of Hasrah, keeper of the wardrobe: now she dwelt in Jerusalem in the second quarter [of the town]; and they spoke with her to that effect.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 11957,
+        "text": "And she said to them, Thus saith Jehovah the God of Israel: Tell the man that sent you to me,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 11958,
+        "text": "Thus saith Jehovah: Behold, I will bring evil upon this place, and upon the inhabitants thereof, all the curses that are written in the book which they have read before the king of Judah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 11959,
+        "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my fury shall be poured out upon this place, and shall not be quenched.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 11960,
+        "text": "But to the king of Judah, who sent you to inquire of Jehovah, thus shall ye say to him: Thus saith Jehovah the God of Israel touching the words which thou hast heard:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 11961,
+        "text": "Because thy heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy garments and weep before me, I also have heard [thee], saith Jehovah.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 11962,
+        "text": "Behold, I will gather thee unto thy fathers, and thou shalt be gathered to thy grave in peace; and thine eyes shall not see all the evil that I will bring upon this place, and upon the inhabitants thereof. And they brought the king word again.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 11963,
+        "text": "And the king sent and gathered all the elders of Judah and of Jerusalem.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 11964,
+        "text": "And the king went up into the house of Jehovah, and all the men of Judah and the inhabitants of Jerusalem, and the priests and the Levites, and all the people, great and small; and he read in their ears all the words of the book of the covenant which had been found in the house of Jehovah.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 11965,
+        "text": "And the king stood in his place, and made a covenant before Jehovah, to walk after Jehovah, and to keep his commandments and his testimonies and his statutes with all his heart and with all his soul, to perform the words of the covenant that are written in this book.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 11966,
+        "text": "And he caused all that were present in Jerusalem and Benjamin to stand [to it]. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 11967,
+        "text": "And Josiah removed all the abominations out of all the countries that belonged to the children of Israel, and made to serve all that were found in Israel,—to serve Jehovah their God: all his days they did not depart from following Jehovah, the God of their fathers.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

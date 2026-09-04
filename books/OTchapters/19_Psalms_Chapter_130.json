@@ -1,0 +1,68 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 130,
+    "count": 608,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16142,
+        "text": "{A Song of degrees.} Out of the depths do I call upon thee, Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16143,
+        "text": "Lord, hear my voice; let thine ears be attentive to the voice of my supplication.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16144,
+        "text": "If thou, Jah, shouldest mark iniquities, Lord, who shall stand?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16145,
+        "text": "But there is forgiveness with thee, that thou mayest be feared.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16146,
+        "text": "I wait for Jehovah; my soul doth wait, and in his word do I hope.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16147,
+        "text": "My soul [waiteth] for the Lord more than the watchers [wait] for the morning, [more than] the watchers for the morning.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16148,
+        "text": "Let Israel hope in Jehovah, because with Jehovah there is loving-kindness, and with him is plenteous redemption;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16149,
+        "text": "And he will redeem Israel from all his iniquities.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 39,"name": "Malachi","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 928,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23122,
+        "text": "Behold, I send my messenger, and he shall prepare the way before me; and the Lord whom ye seek will suddenly come to his temple, and the Angel of the covenant, whom ye delight in: behold, he cometh, saith Jehovah of hosts.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23123,
+        "text": "But who shall endure the day of his coming? and who shall stand when he appeareth? For he will be like a refiner’s fire, and like fullers’ lye.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23124,
+        "text": "And he shall sit [as] a refiner and purifier of silver; and he will purify the children of Levi, and purge them as gold and silver; and they shall offer unto Jehovah an oblation in righteousness.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23125,
+        "text": "Then shall the oblation of Judah and Jerusalem be pleasant unto Jehovah, as in the days of old, and as in former years.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23126,
+        "text": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against the false swearers, and against those that oppress the hired servant in [his] wages, the widow and the fatherless, and that turn aside the stranger [from his right], and fear not me, saith Jehovah of hosts.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23127,
+        "text": "For I Jehovah change not, and ye, sons of Jacob, are not consumed.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23128,
+        "text": "Since the days of your fathers have ye departed from my statutes, and have not kept them. Return unto me, and I will return unto you, saith Jehovah of hosts. But ye say, Wherein shall we return?",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 23129,
+        "text": "Will a man rob God? But ye rob me. And ye say, Wherein do we rob thee? [In] tithes and heave-offerings.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23130,
+        "text": "Ye are cursed with a curse; and me ye rob, [even] this whole nation.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23131,
+        "text": "Bring the whole tithe into the treasure-house, that there may be food in my house, and prove me now herewith, saith Jehovah of hosts, if I open not to you the windows of the heavens, and pour you out a blessing, till there be no place for it.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23132,
+        "text": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast its fruit before the time in the field, saith Jehovah of hosts.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23133,
+        "text": "And all nations shall call you blessed; for ye shall be a delightsome land, saith Jehovah of hosts.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23134,
+        "text": "Your words have been stout against me, saith Jehovah; but ye say, What have we been speaking against thee?",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23135,
+        "text": "Ye say, It is vain to serve God; and what profit is it that we keep his charge, and that we walk mournfully before Jehovah of hosts?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23136,
+        "text": "And now we hold the proud for happy; yea, they that work wickedness are built up; yea, they tempt God, and they escape.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23137,
+        "text": "Then they that feared Jehovah spoke often one to another; and Jehovah observed [it], and heard, and a book of remembrance was written before him for them that feared Jehovah, and that thought upon his name.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23138,
+        "text": "And they shall be unto me a peculiar treasure, saith Jehovah of hosts, in the day that I prepare; and I will spare them as a man spareth his own son that serveth him.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23139,
+        "text": "And ye shall return and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

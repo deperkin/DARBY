@@ -1,0 +1,145 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 866,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22135,
+        "text": "Hear the word of Jehovah, ye children of Israel; for Jehovah hath a controversy with the inhabitants of the land; for there is no truth, nor goodness, nor knowledge of God in the land.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22136,
+        "text": "Swearing, and lying, and killing, and stealing, and committing adultery,—they break out; and blood toucheth blood.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22137,
+        "text": "For this shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowl of the heavens, yea, the fishes of the sea also shall be taken away.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22138,
+        "text": "Yet let no man strive, and let no man reprove; for thy people are as they that strive with the priest.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22139,
+        "text": "And thou shalt stumble by day; and the prophet also shall stumble with thee by night: and I will destroy thy mother.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22140,
+        "text": "My people are destroyed for lack of knowledge; for thou hast rejected knowledge, and I will reject thee, that thou shalt be no priest to me; seeing thou hast forgotten the law of thy God, I also will forget thy children.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 22141,
+        "text": "As they were multiplied, so they sinned against me: I will change their glory into shame.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22142,
+        "text": "They eat the sin of my people, and their soul longeth for their iniquity.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22143,
+        "text": "And it shall be as the people so the priest; and I will visit their ways upon them, and recompense to them their doings;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22144,
+        "text": "and they shall eat, and not have enough; they shall commit whoredom, and shall not increase: for they have left off taking heed to Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22145,
+        "text": "Fornication, and wine, and new wine take away the heart.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22146,
+        "text": "My people ask counsel of their stock, and their staff declareth unto them; for the spirit of whoredoms causeth [them] to err, and they have gone a whoring from under their God:",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 22147,
+        "text": "they sacrifice upon the tops of the mountains, and burn incense upon the hills, under oak and poplar and terebinth, because the shade thereof is good; therefore your daughters play the harlot and your daughters-in-law commit adultery.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22148,
+        "text": "I will not punish your daughters when they play the harlot, nor your daughters-in-law for their committing adultery; for they themselves go aside with harlots, and they sacrifice with prostitutes: and the people that doth not understand shall come to ruin.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22149,
+        "text": "Though thou, Israel, play the harlot, let not Judah trespass; and come ye not unto Gilgal, neither go up to Beth-aven, nor swear [As] Jehovah liveth!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22150,
+        "text": "For Israel is refractory as an untractable heifer; now will Jehovah feed them as a lamb in a wide [pasture].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22151,
+        "text": "Ephraim is joined to idols: leave him alone.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22152,
+        "text": "Their drink is sour; they give themselves up to whoredom; her great men passionately love [their] shame.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22153,
+        "text": "The wind hath wrapped her up in its wings, and they shall be ashamed because of their sacrifices.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

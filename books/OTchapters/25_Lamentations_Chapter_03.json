@@ -1,0 +1,474 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 25,"name": "Lamentations","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 800,
+    "MaxVerses": 66,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20356,
+        "text": "I am the man that hath seen affliction by the rod of his wrath.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20357,
+        "text": "Me hath he led, and brought into darkness, and not into light.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20358,
+        "text": "Surely against me hath he turned again and again his hand all the day.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20359,
+        "text": "My flesh and my skin hath he wasted away, he hath broken my bones.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20360,
+        "text": "He hath built against me, and encompassed [me] with gall and toil.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20361,
+        "text": "He hath made me to dwell in dark places as those that have been long dead.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20362,
+        "text": "He hath hedged me about that I cannot get out: he hath made my chain heavy.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20363,
+        "text": "Even when I cry and shout, he shutteth out my prayer.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20364,
+        "text": "He hath inclosed my ways with hewn stone, he hath made my paths crooked.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20365,
+        "text": "He is unto me [as] a bear lying in wait, a lion in secret places.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20366,
+        "text": "He hath turned aside my ways, and pulled me in pieces; he hath made me desolate.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20367,
+        "text": "He hath bent his bow, and set me as a mark for the arrow.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20368,
+        "text": "He hath caused the arrows of his quiver to enter into my reins.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20369,
+        "text": "I am become a derision to all my people; their song all the day.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20370,
+        "text": "He hath sated me with bitterness, he hath made me drunk with wormwood.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20371,
+        "text": "He hath also broken my teeth with gravel stones, he hath covered me with ashes.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20372,
+        "text": "And thou hast removed my soul far off from peace: I have forgotten prosperity.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20373,
+        "text": "And I said, My strength is perished, and my hope in Jehovah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20374,
+        "text": "Remember thou mine affliction and my wandering, the wormwood and the gall.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20375,
+        "text": "My soul hath [them] constantly in remembrance, and is humbled in me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20376,
+        "text": "This I recall to heart, therefore have I hope.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 20377,
+        "text": "It is of Jehovah’s loving-kindness we are not consumed, because his compassions fail not;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20378,
+        "text": "they are new every morning: great is thy faithfulness.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20379,
+        "text": "Jehovah is my portion, saith my soul; therefore will I hope in him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20380,
+        "text": "Jehovah is good unto them that wait for him, to the soul [that] seeketh him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20381,
+        "text": "It is good that one should both wait, and that in silence, for the salvation of Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20382,
+        "text": "It is good for a man that he bear the yoke in his youth:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 20383,
+        "text": "He sitteth solitary and keepeth silence, because he hath laid it upon him;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 20384,
+        "text": "he putteth his mouth in the dust, if so be there may be hope;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 20385,
+        "text": "he giveth his cheek to him that smiteth him; he is filled full with reproach.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 20386,
+        "text": "For the Lord will not cast off for ever;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 20387,
+        "text": "but if he have caused grief, he will have compassion according to the multitude of his loving-kindnesses:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 20388,
+        "text": "for he doth not willingly afflict or grieve the children of men.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 20389,
+        "text": "To crush under foot all the prisoners of the earth,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 20390,
+        "text": "to turn aside the right of a man before the face of the Most High,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 20391,
+        "text": "to wrong a man in his cause,—will not the Lord see it?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 20392,
+        "text": "Who is he that saith, and there cometh to pass, what the Lord hath not commanded?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 20393,
+        "text": "Out of the mouth of the Most High doth not there proceed evil and good?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 20394,
+        "text": "Wherefore doth a living man complain, a man for the punishment of his sins?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 20395,
+        "text": "Let us search and try our ways, and turn again to Jehovah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 20396,
+        "text": "Let us lift up our heart with [our] hands unto God in the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 20397,
+        "text": "We have transgressed and have rebelled: thou hast not pardoned.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 43,
+        "count": 20398,
+        "text": "Thou hast covered thyself with anger, and pursued us; thou hast slain, thou hast not spared.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 20399,
+        "text": "Thou hast covered thyself with a cloud, that prayer should not pass through.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 20400,
+        "text": "Thou hast made us the offscouring and refuse in the midst of the peoples.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 20401,
+        "text": "All our enemies have opened their mouth against us.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 20402,
+        "text": "Fear and the pit are come upon us, devastation and ruin.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 20403,
+        "text": "Mine eye runneth down with streams of water for the ruin of the daughter of my people.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 20404,
+        "text": "Mine eye poureth down, and ceaseth not, without any intermission,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 20405,
+        "text": "till Jehovah look down and behold from the heavens.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 20406,
+        "text": "Mine eye affecteth my soul, because of all the daughters of my city.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 20407,
+        "text": "They that are mine enemies without cause have chased me sore like a bird.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 20408,
+        "text": "They have cut off my life in a pit, and cast a stone upon me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 20409,
+        "text": "Waters streamed over my head; I said, I am cut off.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 20410,
+        "text": "I called upon thy name, Jehovah, out of the lowest pit.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 56,
+        "count": 20411,
+        "text": "Thou hast heard my voice: hide not thine ear at my sighing, at my cry.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 20412,
+        "text": "Thou drewest near in the day that I called upon thee; thou saidst, Fear not.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 20413,
+        "text": "Lord, thou hast pleaded the cause of my soul, thou hast redeemed my life.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 20414,
+        "text": "Jehovah, thou hast seen my wrong: judge thou my cause.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 20415,
+        "text": "Thou hast seen all their vengeance, all their imaginations against me.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 20416,
+        "text": "Thou hast heard their reproach, O Jehovah, all their imaginations against me;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 20417,
+        "text": "the lips of those that rise up against me and their meditation against me all the day.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 20418,
+        "text": "Behold thou their sitting down and their rising up: I am their song.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 20419,
+        "text": "Render unto them a recompence, O Jehovah, according to the work of their hands;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 20420,
+        "text": "give them obduracy of heart, thy curse unto them;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 20421,
+        "text": "pursue them in anger, and destroy them from under the heavens of Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

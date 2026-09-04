@@ -1,0 +1,180 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 29,
+    "count": 708,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18195,
+        "text": "Woe to Ariel, to Ariel, the city of David’s encampment! Add ye year to year; let the feasts come round.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18196,
+        "text": "But I will distress Ariel, and there shall be sorrow and sadness; and it shall be unto me as an Ariel.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18197,
+        "text": "And I will camp against thee round about, and will lay siege against thee with watch-posts, and I will raise forts against thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18198,
+        "text": "And thou shalt be brought low, thou shalt speak out of the ground, and thy speech shall come low out of the dust, and thy voice shall be as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18199,
+        "text": "And the multitude of thine enemies shall be like small dust, and the multitude of the terrible ones as chaff that passeth away; and it shall be in an instant, suddenly.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18200,
+        "text": "Thou shalt be visited by Jehovah of hosts with thunder and with earthquake and great noise, with whirlwind and tempest, and the flame of devouring fire.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18201,
+        "text": "And the multitude of all the nations that war against Ariel, even all that war against her and her fortifications, and that distress her, shall be as a dream of a night vision.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18202,
+        "text": "It shall even be as when the hungry dreameth, and, behold, he eateth; and he awaketh, and his soul is empty; or as when the thirsty dreameth, and, behold, he drinketh; and he awaketh, and, behold, he is faint, and his soul craveth: so shall the multitude of all the nations be that war against mount Zion.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18203,
+        "text": "Be astounded and astonished, blind yourselves and be blind! They are drunken, but not with wine; they stagger, but not with strong drink.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18204,
+        "text": "For Jehovah hath poured out upon you a spirit of deep sleep, and hath closed your eyes; the prophets and your chiefs, the seers, hath he covered.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18205,
+        "text": "And the whole vision is become unto you as the words of a book that is sealed, which they give to one that can read, saying, Read this, I pray thee; and he saith, I cannot, for it is sealed.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18206,
+        "text": "And they give the book to him that cannot read, saying, Read this, I pray thee; and he saith, I cannot read.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18207,
+        "text": "And the Lord saith, Forasmuch as this people draw near with their mouth, and honour me with their lips, but their heart is removed far from me, and their fear of me is a commandment taught of men;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18208,
+        "text": "therefore, behold, I will proceed to do marvellously with this people, to do marvellously, even with wonder, and the wisdom of their wise [men] shall perish, and the understanding of their intelligent ones shall be hid.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18209,
+        "text": "Woe unto them that hide deep, far from Jehovah, their counsel! And their works are in the dark, and they say, Who seeth us? and who knoweth us?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18210,
+        "text": "[Oh] your perverseness!—Shall the potter be esteemed as the clay, so that the work should say of him that made it, He made me not; or the thing formed say of him that formed it, He hath no understanding?",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18211,
+        "text": "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 18212,
+        "text": "And in that day shall the deaf hear the words of the book, and, out of obscurity and out of darkness, the eyes of the blind shall see;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18213,
+        "text": "and the meek shall increase their joy in Jehovah, and the needy among men shall rejoice in the Holy One of Israel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18214,
+        "text": "For the terrible one shall come to nought, and the scorner shall be no more, and all that watch for iniquity shall be cut off,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18215,
+        "text": "that make a man an offender for a word, and lay a snare for him that reproveth in the gate, and pervert [the judgment of] the righteous by futility.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 18216,
+        "text": "Therefore thus saith Jehovah who redeemed Abraham, concerning the house of Jacob: Jacob shall not now be ashamed, neither shall his face now be pale;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 18217,
+        "text": "for when he seeth his children, the work of my hands, in the midst of him, they shall hallow my name, and hallow the Holy One of Jacob, and shall fear the God of Israel.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 18218,
+        "text": "And they that are of erring spirit shall know understanding, and the disobedient shall learn doctrine.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

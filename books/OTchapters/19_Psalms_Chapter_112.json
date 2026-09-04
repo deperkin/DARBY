@@ -1,0 +1,82 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 112,
+    "count": 590,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15805,
+        "text": "Hallelujah! Blessed is the man that feareth Jehovah, that delighteth greatly in his commandments.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15806,
+        "text": "His seed shall be mighty in the land; the generation of the upright shall be blessed.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15807,
+        "text": "Wealth and riches [shall be] in his house; and his righteousness abideth for ever.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15808,
+        "text": "Unto the upright there ariseth light in the darkness; he is gracious, and merciful, and righteous.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15809,
+        "text": "It is well with the man that is gracious and lendeth; he will sustain his cause in judgment.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15810,
+        "text": "For he shall not be moved for ever: the righteous shall be in everlasting remembrance.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15811,
+        "text": "He shall not be afraid of evil tidings; his heart is fixed confiding in Jehovah;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15812,
+        "text": "His heart is maintained, he is not afraid, until he see [his desire] upon his oppressors.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15813,
+        "text": "He scattereth abroad, he giveth to the needy; his righteousness abideth for ever: his horn shall be exalted with honour.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15814,
+        "text": "The wicked [man] shall see [it] and be vexed; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

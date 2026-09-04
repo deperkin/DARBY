@@ -1,0 +1,467 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 143,
+    "MaxVerses": 65,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4491,
+        "text": "And it came to pass after the plague, that Jehovah spoke to Moses and to Eleazar the son of Aaron the priest, saying,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4492,
+        "text": "Take the sum of the whole assembly of the children of Israel, from twenty years old and upward, according to their fathers’ houses, all that go forth to military service in Israel.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4493,
+        "text": "And Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan of Jericho, saying,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4494,
+        "text": "From twenty years old and upward...; as Jehovah had commanded Moses and the children of Israel, who went forth out of the land of Egypt.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4495,
+        "text": "Reuben, the firstborn of Israel: the children of Reuben: [of] Enoch, the family of the Enochites; of Pallu, the family of the Palluites;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 4496,
+        "text": "of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4497,
+        "text": "These are the families of the Reubenites; and they that were numbered of them were forty-three thousand seven hundred and thirty.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4498,
+        "text": "And the sons of Pallu: Eliab;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4499,
+        "text": "and the sons of Eliab were Nemuel, and Dathan, and Abiram. This is that Dathan and Abiram, summoned of the assembly, who contended against Moses and against Aaron in the band of Korah, when they contended against Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4500,
+        "text": "And the earth opened its mouth, and swallowed them up together with Korah, when that band died, when the fire devoured the two hundred and fifty men; and they became a sign.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4501,
+        "text": "But the children of Korah died not.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4502,
+        "text": "The sons of Simeon, after their families: of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4503,
+        "text": "of Zerah, the family of the Zarhites; of Saul, the family of the Saulites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4504,
+        "text": "These are the families of the Simeonites, twenty-two thousand two hundred.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4505,
+        "text": "The children of Gad, after their families: of Zephon, the family of the Zephonites; of Haggi, the family of the Haggites; of Shuni,the family of the Shunites;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4506,
+        "text": "of Ozni, the family of the Oznites; of Eri, the family of the Erites;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4507,
+        "text": "of Arod, the family of the Arodites; of Areli, the family of the Arelites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4508,
+        "text": "These are the families of the children of Gad according to those that were numbered of them, forty thousand five hundred.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4509,
+        "text": "The sons of Judah: Er and Onan; and Er and Onan died in the land of Canaan.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4510,
+        "text": "And the sons of Judah, after their families: of Shelah, the family of the Shelanites; of Pherez, the family of the Pharzites; of Zerah, the family of the Zarhites.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4511,
+        "text": "And the sons of Pherez: of Hezron, the family of the Hezronites; of Hamul, the family of the Hamulites.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4512,
+        "text": "These are the families of Judah according to those that were numbered of them, seventy-six thousand five hundred.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4513,
+        "text": "The sons of Issachar, after their families: of Tola, the family of the Tolaites; of Puah, the family of the Punites;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4514,
+        "text": "of Jashub, the family of the Jashubites; of Shimron, the family of the Shimronites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4515,
+        "text": "These are the families of Issachar according to those that were numbered of them, sixty-four thousand three hundred.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4516,
+        "text": "The sons of Zebulun, after their families: of Sered, the family of the Sardites; of Elon, the family of the Elonites; of Jahleel, the family of the Jahleelites.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4517,
+        "text": "These are the families of the Zebulunites according to those that were numbered of them, sixty thousand five hundred.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4518,
+        "text": "The sons of Joseph, after their families: Manasseh and Ephraim.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4519,
+        "text": "The sons of Manasseh: of Machir, the family of the Machirites (and Machir begot Gilead); of Gilead, the family of the Gileadites.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4520,
+        "text": "These are the sons of Gilead: of Jeezer, the family of the Jeezerites; of Helek, the family of the Helkites;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4521,
+        "text": "and of Asriel, the family of the Asrielites; and of Shechem, the family of the Shechemites;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4522,
+        "text": "and of Shemida, the family of the Shemidaites; and of Hepher, the family of the Hepherites.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4523,
+        "text": "—And Zelophehad the son of Hepher had no sons, but daughters; and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4524,
+        "text": "—These are the families of Manasseh; and those that were numbered of them, fifty-two thousand seven hundred.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4525,
+        "text": "These are the sons of Ephraim, after their families: of Shuthelah, the family of the Shuthalhites; of Becher, the family of the Bachrites; of Tahan, the family of the Tahanites.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4526,
+        "text": "And these are the sons of Shuthelah: of Eran, the family of the Eranites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4527,
+        "text": "These are the families of the sons of Ephraim according to those that were numbered of them, thirty-two thousand five hundred. These are the sons of Joseph after their families.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4528,
+        "text": "The sons of Benjamin, after their families: of Bela, the family of the Belaites; of Ashbel, the family of the Ashbelites; of Ahiram, the family of the Ahiramites;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4529,
+        "text": "of Shephupham, the family of the Shuphamites; of Hupham, the family of the Huphamites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4530,
+        "text": "And the sons of Bela were Ard and Naaman; [of Ard] the family of the Ardites; of Naaman, the family of the Naamites.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4531,
+        "text": "These are the sons of Benjamin after their families; and they that were numbered of them were forty-five thousand six hundred.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 4532,
+        "text": "These are the sons of Dan, after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 4533,
+        "text": "All the families of the Shuhamites, according to those that were numbered of them, were sixty-four thousand four hundred.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 4534,
+        "text": "The sons of Asher, after their families: of Jimnah, the family of the Jimnites; of Jishvi, the family of the Jishvites; of Beriah, the family of the Beriites.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 4535,
+        "text": "Of the sons of Beriah: of Heber, the family of the Heberites; of Malchiel, the family of the Malchielites.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 4536,
+        "text": "And the name of the daughter of Asher was Serah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 4537,
+        "text": "These are the families of the sons of Asher according to those that were numbered of them, fifty-three thousand four hundred.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 4538,
+        "text": "The sons of Naphtali, after their families: of Jahzeel, the family of the Jahzeelites; of Guni, the family of the Gunites;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 4539,
+        "text": "of Jezer, the family of the Jezerites; of Shillem, the family of the Shillemites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 4540,
+        "text": "These are the families of Naphtali, according to their families; and they that were numbered of them were forty-five thousand four hundred.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 4541,
+        "text": "These were the numbered of the children of Israel, six hundred and one thousand seven hundred and thirty.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 4542,
+        "text": "And Jehovah spoke to Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 53,
+        "count": 4543,
+        "text": "Unto these shall the land be divided for an inheritance according to the number of the names;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 4544,
+        "text": "to the many thou shalt increase their inheritance, and to the few thou shalt diminish their inheritance; to every one shall his inheritance be given according to those that were numbered of him.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 4545,
+        "text": "Notwithstanding the land shall be divided by lot; according to the names of the tribes of their fathers shall they inherit;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 4546,
+        "text": "according to lot shall his inheritance be divided to each, be they many or few in number.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 4547,
+        "text": "And these are the numbered of the Levites, after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 58,
+        "count": 4548,
+        "text": "These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korahites.—And Kohath begot Amram.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 4549,
+        "text": "And the name of Amram’s wife was Jochebed, the daughter of Levi, who was born to Levi in Egypt; and she bore to Amram Aaron and Moses, and Miriam their sister.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 4550,
+        "text": "And to Aaron were born Nadab, and Abihu, Eleazar, and Ithamar.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 4551,
+        "text": "And Nadab and Abihu died, when they presented strange fire before Jehovah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 4552,
+        "text": "And those that were numbered of the [Levites] were twenty-three thousand, all males from a month old and upward; for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 4553,
+        "text": "These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab, by the Jordan of Jericho.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 64,
+        "count": 4554,
+        "text": "But among these there was not a man numbered by Moses and Aaron the priest, who numbered the children of Israel in the wilderness of Sinai.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 4555,
+        "text": "For Jehovah had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

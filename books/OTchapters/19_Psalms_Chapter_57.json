@@ -1,0 +1,89 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 57,
+    "count": 535,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14770,
+        "text": "{To the chief Musician. ‘Destroy not.’ Of David. Michtam; when he fled from Saul in the cave.} Be gracious unto me, O God, be gracious unto me; for my soul taketh refuge in thee: yea, in the shadow of thy wings do I take refuge, until the calamities be overpast.",
+        "WordCount": 50,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14771,
+        "text": "I will call unto God, the Most High; unto God that performeth [all] for me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14772,
+        "text": "He will send from the heavens and save me; he hath covered with reproach him that would swallow me up. Selah. God hath sent forth his loving-kindness and his truth.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14773,
+        "text": "My soul is in the midst of lions; I lie down [among] them that breathe out flames, the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14774,
+        "text": "Be exalted above the heavens, O God; let thy glory be above all the earth!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14775,
+        "text": "They have prepared a net for my steps; my soul was bowed down: they have digged a pit before me; they are fallen into the midst thereof. Selah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14776,
+        "text": "My heart is fixed, O God, my heart is fixed: I will sing, yea, I will sing psalms.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14777,
+        "text": "Awake, my glory; awake, lute and harp: I will wake the dawn.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14778,
+        "text": "I will give thee thanks among the peoples, O Lord; of thee will I sing psalms among the nations:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14779,
+        "text": "For thy loving-kindness is great unto the heavens, and thy truth unto the clouds.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14780,
+        "text": "Be exalted above the heavens, O God; let thy glory be above all the earth!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

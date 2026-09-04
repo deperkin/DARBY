@@ -1,0 +1,145 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 35,"name": "Habakkuk","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 906,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22770,
+        "text": "A Prayer of Habakkuk the prophet upon Shigionoth.",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22771,
+        "text": "Jehovah, I heard the report of thee, [and] I feared. Jehovah, revive thy work in the midst of the years, In the midst of the years make [it] known: In wrath remember mercy!",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22772,
+        "text": "God came from Teman, And the holy one from mount Paran. Selah. his glory covereth the heavens, And the earth is full of his praise.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 22773,
+        "text": "And [his] brightness was as the light; Rays [came forth] from his hand; And there was the hiding of his power.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22774,
+        "text": "Before him went the pestilence, And a burning flame went forth at his feet.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22775,
+        "text": "He stood, and measured the earth; He beheld, and discomfited the nations; And the eternal mountains were scattered, The everlasting hills gave way: His ways are everlasting.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22776,
+        "text": "I saw the tents of Cushan in affliction; The curtains of the land of Midian did tremble.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22777,
+        "text": "Was Jehovah wrathful with the rivers? Was thine anger against the rivers? Was thy rage against the sea, That thou didst ride upon thy horses, Thy chariots of salvation?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22778,
+        "text": "Thy bow was made naked, The rods [of discipline] sworn according to [thy] word. Selah. Thou didst cleave the earth with rivers.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22779,
+        "text": "The mountains saw thee, they were in travail: Torrents of waters passed by; The deep uttered its voice, Lifted up its hands on high.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22780,
+        "text": "The sun [and] moon stood still in their habitation, At the light of thine arrows which shot forth,—At the shining of thy glittering spear.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22781,
+        "text": "Thou didst march through the land in indignation, Thou didst thresh the nations in anger.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22782,
+        "text": "Thou wentest forth for the salvation of thy people, For the salvation of thine anointed; Thou didst smite off the head from the house of the wicked, Laying bare the foundation even to the neck. Selah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22783,
+        "text": "Thou didst strike through with his own spears the head of his leaders: They came out as a whirlwind to scatter me, Whose exulting was as to devour the afflicted secretly.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22784,
+        "text": "Thou didst walk through the sea with thy horses, The heap of great waters.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22785,
+        "text": "I heard, and my belly trembled; My lips quivered at the voice; Rottenness entered into my bones, and I trembled in my place, That I might rest in the day of distress, When their invader shall come up against the people.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 22786,
+        "text": "For though the fig-tree shall not blossom, Neither shall fruit be in the vines; The labour of the olive-tree shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, And there shall be no herd in the stalls:",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22787,
+        "text": "Yet I will rejoice in Jehovah, I will joy in the God of my salvation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22788,
+        "text": "Jehovah, the Lord, is my strength, And he maketh my feet like hinds’ [feet], And he will make me to walk upon my high places. To the chief Musician. On my stringed instruments.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 487,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14023,
+        "text": "{To the chief Musician. Upon Muthlabben. A Psalm of David.} I will praise Jehovah with my whole heart; I will recount all thy marvellous works.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14024,
+        "text": "I will be glad and rejoice in thee; I will sing forth thy name, O Most High.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14025,
+        "text": "When mine enemies turned back, they stumbled and perished at thy presence:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14026,
+        "text": "For thou hast maintained my right and my cause. Thou sittest on the throne, judging righteously.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14027,
+        "text": "Thou hast rebuked the nations, thou hast destroyed the wicked; thou hast put out their name for ever and ever.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14028,
+        "text": "O enemy! destructions are ended for ever.—Thou hast also destroyed cities, even the remembrance of them hath perished.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14029,
+        "text": "But Jehovah sitteth for ever; he hath ordained his throne for judgment.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14030,
+        "text": "And it is he that will judge the world with righteousness; he shall execute judgment upon the peoples with equity.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14031,
+        "text": "And Jehovah will be a refuge to the oppressed one, a refuge in times of distress.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14032,
+        "text": "And they that know thy name will confide in thee; for thou, Jehovah, hast not forsaken them that seek thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14033,
+        "text": "Sing psalms to Jehovah who dwelleth in Zion; tell among the peoples his doings.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 14034,
+        "text": "For when he maketh inquisition for blood, he remembereth them; the cry of the afflicted ones hath he not forgotten.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14035,
+        "text": "Be gracious unto me, O Jehovah; consider mine affliction from them that hate me, lifting me up from the gates of death:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14036,
+        "text": "That I may declare all thy praise in the gates of the daughter of Zion. I will be joyful in thy salvation.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14037,
+        "text": "The nations are sunk down in the pit [that] they made; in the net that they hid is their own foot taken.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14038,
+        "text": "Jehovah is known [by] the judgment he hath executed: the wicked is ensnared in the work of his own hands. Higgaion. Selah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14039,
+        "text": "The wicked shall be turned into Sheol, all the nations that forget God.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14040,
+        "text": "For the needy one shall not be forgotten alway; the hope of the meek shall not perish for ever.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14041,
+        "text": "Arise, Jehovah; let not man prevail: let the nations be judged in thy sight.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14042,
+        "text": "Put them in fear, Jehovah: that the nations may know themselves to be but men. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

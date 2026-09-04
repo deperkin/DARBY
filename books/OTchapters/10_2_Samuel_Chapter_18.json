@@ -1,0 +1,243 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 285,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8480,
+        "text": "And David marshalled the people that were with him, and set captains of thousands and captains of hundreds over them.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8481,
+        "text": "And David sent forth the people, a third part under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. And the king said to the people, I will surely go forth with you myself also.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8482,
+        "text": "But the people said, Thou shalt not go forth, for if we should in any case flee, they will not care for us; neither if half of us die, will they care for us; for thou art worth ten thousand of us; and now it is better that thou succour us out of the city.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8483,
+        "text": "And the king said to them, I will do what is good in your sight. And the king stood by the gate-side, and all the people came out by hundreds and by thousands.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8484,
+        "text": "And the king commanded Joab and Abishai and Ittai, saying, [Deal] gently for my sake with the young man Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8485,
+        "text": "And the people went out into the field against Israel; and the battle was in the forest of Ephraim.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8486,
+        "text": "And the people of Israel were routed before the servants of David, and there was a great slaughter there that day: twenty thousand men.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8487,
+        "text": "And the battle was there scattered over the face of all the country; and the forest devoured more people that day than the sword devoured.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8488,
+        "text": "And Absalom found himself in the presence of David’s servants. And Absalom was riding upon a mule, and the mule went under the thick boughs of the great terebinth, and his head caught in the terebinth, and he was taken up between the heaven and the earth; and the mule that was under him went away.",
+        "WordCount": 56,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 8489,
+        "text": "And a man saw it, and told Joab, and said, Behold, I saw Absalom hanging in a terebinth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8490,
+        "text": "And Joab said to the man that told him, And behold, thou sawest [him], and why didst thou not smite him there to the ground? and I would have given thee ten silver pieces and a girdle.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8491,
+        "text": "And the man said to Joab, Though I should receive a thousand silver pieces in my hand, yet would I not put forth my hand against the king’s son; for in our hearing the king charged thee and Abishai and Ittai, saying, Take care, whoever it be [of you], of the young man Absalom.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8492,
+        "text": "Or I should have acted falsely against mine own life, for there is no matter concealed from the king, and thou wouldest have set thyself against [me].",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8493,
+        "text": "Then said Joab, I may not tarry thus with thee. And he took three spears in his hand, and thrust them into Absalom’s body, while he was yet alive in the midst of the terebinth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8494,
+        "text": "And ten young men that bore Joab’s armour surrounded and smote Absalom, and killed him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8495,
+        "text": "And Joab blew the trumpet, and the people returned from pursuing after Israel; for Joab kept back the people.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8496,
+        "text": "And they took Absalom, and cast him into a great pit in the wood, and raised a very great heap of stones upon him. And all Israel fled every one to his tent.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8497,
+        "text": "Now Absalom in his lifetime had taken and reared up for himself a monument, which is in the king’s dale; for he said, I have no son to keep my name in remembrance; and he called the monument after his own name; and it is called unto this day, Absalom’s memorial.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8498,
+        "text": "And Ahimaaz the son of Zadok said, Let me run, I pray, and carry the king the news that Jehovah has avenged him of his enemies.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 8499,
+        "text": "And Joab said to him, Thou shalt not be a bearer of news to-day, but thou shalt carry the news another day; but to-day thou shalt carry no news, because the king’s son is dead.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8500,
+        "text": "Then said Joab to the Cushite, Go, tell the king what thou hast seen. And the Cushite bowed himself to Joab, and ran.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8501,
+        "text": "And Ahimaaz the son of Zadok said yet again to Joab, Come what may, let me, I pray thee, also run after the Cushite. And Joab said, Why wilt thou run, my son, seeing that there is no news suited [to thee]?",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8502,
+        "text": "but, come what may, let me run. And he said to him, run. And Ahimaaz ran by the way of the plain, And outstripped the Cushite.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8503,
+        "text": "And David sat between the two gates; and the watchman went up to the roof of the gate, on to the wall, and lifted up his eyes and looked, and behold, a man running alone.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8504,
+        "text": "And the watchman cried, and told the king. And the king said, If he be alone, there is news in his mouth. And he came on and drew near.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8505,
+        "text": "And the watchman saw another man running; and the watchman called to the porter and said, Behold a man running alone. And the king said, He also is a bearer of news.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8506,
+        "text": "And the watchman said, I see the running of the foremost like the running of Ahimaaz the son of Zadok. And the king said, He is a good man; and comes with good news.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8507,
+        "text": "And Ahimaaz called and said to the king, Peace! And he fell down to the earth on his face before the king, and said, Blessed be Jehovah thy God, who has delivered up the men that lifted up their hand against my lord the king.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8508,
+        "text": "And the king said, Is it well with the young man Absalom? And Ahimaaz said, I saw a great tumult when Joab sent the king’s servant, and me thy servant; but I knew not what it was.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 8509,
+        "text": "And the king said, Turn aside [and] stand here. And he turned aside and stood still.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8510,
+        "text": "And behold, the Cushite came; and the Cushite said, Let my lord the king receive good tidings, for Jehovah has avenged thee this day of all them that rose up against thee.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 8511,
+        "text": "And the king said to the Cushite, Is it well with the young man Absalom? And the Cushite said, The enemies of my lord the king, and all that rise against thee for evil, be as that young man.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 8512,
+        "text": "And the king was much moved, and went up to the upper chamber of the gate, and wept; and as he went, he said thus: O my son Absalom, my son, my son Absalom! would God I had died in thy stead, O Absalom, my son, my son!",
+        "WordCount": 48,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

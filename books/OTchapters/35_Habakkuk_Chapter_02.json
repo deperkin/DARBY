@@ -1,0 +1,152 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 35,"name": "Habakkuk","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 905,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22750,
+        "text": "I will stand upon my watch, and set me upon the tower, and will look forth to see what he will say unto me, and what I shall answer as to my reproof.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22751,
+        "text": "And Jehovah answered me and said, Write the vision, and engrave it upon tablets, that he may run that readeth it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22752,
+        "text": "For the vision is yet for an appointed time, but it hasteth to the end, and shall not lie: though it tarry, wait for it; for it will surely come, it will not delay.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22753,
+        "text": "Behold, his soul is puffed up, it is not upright within him: but the just shall live by his faith.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22754,
+        "text": "And moreover, the wine is treacherous: he is a proud man, and keepeth not at rest, he enlargeth his desire as Sheol, and he is like death and cannot be satisfied; and he assembleth unto him all nations, and gathereth unto him all peoples.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22755,
+        "text": "Shall not all these take up a proverb about him, and a taunting riddle against him, and say, Woe to him that increaseth that which is not his! how long?—and to him that loadeth himself with pledges!",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22756,
+        "text": "Shall they not rise up suddenly that shall bite thee, and they awake up that shall vex thee, and thou shalt be for booties unto them?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22757,
+        "text": "Because thou hast plundered many nations, all the rest of the peoples shall plunder thee; because of men’s blood, and for the violence [done] to the land, to the city, and all that dwell therein.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22758,
+        "text": "Woe to him that getteth iniquitous gain to his house, that he may set his nest on high, that he may be delivered from the grasp of evil!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22759,
+        "text": "Thou hast devised shame to thy house, by cutting off many peoples, and hast sinned against thine own soul.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22760,
+        "text": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22761,
+        "text": "Woe to him that buildeth a town with blood, and establisheth a city by unrighteousness!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22762,
+        "text": "Behold, is it not of Jehovah of hosts that the peoples labour for the fire, and the nations weary themselves in vain?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22763,
+        "text": "For the earth shall be filled with the knowledge of the glory of Jehovah as the waters cover the sea.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22764,
+        "text": "Woe unto him that giveth his neighbour drink,—that pourest out thy flask, and makest [him] drunken also, that thou mayest look on their nakedness!",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 22765,
+        "text": "Thou art filled with shame instead of glory; drink thou also, and let thy foreskin be uncovered: the cup of Jehovah’s right hand shall be turned unto thee, and a shameful spewing shall be on thy glory.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22766,
+        "text": "For the violence [done] to Lebanon shall cover thee, and the destruction of beasts which made them afraid; because of men’s blood, and for the violence [done] to the land, to the city, and all that dwell therein.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22767,
+        "text": "What profiteth the graven image that the maker thereof hath graven it? the molten image, and the teacher of falsehood, that the maker of his work dependeth thereon, to make dumb idols?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22768,
+        "text": "Woe unto him that saith to the wood, Awake! to the dumb stone, Arise! Shall it teach? Behold it is overlaid with gold and silver, and there is no breath at all in the midst of it.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22769,
+        "text": "But Jehovah is in his holy temple. Let all the earth keep silence before him!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}
