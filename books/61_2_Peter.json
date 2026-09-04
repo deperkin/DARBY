@@ -1,0 +1,459 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 61,
+    "name": "2 Peter",
+    "AbbreviationCount": 15,
+    "AbbreviationList": ["2 Pet.","2 Pe.","2 Pt.","2 P.","II Peter","II Pet.","II Pt.","II Pe.","2Peter","2Pet.","2Pe.","2Pt.","2P.","2nd Peter","Second Peter"],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1157,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30481,
+        "text": "Simon Peter, bondman and apostle of Jesus Christ, to them that have received like precious faith with us through [the] righteousness of our God and Saviour Jesus Christ:",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30482,
+        "text": "Grace and peace be multiplied to you in [the] knowledge of God and of Jesus our Lord.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30483,
+        "text": "As his divine power has given to us all things which relate to life and godliness, through the knowledge of him that has called us by glory and virtue,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30484,
+        "text": "through which he has given to us the greatest and precious promises, that through these ye may become partakers of [the] divine nature, having escaped the corruption that is in the world through lust.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30485,
+        "text": "But for this very reason also, using therewith all diligence, in your faith have also virtue, in virtue knowledge,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 30486,
+        "text": "in knowledge temperance, in temperance endurance, in endurance godliness,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30487,
+        "text": "in godliness brotherly love, in brotherly love love:",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30488,
+        "text": "for these things existing and abounding in you make [you] to be neither idle nor unfruitful as regards the knowledge of our Lord Jesus Christ;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30489,
+        "text": "for he with whom these things are not present is blind, short-sighted, and has forgotten the purging of his former sins.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30490,
+        "text": "Wherefore the rather, brethren, use diligence to make your calling and election sure, for doing these things ye will never fall;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30491,
+        "text": "for thus shall the entrance into the everlasting kingdom of our Lord and Saviour Jesus Christ be richly furnished unto you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30492,
+        "text": "Wherefore I will be careful to put you always in mind of these things, although knowing [them] and established in the present truth.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30493,
+        "text": "But I account it right, as long as I am in this tabernacle, to stir you up by putting [you] in remembrance,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30494,
+        "text": "knowing that the putting off of my tabernacle is speedily [to take place], as also our Lord Jesus Christ has manifested to me;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30495,
+        "text": "but I will use diligence, that after my departure ye should have also, at any time, [in your power] to call to mind these things.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30496,
+        "text": "For we have not made known to you the power and coming of our Lord Jesus Christ, following cleverly imagined fables, but having been eyewitnesses of his majesty.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 30497,
+        "text": "For he received from God [the] Father honour and glory, such a voice being uttered to him by the excellent glory: This is my beloved Son, in whom I have found my delight;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30498,
+        "text": "and this voice we heard uttered from heaven, being with him on the holy mountain.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30499,
+        "text": "And we have the prophetic word [made] surer, to which ye do well taking heed (as to a lamp shining in an obscure place) until [the] day dawn and [the] morning star arise in your hearts;",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 30500,
+        "text": "knowing this first, that [the scope of] no prophecy of scripture is had from its own particular interpretation,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30501,
+        "text": "for prophecy was not ever uttered by [the] will of man, but holy men of God spake under the power of [the] Holy Spirit.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1158,
+          "MaxVerses": 22,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30502,
+        "text": "But there were false prophets also among the people, as there shall be also among you false teachers, who shall bring in by the bye destructive heresies, and deny the master that bought them, bringing upon themselves swift destruction;",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30503,
+        "text": "and many shall follow their dissolute ways, through whom the way of the truth shall be blasphemed.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30504,
+        "text": "And through covetousness, with well-turned words, will they make merchandise of you: for whom judgment of old is not idle, and their destruction slumbers not.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30505,
+        "text": "For if God spared not [the] angels who had sinned, but having cast them down to the deepest pit of gloom has delivered them to chains of darkness [to be] kept for judgment;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30506,
+        "text": "and spared not [the] old world, but preserved Noe, [the] eighth, a preacher of righteousness, having brought in [the] flood upon [the] world of [the] ungodly;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30507,
+        "text": "and having reduced [the] cities of Sodom and Gomorrha to ashes, condemned [them] with an overthrow, setting [them as] an example to those that should [afterwards] live an ungodly life;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30508,
+        "text": "and saved righteous Lot, distressed with the abandoned conversation of the godless,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 30509,
+        "text": "(for the righteous man through seeing and hearing, dwelling among them, tormented [his] righteous soul day after day with [their] lawless works,)",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30510,
+        "text": "[the] Lord knows [how] to deliver the godly out of trial, and to keep [the] unjust to [the] day of judgment [to be] punished;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30511,
+        "text": "and specially those who walk after the flesh in [the] lust of uncleanness, and despise lordship. Bold [are they], self-willed; they do not fear speaking injuriously of dignities:",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 30512,
+        "text": "when angels, who are greater in might and power, do not bring against them, before the Lord, an injurious charge.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30513,
+        "text": "But these, as natural animals without reason, made to be caught and destroyed, speaking injuriously in things they are ignorant of, shall also perish in their own corruption,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30514,
+        "text": "receiving [the] reward of unrighteousness; accounting ephemeral indulgence pleasure; spots and blemishes, rioting in their own deceits, feasting with you;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30515,
+        "text": "having eyes full of adultery, and that cease not from sin, alluring unestablished souls; having a heart practised in covetousness, children of curse;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30516,
+        "text": "having left [the] straight way they have gone astray, having followed in the path of Balaam [the son] of Bosor, who loved [the] reward of unrighteousness;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30517,
+        "text": "but had reproof of his own wickedness—[the] dumb ass speaking with man’s voice forbad the folly of the prophet.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30518,
+        "text": "These are springs without water, and mists driven by storm, to whom the gloom of darkness is reserved [for ever].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30519,
+        "text": "For [while] speaking great highflown words of vanity, they allure with [the] lusts of [the] flesh, by dissoluteness, those who have just fled those who walk in error,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30520,
+        "text": "promising them liberty, while they themselves are slaves of corruption; for by whom a man is subdued, by him is he also brought into slavery.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30521,
+        "text": "For if after having escaped the pollutions of the world through [the] knowledge of the Lord and Saviour Jesus Christ, again entangled, they are subdued by these, their last state is worse than the first.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30522,
+        "text": "For it were better for them not to have known the way of righteousness, than having known [it] to turn back from the holy commandment delivered to them.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30523,
+        "text": "But that [word] of the true proverb has happened to them: [The] dog [has] turned back to his own vomit; and, [The] washed sow to [her] rolling in mud.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1159,
+          "MaxVerses": 18,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30524,
+        "text": "This, a second letter, beloved, I already write to you, in [both] which I stir up, in the way of putting you in remembrance, your pure mind,",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30525,
+        "text": "to be mindful of the words spoken before by the holy prophets, and of the commandment of the Lord and Saviour by your apostles;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30526,
+        "text": "knowing this first, that there shall come at [the] close of the days mockers with mocking, walking according to their own lusts,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30527,
+        "text": "and saying, Where is the promise of his coming? for from the time the fathers fell asleep all things remain thus from [the] beginning of [the] creation.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30528,
+        "text": "For this is hidden from them through their own wilfulness, that heavens were of old, and an earth, having its subsistence out of water and in water, by the word of God,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30529,
+        "text": "through which [waters] the then world, deluged with water, perished.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30530,
+        "text": "But the present heavens and the earth by his word are laid up in store, kept for fire unto a day of judgment and destruction of ungodly men.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30531,
+        "text": "But let not this one thing be hidden from you, beloved, that one day with [the] Lord [is] as a thousand years, and a thousand years as one day.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 30532,
+        "text": "[The] Lord does not delay his promise, as some account of delay, but is longsuffering towards you, not willing that any should perish, but that all should come to repentance.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 30533,
+        "text": "But the day of [the] Lord will come as a thief, in which the heavens will pass away with a rushing noise, and [the] elements, burning with heat, shall be dissolved, and [the] earth and the works in it shall be burnt up.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30534,
+        "text": "All these things then being to be dissolved, what ought ye to be in holy conversation and godliness,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 30535,
+        "text": "waiting for and hastening the coming of the day of God, by reason of which [the] heavens, being on fire, shall be dissolved, and [the] elements, burning with heat, shall melt?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30536,
+        "text": "But, according to his promise, we wait for new heavens and a new earth, wherein dwells righteousness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30537,
+        "text": "Wherefore, beloved, as ye wait for these things, be diligent to be found of him in peace, without spot and blameless;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30538,
+        "text": "and account the longsuffering of our Lord [to be] salvation; according as our beloved brother Paul also has written to you according to the wisdom given to him,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30539,
+        "text": "as also in all [his] epistles, speaking in them of these things; among which some things are hard to be understood, which the untaught and ill-established wrest, as also the other scriptures, to their own destruction.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30540,
+        "text": "Ye therefore, beloved, knowing [these] things before, take care lest, being led away along with the error of the wicked, ye should fall from your own stedfastness:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30541,
+        "text": "but grow in grace, and in [the] knowledge of our Lord and Saviour Jesus Christ. To him [be] glory both now and to [the] day of eternity. Amen.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

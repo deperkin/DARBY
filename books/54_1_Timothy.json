@@ -1,0 +1,841 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 54,
+    "name": "1 Timothy",
+    "AbbreviationCount": 12,
+    "AbbreviationList": ["1 Tim.","1 Ti.","I Timothy","I Tim.","I Ti.","1Timothy","1Tim.","1Ti.","1st Timothy","1st Tim.","First Timothy","First Tim."],
+    "MaxChapters": 6,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1120,
+          "MaxVerses": 20,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29698,
+        "text": "Paul, apostle of Jesus Christ, according to [the] command of God our Saviour, and of Christ Jesus our hope,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29699,
+        "text": "to Timotheus, [my] true child in faith: grace, mercy, peace, from God our Father and Christ Jesus our Lord.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29700,
+        "text": "Even as I begged thee to remain in Ephesus, [when I was] going to Macedonia, that thou mightest enjoin some not to teach other doctrines,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29701,
+        "text": "nor to turn their minds to fables and interminable genealogies, which bring questionings rather than [further] God’s dispensation, which [is] in faith.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29702,
+        "text": "But the end of what is enjoined is love out of a pure heart and a good conscience and unfeigned faith;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29703,
+        "text": "which [things] some having missed, have turned aside to vain discourse,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29704,
+        "text": "desiring to be law-teachers, not understanding either what they say or concerning what they [so] strenuously affirm.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29705,
+        "text": "Now we know that the law [is] good if any one uses it lawfully,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29706,
+        "text": "knowing this, that law has not its application to a righteous person, but to [the] lawless and insubordinate, to [the] impious and sinful, to [the] unholy and profane, to smiters of fathers and smiters of mothers; to murderers,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29707,
+        "text": "fornicators, sodomites, kidnappers, liars, perjurers; and if any other thing is opposed to sound teaching,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29708,
+        "text": "according to the glad tidings of the glory of the blessed God, with which I have been entrusted.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29709,
+        "text": "[And] I thank Christ Jesus our Lord, who has given me power, that he has counted me faithful, appointing to ministry him",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 29710,
+        "text": "who before was a blasphemer and persecutor, and an insolent overbearing [man]: but mercy was shewn me because I did it ignorantly, in unbelief.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29711,
+        "text": "But the grace of our Lord surpassingly over-abounded with faith and love, which [is] in Christ Jesus.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29712,
+        "text": "Faithful [is] the word, and worthy of all acceptation, that Christ Jesus came into the world to save sinners, of whom I am [the] first.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29713,
+        "text": "But for this reason mercy was shewn me, that in me, [the] first, Jesus Christ might display the whole long-suffering, for a delineation of those about to believe on him to life eternal.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29714,
+        "text": "Now to the King of the ages, [the] incorruptible, invisible, only God, honour and glory to the ages of ages. Amen.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29715,
+        "text": "This charge, [my] child Timotheus, I commit to thee, according to the prophecies as to thee preceding, in order that thou mightest war by them the good warfare,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 29716,
+        "text": "maintaining faith and a good conscience; which [last] some, having put away, have made shipwreck as to faith;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29717,
+        "text": "of whom is Hymenaeus and Alexander, whom I have delivered to Satan, that they may be taught by discipline not to blaspheme.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1121,
+          "MaxVerses": 15,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29718,
+        "text": "I exhort therefore, first of all, that supplications, prayers, intercessions, thanksgivings be made for all men;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29719,
+        "text": "for kings and all that are in dignity, that we may lead a quiet and tranquil life in all piety and gravity;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29720,
+        "text": "for this is good and acceptable before our Saviour God,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29721,
+        "text": "who desires that all men should be saved and come to [the] knowledge of [the] truth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29722,
+        "text": "For God is one, and [the] mediator of God and men one, [the] man Christ Jesus,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29723,
+        "text": "who gave himself a ransom for all, the testimony [to be rendered] in its own times;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29724,
+        "text": "to which I have been appointed a herald and apostle, (I speak [the] truth, I do not lie,) a teacher of [the] nations in faith and truth.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29725,
+        "text": "I will therefore that the men pray in every place, lifting up pious hands, without wrath or reasoning.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29726,
+        "text": "In like manner also that the women in decent deportment and dress adorn themselves with modesty and discretion, not with plaited [hair] and gold, or pearls, or costly clothing,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29727,
+        "text": "but, what becomes women making profession of the fear of God, by good works.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29728,
+        "text": "Let a woman learn in quietness in all subjection;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29729,
+        "text": "but I do not suffer a woman to teach nor to exercise authority over man, but to be in quietness;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29730,
+        "text": "for Adam was formed first, then Eve:",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29731,
+        "text": "and Adam was not deceived; but the woman, having been deceived, was in transgression.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29732,
+        "text": "But she shall be preserved in childbearing, if they continue in faith and love and holiness with discretion.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1122,
+          "MaxVerses": 16,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29733,
+        "text": "The word [is] faithful: if any one aspires to exercise oversight, he desires a good work.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29734,
+        "text": "The overseer then must be irreproachable, husband of one wife, sober, discreet, decorous, hospitable, apt to teach;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29735,
+        "text": "not given to excesses from wine, not a striker, but mild, not addicted to contention, not fond of money,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29736,
+        "text": "conducting his own house well, having [his] children in subjection with all gravity;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29737,
+        "text": "(but if one does not know how to conduct his own house, how shall he take care of the assembly of God?)",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29738,
+        "text": "not a novice, that he may not, being inflated, fall into [the] fault of the devil.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29739,
+        "text": "But it is necessary that he should have also a good testimony from those without, that he may fall not into reproach and [the] snare of the devil.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29740,
+        "text": "Ministers, in like manner, grave, not double-tongued, not given to much wine, not seeking gain by base means,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 29741,
+        "text": "holding the mystery of the faith in a pure conscience.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29742,
+        "text": "And let these be first proved, then let them minister, being without charge [against them].",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29743,
+        "text": "[The] women in like manner grave, not slanderers, sober, faithful in all things.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29744,
+        "text": "Let [the] ministers be husbands of one wife, conducting [their] children and their own houses well:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29745,
+        "text": "for those who shall have ministered well obtain for themselves a good degree, and much boldness in faith which [is] in Christ Jesus.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29746,
+        "text": "These things I write to thee, hoping to come to thee more quickly;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29747,
+        "text": "but if I delay, in order that thou mayest know how one ought to conduct oneself in God’s house, which is [the] assembly of [the] living God, [the] pillar and base of the truth.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29748,
+        "text": "And confessedly the mystery of piety is great. God has been manifested in flesh, has been justified in [the] Spirit, has appeared to angels, has been preached among [the] nations, has been believed on in [the] world, has been received up in glory.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 1123,
+          "MaxVerses": 16,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29749,
+        "text": "But the Spirit speaks expressly, that in latter times some shall apostatise from the faith, giving their mind to deceiving spirits and teachings of demons",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29750,
+        "text": "speaking lies in hypocrisy, cauterised as to their own conscience,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29751,
+        "text": "forbidding to marry, [bidding] to abstain from meats, which God has created for receiving with thanksgiving for them who are faithful and know the truth.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29752,
+        "text": "For every creature of God [is] good, and nothing [is] to be rejected, being received with thanksgiving;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29753,
+        "text": "for it is sanctified by God’s word and freely addressing [him].",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29754,
+        "text": "Laying these things before the brethren, thou wilt be a good minister of Christ Jesus, nourished with the words of the faith and of the good teaching which thou hast fully followed up.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29755,
+        "text": "But profane and old wives’ fables avoid, but exercise thyself unto piety;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29756,
+        "text": "for bodily exercise is profitable for a little, but piety is profitable for everything, having promise of life, of the present one, and of that to come.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29757,
+        "text": "The word [is] faithful and worthy of all acceptation;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29758,
+        "text": "for, for this we labour and suffer reproach, because we hope in a living God, who is preserver of all men, specially of those that believe.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29759,
+        "text": "Enjoin and teach these things.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29760,
+        "text": "Let no one despise thy youth, but be a model of the believers, in word, in conduct, in love, in faith, in purity.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29761,
+        "text": "Till I come, give thyself to reading, to exhortation, to teaching.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29762,
+        "text": "Be not negligent of the gift [that is] in thee, which has been given to thee through prophecy, with imposition of the hands of the elderhood.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29763,
+        "text": "Occupy thyself with these things; be wholly in them, that thy progress may be manifest to all.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29764,
+        "text": "Give heed to thyself and to the teaching; continue in them; for, doing this, thou shalt save both thyself and those that hear thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 5,
+          "count": 1124,
+          "MaxVerses": 25,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29765,
+        "text": "Rebuke not an elder sharply, but exhort [him] as a father, younger [men] as brethren,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29766,
+        "text": "elder women as mothers, younger women as sisters, with all purity.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29767,
+        "text": "Honour widows who are really widows;",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29768,
+        "text": "but if any widow have children or descendants, let them learn first to be pious as regards their own house, and to render a return on their side to [their] parents; for this is acceptable in the sight of God.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29769,
+        "text": "Now she who [is] a widow indeed, and is left alone, has put [her] hope in God, and continues in supplications and prayers night and day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29770,
+        "text": "But she that lives in habits of self-indulgence is dead [while] living.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29771,
+        "text": "And these things enjoin, that they may be irreproachable.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29772,
+        "text": "But if any one does not provide for his own, and specially for those of [his] house, he has denied the faith, and is worse than the unbeliever.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29773,
+        "text": "Let a widow be put upon the list, being of not less than sixty years, [having been] wife of one man,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29774,
+        "text": "borne witness to in good works, if she have brought up children, if she have exercised hospitality, if she have washed saints’ feet, if she have imparted relief to the distressed, if she have diligently followed every good work.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29775,
+        "text": "But younger widows decline; for when they grow wanton against Christ, they desire to marry,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29776,
+        "text": "being guilty, because they have cast off their first faith.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29777,
+        "text": "And, at the same time, they learn also [to be] idle, going about to people’s houses; and not only idle, but also gossipers and meddlers, speaking things not becoming.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29778,
+        "text": "I will therefore that the younger marry, bear children, rule the house, give no occasion to the adversary in respect of reproach.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29779,
+        "text": "For already some have turned aside after Satan.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29780,
+        "text": "If any believing man or woman have widows, let them impart relief to them, and let not the assembly be charged, that it may impart relief to those [that are] widows indeed.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29781,
+        "text": "Let the elders who take the lead [among the saints] well be esteemed worthy of double honour, specially those labouring in word and teaching;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 29782,
+        "text": "for the scripture says, Thou shalt not muzzle an ox that treadeth out corn, and, The workman [is] worthy of his hire.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29783,
+        "text": "Against an elder receive not an accusation unless where there are two or three witnesses.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29784,
+        "text": "Those that sin convict before all, that the rest also may have fear.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29785,
+        "text": "I testify before God and Christ Jesus and the elect angels, that thou keep these things without prejudice, doing nothing by favour.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29786,
+        "text": "Lay hands quickly on no man, nor partake in others’ sins. Keep thyself pure.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29787,
+        "text": "Drink no longer only water, but use a little wine on account of thy stomach and thy frequent illnesses.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29788,
+        "text": "Of some men the sins are manifest beforehand, going before to judgment, and some also they follow after.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29789,
+        "text": "In like manner good works also are manifest beforehand, and those that are otherwise cannot be hid.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 6,
+          "count": 1125,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29790,
+        "text": "Let as many bondmen as are under yoke count their own masters worthy of all honour, that the name of God and the teaching be not blasphemed.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29791,
+        "text": "And they that have believing masters, let them not despise [them] because they are brethren; but let them the rather serve them with subjection, because they are faithful and beloved, who profit by the good and ready service [rendered]. These things teach and exhort.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29792,
+        "text": "If any one teach differently, and do not accede to sound words, those of our Lord Jesus Christ, and the teaching which [is] according to piety,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29793,
+        "text": "he is puffed up, knowing nothing, but sick about questions and disputes of words, out of which arise envy, strife, injurious words, evil suspicions,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29794,
+        "text": "constant quarrellings of men corrupted in mind and destitute of the truth, holding gain to be [the end of] piety.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29795,
+        "text": "But piety with contentment is great gain.",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29796,
+        "text": "For we have brought nothing into the world: [it is] [manifest] that neither can we carry anything out.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29797,
+        "text": "But having sustenance and covering, we will be content with these.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29798,
+        "text": "But those who desire to be rich fall into temptation and a snare, and many unwise and hurtful lusts, which plunge men into destruction and ruin.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29799,
+        "text": "For the love of money is [the] root of every evil; which some having aspired after, have wandered from the faith, and pierced themselves with many sorrows.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29800,
+        "text": "But thou, O man of God, flee these things, and pursue righteousness, piety, faith, love, endurance, meekness of spirit.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29801,
+        "text": "Strive earnestly [in] the good conflict of faith. Lay hold of eternal life, to which thou hast been called, and hast confessed the good confession before many witnesses.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29802,
+        "text": "I enjoin thee before God who preserves all things in life, and Christ Jesus who witnessed before Pontius Pilate the good confession,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29803,
+        "text": "that thou keep the commandment spotless, irreproachable, until the appearing of our Lord Jesus Christ;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29804,
+        "text": "which in its own time the blessed and only Ruler shall shew, the King of those that reign, and Lord of those that exercise lordship;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29805,
+        "text": "who only has immortality, dwelling in unapproachable light; whom no man has seen, nor is able to see; to whom [be] honour and eternal might. Amen.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29806,
+        "text": "Enjoin on those rich in the present age not to be high-minded, nor to trust on the uncertainty of riches; but in the God who affords us all things richly for [our] enjoyment;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29807,
+        "text": "to do good, to be rich in good works, to be liberal in distributing, disposed to communicate [of their substance],",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29808,
+        "text": "laying by for themselves a good foundation for the future, that they may lay hold of [what is] really life.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29809,
+        "text": "O Timotheus, keep the entrusted deposit, avoiding profane, vain babblings, and oppositions of false-named knowledge,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29810,
+        "text": "of which some having made profession, have missed the faith. Grace [be] with thee.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

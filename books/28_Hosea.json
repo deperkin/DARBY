@@ -1,0 +1,1477 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 28,
+    "name": "Hosea",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Hos.","Ho."],
+    "MaxChapters": 14,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 863,
+          "MaxVerses": 11,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22096,
+        "text": "The word of Jehovah that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22097,
+        "text": "The beginning of the word of Jehovah through Hosea. And Jehovah said to Hosea, Go, take unto thee a wife of whoredoms, and children of whoredoms; for the land is entirely given up to whoredom, away from Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 22098,
+        "text": "And he went and took Gomer the daughter of Diblaim; and she conceived and bore him a son.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22099,
+        "text": "And Jehovah said unto him, Call his name Jizreel; for yet a little, and I will visit the blood of Jizreel upon the house of Jehu, and will cause the kingdom of the house of Israel to cease.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22100,
+        "text": "And it shall come to pass in that day, that I will break the bow of Israel in the valley of Jizreel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22101,
+        "text": "And she conceived again, and bore a daughter. And he said unto him, Call her name Lo-ruhamah; for I will no more have mercy upon the house of Israel, so that I should pardon them.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22102,
+        "text": "But I will have mercy upon the house of Judah, and will save them by Jehovah their God; and I will not save them by bow, or by sword, or by battle, [or] by horses, or by horsemen.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22103,
+        "text": "And she weaned Lo-ruhamah; and she conceived and bore a son;",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22104,
+        "text": "and he said, Call his name Lo-ammi; for ye are not my people, and I will not be for you.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22105,
+        "text": "Yet the number of the children of Israel shall be as the sand of the sea which cannot be measured or numbered; and it shall come to pass, [that] in the place where it was said unto them, Ye are not my people, it shall be said unto them, Sons of the living God.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22106,
+        "text": "And the children of Judah and the children of Israel shall be gathered together, and they shall appoint themselves one head, and shall go up out of the land: for great is the day of Jizreel.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 864,
+          "MaxVerses": 23,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22107,
+        "text": "Say unto your brethren Ammi; and to your sisters, Ruhamah.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22108,
+        "text": "Plead with your mother, plead; for she is not my wife, neither am I her husband: and let her put away her whoredoms from her face, and her adulteries from between her breasts;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22109,
+        "text": "lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her as a dry land, and slay her with thirst.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22110,
+        "text": "And I will not have mercy upon her children; for they are the children of whoredoms.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22111,
+        "text": "For their mother hath played the harlot; she that conceived them hath done shamefully: for she said, I will go after my lovers, that give [me] my bread and my water, my wool and my flax, mine oil and my drink.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22112,
+        "text": "Therefore behold, I will hedge up thy way with thorns; and I will fence [her] in with a wall, that she shall not find her paths.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 22113,
+        "text": "And she shall pursue after her lovers, and shall not overtake them; and she shall seek them, and shall not find them: and she shall say, I will go and return to my first husband, for then was it better with me than now.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22114,
+        "text": "And she did not know that I had given her the corn and the new wine and the oil, and had multiplied to her the silver and gold, which they employed for Baal.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22115,
+        "text": "Therefore will I return, and take away my corn in the time thereof, and my new wine in its season, and will withdraw my wool and my flax which should have covered her nakedness.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22116,
+        "text": "And now will I discover her impiety in the sight of her lovers, and none shall deliver her out of my hand.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22117,
+        "text": "And I will cause all her mirth to cease: her feasts, her new moons, and her sabbaths! and all her solemnities.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22118,
+        "text": "And I will make desolate her vine and her fig-tree, whereof she hath said, These are my rewards which my lovers have given me; and I will make them a forest, and the beasts of the field shall eat them.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22119,
+        "text": "And I will visit upon her the days of the Baals, wherein she burned incense to them, and decked herself with her rings and jewels, and went after her lovers, and forgot me, saith Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22120,
+        "text": "Therefore behold, I will allure her, and bring her into the wilderness, and speak to her heart.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 22121,
+        "text": "And I will give her her vineyards from thence, and the valley of Achor for a door of hope; and she shall sing there, as in the days of her youth and as in the day when she came up out of the land of Egypt.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22122,
+        "text": "And it shall be in that day, saith Jehovah, [that] thou shalt call me, My husband, and shalt call me no more, Baali;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22123,
+        "text": "for I will take away the names of the Baals out of her mouth, and they shall no more be remembered by their name.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22124,
+        "text": "And I will make a covenant for them in that day with the beasts of the field, and with the fowl of the heavens, and the creeping things of the ground; and I will break bow and sword and battle out of the land; and I will make them to lie down safely.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22125,
+        "text": "And I will betroth thee unto me for ever; and I will betroth thee unto me in righteousness, and in judgment, and in loving-kindness, and in mercies;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22126,
+        "text": "and I will betroth thee unto me in faithfulness: and thou shalt know Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 22127,
+        "text": "And it shall come to pass in that day, I will hear, saith Jehovah, I will hear the heavens, and they shall hear the earth;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 22128,
+        "text": "and the earth shall hear the corn, and the new wine, and the oil; and they shall hear Jizreel.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 22129,
+        "text": "And I will sow her unto me in the land; and I will have mercy upon Lo-ruhamah; and I will say to Lo-ammi, Thou art my people; and they shall say, My God.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 865,
+          "MaxVerses": 5,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22130,
+        "text": "And Jehovah said unto me, Go again, love a woman beloved of a friend, and an adulteress, according to the love of Jehovah for the children of Israel, though they turn to other gods, and love raisin-cakes.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22131,
+        "text": "So I bought her to me for fifteen silver [pieces], and for a homer of barley, and a half-homer of barley.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22132,
+        "text": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be [another] man’s, and I will also be for thee.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22133,
+        "text": "For the children of Israel shall abide many days without king, and without prince, and without sacrifice, and without statue, and without ephod and teraphim.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22134,
+        "text": "Afterwards shall the children of Israel return, and seek Jehovah their God, and David their king; and shall turn with fear toward Jehovah and toward his goodness, at the end of the days.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 866,
+          "MaxVerses": 19,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22135,
+        "text": "Hear the word of Jehovah, ye children of Israel; for Jehovah hath a controversy with the inhabitants of the land; for there is no truth, nor goodness, nor knowledge of God in the land.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22136,
+        "text": "Swearing, and lying, and killing, and stealing, and committing adultery,—they break out; and blood toucheth blood.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22137,
+        "text": "For this shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowl of the heavens, yea, the fishes of the sea also shall be taken away.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22138,
+        "text": "Yet let no man strive, and let no man reprove; for thy people are as they that strive with the priest.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22139,
+        "text": "And thou shalt stumble by day; and the prophet also shall stumble with thee by night: and I will destroy thy mother.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22140,
+        "text": "My people are destroyed for lack of knowledge; for thou hast rejected knowledge, and I will reject thee, that thou shalt be no priest to me; seeing thou hast forgotten the law of thy God, I also will forget thy children.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 22141,
+        "text": "As they were multiplied, so they sinned against me: I will change their glory into shame.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22142,
+        "text": "They eat the sin of my people, and their soul longeth for their iniquity.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22143,
+        "text": "And it shall be as the people so the priest; and I will visit their ways upon them, and recompense to them their doings;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22144,
+        "text": "and they shall eat, and not have enough; they shall commit whoredom, and shall not increase: for they have left off taking heed to Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22145,
+        "text": "Fornication, and wine, and new wine take away the heart.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22146,
+        "text": "My people ask counsel of their stock, and their staff declareth unto them; for the spirit of whoredoms causeth [them] to err, and they have gone a whoring from under their God:",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 22147,
+        "text": "they sacrifice upon the tops of the mountains, and burn incense upon the hills, under oak and poplar and terebinth, because the shade thereof is good; therefore your daughters play the harlot and your daughters-in-law commit adultery.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22148,
+        "text": "I will not punish your daughters when they play the harlot, nor your daughters-in-law for their committing adultery; for they themselves go aside with harlots, and they sacrifice with prostitutes: and the people that doth not understand shall come to ruin.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22149,
+        "text": "Though thou, Israel, play the harlot, let not Judah trespass; and come ye not unto Gilgal, neither go up to Beth-aven, nor swear [As] Jehovah liveth!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22150,
+        "text": "For Israel is refractory as an untractable heifer; now will Jehovah feed them as a lamb in a wide [pasture].",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22151,
+        "text": "Ephraim is joined to idols: leave him alone.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22152,
+        "text": "Their drink is sour; they give themselves up to whoredom; her great men passionately love [their] shame.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22153,
+        "text": "The wind hath wrapped her up in its wings, and they shall be ashamed because of their sacrifices.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 5,
+          "count": 867,
+          "MaxVerses": 15,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22154,
+        "text": "Hear this, ye priests; and hearken, ye house of Israel; and give ear, O house of the king: for this judgment is for you; for ye have been a snare at Mizpah, and a net spread upon Tabor.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22155,
+        "text": "And they have plunged themselves in the corruption of apostasy, but I will be a chastiser of them all.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22156,
+        "text": "I know Ephraim, and Israel is not hid from me; for now, Ephraim, thou hast committed whoredom; Israel is defiled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22157,
+        "text": "Their doings do not allow them to return unto their God; for the spirit of whoredoms is in the midst of them, and they know not Jehovah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22158,
+        "text": "And Israel’s pride doth testify to his face; and Israel and Ephraim shall fall by their iniquity: Judah also shall fall with them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22159,
+        "text": "They shall go with their flocks and with their herds to seek Jehovah; but they shall not find [him]: he hath withdrawn himself from them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22160,
+        "text": "They have dealt treacherously against Jehovah; for they have begotten strange children: now shall the new moon devour them, with their allotted possessions.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22161,
+        "text": "Blow the horn in Gibeah, the trumpet in Ramah; cry aloud [at] Beth-aven: behind thee, O Benjamin!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22162,
+        "text": "Ephraim shall be a desolation in the day of rebuke: among the tribes of Israel have I made known that which is sure.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22163,
+        "text": "The princes of Judah are become like them that remove the landmark: I will pour out my wrath upon them like water.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22164,
+        "text": "Ephraim is oppressed, crushed in judgment, because in selfwill he walked after the commandment [of man].",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22165,
+        "text": "And I will be unto Ephraim as a moth, and to the house of Judah as rottenness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22166,
+        "text": "When Ephraim saw his sickness, and Judah his sore, then went Ephraim to the Assyrian, and sent to king Jareb; but he was unable to heal you, nor hath he removed your sore.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22167,
+        "text": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah. I, I will tear and go away; I will carry off, and there shall be none to deliver.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22168,
+        "text": "I will go away, I will return to my place, till they acknowledge their trespass, and seek my face: in their affliction they will seek me early.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 6,
+          "count": 868,
+          "MaxVerses": 11,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22169,
+        "text": "Come and let us return unto Jehovah: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22170,
+        "text": "After two days will he revive us; on the third day he will raise us up, and we shall live before his face;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22171,
+        "text": "and we shall know,—we shall follow on to know Jehovah: his going forth is assured as the morning dawn; and he will come unto us as the rain, as the latter rain which watereth the earth.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22172,
+        "text": "What shall I do unto thee, Ephraim? What shall I do unto thee, Judah? For your goodness is as a morning cloud, and as the dew that early passeth away.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22173,
+        "text": "Therefore have I hewed [them] by the prophets; I have slain them by the words of my mouth: and my judgment goeth forth as the light.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22174,
+        "text": "For I delight in loving-kindness, and not sacrifice; and the knowledge of God more than burnt-offerings.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22175,
+        "text": "But they like Adam have transgressed the covenant: there have they dealt treacherously against me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22176,
+        "text": "Gilead is a city of them that work iniquity; it is tracked with blood.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22177,
+        "text": "And as troops of robbers lie in wait for a man, so the company of priests murder in the way of Shechem; yea, they commit lewdness.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22178,
+        "text": "In the house of Israel have I seen a horrible thing: the whoredom of Ephraim is there; Israel is defiled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22179,
+        "text": "Also, for thee, Judah, is a harvest appointed, when I shall turn again the captivity of my people.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 7,
+          "count": 869,
+          "MaxVerses": 16,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22180,
+        "text": "When I would heal Israel, then the iniquity of Ephraim is discovered, and the wickedness of Samaria: for they practise falsehood; and the thief entereth in, [and] the troop of robbers assaileth without.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22181,
+        "text": "And they say not in their hearts [that] I remember all their wickedness: now do their own doings encompass them; they are before my face.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22182,
+        "text": "They make the king glad with their wickedness, and the princes with their lies.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22183,
+        "text": "They all practise adultery, as an oven heated by the baker: he ceaseth from stirring [the fire] after he hath kneaded the dough, until it be leavened.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22184,
+        "text": "In the day of our king, the princes made themselves sick with the heat of wine: he stretched out his hand to scorners.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22185,
+        "text": "For they have applied their heart like an oven to their lying in wait: their baker sleepeth all the night; in the morning it burneth like a flaming fire.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22186,
+        "text": "They are all hot as an oven, and devour their judges; all their kings are fallen: there is none among them that calleth unto me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22187,
+        "text": "Ephraim, he mixeth himself with the peoples; Ephraim is a cake not turned.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22188,
+        "text": "Strangers have devoured his strength, and he knoweth [it] not; yea, gray hairs are here and there upon him, and he knoweth [it] not.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22189,
+        "text": "And the pride of Israel testifieth to his face; and they do not return to Jehovah their God, nor seek him for all this.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22190,
+        "text": "And Ephraim is become like a silly dove without understanding: they call to Egypt, they go to Assyria.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22191,
+        "text": "When they go, I will spread my net upon them; I will bring them down as the fowl of the heavens; I will chastise them, according as their assembly hath heard.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22192,
+        "text": "Woe unto them! for they have wandered from me; destruction unto them! for they have transgressed against me. And I would redeem them; but they speak lies against me.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22193,
+        "text": "And they cried not unto me in their heart, when they howled upon their beds; they assemble themselves for corn and new wine; they have turned aside from me.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22194,
+        "text": "I have indeed trained, I have strengthened their arms, but they imagine mischief against me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22195,
+        "text": "They return, [but] not to the [Most] High: they are like a deceitful bow. Their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 8,
+          "count": 870,
+          "MaxVerses": 14,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22196,
+        "text": "Set the trumpet to thy mouth. [He cometh] as an eagle against the house of Jehovah, because they have transgressed my covenant, and rebelled against my law.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22197,
+        "text": "They shall cry unto me, My God, we know thee; [we], Israel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22198,
+        "text": "Israel hath cast off good: the enemy shall pursue him.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22199,
+        "text": "They have set up kings, but not by me; they have made princes, and I knew it not; of their silver and their gold have they made them idols, that they may be cut off.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22200,
+        "text": "Thy calf, O Samaria, hath cast [thee] off; mine anger is kindled against them: how long will they be incapable of purity?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22201,
+        "text": "For from Israel is this also:—a workman made it, and it is no God: for the calf of Samaria shall be [broken in] pieces.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22202,
+        "text": "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk; should it sprout, it would yield no meal; if so be it yield, strangers shall swallow it up.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22203,
+        "text": "Israel is swallowed up: now are they become among the nations as a vessel wherein is no pleasure.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22204,
+        "text": "For they are gone up [to] Assyria [as] a wild ass alone by himself: Ephraim hath hired lovers.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22205,
+        "text": "Although they hire among the nations, now will I gather them, and they shall begin to be straitened under the burden of the king of princes.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22206,
+        "text": "Because Ephraim hath multiplied altars to sin, altars shall be unto him to sin.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22207,
+        "text": "I have prescribed unto him the manifold things of my law: they are counted [as] a strange thing.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22208,
+        "text": "They sacrifice flesh [for] the sacrifices of mine offerings, and eat it; Jehovah hath no delight in them. Now will he remember their iniquity, and visit their sins: they shall return to Egypt.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22209,
+        "text": "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 9,
+          "count": 871,
+          "MaxVerses": 17,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22210,
+        "text": "Rejoice not, Israel, exultingly, as the peoples; for thou hast gone a whoring from thy God, thou hast loved harlot’s hire upon every corn-floor.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22211,
+        "text": "The floor and the winepress shall not feed them, and the new wine shall fail her.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22212,
+        "text": "They shall not dwell in Jehovah’s land; but Ephraim shall return to Egypt, and in Assyria shall they eat that which is unclean.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22213,
+        "text": "They shall pour out no [offerings of] wine to Jehovah, neither shall their sacrifices be pleasing unto him: they shall be unto them as the bread of mourners; all that eat thereof shall be defiled: for their bread shall be for themselves; it shall not come into the house of Jehovah.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22214,
+        "text": "What will ye do in the day of assembly, and in the day of the feast of Jehovah?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22215,
+        "text": "For behold, they are gone away because of destruction: Egypt shall gather them up, Moph shall bury them: their pleasant things of silver, nettles shall possess them; thorns shall be in their tents.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22216,
+        "text": "The days of visitation are come; the days of recompence are come: Israel shall know [it]: the prophet is a fool, the inspired man is mad, because of the greatness of thine iniquity, and the great enmity.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 22217,
+        "text": "Is Ephraim a watchman with my God? [nay] the prophet is a fowler’s snare on all his ways, enmity in the house of his God.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22218,
+        "text": "They have deeply corrupted themselves as in the days of Gibeah. He will remember their iniquity, he will visit their sins.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22219,
+        "text": "I found Israel as grapes in the wilderness; as first-ripe fruit on the fig-tree, I saw your fathers at the beginning: they went to Baal-Peor, and separated themselves unto that shame, and became abominations like their lover.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22220,
+        "text": "As for Ephraim, their glory shall fly away as a bird,—no birth, no pregnancy, no conception!",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 22221,
+        "text": "For even should they bring up their children, yet will I bereave them, [that] not a man [remain]: for woe also to them when I shall have departed from them!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22222,
+        "text": "Ephraim, as I saw [him], was a Tyre planted in a beautiful place; but Ephraim shall bring forth his children to the slayer.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22223,
+        "text": "Give them, Jehovah—what wilt thou give?—give them a miscarrying womb and dry breasts.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22224,
+        "text": "All their wickedness is in Gilgal; for there I hated them: because of the wickedness of their doings, I will drive them out of my house, I will love them no more: all their princes are rebellious.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22225,
+        "text": "Ephraim is smitten: their root is dried up, they shall bear no fruit; yea, though they should bring forth, yet will I slay the beloved [fruit] of their womb.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22226,
+        "text": "My God hath rejected them, because they hearkened not unto him; and they shall be wanderers among the nations.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 10,
+          "count": 872,
+          "MaxVerses": 15,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22227,
+        "text": "Israel is an unpruned vine, he bringeth forth fruit unto himself: according to the abundance of his fruit he hath multiplied altars; according to the goodness of his land they have made goodly statues.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22228,
+        "text": "Their heart is divided; now shall they be found guilty: he will break down their altars, he will destroy their statues.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22229,
+        "text": "For now they will say, We have no king, for we feared not Jehovah; and a king, what can he do for us?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22230,
+        "text": "They speak [mere] words, swearing falsely in making a covenant; therefore shall judgment spring up as hemlock in the furrows of the fields.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22231,
+        "text": "The inhabitants of Samaria shall fear because of the calf of Beth-aven; for the people thereof shall mourn over it, and the idolatrous priests thereof shall tremble for it, for its glory, because it is departed from it.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22232,
+        "text": "Yea, it shall be carried unto Assyria [as] a present for king Jareb: Ephraim shall be seized with shame, and Israel shall be ashamed of his own counsel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22233,
+        "text": "As for Samaria her king is cut off as chips upon the face of the waters.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22234,
+        "text": "And the high places of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up upon their altars; and they shall say to the mountains, Cover us! and to the hills, Fall on us!",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22235,
+        "text": "From the days of Gibeah hast thou sinned, O Israel: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 22236,
+        "text": "At my pleasure will I chastise them; and the peoples shall be assembled against them, when they are bound for their two iniquities.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22237,
+        "text": "And Ephraim is a trained heifer, that loveth to tread out [the corn]; I have passed over upon her fair neck: I will make Ephraim to draw; Judah shall plough, Jacob shall break his clods.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22238,
+        "text": "Sow to yourselves in righteousness, reap according to mercy; break up your fallow ground: for it is time to seek Jehovah, till he come and rain righteousness upon you.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22239,
+        "text": "Ye have ploughed wickedness, reaped iniquity, eaten the fruit of lies; for thou didst confide in thy way, in the multitude of thy mighty men.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22240,
+        "text": "And a tumult shall arise among thy peoples, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces with the children.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22241,
+        "text": "So shall Bethel do unto you because of the wickedness of your wickedness: at day-break shall the king of Israel utterly be cut off.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 11,
+          "count": 873,
+          "MaxVerses": 12,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22242,
+        "text": "When Israel was a child, then I loved him, and out of Egypt I called my son.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22243,
+        "text": "As they called them, so they went from them: they sacrificed unto the Baals, and burned incense to graven images.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22244,
+        "text": "And I it was that taught Ephraim to walk,—He took them upon his arms,—but they knew not that I healed them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22245,
+        "text": "I drew them with bands of a man, with cords of love; and I was to them as they that take off the yoke on their jaws, and I gently caused them to eat.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22246,
+        "text": "He shall not return into the land of Egypt, but the Assyrian shall be his king; for they refused to return [to me];",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22247,
+        "text": "and the sword shall turn about in his cities, and shall consume his bars, and devour [them], because of their own counsels.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22248,
+        "text": "Yea, my people are bent upon backsliding from me: though they call them to the Most High, none at all exalteth [him].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22249,
+        "text": "How shall I give thee over, Ephraim? [how] shall I deliver thee up, Israel? how shall I make thee as Admah? [how] shall I set thee as Zeboim? My heart is turned within me, my repentings are kindled together.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22250,
+        "text": "I will not execute the fierceness of mine anger, I will not again destroy Ephraim; for I am God, and not man,—the Holy One in the midst of thee: and I will not come in anger.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22251,
+        "text": "They shall walk after Jehovah; he shall roar like a lion; when he shall roar, then the children shall hasten from the west:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22252,
+        "text": "they shall hasten as a bird out of Egypt, and as a dove out of the land of Assyria; and I will cause them to dwell in their houses, saith Jehovah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22253,
+        "text": "Ephraim encompasseth me about with lies, and the house of Israel with deceit; but Judah yet walketh with God, and with the holy things of truth.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 12,
+          "count": 874,
+          "MaxVerses": 14,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22254,
+        "text": "Ephraim feedeth on wind, and pursueth after the east wind: all day long he multiplieth lies and desolation; and they make a covenant with Assyria, and oil is carried into Egypt.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22255,
+        "text": "Jehovah hath also a controversy with Judah, and he will punish Jacob according to his ways; according to his doings will he recompense him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22256,
+        "text": "He took his brother by the heel in the womb, and in his strength he wrestled with God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22257,
+        "text": "Yea, he wrestled with the Angel, and prevailed; he wept, and made supplication unto him: he found him in Bethel, and there he spoke with us,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22258,
+        "text": "—even Jehovah, the God of hosts,—Jehovah is his memorial.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22259,
+        "text": "And thou, return unto thy God: keep loving-kindness and judgment, and wait on thy God continually.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22260,
+        "text": "[He is] a merchant, balances of deceit are in his hand; he loveth to oppress.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 22261,
+        "text": "And Ephraim saith, Nevertheless I am become rich, I have found me out substance; in all my labours they shall find none iniquity in me that were sin.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22262,
+        "text": "But I [that am] Jehovah thy God from the land of Egypt will again make thee to dwell in tents, as in the days of the solemn feast.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22263,
+        "text": "And I have spoken to the prophets, and I have multiplied visions, and by means of the prophets have I used similitudes.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22264,
+        "text": "If Gilead is iniquity, surely they are but vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22265,
+        "text": "And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept [sheep].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22266,
+        "text": "And by a prophet Jehovah brought Israel out of Egypt, and by a prophet was he preserved.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22267,
+        "text": "Ephraim provoked [him] to anger most bitterly; and his Lord shall leave his blood upon him, and recompense unto him his reproach.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 13,
+          "count": 875,
+          "MaxVerses": 16,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22268,
+        "text": "When Ephraim spoke, there was trembling; he exalted himself in Israel: but he trespassed through Baal, and he died.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22269,
+        "text": "And now they sin more and more, and have made them molten images of their silver, idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22270,
+        "text": "Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff driven with the whirlwind out of the threshing-floor, and as the smoke out of the lattice.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22271,
+        "text": "Yet I [am] Jehovah thy God from the land of Egypt, and thou hast known no God but me; and there is no saviour besides me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22272,
+        "text": "I knew thee in the wilderness, in the land of drought.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22273,
+        "text": "According to their pasture, they became full; they became full, and their heart was exalted: therefore have they forgotten me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22274,
+        "text": "And I will be unto them as a lion; as a leopard I will lurk for them by the way;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22275,
+        "text": "I will meet them as a bear bereaved of her [whelps], and will rend the covering of their heart, and there will I devour them like a lioness: the beast of the field shall tear them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22276,
+        "text": "It is thy destruction, O Israel, that [thou art] against me, against thy help.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 22277,
+        "text": "Where then is thy king, that he may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?—",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22278,
+        "text": "I gave thee a king in mine anger, and took him away in my wrath.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22279,
+        "text": "The iniquity of Ephraim is bound up; his sin is laid by in store.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22280,
+        "text": "The pangs of a woman in travail shall come upon him: he is a son not wise; for at the time of the breaking forth of children, he was not there.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22281,
+        "text": "I will ransom them from the power of Sheol. I will redeem them from death: where, O death, are thy plagues? where, O Sheol, is thy destruction? Repentance shall be hid from mine eyes.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22282,
+        "text": "Though he be fruitful among [his] brethren, an east wind shall come, a wind of Jehovah [that] cometh up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22283,
+        "text": "Samaria shall bear her guilt; for she hath rebelled against her God: they shall fall by the sword; their infants shall be dashed in pieces, and their women with child shall be ripped up.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 14,
+          "count": 876,
+          "MaxVerses": 9,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22284,
+        "text": "O Israel, return unto Jehovah thy God; for thou hast fallen by thine iniquity.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22285,
+        "text": "Take with you words, and turn to Jehovah; say unto him, Forgive all iniquity, and receive [us] graciously; so will we render the calves of our lips.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22286,
+        "text": "Assyria shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, [Thou art] our God; because in thee the fatherless findeth mercy.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22287,
+        "text": "I will heal their backsliding, I will love them freely; for mine anger is turned away from him.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22288,
+        "text": "I will be as the dew unto Israel: he shall blossom as the lily, and cast forth his roots as Lebanon.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22289,
+        "text": "His shoots shall spread, and his beauty shall be as the olive-tree, and his smell as Lebanon.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22290,
+        "text": "They shall return and sit under his shadow; they shall revive [as] corn, and blossom as the vine: the renown thereof shall be as the wine of Lebanon.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22291,
+        "text": "Ephraim [shall say], What have I to do any more with idols? (I answer [him], and I will observe him.) I am like a green fir-tree.—From me is thy fruit found.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22292,
+        "text": "Who is wise, and he shall understand these things? intelligent, and he shall know them? For the ways of Jehovah are right, and the just shall walk in them; but the transgressors shall fall therein.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

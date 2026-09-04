@@ -1,0 +1,361 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 53,
+    "name": "2 Thessalonians",
+    "AbbreviationCount": 15,
+    "AbbreviationList": ["2 Thess.","2 Thes.","2 Th.","II Thessalonians","II Thess.","II Thes.","II Th.","2Thessalonians","2Thess.","2Thes.","2Th.","2nd Thessalonians","2nd Thess.","Second Thessalonians","Second Thess."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1117,
+          "MaxVerses": 12,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29651,
+        "text": "Paul and Silvanus and Timotheus to the assembly of Thessalonians in God our Father and [the] Lord Jesus Christ.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29652,
+        "text": "Grace to you, and peace from God our Father, and [the] Lord Jesus Christ.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29653,
+        "text": "We ought to thank God always for you, brethren, even as it is meet, because your faith increases exceedingly, and the love of each one of you all towards one another abounds;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29654,
+        "text": "so that we ourselves make our boast in you in the assemblies of God for your endurance and faith in all your persecutions and tribulations, which ye are sustaining;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29655,
+        "text": "a manifest token of the righteous judgment of God, to the end that ye should be counted worthy of the kingdom of God, for the sake of which ye also suffer;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29656,
+        "text": "if at least [it is a] righteous thing with God to render tribulation to those that trouble you,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29657,
+        "text": "and to you that are troubled repose with us, at the revelation of the Lord Jesus from heaven, with [the] angels of his power,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29658,
+        "text": "in flaming fire taking vengeance on those who know not God, and those who do not obey the glad tidings of our Lord Jesus Christ;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29659,
+        "text": "who shall pay the penalty [of] everlasting destruction from [the] presence of the Lord, and from the glory of his might,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29660,
+        "text": "when he shall have come to be glorified in his saints, and wondered at in all that have believed, (for our testimony to you has been believed,) in that day.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29661,
+        "text": "To which end we also pray always for you, that our God may count you worthy of the calling, and fulfil all [the] good pleasure of [his] goodness and [the] work of faith with power,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29662,
+        "text": "so that the name of our Lord Jesus [Christ] may be glorified in you and ye in him, according to the grace of our God, and of [the] Lord Jesus Christ.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1118,
+          "MaxVerses": 17,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29663,
+        "text": "Now we beg you, brethren, by the coming of our Lord Jesus Christ and our gathering together to him,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29664,
+        "text": "that ye be not soon shaken in mind, nor troubled, neither by spirit, nor by word, nor by letter, as [if it were] by us, as that the day of the Lord is present.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29665,
+        "text": "Let not any one deceive you in any manner, because [it will not be] unless the apostasy have first come, and the man of sin have been revealed, the son of perdition;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29666,
+        "text": "who opposes and exalts himself on high against all called God, or object of veneration; so that he himself sits down in the temple of God, shewing himself that he is God.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29667,
+        "text": "Do ye not remember that, being yet with you, I said these things to you?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29668,
+        "text": "And now ye know that which restrains, that he should be revealed in his own time.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29669,
+        "text": "For the mystery of lawlessness already works; only [there is] he who restrains now until he be gone,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29670,
+        "text": "and then the lawless one shall be revealed, whom the Lord Jesus shall consume with the breath of his mouth, and shall annul by the appearing of his coming;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29671,
+        "text": "whose coming is according to the working of Satan in all power and signs and wonders of falsehood,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29672,
+        "text": "and in all deceit of unrighteousness to them that perish, because they have not received the love of the truth that they might be saved.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29673,
+        "text": "And for this reason God sends to them a working of error, that they should believe what is false,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29674,
+        "text": "that all might be judged who have not believed the truth, but have found pleasure in unrighteousness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29675,
+        "text": "But we ought to give thanks to God always for you, brethren beloved of [the] Lord, that God has chosen you from [the] beginning to salvation in sanctification of [the] Spirit and belief of [the] truth:",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29676,
+        "text": "whereto he has called you by our glad tidings, to [the] obtaining of [the] glory of our Lord Jesus Christ.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29677,
+        "text": "So then, brethren, stand firm, and hold fast the instructions which ye have been taught, whether by word or by our letter.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29678,
+        "text": "But our Lord Jesus Christ himself, and our God and Father, who has loved us, and given [us] eternal consolation and good hope by grace,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29679,
+        "text": "encourage your hearts, and establish you in every good work and word.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1119,
+          "MaxVerses": 18,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29680,
+        "text": "For the rest, brethren, pray for us, that the word of the Lord may run and be glorified, even as also with you;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29681,
+        "text": "and that we may be delivered from bad and evil men, for faith [is] not [the portion] of all.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29682,
+        "text": "But the Lord is faithful, who shall establish you and keep [you] from evil.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29683,
+        "text": "But we trust in the Lord as to you, that the things which we enjoin, ye both do and will do.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29684,
+        "text": "But the Lord direct your hearts into the love of God, and into the patience of the Christ.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29685,
+        "text": "Now we enjoin you, brethren, in the name of our Lord Jesus Christ, that ye withdraw from every brother walking disorderly and not according to the instruction which he received from us.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29686,
+        "text": "For ye know yourselves how ye ought to imitate us, because we have not walked disorderly among you;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29687,
+        "text": "nor have we eaten bread from any one without cost; but in toil and hardship working night and day not to be chargeable to any one of you:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29688,
+        "text": "not that we have not the right, but that we might give ourselves as an example to you, in order to your imitating us.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29689,
+        "text": "For also when we were with you we enjoined you this, that if any man does not like to work, neither let him eat.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29690,
+        "text": "For we hear that [there are] some walking among you disorderly, not working at all, but busybodies.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29691,
+        "text": "Now such we enjoin and exhort in [the] Lord Jesus Christ, that working quietly they eat their own bread.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29692,
+        "text": "But ye, brethren, do not faint in well-doing.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29693,
+        "text": "But if any one obey not our word by the letter, mark that man, and do not keep company with him, that he may be ashamed of himself;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29694,
+        "text": "and do not esteem him as an enemy, but admonish [him] as a brother.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29695,
+        "text": "But the Lord of peace himself give you peace continually in every way. The Lord [be] with you all.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29696,
+        "text": "The salutation by the hand of me, Paul, which is [the] mark in every letter; so I write.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29697,
+        "text": "The grace of our Lord Jesus Christ [be] with you all.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

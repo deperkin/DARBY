@@ -1,0 +1,3141 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 45,
+    "name": "Romans",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Rom.","Ro.","Rm."],
+    "MaxChapters": 16,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1047,
+          "MaxVerses": 32,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27932,
+        "text": "Paul, bondman of Jesus Christ, [a] called apostle, separated to God’s glad tidings,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27933,
+        "text": "(which he had before promised by his prophets in holy writings,)",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27934,
+        "text": "concerning his Son (come of David’s seed according to flesh,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27935,
+        "text": "marked out Son of God in power, according to [the] Spirit of holiness, by resurrection of [the] dead) Jesus Christ our Lord;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27936,
+        "text": "by whom we have received grace and apostleship in behalf of his name, for obedience of faith among all the nations,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27937,
+        "text": "among whom are ye also [the] called of Jesus Christ:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27938,
+        "text": "to all that are in Rome, beloved of God, called saints: Grace to you and peace from God our Father and [our] Lord Jesus Christ.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27939,
+        "text": "First, I thank my God through Jesus Christ for you all, that your faith is proclaimed in the whole world.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 27940,
+        "text": "For God is my witness, whom I serve in my spirit in the glad tidings of his Son, how unceasingly I make mention of you,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27941,
+        "text": "always beseeching at my prayers, if any way now at least I may be prospered by the will of God to come to you.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27942,
+        "text": "For I greatly desire to see you, that I may impart to you some spiritual gift to establish you;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27943,
+        "text": "that is, to have mutual comfort among you, each by the faith [which is] in the other, both yours and mine.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27944,
+        "text": "But I do not wish you to be ignorant, brethren, that I often proposed to come to you, (and have been hindered until the present time,) that I might have some fruit among you too, even as among the other nations also.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27945,
+        "text": "I am a debtor both to Greeks and barbarians, both to wise and unintelligent:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27946,
+        "text": "so, as far as depends on me, am I ready to announce the glad tidings to you also who [are] in Rome.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27947,
+        "text": "For I am not ashamed of the glad tidings; for it is God’s power to salvation, to every one that believes, both to Jew first and to Greek:",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 27948,
+        "text": "for righteousness of God is revealed therein, on the principle of faith, to faith: according as it is written, But the just shall live by faith.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27949,
+        "text": "For there is revealed wrath of God from heaven upon all impiety, and unrighteousness of men holding the truth in unrighteousness.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27950,
+        "text": "Because what is known of God is manifest among them, for God has manifested [it] to them,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 27951,
+        "text": "—for from [the] world’s creation the invisible things of him are perceived, being apprehended by the mind through the things that are made, both his eternal power and divinity,—so as to render them inexcusable.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27952,
+        "text": "Because, knowing God, they glorified [him] not as God, neither were thankful; but fell into folly in their thoughts, and their heart without understanding was darkened:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27953,
+        "text": "professing themselves to be wise, they became fools,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27954,
+        "text": "and changed the glory of the incorruptible God into [the] likeness of an image of corruptible man and of birds and quadrupeds and reptiles.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27955,
+        "text": "Wherefore God gave them up [also] in the lusts of their hearts to uncleanness, to dishonour their bodies between themselves:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27956,
+        "text": "who changed the truth of God into falsehood, and honoured and served the creature more than him who had created [it], who is blessed for ever. Amen.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27957,
+        "text": "For this reason God gave them up to vile lusts; for both their females changed the natural use into that contrary to nature;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27958,
+        "text": "and in like manner the males also, leaving the natural use of the female, were inflamed in their lust towards one another; males with males working shame, and receiving in themselves the recompense of their error which was fit.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27959,
+        "text": "And according as they did not think good to have God in [their] knowledge, God gave them up to a reprobate mind to practise unseemly things;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27960,
+        "text": "being filled with all unrighteousness, wickedness, covetousness, malice; full of envy, murder, strife, deceit, evil dispositions; whisperers,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27961,
+        "text": "back-biters, hateful to God, insolent, proud, boasters, inventors of evil things, disobedient to parents,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27962,
+        "text": "void of understanding, faithless, without natural affection, unmerciful;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27963,
+        "text": "who knowing the righteous judgment of God, that they who do such things are worthy of death, not only practise them, but have fellow delight in those who do [them].",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1048,
+          "MaxVerses": 29,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27964,
+        "text": "Therefore thou art inexcusable, O man, every one who judgest, for in that in which thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27965,
+        "text": "But we know that the judgment of God is according to truth upon those who do such things.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27966,
+        "text": "And thinkest thou this, O man, who judgest those that do such things, and practisest them [thyself], that thou shalt escape the judgment of God?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27967,
+        "text": "or despisest thou the riches of his goodness, and forbearance, and long-suffering, not knowing that the goodness of God leads thee to repentance?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27968,
+        "text": "but, according to thy hardness and impenitent heart, treasurest up to thyself wrath, in [the] day of wrath and revelation of [the] righteous judgment of God,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27969,
+        "text": "who shall render to each according to his works:",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27970,
+        "text": "to them who, in patient continuance of good works, seek for glory and honour and incorruptibility, life eternal.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27971,
+        "text": "But to those that are contentious, and are disobedient to the truth, but obey unrighteousness, [there shall be] wrath and indignation,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27972,
+        "text": "tribulation and distress, on every soul of man that works evil, both of Jew first, and of Greek;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27973,
+        "text": "but glory and honour and peace to every one that works good, both to Jew first and to Greek:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27974,
+        "text": "for there is no acceptance of persons with God.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27975,
+        "text": "For as many as have sinned without law shall perish also without law; and as many as have sinned under law shall be judged by law,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27976,
+        "text": "(for not the hearers of the law [are] just before God, but the doers of the law shall be justified.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27977,
+        "text": "For when [those of the] nations, which have no law, practise by nature the things of the law, these, having no law, are a law to themselves;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27978,
+        "text": "who shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts accusing or else excusing themselves between themselves;)",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27979,
+        "text": "in [the] day when God shall judge the secrets of men, according to my glad tidings, by Jesus Christ.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27980,
+        "text": "But if thou art named a Jew, and restest in the law, and makest thy boast in God,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 27981,
+        "text": "and knowest the will, and discerningly approvest the things that are more excellent, being instructed out of the law;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27982,
+        "text": "and hast confidence that thou thyself art a leader of the blind, a light of those who [are] in darkness,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27983,
+        "text": "an instructor of the foolish, a teacher of babes, having the form of knowledge and of truth in the law:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27984,
+        "text": "thou then that teachest another, dost thou not teach thyself? thou that preachest not to steal, dost thou steal?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27985,
+        "text": "thou that sayest [man should] not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27986,
+        "text": "thou who boastest in law, dost thou by transgression of the law dishonour God?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27987,
+        "text": "For the name of God is blasphemed on your account among the nations, according as it is written.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27988,
+        "text": "For circumcision indeed profits if thou keep [the] law; but if thou be a law-transgressor, thy circumcision is become uncircumcision.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27989,
+        "text": "If therefore the uncircumcision keep the requirements of the law, shall not his uncircumcision be reckoned for circumcision,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27990,
+        "text": "and uncircumcision by nature, fulfilling the law, judge thee, who, with letter and circumcision, [art] a law-transgressor?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27991,
+        "text": "For he is not a Jew who [is] one outwardly, neither that circumcision which is outward in flesh;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27992,
+        "text": "but he [is] a Jew [who is so] inwardly; and circumcision, of the heart, in spirit, not in letter; whose praise [is] not of men, but of God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1049,
+          "MaxVerses": 31,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27993,
+        "text": "What then [is] the superiority of the Jew? or what the profit of circumcision?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27994,
+        "text": "Much every way: and first, indeed, that to them were entrusted the oracles of God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27995,
+        "text": "For what? if some have not believed, shall their unbelief make the faith of God of none effect?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27996,
+        "text": "Far be the thought: but let God be true, and every man false; according as it is written, So that thou shouldest be justified in thy words, and shouldest overcome when thou art in judgment.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27997,
+        "text": "But if our unrighteousness commend God’s righteousness, what shall we say? Is God unrighteous who inflicts wrath? I speak according to man.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27998,
+        "text": "Far be the thought: since how shall God judge the world?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27999,
+        "text": "For if the truth of God, in my lie, has more abounded to his glory, why yet am I also judged as a sinner?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28000,
+        "text": "and not, according as we are injuriously charged, and according as some affirm that we say, Let us practise evil things, that good ones may come? whose judgment is just.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28001,
+        "text": "What then? are we better? No, in no wise: for we have before charged both Jews and Greeks with being all under sin:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28002,
+        "text": "according as it is written, There is not a righteous [man], not even one;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28003,
+        "text": "there is not the [man] that understands, there is not one that seeks after God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28004,
+        "text": "All have gone out of the way, they have together become unprofitable; there is not one that practises goodness, there is not so much as one:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28005,
+        "text": "their throat is an open sepulchre; with their tongues they have used deceit; asps’ poison [is] under their lips:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28006,
+        "text": "whose mouth is full of cursing and bitterness;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28007,
+        "text": "swift their feet to shed blood;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28008,
+        "text": "ruin and misery [are] in their ways,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28009,
+        "text": "and way of peace they have not known:",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28010,
+        "text": "there is no fear of God before their eyes.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28011,
+        "text": "Now we know that whatever the things the law says, it speaks to those under the law, that every mouth may be stopped, and all the world be under judgment to God.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 28012,
+        "text": "Wherefore by works of law no flesh shall be justified before him; for by law [is] knowledge of sin.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28013,
+        "text": "But now without law righteousness of God is manifested, borne witness to by the law and the prophets;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28014,
+        "text": "righteousness of God by faith of Jesus Christ towards all, and upon all those who believe: for there is no difference;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28015,
+        "text": "for all have sinned, and come short of the glory of God;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28016,
+        "text": "being justified freely by his grace through the redemption which [is] in Christ Jesus;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28017,
+        "text": "whom God has set forth a mercy-seat, through faith in his blood, for [the] shewing forth of his righteousness, in respect of the passing by the sins that had taken place before, through the forbearance of God;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28018,
+        "text": "for [the] shewing forth of his righteousness in the present time, so that he should be just, and justify him that is of [the] faith of Jesus.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28019,
+        "text": "Where then [is] boasting? It has been excluded. By what law? of works? Nay, but by law of faith;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28020,
+        "text": "for we reckon that a man is justified by faith, without works of law.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28021,
+        "text": "Is [God] the God of Jews only? is he not of [the] nations also? Yea, of nations also:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28022,
+        "text": "since indeed [it is] one God who shall justify [the] circumcision on the principle of faith, and uncircumcision by faith.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28023,
+        "text": "Do we then make void law by faith? Far be the thought: [no,] but we establish law.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 1050,
+          "MaxVerses": 25,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28024,
+        "text": "What shall we say then that Abraham our father according to flesh has found?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28025,
+        "text": "For if Abraham has been justified on the principle of works, he has whereof to boast: but not before God;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28026,
+        "text": "for what does the scripture say? And Abraham believed God, and it was reckoned to him as righteousness.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28027,
+        "text": "Now to him that works the reward is not reckoned as of grace, but of debt:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28028,
+        "text": "but to him who does not work, but believes on him who justifies the ungodly, his faith is reckoned as righteousness.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28029,
+        "text": "Even as David also declares the blessedness of the man to whom God reckons righteousness without works:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28030,
+        "text": "Blessed [they] whose lawlessnesses have been forgiven, and whose sins have been covered:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28031,
+        "text": "blessed [the] man to whom [the] Lord shall not at all reckon sin.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28032,
+        "text": "[Does] this blessedness then [rest] on the circumcision, or also on the uncircumcision? For we say that faith has been reckoned to Abraham as righteousness.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 28033,
+        "text": "How then has it been reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28034,
+        "text": "And he received [the] sign of circumcision [as] seal of the righteousness of faith which [he had] being in uncircumcision, that he might be [the] father of all them that believe being in uncircumcision, that righteousness might be reckoned to them also;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28035,
+        "text": "and father of circumcision, not only to those who are of [the] circumcision, but to those also who walk in the steps of the faith, during uncircumcision, of our father Abraham.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28036,
+        "text": "For [it was] not by law that the promise was to Abraham, or to his seed, that he should be heir of [the] world, but by righteousness of faith.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28037,
+        "text": "For if they which [are] of law be heirs, faith is made vain, and the promise made of no effect.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28038,
+        "text": "For law works wrath; but where no law is neither [is there] transgression.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28039,
+        "text": "Therefore [it is] on the principle of faith, that [it might be] according to grace, in order to the promise being sure to all the seed, not to that only which [is] of the law, but to that also which [is] of Abraham’s faith, who is father of us all,",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28040,
+        "text": "(according as it is written, I have made thee father of many nations,) before the God whom he believed, who quickens the dead, and calls the things which be not as being;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 28041,
+        "text": "who against hope believed in hope to his becoming father of many nations, according to that which was spoken, So shall thy seed be:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28042,
+        "text": "and not being weak in faith, he considered not his own body already become dead, being about a hundred years old, and the deadening of Sarah’s womb,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28043,
+        "text": "and hesitated not at the promise of God through unbelief; but found strength in faith, giving glory to God;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28044,
+        "text": "and being fully persuaded that what he has promised he is able also to do;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28045,
+        "text": "wherefore also it was reckoned to him as righteousness.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28046,
+        "text": "Now it was not written on his account alone that it was reckoned to him,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 28047,
+        "text": "but on ours also, to whom, believing on him who has raised from among [the] dead Jesus our Lord,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28048,
+        "text": "who has been delivered for our offences and has been raised for our justification, it will be reckoned.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 5,
+          "count": 1051,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28049,
+        "text": "Therefore having been justified on the principle of faith, we have peace towards God through our Lord Jesus Christ;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28050,
+        "text": "by whom we have also access by faith into this favour in which we stand, and we boast in hope of the glory of God.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28051,
+        "text": "And not only [that], but we also boast in tribulations, knowing that tribulation works endurance;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28052,
+        "text": "and endurance, experience; and experience, hope;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28053,
+        "text": "and hope does not make ashamed, because the love of God is shed abroad in our hearts by [the] Holy Spirit which has been given to us:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28054,
+        "text": "for we being still without strength, in [the] due time Christ has died for [the] ungodly.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 28055,
+        "text": "For scarcely for [the] just [man] will one die, for perhaps for [the] good [man] some one might also dare to die;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28056,
+        "text": "but God commends his love to us, in that, we being still sinners, Christ has died for us.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28057,
+        "text": "Much rather therefore, having been now justified in [the power of] his blood, we shall be saved by him from wrath.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28058,
+        "text": "For if, being enemies, we have been reconciled to God through the death of his Son, much rather, having been reconciled, we shall be saved in [the power of] his life.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28059,
+        "text": "And not only [that], but [we are] making our boast in God, through our Lord Jesus Christ, through whom now we have received the reconciliation.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28060,
+        "text": "For this [cause], even as by one man sin entered into the world, and by sin death; and thus death passed upon all men, for that all have sinned:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28061,
+        "text": "(for until law sin was in [the] world; but sin is not put to account when there is no law;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28062,
+        "text": "but death reigned from Adam until Moses, even upon those who had not sinned in the likeness of Adam’s transgression, who is [the] figure of him to come.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28063,
+        "text": "But [shall] not the act of favour [be] as the offence? For if by the offence of one the many have died, much rather has the grace of God, and the free gift in grace, which [is] by the one man Jesus Christ, abounded unto the many.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28064,
+        "text": "And [shall] not as by one that has sinned [be] the gift? For the judgment [was] of one to condemnation, but the act of favour, of many offences unto justification.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28065,
+        "text": "For if by the offence of the one death reigned by the one, much rather shall those who receive the abundance of grace, and of the free gift of righteousness, reign in life by the one Jesus Christ:)",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28066,
+        "text": "so then as [it was] by one offence towards all men to condemnation, so by one righteousness towards all men for justification of life.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28067,
+        "text": "For as indeed by the disobedience of the one man the many have been constituted sinners, so also by the obedience of the one the many will be constituted righteous.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28068,
+        "text": "But law came in, in order that the offence might abound; but where sin abounded grace has overabounded,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28069,
+        "text": "in order that, even as sin has reigned in [the power of] death, so also grace might reign through righteousness to eternal life through Jesus Christ our Lord.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 6,
+          "count": 1052,
+          "MaxVerses": 23,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28070,
+        "text": "What then shall we say? Should we continue in sin that grace may abound?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28071,
+        "text": "Far be the thought. We who have died to sin, how shall we still live in it?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28072,
+        "text": "Are you ignorant that we, as many as have been baptised unto Christ Jesus, have been baptised unto his death?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28073,
+        "text": "We have been buried therefore with him by baptism unto death, in order that, even as Christ has been raised up from among [the] dead by the glory of the Father, so we also should walk in newness of life.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28074,
+        "text": "For if we are become identified with [him] in the likeness of his death, so also we shall be of [his] resurrection;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28075,
+        "text": "knowing this, that our old man has been crucified with [him], that the body of sin might be annulled, that we should no longer serve sin.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28076,
+        "text": "For he that has died is justified from sin.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28077,
+        "text": "Now if we have died with Christ, we believe that we shall also live with him,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28078,
+        "text": "knowing that Christ having been raised up from among [the] dead dies no more: death has dominion over him no more.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28079,
+        "text": "For in that he has died, he has died to sin once for all; but in that he lives, he lives to God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28080,
+        "text": "So also ye, reckon yourselves dead to sin and alive to God in Christ Jesus.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28081,
+        "text": "Let not sin therefore reign in your mortal body to obey its lusts.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28082,
+        "text": "Neither yield your members instruments of unrighteousness to sin, but yield yourselves to God as alive from among [the] dead, and your members instruments of righteousness to God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28083,
+        "text": "For sin shall not have dominion over you, for ye are not under law but under grace.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28084,
+        "text": "What then? should we sin because we are not under law but under grace? Far be the thought.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28085,
+        "text": "Know ye not that to whom ye yield yourselves bondmen for obedience, ye are bondmen to him whom ye obey, whether of sin unto death, or of obedience unto righteousness?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28086,
+        "text": "But thanks [be] to God, that ye were bondmen of sin, but have obeyed from the heart the form of teaching into which ye were instructed.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28087,
+        "text": "Now, having got your freedom from sin, ye have become bondmen to righteousness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28088,
+        "text": "I speak humanly on account of the weakness of your flesh. For even as ye have yielded your members in bondage to uncleanness and to lawlessness unto lawlessness, so now yield your members in bondage to righteousness unto holiness.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28089,
+        "text": "For when ye were bondmen of sin ye were free from righteousness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28090,
+        "text": "What fruit therefore had ye then in the things of which ye are now ashamed? for the end of them [is] death.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28091,
+        "text": "But now, having got your freedom from sin, and having become bondmen to God, ye have your fruit unto holiness, and the end eternal life.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28092,
+        "text": "For the wages of sin [is] death; but the act of favour of God, eternal life in Christ Jesus our Lord.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 7,
+          "count": 1053,
+          "MaxVerses": 25,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28093,
+        "text": "Are ye ignorant, brethren, (for I speak to those knowing law,) that law rules over a man as long as he lives?",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28094,
+        "text": "For the married woman is bound by law to her husband so long as he is alive; but if the husband should die, she is clear from the law of the husband:",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28095,
+        "text": "so then, the husband being alive, she shall be called an adulteress if she be to another man; but if the husband should die, she is free from the law, so as not to be an adulteress, though she be to another man.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28096,
+        "text": "So that, my brethren, ye also have been made dead to the law by the body of the Christ, to be to another, who has been raised up from among [the] dead, in order that we might bear fruit to God.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28097,
+        "text": "For when we were in the flesh the passions of sins, which [were] by the law, wrought in our members to bring forth fruit to death;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28098,
+        "text": "but now we are clear from the law, having died in that in which we were held, so that we should serve in newness of spirit, and not in oldness of letter.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28099,
+        "text": "What shall we say then? [is] the law sin? Far be the thought. But I had not known sin, unless by law: for I had not had conscience also of lust unless the law had said, Thou shalt not lust;",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28100,
+        "text": "but sin, getting a point of attack by the commandment, wrought in me every lust; for without law sin [was] dead.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28101,
+        "text": "But I was alive without law once; but the commandment having come, sin revived, but I died.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28102,
+        "text": "And the commandment, which [was] for life, was found, [as] to me, itself [to be] unto death:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28103,
+        "text": "for sin, getting a point of attack by the commandment, deceived me, and by it slew [me].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28104,
+        "text": "So that the law indeed [is] holy, and the commandment holy, and just, and good.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28105,
+        "text": "Did then that which is good become death to me? Far be the thought. But sin, that it might appear sin, working death to me by that which is good; in order that sin by the commandment might become exceeding sinful.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28106,
+        "text": "For we know that the law is spiritual: but I am fleshly, sold under sin.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 28107,
+        "text": "For that which I do, I do not own: for not what I will, this I do; but what I hate, this I practise.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28108,
+        "text": "But if what I do not will, this I practise, I consent to the law that [it is] right.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28109,
+        "text": "Now then [it is] no longer I [that] do it, but the sin that dwells in me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28110,
+        "text": "For I know that in me, that is, in my flesh, good does not dwell: for to will is there with me, but to do right [I find] not.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28111,
+        "text": "For I do not practise the good that I will; but the evil I do not will, that I do.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28112,
+        "text": "But if what I do not will, this I practise, [it is] no longer I [that] do it, but the sin that dwells in me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28113,
+        "text": "I find then the law upon me who will to practise what is right, that with me evil is there.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28114,
+        "text": "For I delight in the law of God according to the inward man:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28115,
+        "text": "but I see another law in my members, warring in opposition to the law of my mind, and bringing me into captivity to the law of sin which exists in my members.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28116,
+        "text": "O wretched man that I [am]! who shall deliver me out of this body of death?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28117,
+        "text": "I thank God, through Jesus Christ our Lord. So then I myself with the mind serve God’s law; but with the flesh sin’s law.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 8,
+          "count": 1054,
+          "MaxVerses": 39,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28118,
+        "text": "[There is] then now no condemnation to those in Christ Jesus.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28119,
+        "text": "For the law of the Spirit of life in Christ Jesus has set me free from the law of sin and of death.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28120,
+        "text": "For what the law could not do, in that it was weak through the flesh, God, having sent his own Son, in likeness of flesh of sin, and for sin, has condemned sin in the flesh,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28121,
+        "text": "in order that the righteous requirement of the law should be fulfilled in us, who do not walk according to flesh but according to Spirit.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28122,
+        "text": "For they that are according to flesh mind the things of the flesh; and they that are according to Spirit, the things of the Spirit.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28123,
+        "text": "For the mind of the flesh [is] death; but the mind of the Spirit life and peace.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28124,
+        "text": "Because the mind of the flesh is enmity against God: for it is not subject to the law of God; for neither indeed can it be:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28125,
+        "text": "and they that are in flesh cannot please God.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28126,
+        "text": "But ye are not in flesh but in Spirit, if indeed God’s Spirit dwell in you; but if any one has not [the] Spirit of Christ he is not of him:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28127,
+        "text": "but if Christ be in you, the body is dead on account of sin, but the Spirit life on account of righteousness.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 28128,
+        "text": "But if the Spirit of him that has raised up Jesus from among [the] dead dwell in you, he that has raised up Christ from among [the] dead shall quicken your mortal bodies also on account of his Spirit which dwells in you.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28129,
+        "text": "So then, brethren, we are debtors, not to the flesh, to live according to flesh;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28130,
+        "text": "for if ye live according to flesh, ye are about to die; but if, by the Spirit, ye put to death the deeds of the body, ye shall live:",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28131,
+        "text": "for as many as are led by [the] Spirit of God, these are sons of God.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28132,
+        "text": "For ye have not received a spirit of bondage again for fear, but ye have received a spirit of adoption, whereby we cry, Abba, Father.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28133,
+        "text": "The Spirit itself bears witness with our spirit, that we are children of God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28134,
+        "text": "And if children, heirs also: heirs of God, and Christ’s joint heirs; if indeed we suffer with [him], that we may also be glorified with [him].",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 28135,
+        "text": "For I reckon that the sufferings of this present time are not worthy [to be compared] with the coming glory to be revealed to us.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28136,
+        "text": "For the anxious looking out of the creature expects the revelation of the sons of God:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28137,
+        "text": "for the creature has been made subject to vanity, not of its will, but by reason of him who has subjected [the same], in hope",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28138,
+        "text": "that the creature itself also shall be set free from the bondage of corruption into the liberty of the glory of the children of God.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28139,
+        "text": "For we know that the whole creation groans together and travails in pain together until now.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28140,
+        "text": "And not only [that], but even we ourselves, who have the first-fruits of the Spirit, we also ourselves groan in ourselves, awaiting adoption, [that is] the redemption of our body.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28141,
+        "text": "For we have been saved in hope; but hope seen is not hope; for what any one sees, why does he also hope?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28142,
+        "text": "But if what we see not we hope, we expect in patience.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28143,
+        "text": "And in like manner the Spirit joins also its help to our weakness; for we do not know what we should pray for as is fitting, but the Spirit itself makes intercession with groanings which cannot be uttered.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 28144,
+        "text": "But he who searches the hearts knows what [is] the mind of the Spirit, because he intercedes for saints according to God.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28145,
+        "text": "But we do know that all things work together for good to those who love God, to those who are called according to purpose.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28146,
+        "text": "Because whom he has foreknown, he has also predestinated [to be] conformed to the image of his Son, so that he should be [the] firstborn among many brethren.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 28147,
+        "text": "But whom he has predestinated, these also he has called; and whom he has called, these also he has justified; but whom he has justified, these also he has glorified.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28148,
+        "text": "What shall we then say to these things? If God [be] for us, who against us?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 28149,
+        "text": "He who, yea, has not spared his own Son, but delivered him up for us all, how shall he not also with him grant us all things?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28150,
+        "text": "Who shall bring an accusation against God’s elect? [It is] God who justifies:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 28151,
+        "text": "who is he that condemns? [It is] Christ who has died, but rather has been [also] raised up; who is also at the right hand of God; who also intercedes for us.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 28152,
+        "text": "Who shall separate us from the love of Christ? tribulation or distress, or persecution, or famine, or nakedness, or danger, or sword?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 28153,
+        "text": "According as it is written, For thy sake we are put to death all the day long; we have been reckoned as sheep for slaughter.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 28154,
+        "text": "But in all these things we more than conquer through him that has loved us.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 28155,
+        "text": "For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 28156,
+        "text": "nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which [is] in Christ Jesus our Lord.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 9,
+          "count": 1055,
+          "MaxVerses": 33,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28157,
+        "text": "I say [the] truth in Christ, I lie not, my conscience bearing witness with me in [the] Holy Spirit,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28158,
+        "text": "that I have great grief and uninterrupted pain in my heart,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28159,
+        "text": "for I have wished, I myself, to be a curse from the Christ for my brethren, my kinsmen, according to flesh;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28160,
+        "text": "who are Israelites; whose [is] the adoption, and the glory, and the covenants, and the law-giving, and the service, and the promises;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28161,
+        "text": "whose [are] the fathers; and of whom, as according to flesh, [is] the Christ, who is over all, God blessed for ever. Amen.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28162,
+        "text": "Not however as though the word of God had failed; for not all [are] Israel which [are] of Israel;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 28163,
+        "text": "nor because they are seed of Abraham [are] all children: but, In Isaac shall a seed be called to thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28164,
+        "text": "That is, [they that are] the children of the flesh, these [are] not the children of God; but the children of the promise are reckoned as seed.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28165,
+        "text": "For this word [is] of promise, According to this time I will come, and there shall be a son to Sarah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28166,
+        "text": "And not only [that], but Rebecca having conceived by one, Isaac our father,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28167,
+        "text": "[the children] indeed being not yet born, or having done anything good or worthless (that the purpose of God according to election might abide, not of works, but of him that calls),",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28168,
+        "text": "it was said to her, The greater shall serve the less:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28169,
+        "text": "according as it is written, I have loved Jacob, and I have hated Esau.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28170,
+        "text": "What shall we say then? [Is there] unrighteousness with God? Far be the thought.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 28171,
+        "text": "For he says to Moses, I will shew mercy to whom I will shew mercy, and I will feel compassion for whom I will feel compassion.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28172,
+        "text": "So then [it is] not of him that wills, nor of him that runs, but of God that shews mercy.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28173,
+        "text": "For the scripture says to Pharaoh, For this very thing I have raised thee up from amongst [men], that I might thus shew in thee my power, and so that my name should be declared in all the earth.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28174,
+        "text": "So then, to whom he will he shews mercy, and whom he will he hardens.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28175,
+        "text": "Thou wilt say to me then, Why does he yet find fault? for who resists his purpose?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28176,
+        "text": "Aye, but thou, O man, who art thou that answerest again to God? Shall the thing formed say to him that has formed it, Why hast thou made me thus?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28177,
+        "text": "Or has not the potter authority over the clay, out of the same lump to make one vessel to honour, and another to dishonour?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28178,
+        "text": "And if God, minded to shew his wrath and to make his power known, endured with much long-suffering vessels of wrath fitted for destruction;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28179,
+        "text": "and that he might make known the riches of his glory upon vessels of mercy, which he had before prepared for glory,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28180,
+        "text": "us, whom he has also called, not only from amongst [the] Jews, but also from amongst [the] nations?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28181,
+        "text": "As he says also in Hosea, I will call not-my-people My people; and the-not-beloved Beloved.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 28182,
+        "text": "And it shall be, in the place where it was said to them, Ye [are] not my people, there shall they be called Sons of [the] living God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28183,
+        "text": "But Esaias cries concerning Israel, Should the number of the children of Israel be as the sand of the sea, the remnant shall be saved:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28184,
+        "text": "for [he] is bringing the matter to an end, and [cutting [it] short in righteousness; because] a cutting short of the matter will [the] Lord accomplish upon the earth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28185,
+        "text": "And according as Esaias said before, Unless [the] Lord of hosts had left us a seed, we had been as Sodom, and made like even as Gomorrha.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28186,
+        "text": "What then shall we say? That [they of the] nations, who did not follow after righteousness, have attained righteousness, but [the] righteousness that is on the principle of faith.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 28187,
+        "text": "But Israel, pursuing after a law of righteousness, has not attained to [that] law.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 28188,
+        "text": "Wherefore? Because [it was] not on the principle of faith, but as of works. They have stumbled at the stumblingstone,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28189,
+        "text": "according as it is written, Behold, I place in Zion a stone of stumbling and rock of offence: and he that believes on him shall not be ashamed.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 10,
+          "count": 1056,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28190,
+        "text": "Brethren, the delight of my own heart and my supplication which [I address] to God for them is for salvation.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28191,
+        "text": "For I bear them witness that they have zeal for God, but not according to knowledge.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28192,
+        "text": "For they, being ignorant of God’s righteousness, and seeking to establish their own [righteousness], have not submitted to the righteousness of God.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28193,
+        "text": "For Christ is [the] end of law for righteousness to every one that believes.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28194,
+        "text": "For Moses lays down in writing the righteousness which is of the law, The man who has practised those things shall live by them.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28195,
+        "text": "But the righteousness of faith speaks thus: Do not say in thine heart, Who shall ascend to the heavens? that is, to bring Christ down;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28196,
+        "text": "or, Who shall descend into the abyss? that is, to bring up Christ from among [the] dead.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28197,
+        "text": "But what says it? The word is near thee, in thy mouth and in thy heart: that is, the word of faith, which we preach:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28198,
+        "text": "that if thou shalt confess with thy mouth Jesus as Lord, and shalt believe in thine heart that God has raised him from among [the] dead, thou shalt be saved.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28199,
+        "text": "For with [the] heart is believed to righteousness; and with [the] mouth confession made to salvation.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28200,
+        "text": "For the scripture says, No one believing on him shall be ashamed.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28201,
+        "text": "For there is no difference of Jew and Greek; for the same Lord of all [is] rich towards all that call upon him.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28202,
+        "text": "For every one whosoever, who shall call on the name of the Lord, shall be saved.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28203,
+        "text": "How then shall they call upon him in whom they have not believed? and how shall they believe on him of whom they have not heard? and how shall they hear without one who preaches?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28204,
+        "text": "and how shall they preach unless they have been sent? according as it is written, How beautiful the feet of them that announce glad tidings of peace, of them that announce glad tidings of good things!",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28205,
+        "text": "But they have not all obeyed the glad tidings. For Esaias says, Lord, who has believed our report?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28206,
+        "text": "So faith then [is] by a report, but the report by God’s word.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28207,
+        "text": "But I say, Have they not heard? Yea, surely, Their voice has gone out into all the earth, and their words to the extremities of the habitable world.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28208,
+        "text": "But I say, Has not Israel known? First, Moses says, I will provoke you to jealousy through [them that are] not a nation: through a nation without understanding I will anger you.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28209,
+        "text": "But Esaias is very bold, and says, I have been found by those not seeking me; I have become manifest to those not inquiring after me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28210,
+        "text": "But unto Israel he says, All the day long I have stretched out my hands unto a people disobeying and opposing.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 11,
+          "count": 1057,
+          "MaxVerses": 36,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28211,
+        "text": "I say then, Has God cast away his people? Far be the thought. For I also am an Israelite, of [the] seed of Abraham, of [the] tribe of Benjamin.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28212,
+        "text": "God has not cast away his people whom he foreknew. Know ye not what the scripture says in [the history of] Elias, how he pleads with God against Israel?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28213,
+        "text": "Lord, they have killed thy prophets, they have dug down thine altars; and I have been left alone, and they seek my life.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28214,
+        "text": "But what says the divine answer to him? I have left to myself seven thousand men, who have not bowed knee to Baal.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28215,
+        "text": "Thus, then, in the present time also there has been a remnant according to election of grace.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28216,
+        "text": "But if by grace, no longer of works: since [otherwise] grace is no more grace.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28217,
+        "text": "What [is it] then? What Israel seeks for, that he has not obtained; but the election has obtained, and the rest have been blinded,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28218,
+        "text": "according as it is written, God has given to them a spirit of slumber, eyes not to see, and ears not to hear, unto this day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28219,
+        "text": "And David says, Let their table be for a snare, and for a gin, and for a fall-trap, and for a recompense to them:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28220,
+        "text": "let their eyes be darkened not to see, and bow down their back alway.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28221,
+        "text": "I say then, Have they stumbled in order that they might fall? Far be the thought: but by their fall [there is] salvation to the nations to provoke them to jealousy.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28222,
+        "text": "But if their fall [be the] world’s wealth, and their loss [the] wealth of [the] nations, how much rather their fulness?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28223,
+        "text": "For I speak to you, the nations, inasmuch as I am apostle of nations, I glorify my ministry;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28224,
+        "text": "if by any means I shall provoke to jealousy [them which are] my flesh, and shall save some from among them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28225,
+        "text": "For if their casting away [be the] world’s reconciliation, what [their] reception but life from among [the] dead?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28226,
+        "text": "Now if the first-fruit [be] holy, the lump also; and if the root [be] holy, the branches also.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28227,
+        "text": "Now if some of the branches have been broken out, and thou, being a wild olive tree, hast been grafted in amongst them, and hast become a fellow-partaker of the root and of the fatness of the olive tree,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28228,
+        "text": "boast not against the branches; but if thou boast, [it is] not thou bearest the root, but the root thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28229,
+        "text": "Thou wilt say then, The branches have been broken out in order that I might be grafted in.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28230,
+        "text": "Right: they have been broken out through unbelief, and thou standest through faith. Be not high-minded, but fear:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28231,
+        "text": "if God indeed has not spared the natural branches; lest it might be he spare not thee either.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28232,
+        "text": "Behold then [the] goodness and severity of God: upon them who have fallen, severity; upon thee goodness of God, if thou shalt abide in goodness, since [otherwise] thou also wilt be cut away.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28233,
+        "text": "And they too, if they abide not in unbelief, shall be grafted in; for God is able again to graft them in.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28234,
+        "text": "For if thou hast been cut out of the olive tree wild by nature, and, contrary to nature, hast been grafted into the good olive tree, how much rather shall they, who are according to nature be grafted into their own olive tree?",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28235,
+        "text": "For I do not wish you to be ignorant, brethren, of this mystery, that ye may not be wise in your own conceits, that blindness in part is happened to Israel, until the fulness of the nations be come in;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28236,
+        "text": "and so all Israel shall be saved. According as it is written, The deliverer shall come out of Zion; he shall turn away ungodliness from Jacob.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28237,
+        "text": "And this is the covenant from me to them, when I shall have taken away their sins.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28238,
+        "text": "As regards the glad tidings, [they are] enemies on your account; but as regards election, beloved on account of the fathers.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28239,
+        "text": "For the gifts and the calling of God [are] not subject to repentance.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28240,
+        "text": "For as indeed ye [also] once have not believed in God, but now have been objects of mercy through the unbelief of these;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28241,
+        "text": "so these also have now not believed in your mercy, in order that they also may be objects of mercy.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 28242,
+        "text": "For God hath shut up together all in unbelief, in order that he might shew mercy to all.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28243,
+        "text": "O depth of riches both of [the] wisdom and knowledge of God! how unsearchable his judgments, and untraceable his ways!",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 28244,
+        "text": "For who has known [the] mind of [the] Lord, or who has been his counsellor?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 28245,
+        "text": "or who has first given to him, and it shall be rendered to him?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 28246,
+        "text": "For of him, and through him, and for him [are] all things: to him be glory for ever. Amen.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 12,
+          "count": 1058,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28247,
+        "text": "I beseech you therefore, brethren, by the compassions of God, to present your bodies a living sacrifice, holy, acceptable to God, [which is] your intelligent service.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28248,
+        "text": "And be not conformed to this world, but be transformed by the renewing of [your] mind, that ye may prove what [is] the good and acceptable and perfect will of God.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28249,
+        "text": "For I say, through the grace which has been given to me, to every one that is among you, not to have high thoughts above what he should think; but to think so as to be wise, as God has dealt to each a measure of faith.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28250,
+        "text": "For, as in one body we have many members, but all the members have not the same office;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28251,
+        "text": "thus we, [being] many, are one body in Christ, and each one members one of the other.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28252,
+        "text": "But having different gifts, according to the grace which has been given to us, whether [it be] prophecy, [let us prophesy] according to the proportion of faith;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28253,
+        "text": "or service, [let us occupy ourselves] in service; or he that teaches, in teaching;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28254,
+        "text": "or he that exhorts, in exhortation; he that gives, in simplicity; he that leads, with diligence; he that shews mercy, with cheerfulness.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28255,
+        "text": "Let love be unfeigned; abhorring evil; cleaving to good:",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28256,
+        "text": "as to brotherly love, kindly affectioned towards one another: as to honour, each taking the lead in paying it to the other:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28257,
+        "text": "as to diligent zealousness, not slothful; in spirit fervent; serving the Lord.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28258,
+        "text": "As regards hope, rejoicing: as regards tribulation, enduring: as regards prayer, persevering:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28259,
+        "text": "distributing to the necessities of the saints; given to hospitality.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28260,
+        "text": "Bless them that persecute you; bless, and curse not.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28261,
+        "text": "Rejoice with those that rejoice, weep with those that weep.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28262,
+        "text": "Have the same respect one for another, not minding high things, but going along with the lowly: be not wise in your own eyes:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28263,
+        "text": "recompensing to no one evil for evil: providing things honest before all men:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28264,
+        "text": "if possible, as far as depends on you, living in peace with all men;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28265,
+        "text": "not avenging yourselves, beloved, but give place to wrath; for it is written, Vengeance [belongs] to me, I will recompense, saith the Lord.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28266,
+        "text": "If therefore thine enemy should hunger, feed him; if he should thirst, give him drink; for, so doing, thou shalt heap coals of fire upon his head.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28267,
+        "text": "Be not overcome by evil, but overcome evil with good.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 13,
+          "count": 1059,
+          "MaxVerses": 14,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28268,
+        "text": "Let every soul be subject to the authorities that are above [him]. For there is no authority except from God; and those that exist are set up by God.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28269,
+        "text": "So that he that sets himself in opposition to the authority resists the ordinance of God; and they who [thus] resist shall bring sentence of guilt on themselves.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28270,
+        "text": "For rulers are not a terror to a good work, but to an evil [one]. Dost thou desire then not to be afraid of the authority? practise [what is] good, and thou shalt have praise from it;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28271,
+        "text": "for it is God’s minister to thee for good. But if thou practisest evil, fear; for it bears not the sword in vain; for it is God’s minister, an avenger for wrath to him that does evil.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28272,
+        "text": "Wherefore it is necessary to be subject, not only on account of wrath, but also on account of conscience.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28273,
+        "text": "For on this account ye pay tribute also; for they are God’s officers, attending continually on this very thing.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28274,
+        "text": "Render to all their dues: to whom tribute [is due], tribute; to whom custom, custom; to whom fear, fear; to whom honour, honour.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28275,
+        "text": "Owe no one anything, unless to love one another: for he that loves another has fulfilled the law.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28276,
+        "text": "For, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not lust; and if there be any other commandment, it is summed up in this word, namely, Thou shalt love thy neighbour as thyself.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28277,
+        "text": "Love works no ill to its neighbour; love therefore [is the] whole law.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28278,
+        "text": "This also, knowing the time, that it is already time that we should be aroused out of sleep; for now [is] our salvation nearer than when we believed.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 28279,
+        "text": "The night is far spent, and the day is near; let us cast away therefore the works of darkness, and let us put on the armour of light.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28280,
+        "text": "As in the day, let us walk becomingly; not in rioting and drunkenness, not in chambering and lasciviousness, not in strife and emulation.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28281,
+        "text": "But put on the Lord Jesus Christ, and do not take forethought for the flesh to [fulfil its] lusts.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 14,
+          "count": 1060,
+          "MaxVerses": 23,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28282,
+        "text": "Now him that is weak in the faith receive, not to [the] determining of questions of reasoning.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28283,
+        "text": "One man is assured that he may eat all things; but the weak eats herbs.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28284,
+        "text": "Let not him that eats make little of him that eats not; and let not him that eats not judge him that eats: for God has received him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28285,
+        "text": "Who art thou that judgest the servant of another? to his own master he stands or falls. And he shall be made to stand; for the Lord is able to make him stand.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28286,
+        "text": "One man esteems day more than day; another esteems every day [alike]. Let each be fully persuaded in his own mind.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28287,
+        "text": "He that regards the day, regards it to [the] Lord. And he that eats, eats to [the] Lord, for he gives God thanks; and he that does not eat, [it is] to [the] Lord he does not eat, and gives God thanks.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28288,
+        "text": "For none of us lives to himself, and none dies to himself.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28289,
+        "text": "For both if we should live, [it is] to the Lord we live; and if we should die, [it is] to the Lord we die: both if we should live then, and if we should die, we are the Lord’s.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28290,
+        "text": "For to this [end] Christ has died and lived [again], that he might rule over both dead and living.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28291,
+        "text": "But thou, why judgest thou thy brother? or again, thou, why dost thou make little of thy brother? for we shall all be placed before the judgment-seat of God.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28292,
+        "text": "For it is written, I live, saith [the] Lord, that to me shall bow every knee, and every tongue shall confess to God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28293,
+        "text": "So then each of us shall give an account concerning himself to God.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28294,
+        "text": "Let us no longer therefore judge one another; but judge ye this rather, not to put a stumbling-block or a fall-trap before his brother.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28295,
+        "text": "I know, and am persuaded in the Lord Jesus, that nothing is unclean of itself; except to him who reckons anything to be unclean, to that man [it is] unclean.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28296,
+        "text": "For if on account of meat thy brother is grieved, thou walkest no longer according to love. Destroy not him with thy meat for whom Christ has died.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28297,
+        "text": "Let not then your good be evil spoken of;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28298,
+        "text": "for the kingdom of God is not eating and drinking, but righteousness, and peace, and joy in [the] Holy Spirit.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28299,
+        "text": "For he that in this serves the Christ [is] acceptable to God and approved of men.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28300,
+        "text": "So then let us pursue the things which tend to peace, and things whereby one shall build up another.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28301,
+        "text": "For the sake of meat do not destroy the work of God. All things indeed [are] pure; but [it is] evil to that man who eats while stumbling [in doing so].",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28302,
+        "text": "[It is] right not to eat meat, nor drink wine, nor [do anything] in which thy brother stumbles, or is offended, or is weak.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28303,
+        "text": "Hast thou faith? have [it] to thyself before God. Blessed [is] he who does not judge himself in what he allows.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28304,
+        "text": "But he that doubts, if he eat, is condemned; because [it is] not of faith; but whatever [is] not of faith is sin.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 15,
+          "count": 1061,
+          "MaxVerses": 33,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28305,
+        "text": "But we ought, we that are strong, to bear the infirmities of the weak, and not to please ourselves.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28306,
+        "text": "Let each one of us please his neighbour with a view to what is good, to edification.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28307,
+        "text": "For the Christ also did not please himself; but according as it is written, The reproaches of them that reproach thee have fallen upon me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28308,
+        "text": "For as many things as have been written before have been written for our instruction, that through endurance and through encouragement of the scriptures we might have hope.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28309,
+        "text": "Now the God of endurance and of encouragement give to you to be like-minded one toward another, according to Christ Jesus;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 28310,
+        "text": "that ye may with one accord, with one mouth, glorify the God and Father of our Lord Jesus Christ.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28311,
+        "text": "Wherefore receive ye one another, according as the Christ also has received you to [the] glory of God.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28312,
+        "text": "For I say that Jesus Christ became a minister of [the] circumcision for [the] truth of God, to confirm the promises of the fathers;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28313,
+        "text": "and that the nations should glorify God for mercy; according as it is written, For this cause I will confess to thee among [the] nations, and will sing to thy name.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28314,
+        "text": "And again he says, Rejoice, nations, with his people.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28315,
+        "text": "And again, Praise the Lord, all [ye] nations, and let all the peoples laud him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28316,
+        "text": "And again, Esaias says, There shall be the root of Jesse, and one that arises, to rule over [the] nations: in him shall [the] nations hope.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28317,
+        "text": "Now the God of hope fill you with all joy and peace in believing, so that ye should abound in hope by [the] power of [the] Holy Spirit.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 28318,
+        "text": "But I am persuaded, my brethren, I myself also, concerning you, that yourselves also are full of goodness, filled with all knowledge, able also to admonish one another.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 28319,
+        "text": "But I have written to you the more boldly, [brethren,] in part, as putting you in mind, because of the grace given to me by God,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28320,
+        "text": "for me to be minister of Christ Jesus to the nations, carrying on as a sacrificial service the [message of] glad tidings of God, in order that the offering up of the nations might be acceptable, sanctified by [the] Holy Spirit.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28321,
+        "text": "I have therefore [whereof to] boast in Christ Jesus in the things which pertain to God.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 28322,
+        "text": "For I will not dare to speak anything of the things which Christ has not wrought by me, for [the] obedience of [the] nations, by word and deed,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28323,
+        "text": "in [the] power of signs and wonders, in [the] power of [the] Spirit of God; so that I, from Jerusalem, and in a circuit round to Illyricum, have fully preached the glad tidings of the Christ;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28324,
+        "text": "and so aiming to announce the glad tidings, not where Christ has been named, that I might not build upon another’s foundation;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28325,
+        "text": "but according as it is written, To whom there was nothing told concerning him, they shall see; and they that have not heard shall understand.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28326,
+        "text": "Wherefore also I have been often hindered from coming to you.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 28327,
+        "text": "But now, having no longer place in these regions, and having great desire to come to you these many years,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28328,
+        "text": "whenever I should go to Spain; (for I hope to see you as I go through, and by you to be set forward thither, if first I shall have been in part filled with your company;)",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28329,
+        "text": "but now I go to Jerusalem, ministering to the saints;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28330,
+        "text": "for Macedonia and Achaia have been well pleased to make a certain contribution for the poor of the saints who [are] in Jerusalem.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28331,
+        "text": "They have been well pleased indeed, and they are their debtors; for if the nations have participated in their spiritual things, they ought also in fleshly to minister to them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28332,
+        "text": "Having finished this therefore, and having sealed to them this fruit, I will set off by you into Spain.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28333,
+        "text": "But I know that, coming to you, I shall come in [the] fulness of [the] blessing of Christ.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28334,
+        "text": "But I beseech you, brethren, by our Lord Jesus Christ, and by the love of the Spirit, that ye strive together with me in prayers for me to God;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 28335,
+        "text": "that I may be saved from those that do not believe in Judaea; and that my ministry which [I have] for Jerusalem may be acceptable to the saints;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 28336,
+        "text": "in order that I may come to you in joy by God’s will, and that I may be refreshed with you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28337,
+        "text": "And the God of peace be with you all. Amen.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 16,
+          "count": 1062,
+          "MaxVerses": 27,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28338,
+        "text": "But I commend to you Phoebe, our sister, who is minister of the assembly which is in Cenchrea;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28339,
+        "text": "that ye may receive her in [the] Lord worthily of saints, and that ye may assist her in whatever matter she has need of you; for she also has been a helper of many, and of myself.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28340,
+        "text": "Salute Prisca and Aquila, my fellow-workmen in Christ Jesus,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28341,
+        "text": "(who for my life staked their own neck; to whom not I only am thankful, but also all the assemblies of the nations,)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28342,
+        "text": "and the assembly at their house. Salute Epaenetus, my beloved, who is [the] first-fruits of Asia for Christ.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28343,
+        "text": "Salute Maria, who laboured much for you.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28344,
+        "text": "Salute Andronicus and Junias, my kinsmen and fellow-captives, who are of note among the apostles; who were also in Christ before me.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28345,
+        "text": "Salute Amplias, my beloved in the Lord.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28346,
+        "text": "Salute Urbanus, our fellow-workman in Christ, and Stachys, my beloved.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28347,
+        "text": "Salute Apelles, approved in Christ. Salute those who belong to Aristobulus.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28348,
+        "text": "Salute Herodion, my kinsman. Salute those who belong to Narcissus, who are in [the] Lord.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28349,
+        "text": "Salute Tryphaena and Tryphosa, who labour in [the] Lord. Salute Persis, the beloved, who has laboured much in [the] Lord.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28350,
+        "text": "Salute Rufus, chosen in [the] Lord; and his mother and mine.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28351,
+        "text": "Salute Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brethren with them.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28352,
+        "text": "Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints with them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28353,
+        "text": "Salute one another with a holy kiss. All the assemblies of Christ salute you.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28354,
+        "text": "But I beseech you, brethren, to consider those who create divisions and occasions of falling, contrary to the doctrine which ye have learnt, and turn away from them.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 28355,
+        "text": "For such serve not our Lord Christ, but their own belly, and by good words and fair speeches deceive the hearts of the unsuspecting.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28356,
+        "text": "For your obedience has reached to all. I rejoice therefore as it regards you; but I wish you to be wise [as] to that which is good, and simple [as] to evil.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28357,
+        "text": "But the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ [be] with you.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28358,
+        "text": "Timotheus, my fellow-workman, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 28359,
+        "text": "I Tertius, who have written this epistle, salute you in [the] Lord.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28360,
+        "text": "Gaius, my host and of the whole assembly, salutes you. Erastus, the steward of the city, salutes you, and the brother Quartus.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28361,
+        "text": "The grace of our Lord Jesus Christ [be] with you all. Amen.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28362,
+        "text": "Now to him that is able to establish you, according to my glad tidings and the preaching of Jesus Christ, according to [the] revelation of [the] mystery, as to which silence has been kept in [the] times of the ages,",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 28363,
+        "text": "but [which] has now been made manifest, and by prophetic scriptures, according to commandment of the eternal God, made known for obedience of faith to all the nations—",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28364,
+        "text": "[the] only wise God, through Jesus Christ, to whom be glory for ever. Amen.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

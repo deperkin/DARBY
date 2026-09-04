@@ -1,0 +1,111 @@
+{
+  "version": "DARBY",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 63,
+    "name": "2 John",
+    "AbbreviationCount": 17,
+    "AbbreviationList": ["2 John","2 Jhn.","2 Jn.","2 J.","2John","2Jhn.","2Joh.","2Jn.","2Jo.","2J.","II John","II Jhn.","II Joh.","II Jn.","II Jo.","2nd John","Second John"],
+    "MaxChapters": 1,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1165,
+          "MaxVerses": 13,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30647,
+        "text": "The elder to [the] elect lady and her children, whom I love in truth, and not I only but also all who have known the truth,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30648,
+        "text": "for the truth’s sake which abides in us and shall be with us to eternity.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30649,
+        "text": "Grace shall be with you, mercy, peace from God [the] Father, and from [the] Lord Jesus Christ, the Son of the Father, in truth and love.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30650,
+        "text": "I rejoiced greatly that I have found of thy children walking in truth, as we have received commandment from the Father.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30651,
+        "text": "And now I beseech thee, lady, not as writing to thee a new commandment, but that which we have had from [the] beginning, that we should love one another.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 30652,
+        "text": "And this is love, that we should walk according to his commandments. This is the commandment, according as ye have heard from the beginning, that ye might walk in it.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30653,
+        "text": "For many deceivers have gone out into the world, they who do not confess Jesus Christ coming in flesh—this is the deceiver and the antichrist.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 30654,
+        "text": "See to yourselves, that we may not lose what we have wrought, but may receive full wages.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30655,
+        "text": "Whosoever goes forward and abides not in the doctrine of the Christ has not God. He that abides in the doctrine, he has both the Father and the Son.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30656,
+        "text": "If any one come to you and bring not this doctrine, do not receive him into [the] house, and greet him not;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 30657,
+        "text": "for he who greets him partakes in his wicked works.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30658,
+        "text": "Having many things to write to you, I would not with paper and ink; but hope to come to you, and to speak mouth to mouth, that our joy may be full.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30659,
+        "text": "The children of thine elect sister greet thee.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}
