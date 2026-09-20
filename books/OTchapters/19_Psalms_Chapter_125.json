@@ -1,0 +1,32 @@
+{
+  "chapter": {
+    "Cnumber": 125,
+    "verses": [
+      {
+        "n": 1,
+        "t": "{A Song of degrees.} They that confide in Jehovah are as mount Zion, which cannot be moved; it abideth for ever.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "Jerusalem!—mountains are round about her, and Jehovah is round about his people, from henceforth and for evermore.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "For the sceptre of wickedness shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Do good, O Jehovah, unto the good, and to them that are upright in their hearts.",
+        "p": true
+      },
+      {
+        "n": 5,
+        "t": "But as for such as turn aside unto their crooked ways, Jehovah will lead them forth with the workers of iniquity. Peace be upon Israel!",
+        "p": false
+      }
+    ]
+  }
+}

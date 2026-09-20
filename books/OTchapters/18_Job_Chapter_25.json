@@ -1,0 +1,37 @@
+{
+  "chapter": {
+    "Cnumber": 25,
+    "verses": [
+      {
+        "n": 1,
+        "t": "And Bildad the Shuhite answered and said,",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "Dominion and fear are with him; he maketh peace in his high places.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "Is there any number of his troops? and upon whom doth not his light arise?",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "And how should man be just with God? Or how should he be clean that is born of a woman?",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "Lo, even the moon is not bright; and the stars are not pure in his sight:",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "How much less man, a worm, and the son of man, a worm!",
+        "p": false
+      }
+    ]
+  }
+}

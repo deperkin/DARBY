@@ -1,0 +1,32 @@
+{
+  "chapter": {
+    "Cnumber": 100,
+    "verses": [
+      {
+        "n": 1,
+        "t": "{A Psalm of thanksgiving.} Shout aloud unto Jehovah, all the earth!",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "Serve Jehovah with joy: come before his presence with exultation.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "Know that Jehovah is God: it is he that hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Enter into his gates with thanksgiving [and] into his courts with praise; give thanks unto him, bless his name:",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "For Jehovah is good; his loving-kindness [endureth] for ever; and his faithfulness from generation to generation.",
+        "p": false
+      }
+    ]
+  }
+}

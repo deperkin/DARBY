@@ -1,0 +1,32 @@
+{
+  "chapter": {
+    "Cnumber": 93,
+    "verses": [
+      {
+        "n": 1,
+        "t": "Jehovah reigneth, he hath clothed himself with majesty: Jehovah hath clothed himself, he hath girded himself with strength; yea, the world is established, it shall not be moved.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "Thy throne is established of old; thou art from eternity.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "The floods lifted up, O Jehovah, the floods lifted up their voice; the floods lifted up their roaring waves.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Jehovah on high is mightier than the voices of many waters, than the mighty breakers of the sea.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "Thy testimonies are very sure: holiness becometh thy house, O Jehovah, for ever.",
+        "p": false
+      }
+    ]
+  }
+}

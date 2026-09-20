@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "Cnumber": 61,
+    "verses": [
+      {
+        "n": 1,
+        "t": "{To the chief Musician. On a stringed instrument. [A Psalm] of David.} Hear, O God, my cry; attend unto my prayer.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "From the end of the earth will I call unto thee, when my heart is overwhelmed: thou wilt lead me on to a rock which is too high for me.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "For thou hast been a refuge for me, a strong tower from before the enemy.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "I will sojourn in thy tent for ever; I will take refuge in the covert of thy wings. Selah.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "For thou, O God, hast heard my vows; thou hast given [me] the inheritance of those that fear thy name.",
+        "p": true
+      },
+      {
+        "n": 6,
+        "t": "Thou wilt add days to the days of the king: his years shall be as many generations.",
+        "p": false
+      },
+      {
+        "n": 7,
+        "t": "He shall abide before God for ever: bestow loving-kindness and truth, that they may preserve him.",
+        "p": false
+      },
+      {
+        "n": 8,
+        "t": "So will I sing forth thy name for ever, performing my vows from day to day.",
+        "p": false
+      }
+    ]
+  }
+}

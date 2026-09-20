@@ -1,0 +1,52 @@
+{
+  "chapter": {
+    "Cnumber": 122,
+    "verses": [
+      {
+        "n": 1,
+        "t": "{A Song of degrees. Of David.} I rejoiced when they said unto me, Let us go into the house of Jehovah.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "Our feet shall stand within thy gates, O Jerusalem.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "Jerusalem, which art built as a city that is compact together,",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Whither the tribes go up, the tribes of Jah, a testimony to Israel, to give thanks unto the name of Jehovah.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "For there are set thrones for judgment, the thrones of the house of David.",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+        "p": true
+      },
+      {
+        "n": 7,
+        "t": "Peace be within thy bulwarks, prosperity within thy palaces.",
+        "p": false
+      },
+      {
+        "n": 8,
+        "t": "For my brethren and companions’ sakes I will say, Peace be within thee!",
+        "p": false
+      },
+      {
+        "n": 9,
+        "t": "Because of the house of Jehovah our God I will seek thy good.",
+        "p": false
+      }
+    ]
+  }
+}

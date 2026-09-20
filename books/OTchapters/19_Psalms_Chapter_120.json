@@ -1,0 +1,42 @@
+{
+  "chapter": {
+    "Cnumber": 120,
+    "verses": [
+      {
+        "n": 1,
+        "t": "{A Song of degrees.} In my trouble I called unto Jehovah, and he answered me.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "Jehovah, deliver my soul from the lying lip, from the deceitful tongue.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "What shall be given unto thee, what shall be added unto thee, thou deceitful tongue?",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Sharp arrows of a mighty one, with burning coals of broom-wood.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "Woe is me, that I sojourn in Meshech, that I dwell among the tents of Kedar!",
+        "p": true
+      },
+      {
+        "n": 6,
+        "t": "My soul hath long dwelt with them that hate peace.",
+        "p": false
+      },
+      {
+        "n": 7,
+        "t": "I [am for] peace; but when I speak, they [are] for war.",
+        "p": false
+      }
+    ]
+  }
+}

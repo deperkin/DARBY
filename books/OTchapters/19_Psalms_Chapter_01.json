@@ -1,0 +1,37 @@
+{
+  "chapter": {
+    "Cnumber": 1,
+    "verses": [
+      {
+        "n": 1,
+        "t": "Blessed is the man that walketh not in the counsel of the wicked, and standeth not in the way of sinners, and sitteth not in the seat of scorners;",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "But his delight is in Jehovah’s law, and in his law doth he meditate day and night.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "And he [is] as a tree planted by brooks of water, which giveth its fruit in its season, and whose leaf fadeth not; and all that he doeth prospereth.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "The wicked are not so; but are as the chaff which the wind driveth away.",
+        "p": true
+      },
+      {
+        "n": 5,
+        "t": "Therefore the wicked shall not stand in the judgment, nor sinners in the assembly of the righteous.",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "For Jehovah knoweth the way of the righteous, but the way of the wicked shall perish.",
+        "p": false
+      }
+    ]
+  }
+}
